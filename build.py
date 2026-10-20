@@ -36,11 +36,41 @@ from pathlib import Path
 SITE_NAME = "The Dental Recall"
 TAGLINE = "Dental news, summarized for the people in the chair."
 MODEL = "claude-haiku-5-5"              # fast, inexpensive Claude model
-MAX_NEW_PER_RUN = 25                    # cap on new summaries per run (controls cost)
+MAX_NEW_PER_RUN = 40                    # cap on new summaries per run (controls cost)
+
+# PubMed (research). NCBI asks every program that uses PubMed to identify
+# itself with a contact email. Put your email between the quotes.
+CONTACT_EMAIL = ""
+PUBMED_DAYS = 2                         # look back this many days per search
+PUBMED_PER_SEARCH = 10                  # max papers per search per run
+
+# Items whose title contains any of these words are skipped without being
+# summarized (member newsletters, letters, ads). Not case-sensitive.
+SKIP_TITLE_WORDS = ["e-newsletter", "president's letter", "president’s letter",
+                    "advocacy insider", "advocacy flash", "coalition letter", "sponsored"]
 MAX_ARTICLE_AGE_DAYS = 3                # ignore feed items older than this
 KEEP_DAYS = 30                          # stories older than this drop off the site
 MAX_STORIES = 300                       # hard cap on stories kept
-CATEGORIES = ["research", "clinical", "business", "tech", "products", "policy", "events", "people"]
+CATEGORIES = ["research", "clinical", "business", "tech", "products", "policy", "education", "events", "people"]
+
+# Short display names for sources. If a feed's title contains the text on the
+# left, the site shows the name on the right. Add a line when you add a feed.
+SOURCE_NAMES = {
+    "Becker": "Becker's Dental",
+    "Dental Tribune": "Dental Tribune",
+    "Dentistry IQ": "DentistryIQ",
+    "DentistryIQ": "DentistryIQ",
+    "Dentistry Today": "Dentistry Today",
+    "British Dental Journal": "BDJ",
+    "Dental Products Report": "Dental Products Report",
+    "Dental Economics": "Dental Economics",
+    "Registered Dental Hygienists": "RDH",
+    "Perio Implant Advisory": "Perio-Implant Advisory",
+    "Orthodontic Products": "Orthodontic Products",
+    "Decisions in Dentistry": "Decisions in Dentistry",
+    "NIDCR": "NIDCR (NIH)",
+    "AAOMS": "AAOMS",
+}
 # ---------------------------------------------------------------------------
 
 ROOT = Path(__file__).resolve().parent
@@ -50,8 +80,10 @@ TEMPLATE_FILE = ROOT / "template.html"
 SITE_DIR = ROOT / "site"
 TEST_FEED = ROOT / "tests" / "sample_feed.xml"
 
-USER_AGENT = "Mozilla/5.0 (compatible; DentalNewsDigest/1.0; +https://github.com)"
+BOT_NAME = "DentalRecallBot"
+USER_AGENT = f"Mozilla/5.0 (compatible; {BOT_NAME}/1.0; +https://dentalrecall.github.io)"
 API_URL = "https://api.anthropic.com/v1/messages"
+EUTILS = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
 
 
 def log(msg):
@@ -71,7 +103,32 @@ def read_feed_list():
     return urls
 
 
-def fetch(url):
+_robots_cache = {}
+
+
+def robots_allowed(url):
+    """Respect each site's robots.txt: if a site asks bots not to read a
+    feed, we skip it."""
+    from urllib.parse import urlsplit
+    from urllib.robotparser import RobotFileParser
+    parts = urlsplit(url)
+    base = f"{parts.scheme}://{parts.netloc}"
+    if base not in _robots_cache:
+        rp = RobotFileParser()
+        try:
+            rp.parse(fetch(base + "/robots.txt", check=False).decode("utf-8", "replace").splitlines())
+        except urllib.error.HTTPError as e:
+            # No robots.txt (404) means everything is allowed; 401/403 means stay out.
+            rp.parse(["User-agent: *", "Disallow: /"] if e.code in (401, 403) else [])
+        except Exception:
+            rp.parse([])
+        _robots_cache[base] = rp
+    return _robots_cache[base].can_fetch(BOT_NAME, url)
+
+
+def fetch(url, check=True):
+    if check and not robots_allowed(url):
+        raise PermissionError("site's robots.txt asks bots not to read this address")
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=25) as r:
         return r.read()
@@ -154,10 +211,54 @@ def parse_feed(xml_bytes):
     return source, [i for i in items if i["title"] and i["link"].startswith("http")]
 
 
+def pubmed_search(term):
+    """Recent papers with abstracts for a PubMed search, via NCBI's official API."""
+    from urllib.parse import urlencode
+    common = {"db": "pubmed", "tool": "dentalrecall"}
+    email = CONTACT_EMAIL.strip() or os.environ.get("CONTACT_EMAIL", "").strip()
+    if email:
+        common["email"] = email
+    q = f"({term}) AND hasabstract NOT (letter[pt] OR comment[pt] OR editorial[pt] OR erratum[pt])"
+    url = EUTILS + "esearch.fcgi?" + urlencode(dict(common, term=q, reldate=PUBMED_DAYS,
+        datetype="edat", retmax=PUBMED_PER_SEARCH, retmode="json", sort="pub_date"))
+    ids = json.loads(fetch(url, check=False))["esearchresult"]["idlist"]
+    time.sleep(0.4)  # NCBI allows at most 3 requests per second
+    if not ids:
+        return []
+    url = EUTILS + "efetch.fcgi?" + urlencode(dict(common, id=",".join(ids), retmode="xml"))
+    root = ET.fromstring(fetch(url, check=False))
+    time.sleep(0.4)
+    items = []
+    for art in root.iter("PubmedArticle"):
+        pmid = art.findtext(".//PMID")
+        title = "".join(art.find(".//ArticleTitle").itertext()) if art.find(".//ArticleTitle") is not None else ""
+        abstract = " ".join("".join(a.itertext()) for a in art.iter("AbstractText"))
+        journal = art.findtext(".//Journal/ISOAbbreviation") or art.findtext(".//Journal/Title") or "PubMed"
+        if pmid and title and abstract:
+            items.append({
+                "title": clean_text(title, 300),
+                "link": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
+                "text": clean_text(abstract, 2500),
+                "published": None,
+                "source": journal,
+                "research": True,
+            })
+    return items
+
+
 def collect_items(test_mode):
     sources = [str(TEST_FEED)] if test_mode else read_feed_list()
     all_items = []
     for src in sources:
+        if src.lower().startswith("pubmed:"):
+            term = src.split(":", 1)[1].strip()
+            try:
+                items = pubmed_search(term)
+                all_items.extend(items)
+                log(f"OK    PubMed {term[:60]}: {len(items)} papers")
+            except Exception as e:
+                log(f"SKIP  PubMed {term[:60]} ({type(e).__name__}: {e})")
+            continue
         try:
             raw = Path(src).read_bytes() if test_mode else fetch(src)
             name, items = parse_feed(raw)
@@ -192,7 +293,17 @@ STORY_TOOL = {
         "type": "object",
         "properties": {
             "relevant": {"type": "boolean", "description": "True if this is real news useful to dental professionals. False for ads, sponsored content, job listings, webinars for sale, or non-dental topics."},
-            "category": {"type": "string", "enum": CATEGORIES},
+            "category": {"type": "string", "enum": CATEGORIES, "description": (
+                "Pick the ONE best fit. "
+                "research = a study, trial or review and its findings. "
+                "clinical = techniques, treatment guidance, infection control, patient care. "
+                "business = practice ownership, DSOs, deals, finances, earnings, staffing, insurance. "
+                "tech = software, AI, imaging, digital workflow. "
+                "products = a specific new product launch or update. "
+                "policy = laws, regulation, licensing, government or association policy. "
+                "education = dental schools, training programs, residencies, CE, students. "
+                "events = ONLY a conference, meeting or event itself (dates, sessions). "
+                "people = appointments, awards, retirements, obituaries.")},
             "headline": {"type": "string", "description": "A clear headline in your own words, at most 90 characters, no clickbait."},
             "summary": {"type": "string", "description": "2 to 3 plain sentences on what happened or what was found. If the excerpt is thin, one sentence describing what the article covers."},
             "why": {"type": "string", "description": "One sentence on what it means for a practicing dentist (patient care, the business of a practice, or the profession). No medical advice beyond what the text supports."},
@@ -261,7 +372,16 @@ def save_stories(stories):
     DATA_FILE.write_text(json.dumps(stories, indent=1, ensure_ascii=False), encoding="utf-8")
 
 
+def short_source(name):
+    for key, short in SOURCE_NAMES.items():
+        if key.lower() in name.lower():
+            return short
+    # Fallback: drop extra text after a dash or bar, e.g. "Name – Tagline"
+    return re.split(r"\s+[–—|-]\s+", name)[0].strip() or name
+
+
 def render(stories):
+    stories = [dict(s, source=short_source(s.get("source", ""))) for s in stories]
     template = TEMPLATE_FILE.read_text(encoding="utf-8")
     payload = json.dumps(stories, ensure_ascii=False).replace("</", "<\\/")
     page = (template
@@ -293,6 +413,8 @@ def main():
         sid = story_id(i["link"])
         if sid in seen or sid in ids:
             continue
+        if any(w in i["title"].lower() for w in SKIP_TITLE_WORDS):
+            continue
         if not test_mode and i["published"] and i["published"] < cutoff:
             continue
         ids.add(sid)
@@ -318,6 +440,8 @@ def main():
             log(f"SKIP  not relevant: {i['title'][:60]}")
             continue
         cat = result.get("category") if result.get("category") in CATEGORIES else "clinical"
+        if i.get("research"):
+            cat = "research"
         stories.append({
             "id": sid,
             "url": i["link"],

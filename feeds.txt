@@ -1,15 +1,38 @@
-# One RSS feed address per line. Lines starting with # are ignored.
-# A feed that stops working is skipped automatically and listed in the run log.
-# To add your Feedly sources: in Feedly, open a source, click its name, and copy the feed URL.
+# One source per line. Lines starting with # are ignored.
+# A source that stops working, or whose site asks bots not to read it
+# (robots.txt), is skipped automatically and listed in the run log.
 
-# News
+# ---- Dental news and trade publications (RSS feeds) ----
 https://www.dental-tribune.com/news/feed/
 https://www.dentistryiq.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D
 https://dentistrytoday.com/feed/
 https://www.beckersdental.com/feed/
+https://www.dentalproductsreport.com/rss
+https://www.dentaleconomics.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D
+https://www.rdhmag.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D
+https://www.perioimplantadvisory.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D
+https://orthodonticproductsonline.com/feed/
+https://decisionsindentistry.com/feed/
 
-# Journals
-http://feeds.nature.com/bdj/rss/current
+# ---- Professional organizations ----
+# American Association of Oral and Maxillofacial Surgeons (press releases)
+https://aaoms.org/feed/
 
-# PubMed search feed (optional): on pubmed.ncbi.nlm.nih.gov run a search such as
-# "oral surgery"[MeSH] , click "Create RSS", and paste the link it gives you here.
+# ---- Government (NIH National Institute of Dental and Craniofacial Research) ----
+https://public.govdelivery.com/accounts/USNIHNIDCR/feed.rss
+
+# ---- Research: PubMed searches ----
+# Write "pubmed:" followed by any PubMed search. Only papers with abstracts
+# are included; letters, comments and editorials are left out.
+# [ta] means journal name. Edit, add or remove lines freely.
+pubmed: "J Am Dent Assoc"[ta] OR "J Dent Res"[ta] OR "Br Dent J"[ta]
+pubmed: "J Oral Maxillofac Surg"[ta] OR "Int J Oral Maxillofac Surg"[ta] OR "Br J Oral Maxillofac Surg"[ta]
+pubmed: "Clin Oral Implants Res"[ta] OR "Int J Oral Maxillofac Implants"[ta] OR "Clin Implant Dent Relat Res"[ta]
+pubmed: "J Clin Periodontol"[ta] OR "J Periodontol"[ta]
+pubmed: "J Endod"[ta] OR "Int Endod J"[ta]
+pubmed: "Am J Orthod Dentofacial Orthop"[ta] OR "Angle Orthod"[ta]
+pubmed: "J Prosthet Dent"[ta] OR "J Prosthodont"[ta] OR "J Dent"[ta] OR "Dent Mater"[ta]
+pubmed: "Pediatr Dent"[ta] OR "Int J Paediatr Dent"[ta]
+pubmed: "Oral Surg Oral Med Oral Pathol Oral Radiol"[ta] OR "J Oral Implantol"[ta]
+pubmed: "Gen Dent"[ta] OR "J Dent Educ"[ta] OR "J Dent Hyg"[ta]
+pubmed: "Anesth Prog"[ta] OR "dental anesthesia"[tiab] OR "dental sedation"[tiab]

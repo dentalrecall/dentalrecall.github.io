@@ -9,12 +9,12 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
 <style>
-/* Layout: masthead + filter rail, then a news stream of summary cards (one column on phones, two on wide screens) */
+/* Layout: masthead + filter rail, then a single reading column of summary cards */
 :root{
   --bg:#f3f5f8; --surface:#ffffff; --ink:#18222e; --muted:#5b6878; --line:#dde3ea;
   --accent:#7b3a63; --accent-soft:#f3e7ef;
   --research:#2f6b8a; --clinical:#2e7a5a; --business:#8a5a1f; --tech:#4d5fb0;
-  --products:#a04f7a; --policy:#6f6a1f; --events:#9a3d3d; --people:#6b5a8a;
+  --products:#a04f7a; --policy:#6f6a1f; --education:#2a7378; --events:#9a3d3d; --people:#6b5a8a;
   --display:"Bricolage Grotesque","Avenir Next",system-ui,sans-serif;
   --body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
   --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
@@ -24,11 +24,11 @@
   --bg:#11161d; --surface:#18202a; --ink:#e7ecf2; --muted:#9aa7b6; --line:#2a3542;
   --accent:#e09ac6; --accent-soft:#33202c;
   --research:#7fbfe0; --clinical:#7fd1aa; --business:#e0b276; --tech:#a4b2f2;
-  --products:#eaa3cb; --policy:#d6cf7a; --events:#ec9a9a; --people:#bfaee0;
+  --products:#eaa3cb; --policy:#d6cf7a; --education:#7fd0d4; --events:#ec9a9a; --people:#bfaee0;
   color-scheme:dark}}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.55}
-.wrap{max-width:1080px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 56px}
+.wrap{max-width:780px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 56px}
 header.mast{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px 24px;border-bottom:2px solid var(--ink);padding-bottom:14px}
 .brand h1{font-family:var(--display);font-weight:800;font-size:clamp(2rem,6vw,3.1rem);line-height:1;letter-spacing:-.02em;margin:0;text-wrap:balance}
 .brand p{margin:6px 0 0;color:var(--muted);max-width:52ch}
@@ -40,7 +40,7 @@ header.mast{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:spa
 .chip:focus-visible,#q:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 #q{flex:1 1 200px;min-width:0;font:inherit;padding:7px 12px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)}
 .count{font-family:var(--mono);font-size:.75rem;color:var(--muted)}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,460px),1fr));gap:14px}
+.grid{display:grid;grid-template-columns:minmax(0,1fr);gap:14px}
 article{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px 18px;display:flex;flex-direction:column;gap:8px;min-width:0}
 .meta{display:flex;flex-wrap:wrap;align-items:center;gap:6px 12px;font-family:var(--mono);font-size:.72rem;letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
 .cat{font-weight:500;color:var(--c)}
@@ -52,6 +52,7 @@ article p{margin:0;overflow-wrap:anywhere}
 .src{margin-top:auto;font-weight:600;font-size:.88rem;color:var(--accent);text-decoration:none}
 .src:hover{text-decoration:underline}
 .empty{color:var(--muted);padding:24px 0}
+footer a{color:var(--accent)}
 footer{margin-top:28px;color:var(--muted);font-size:.8rem;border-top:1px solid var(--line);padding-top:12px;display:grid;gap:4px}
 @media (prefers-reduced-motion:no-preference){article{transition:border-color .15s}article:hover{border-color:var(--muted)}}
 </style>
@@ -78,6 +79,7 @@ footer{margin-top:28px;color:var(--muted);font-size:.8rem;border-top:1px solid v
   <footer>
     <span>Summaries are written by AI from each publisher's public feed and may contain errors. Always check the original before relying on clinical details.</span>
     <span>Articles belong to their publishers. This site shows short summaries and links to the source.</span>
+    <span>Research listings use data from PubMed, a service of the U.S. National Library of Medicine. <a href="https://www.ncbi.nlm.nih.gov/home/about/policies/" target="_blank" rel="noopener">NCBI disclaimer and copyright notice</a>.</span>
   </footer>
 </div>
 
@@ -85,7 +87,7 @@ footer{margin-top:28px;color:var(--muted);font-size:.8rem;border-top:1px solid v
 const STORIES = __STORIES_JSON__;
 const CATEGORIES = __CATEGORIES_JSON__;
 const UPDATED = "__UPDATED__";
-const LABELS = {research:"Research",clinical:"Clinical",business:"Business",tech:"Technology",products:"Products",policy:"Policy",events:"Events",people:"People"};
+const LABELS = {research:"Research",clinical:"Clinical",business:"Business",tech:"Technology",products:"Products",policy:"Policy",education:"Education",events:"Events",people:"People"};
 
 const feed = document.getElementById("feed"), chips = document.getElementById("chips"),
       q = document.getElementById("q"), count = document.getElementById("count"), empty = document.getElementById("empty");
