@@ -44,6 +44,10 @@ CONTACT_EMAIL = ""
 PUBMED_DAYS = 7                         # look back this many days per search
 PUBMED_PER_SEARCH = 10                  # max papers per search per run
 
+# Websites whose stories should never appear (removes any already saved).
+# Remove a line here if that site later gives permission.
+BLOCKED_DOMAINS = ["beckersdental.com"]
+
 # Items whose title contains any of these words are skipped without being
 # summarized (member newsletters, letters, ads). Not case-sensitive.
 SKIP_TITLE_WORDS = ["e-newsletter", "president's letter", "president’s letter",
@@ -462,7 +466,8 @@ def main():
         sys.exit("ANTHROPIC_API_KEY is not set. Add it as a GitHub secret (see README), "
                  "or run 'python build.py --test' to preview with sample data.")
 
-    stories = load_stories()
+    stories = [s for s in load_stories()
+               if not any(d in s.get("url", "") for d in BLOCKED_DOMAINS)]
     seen = {s["id"] for s in stories}
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(days=MAX_ARTICLE_AGE_DAYS)
@@ -474,6 +479,8 @@ def main():
         if sid in seen or sid in ids:
             continue
         if any(w in i["title"].lower() for w in SKIP_TITLE_WORDS):
+            continue
+        if any(d in i["link"] for d in BLOCKED_DOMAINS):
             continue
         if not test_mode and not i.get("manual") and i["published"] and i["published"] < cutoff:
             continue
