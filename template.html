@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>__SITE_NAME__</title>
+<meta name="description" content="__TAGLINE__">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: masthead + filter rail, then a news stream of summary cards (one column on phones, two on wide screens) */
+:root{
+  --bg:#f3f5f8; --surface:#ffffff; --ink:#18222e; --muted:#5b6878; --line:#dde3ea;
+  --accent:#7b3a63; --accent-soft:#f3e7ef;
+  --research:#2f6b8a; --clinical:#2e7a5a; --business:#8a5a1f; --tech:#4d5fb0;
+  --products:#a04f7a; --policy:#6f6a1f; --events:#9a3d3d; --people:#6b5a8a;
+  --display:"Bricolage Grotesque","Avenir Next",system-ui,sans-serif;
+  --body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root{
+  --bg:#11161d; --surface:#18202a; --ink:#e7ecf2; --muted:#9aa7b6; --line:#2a3542;
+  --accent:#e09ac6; --accent-soft:#33202c;
+  --research:#7fbfe0; --clinical:#7fd1aa; --business:#e0b276; --tech:#a4b2f2;
+  --products:#eaa3cb; --policy:#d6cf7a; --events:#ec9a9a; --people:#bfaee0;
+  color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:15px;line-height:1.55}
+.wrap{max-width:1080px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 56px}
+header.mast{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px 24px;border-bottom:2px solid var(--ink);padding-bottom:14px}
+.brand h1{font-family:var(--display);font-weight:800;font-size:clamp(2rem,6vw,3.1rem);line-height:1;letter-spacing:-.02em;margin:0;text-wrap:balance}
+.brand p{margin:6px 0 0;color:var(--muted);max-width:52ch}
+.dateline{font-family:var(--mono);font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);text-align:right}
+.controls{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:20px 0 18px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font:500 .82rem var(--body);border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:6px 12px;border-radius:999px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip:focus-visible,#q:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+#q{flex:1 1 200px;min-width:0;font:inherit;padding:7px 12px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--ink)}
+.count{font-family:var(--mono);font-size:.75rem;color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,460px),1fr));gap:14px}
+article{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px 18px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.meta{display:flex;flex-wrap:wrap;align-items:center;gap:6px 12px;font-family:var(--mono);font-size:.72rem;letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
+.cat{font-weight:500;color:var(--c)}
+.cat::before{content:"";display:inline-block;width:8px;height:8px;border-radius:2px;background:var(--c);margin-right:6px;vertical-align:1px}
+article h2{font-family:var(--display);font-weight:600;font-size:1.18rem;line-height:1.25;margin:0;text-wrap:balance}
+article p{margin:0;overflow-wrap:anywhere}
+.why{font-size:.9rem;color:var(--muted);border-top:1px dashed var(--line);padding-top:8px}
+.why b{color:var(--ink);font-weight:600}
+.src{margin-top:auto;font-weight:600;font-size:.88rem;color:var(--accent);text-decoration:none}
+.src:hover{text-decoration:underline}
+.empty{color:var(--muted);padding:24px 0}
+footer{margin-top:28px;color:var(--muted);font-size:.8rem;border-top:1px solid var(--line);padding-top:12px;display:grid;gap:4px}
+@media (prefers-reduced-motion:no-preference){article{transition:border-color .15s}article:hover{border-color:var(--muted)}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="mast">
+    <div class="brand">
+      <h1>__SITE_NAME__</h1>
+      <p>__TAGLINE__ Every story links back to the original.</p>
+    </div>
+    <div class="dateline" id="updated">Updated</div>
+  </header>
+
+  <div class="controls">
+    <div class="chips" id="chips" role="group" aria-label="Filter by category"></div>
+    <input id="q" type="search" placeholder="Search stories" aria-label="Search stories">
+    <span class="count" id="count"></span>
+  </div>
+
+  <div class="grid" id="feed"></div>
+  <p class="empty" id="empty" hidden>No stories match. Try another category or search term.</p>
+
+  <footer>
+    <span>Summaries are written by AI from each publisher's public feed and may contain errors. Always check the original before relying on clinical details.</span>
+    <span>Articles belong to their publishers. This site shows short summaries and links to the source.</span>
+  </footer>
+</div>
+
+<script>
+const STORIES = __STORIES_JSON__;
+const CATEGORIES = __CATEGORIES_JSON__;
+const UPDATED = "__UPDATED__";
+const LABELS = {research:"Research",clinical:"Clinical",business:"Business",tech:"Technology",products:"Products",policy:"Policy",events:"Events",people:"People"};
+
+const feed = document.getElementById("feed"), chips = document.getElementById("chips"),
+      q = document.getElementById("q"), count = document.getElementById("count"), empty = document.getElementById("empty");
+let active = "all";
+
+function fmt(iso){
+  const d = new Date(iso), hrs = (Date.now() - d) / 36e5;
+  if (hrs < 1) return "Just now";
+  if (hrs < 24) return Math.floor(hrs) + "h ago";
+  return d.toLocaleDateString(undefined, {month:"short", day:"numeric"});
+}
+function esc(t){ return String(t || "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+
+document.getElementById("updated").textContent = "Updated " + new Date(UPDATED).toLocaleString(undefined, {month:"short", day:"numeric", hour:"numeric", minute:"2-digit"});
+
+const used = new Set(STORIES.map(s => s.category));
+function chip(key, label){
+  const b = document.createElement("button");
+  b.className = "chip"; b.type = "button"; b.id = "chip-" + key; b.textContent = label;
+  b.setAttribute("aria-pressed", key === active);
+  b.onclick = () => { active = key; [...chips.children].forEach(c => c.setAttribute("aria-pressed", c === b)); render(); };
+  chips.appendChild(b);
+}
+chip("all", "All");
+CATEGORIES.filter(c => used.has(c)).forEach(c => chip(c, LABELS[c] || c));
+
+function render(){
+  const term = q.value.trim().toLowerCase();
+  const list = STORIES.filter(s => (active === "all" || s.category === active) &&
+    (!term || (s.headline + s.summary + s.why + s.source).toLowerCase().includes(term)));
+  feed.innerHTML = list.map(s => `<article style="--c:var(--${esc(s.category)})">
+    <div class="meta"><span class="cat">${esc(LABELS[s.category] || s.category)}</span><span>${esc(s.source)}</span><span>${fmt(s.published)}</span></div>
+    <h2>${esc(s.headline)}</h2><p>${esc(s.summary)}</p>
+    ${s.why ? `<p class="why"><b>Why it matters:</b> ${esc(s.why)}</p>` : ""}
+    <a class="src" href="${esc(s.url)}" target="_blank" rel="noopener">Read the original &#8599;</a></article>`).join("");
+  count.textContent = list.length + " stories";
+  empty.hidden = list.length > 0;
+  if (!STORIES.length) { empty.hidden = false; empty.textContent = "No stories yet. The first update runs within the hour."; }
+}
+q.addEventListener("input", render);
+render();
+</script>
+</body>
+</html>

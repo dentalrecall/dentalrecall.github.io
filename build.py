@@ -1,0 +1,329 @@
+#!/usr/bin/env python3
+"""
+Dental news site builder.
+
+What it does each time it runs:
+  1. Reads the feed list in feeds.txt
+  2. Finds articles it hasn't seen yet (from the last few days)
+  3. Asks Claude to write a short summary + "why it matters" line for each
+  4. Saves everything to data/stories.json
+  5. Builds the website into the site/ folder
+
+It uses only Python's built-in libraries, so there is nothing to install.
+
+Run it:
+  python build.py          normal run (needs ANTHROPIC_API_KEY set)
+  python build.py --test   test run with sample data, no API key needed
+"""
+
+import hashlib
+import html
+import json
+import os
+import re
+import sys
+import time
+import urllib.error
+import urllib.request
+import xml.etree.ElementTree as ET
+from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
+from pathlib import Path
+
+# ---------------------------------------------------------------------------
+# SETTINGS — the only part you should need to change
+# ---------------------------------------------------------------------------
+SITE_NAME = "The Dental Recall"
+TAGLINE = "Dental news, summarized for the people in the chair."
+MODEL = "claude-haiku-5-5"              # fast, inexpensive Claude model
+MAX_NEW_PER_RUN = 25                    # cap on new summaries per run (controls cost)
+MAX_ARTICLE_AGE_DAYS = 3                # ignore feed items older than this
+KEEP_DAYS = 30                          # stories older than this drop off the site
+MAX_STORIES = 300                       # hard cap on stories kept
+CATEGORIES = ["research", "clinical", "business", "tech", "products", "policy", "events", "people"]
+# ---------------------------------------------------------------------------
+
+ROOT = Path(__file__).resolve().parent
+DATA_FILE = ROOT / "data" / "stories.json"
+FEEDS_FILE = ROOT / "feeds.txt"
+TEMPLATE_FILE = ROOT / "template.html"
+SITE_DIR = ROOT / "site"
+TEST_FEED = ROOT / "tests" / "sample_feed.xml"
+
+USER_AGENT = "Mozilla/5.0 (compatible; DentalNewsDigest/1.0; +https://github.com)"
+API_URL = "https://api.anthropic.com/v1/messages"
+
+
+def log(msg):
+    print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}", flush=True)
+
+
+# ---------------------------------------------------------------- feeds ----
+
+def read_feed_list():
+    if not FEEDS_FILE.exists():
+        return []
+    urls = []
+    for line in FEEDS_FILE.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if line and not line.startswith("#"):
+            urls.append(line)
+    return urls
+
+
+def fetch(url):
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(req, timeout=25) as r:
+        return r.read()
+
+
+def clean_text(raw, limit=2000):
+    if not raw:
+        return ""
+    text = re.sub(r"<(script|style)[^>]*>.*?</\1>", " ", raw, flags=re.S | re.I)
+    text = re.sub(r"<[^>]+>", " ", text)
+    text = html.unescape(text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text[:limit]
+
+
+def parse_date(value):
+    if not value:
+        return None
+    value = value.strip()
+    try:
+        d = parsedate_to_datetime(value)
+    except (TypeError, ValueError):
+        try:
+            d = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        except ValueError:
+            return None
+    if d.tzinfo is None:
+        d = d.replace(tzinfo=timezone.utc)
+    return d.astimezone(timezone.utc)
+
+
+def local(tag):
+    """Strip the XML namespace from a tag name."""
+    return tag.rsplit("}", 1)[-1].lower()
+
+
+def child_text(el, *names):
+    for c in el:
+        if local(c.tag) in names and (c.text or "").strip():
+            return c.text
+    return ""
+
+
+def parse_feed(xml_bytes):
+    """Return (source_name, [items]) for RSS 2.0 or Atom."""
+    root = ET.fromstring(xml_bytes)
+    items, source = [], ""
+
+    if local(root.tag) == "feed":  # Atom
+        source = child_text(root, "title")
+        for e in root:
+            if local(e.tag) != "entry":
+                continue
+            link = ""
+            for c in e:
+                if local(c.tag) == "link" and c.get("rel", "alternate") == "alternate":
+                    link = c.get("href", "")
+                    break
+            items.append({
+                "title": clean_text(child_text(e, "title"), 300),
+                "link": link,
+                "text": clean_text(child_text(e, "content") or child_text(e, "summary")),
+                "published": parse_date(child_text(e, "published") or child_text(e, "updated")),
+            })
+    else:  # RSS
+        channel = next((c for c in root if local(c.tag) == "channel"), root)
+        source = child_text(channel, "title")
+        for it in root.iter():
+            if local(it.tag) != "item":
+                continue
+            body = child_text(it, "encoded") or child_text(it, "description")
+            items.append({
+                "title": clean_text(child_text(it, "title"), 300),
+                "link": child_text(it, "link").strip(),
+                "text": clean_text(body),
+                "published": parse_date(child_text(it, "pubdate") or child_text(it, "date")),
+            })
+
+    source = clean_text(source, 80) or "Unknown source"
+    return source, [i for i in items if i["title"] and i["link"].startswith("http")]
+
+
+def collect_items(test_mode):
+    sources = [str(TEST_FEED)] if test_mode else read_feed_list()
+    all_items = []
+    for src in sources:
+        try:
+            raw = Path(src).read_bytes() if test_mode else fetch(src)
+            name, items = parse_feed(raw)
+            for i in items:
+                i["source"] = name
+            all_items.extend(items)
+            log(f"OK    {name}: {len(items)} items")
+        except Exception as e:  # one broken feed should never stop the run
+            log(f"SKIP  {src} ({type(e).__name__}: {e})")
+    return all_items
+
+
+# ----------------------------------------------------------- summarize ----
+
+PROMPT = """You write short news summaries for a website read by dentists and dental specialists.
+
+Below is an article title and the excerpt from the publisher's RSS feed. Use ONLY facts stated in this text. Never add numbers, names or findings that are not in it. Write in your own words; do not copy sentences from the excerpt.
+
+Return ONLY a JSON object with these keys:
+- "relevant": true if this is real news useful to dental professionals; false for ads, sponsored content, job listings, webinars-for-sale, or non-dental topics.
+- "category": one of {categories}
+- "headline": a clear headline in your own words, at most 90 characters, no clickbait.
+- "summary": 2 to 3 plain sentences on what happened or what was found. If the excerpt is too thin, write one sentence describing what the article covers.
+- "why": one sentence starting with what it means for a practicing dentist (patient care, the business of a practice, or the profession). Do not give medical advice beyond what the text supports.
+
+Title: {title}
+Source: {source}
+Excerpt: {text}"""
+
+
+def call_claude(item, api_key):
+    prompt = PROMPT.format(categories=", ".join(CATEGORIES), title=item["title"],
+                           source=item["source"], text=item["text"] or "(no excerpt)")
+    body = json.dumps({
+        "model": MODEL,
+        "max_tokens": 500,
+        "messages": [{"role": "user", "content": prompt}],
+    }).encode()
+    req = urllib.request.Request(API_URL, data=body, method="POST", headers={
+        "x-api-key": api_key,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
+    })
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                data = json.loads(r.read())
+            text = "".join(b.get("text", "") for b in data.get("content", []))
+            match = re.search(r"\{.*\}", text, re.S)
+            return json.loads(match.group(0)) if match else None
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 500, 502, 503, 529) and attempt < 2:
+                time.sleep(5 * (attempt + 1))
+                continue
+            detail = e.read().decode(errors="replace")[:300]
+            raise RuntimeError(f"API error {e.code}: {detail}") from None
+
+
+def fake_summary(item):
+    """Used by --test so you can preview the site without an API key."""
+    return {
+        "relevant": "sponsored" not in item["title"].lower(),
+        "category": CATEGORIES[len(item["title"]) % len(CATEGORIES)],
+        "headline": item["title"][:90],
+        "summary": "TEST MODE: this is placeholder text. A real run replaces it with a two- to three-sentence summary written by Claude.",
+        "why": "TEST MODE: placeholder for the practitioner-focused line.",
+    }
+
+
+# --------------------------------------------------------------- build ----
+
+def story_id(url):
+    return hashlib.sha1(url.encode()).hexdigest()[:12]
+
+
+def load_stories():
+    if DATA_FILE.exists():
+        return json.loads(DATA_FILE.read_text(encoding="utf-8"))
+    return []
+
+
+def save_stories(stories):
+    DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
+    DATA_FILE.write_text(json.dumps(stories, indent=1, ensure_ascii=False), encoding="utf-8")
+
+
+def render(stories):
+    template = TEMPLATE_FILE.read_text(encoding="utf-8")
+    payload = json.dumps(stories, ensure_ascii=False).replace("</", "<\\/")
+    page = (template
+            .replace("__SITE_NAME__", html.escape(SITE_NAME))
+            .replace("__TAGLINE__", html.escape(TAGLINE))
+            .replace("__UPDATED__", datetime.now(timezone.utc).isoformat())
+            .replace("__CATEGORIES_JSON__", json.dumps(CATEGORIES))
+            .replace("__STORIES_JSON__", payload))
+    SITE_DIR.mkdir(exist_ok=True)
+    (SITE_DIR / "index.html").write_text(page, encoding="utf-8")
+    (SITE_DIR / ".nojekyll").write_text("")
+
+
+def main():
+    test_mode = "--test" in sys.argv
+    api_key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
+    if not test_mode and not api_key:
+        sys.exit("ANTHROPIC_API_KEY is not set. Add it as a GitHub secret (see README), "
+                 "or run 'python build.py --test' to preview with sample data.")
+
+    stories = load_stories()
+    seen = {s["id"] for s in stories}
+    now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(days=MAX_ARTICLE_AGE_DAYS)
+
+    items = collect_items(test_mode)
+    fresh, ids = [], set()
+    for i in items:
+        sid = story_id(i["link"])
+        if sid in seen or sid in ids:
+            continue
+        if not test_mode and i["published"] and i["published"] < cutoff:
+            continue
+        ids.add(sid)
+        fresh.append(i)
+    fresh.sort(key=lambda i: i["published"] or now, reverse=True)
+    fresh = fresh[:MAX_NEW_PER_RUN]
+    log(f"{len(fresh)} new articles to summarize")
+
+    added = 0
+    for i in fresh:
+        try:
+            result = fake_summary(i) if test_mode else call_claude(i, api_key)
+        except Exception as e:
+            log(f"FAIL  {i['title'][:60]} ({e})")
+            continue
+        if not result:
+            log(f"FAIL  {i['title'][:60]} (no usable reply)")
+            continue
+        sid = story_id(i["link"])
+        if not result.get("relevant", True):
+            # remember it so we don't pay to check it again
+            stories.append({"id": sid, "hidden": True, "added": now.isoformat()})
+            log(f"SKIP  not relevant: {i['title'][:60]}")
+            continue
+        cat = result.get("category") if result.get("category") in CATEGORIES else "clinical"
+        stories.append({
+            "id": sid,
+            "url": i["link"],
+            "source": i["source"],
+            "published": (i["published"] or now).isoformat(),
+            "added": now.isoformat(),
+            "category": cat,
+            "headline": str(result.get("headline", i["title"]))[:120],
+            "summary": str(result.get("summary", "")),
+            "why": str(result.get("why", "")),
+        })
+        added += 1
+        log(f"ADD   {result.get('headline', i['title'])[:70]}")
+
+    keep_after = (now - timedelta(days=KEEP_DAYS)).isoformat()
+    stories = [s for s in stories if s.get("added", "") >= keep_after][-MAX_STORIES * 2:]
+    save_stories(stories)
+
+    visible = sorted((s for s in stories if not s.get("hidden")),
+                     key=lambda s: s["published"], reverse=True)[:MAX_STORIES]
+    render(visible)
+    log(f"Done: {added} added, {len(visible)} stories on the site -> site/index.html")
+
+
+if __name__ == "__main__":
+    main()

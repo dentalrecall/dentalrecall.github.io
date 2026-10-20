@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>Sample Dental News (test data)</title>
+  <link>https://example.com</link>
+  <item>
+    <title>Study links periodontal therapy with improved glycemic control</title>
+    <link>https://example.com/perio-glycemic</link>
+    <pubDate>Mon, 19 Oct 2026 14:00:00 GMT</pubDate>
+    <description><![CDATA[<p>A randomized trial followed adults with type 2 diabetes after scaling and root planing.</p>]]></description>
+  </item>
+  <item>
+    <title>Regional DSO adds three oral surgery practices</title>
+    <link>https://example.com/dso-oms</link>
+    <pubDate>Mon, 19 Oct 2026 10:30:00 GMT</pubDate>
+    <description>The group now operates in five states.</description>
+  </item>
+  <item>
+    <title>Sponsored: Save 20% on our new whitening kit</title>
+    <link>https://example.com/sponsored</link>
+    <pubDate>Sun, 18 Oct 2026 09:00:00 GMT</pubDate>
+    <description>Limited time offer.</description>
+  </item>
+  <item>
+    <title>FDA clears AI tool for detecting caries on bitewings</title>
+    <link>https://example.com/ai-caries</link>
+    <pubDate>Sat, 17 Oct 2026 16:45:00 GMT</pubDate>
+    <content:encoded><![CDATA[<p>The software flags suspected lesions for clinician review.</p>]]></content:encoded>
+  </item>
+</channel>
+</rss>
