@@ -7,7 +7,6 @@ https://www.dental-tribune.com/news/feed/
 https://www.dentistryiq.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D
 https://dentistrytoday.com/feed/
 https://www.beckersdental.com/feed/
-https://www.oralhealthgroup.com/feed/
 
 # Journals
 http://feeds.nature.com/bdj/rss/current

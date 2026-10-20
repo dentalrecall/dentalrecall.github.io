@@ -176,24 +176,40 @@ PROMPT = """You write short news summaries for a website read by dentists and de
 
 Below is an article title and the excerpt from the publisher's RSS feed. Use ONLY facts stated in this text. Never add numbers, names or findings that are not in it. Write in your own words; do not copy sentences from the excerpt.
 
-Return ONLY a JSON object with these keys:
-- "relevant": true if this is real news useful to dental professionals; false for ads, sponsored content, job listings, webinars-for-sale, or non-dental topics.
-- "category": one of {categories}
-- "headline": a clear headline in your own words, at most 90 characters, no clickbait.
-- "summary": 2 to 3 plain sentences on what happened or what was found. If the excerpt is too thin, write one sentence describing what the article covers.
-- "why": one sentence starting with what it means for a practicing dentist (patient care, the business of a practice, or the profession). Do not give medical advice beyond what the text supports.
+Save your result with the save_story tool.
 
 Title: {title}
 Source: {source}
 Excerpt: {text}"""
 
 
+# Using a "tool" makes Claude return its answer as clean, structured data,
+# so quotation marks in a headline can never break it.
+STORY_TOOL = {
+    "name": "save_story",
+    "description": "Save the summary of one news article.",
+    "input_schema": {
+        "type": "object",
+        "properties": {
+            "relevant": {"type": "boolean", "description": "True if this is real news useful to dental professionals. False for ads, sponsored content, job listings, webinars for sale, or non-dental topics."},
+            "category": {"type": "string", "enum": CATEGORIES},
+            "headline": {"type": "string", "description": "A clear headline in your own words, at most 90 characters, no clickbait."},
+            "summary": {"type": "string", "description": "2 to 3 plain sentences on what happened or what was found. If the excerpt is thin, one sentence describing what the article covers."},
+            "why": {"type": "string", "description": "One sentence on what it means for a practicing dentist (patient care, the business of a practice, or the profession). No medical advice beyond what the text supports."},
+        },
+        "required": ["relevant", "category", "headline", "summary", "why"],
+    },
+}
+
+
 def call_claude(item, api_key):
-    prompt = PROMPT.format(categories=", ".join(CATEGORIES), title=item["title"],
-                           source=item["source"], text=item["text"] or "(no excerpt)")
+    prompt = PROMPT.format(title=item["title"], source=item["source"],
+                           text=item["text"] or "(no excerpt)")
     body = json.dumps({
         "model": MODEL,
-        "max_tokens": 500,
+        "max_tokens": 800,
+        "tools": [STORY_TOOL],
+        "tool_choice": {"type": "tool", "name": "save_story"},
         "messages": [{"role": "user", "content": prompt}],
     }).encode()
     req = urllib.request.Request(API_URL, data=body, method="POST", headers={
@@ -205,9 +221,10 @@ def call_claude(item, api_key):
         try:
             with urllib.request.urlopen(req, timeout=60) as r:
                 data = json.loads(r.read())
-            text = "".join(b.get("text", "") for b in data.get("content", []))
-            match = re.search(r"\{.*\}", text, re.S)
-            return json.loads(match.group(0)) if match else None
+            for block in data.get("content", []):
+                if block.get("type") == "tool_use" and isinstance(block.get("input"), dict):
+                    return block["input"]
+            return None
         except urllib.error.HTTPError as e:
             if e.code in (429, 500, 502, 503, 529) and attempt < 2:
                 time.sleep(5 * (attempt + 1))
