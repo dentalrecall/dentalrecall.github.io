@@ -81,7 +81,7 @@ SITE_DIR = ROOT / "site"
 TEST_FEED = ROOT / "tests" / "sample_feed.xml"
 
 BOT_NAME = "DentalRecallBot"
-USER_AGENT = f"Mozilla/5.0 (compatible; {BOT_NAME}/1.0; +https://dentalrecall.github.io)"
+USER_AGENT = f"Mozilla/5.0 (compatible; {BOT_NAME}/1.0; +https://thedentalrecall.com)"
 API_URL = "https://api.anthropic.com/v1/messages"
 EUTILS = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
 
