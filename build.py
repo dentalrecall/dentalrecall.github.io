@@ -41,7 +41,7 @@ MAX_NEW_PER_RUN = 40                    # cap on new summaries per run (controls
 # PubMed (research). NCBI asks every program that uses PubMed to identify
 # itself with a contact email. Put your email between the quotes.
 CONTACT_EMAIL = ""
-PUBMED_DAYS = 2                         # look back this many days per search
+PUBMED_DAYS = 7                         # look back this many days per search
 PUBMED_PER_SEARCH = 10                  # max papers per search per run
 
 # Items whose title contains any of these words are skipped without being
@@ -268,7 +268,67 @@ def collect_items(test_mode):
             log(f"OK    {name}: {len(items)} items")
         except Exception as e:  # one broken feed should never stop the run
             log(f"SKIP  {src} ({type(e).__name__}: {e})")
+    if not test_mode:
+        all_items.extend(collect_manual())
     return all_items
+
+
+# --------------------------------------------------------- manual links ----
+
+MANUAL_FILE = ROOT / "manual.txt"
+
+
+def _meta(page, *names):
+    for n in names:
+        m = (re.search(r'<meta[^>]+(?:property|name)=["\']%s["\'][^>]*content=["\']([^"\']*)' % re.escape(n), page, re.I)
+             or re.search(r'<meta[^>]+content=["\']([^"\']*)["\'][^>]*(?:property|name)=["\']%s["\']' % re.escape(n), page, re.I))
+        if m and m.group(1).strip():
+            return html.unescape(m.group(1).strip())
+    return ""
+
+
+def first_paragraph(page):
+    """The article's opening paragraph only (what most publishers' reprint
+    policies allow), ignoring short menu or caption text."""
+    body = page.split("<article", 1)[-1]
+    for p in re.findall(r"<p[^>]*>(.*?)</p>", body, re.S | re.I):
+        text = clean_text(p, 1200)
+        if len(text) >= 120 and not text.lower().startswith(("advertisement", "interested in", "sign up")):
+            return text
+    return ""
+
+
+def collect_manual():
+    """Articles you chose by hand: one link per line in manual.txt."""
+    if not MANUAL_FILE.exists():
+        return []
+    items = []
+    done = {s["id"] for s in load_stories()}
+    for line in MANUAL_FILE.read_text(encoding="utf-8").splitlines():
+        url = line.strip()
+        if not url.startswith("http") or story_id(url) in done:
+            continue  # already on the site, so don't visit the page again
+        try:
+            page = fetch(url).decode("utf-8", "replace")
+            title = _meta(page, "og:title", "twitter:title") or clean_text(
+                (re.search(r"<title>(.*?)</title>", page, re.S | re.I) or [None, ""])[1], 300)
+            text = first_paragraph(page) or _meta(page, "og:description", "description")
+            if not (title and text):
+                raise ValueError("couldn't find the headline or opening paragraph")
+            from urllib.parse import urlsplit
+            items.append({
+                "title": clean_text(title, 300),
+                "link": url,
+                "text": text,
+                "published": parse_date(_meta(page, "article:published_time")),
+                "source": _meta(page, "og:site_name") or urlsplit(url).netloc.replace("www.", ""),
+                "manual": True,
+            })
+            log(f"OK    manual link: {title[:60]}")
+        except Exception as e:
+            log(f"SKIP  manual link {url} ({type(e).__name__}: {e})")
+        time.sleep(2)
+    return items
 
 
 # ----------------------------------------------------------- summarize ----
@@ -415,7 +475,7 @@ def main():
             continue
         if any(w in i["title"].lower() for w in SKIP_TITLE_WORDS):
             continue
-        if not test_mode and i["published"] and i["published"] < cutoff:
+        if not test_mode and not i.get("manual") and i["published"] and i["published"] < cutoff:
             continue
         ids.add(sid)
         fresh.append(i)
@@ -434,7 +494,7 @@ def main():
             log(f"FAIL  {i['title'][:60]} (no usable reply)")
             continue
         sid = story_id(i["link"])
-        if not result.get("relevant", True):
+        if not result.get("relevant", True) and not i.get("manual"):
             # remember it so we don't pay to check it again
             stories.append({"id": sid, "hidden": True, "added": now.isoformat()})
             log(f"SKIP  not relevant: {i['title'][:60]}")

@@ -114,10 +114,23 @@ function chip(key, label){
 chip("all", "All");
 CATEGORIES.filter(c => used.has(c)).forEach(c => chip(c, LABELS[c] || c));
 
+// In the "All" view, show 3 news stories, then 1 research paper, so
+// research never crowds out the news.
+const NEWS_PER_RESEARCH = 3;
+function mix(list){
+  const news = list.filter(s => s.category !== "research");
+  const res = list.filter(s => s.category === "research");
+  const out = []; let r = 0;
+  news.forEach((s, i) => { out.push(s); if ((i + 1) % NEWS_PER_RESEARCH === 0 && r < res.length) out.push(res[r++]); });
+  while (r < res.length) out.push(res[r++]);
+  return out;
+}
+
 function render(){
   const term = q.value.trim().toLowerCase();
-  const list = STORIES.filter(s => (active === "all" || s.category === active) &&
+  let list = STORIES.filter(s => (active === "all" || s.category === active) &&
     (!term || (s.headline + s.summary + s.why + s.source).toLowerCase().includes(term)));
+  if (active === "all") list = mix(list);
   feed.innerHTML = list.map(s => `<article style="--c:var(--${esc(s.category)})">
     <div class="meta"><span class="cat">${esc(LABELS[s.category] || s.category)}</span><span>${esc(s.source)}</span><span>${fmt(s.published)}</span></div>
     <h2>${esc(s.headline)}</h2><p>${esc(s.summary)}</p>

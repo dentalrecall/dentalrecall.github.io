@@ -6,7 +6,6 @@
 https://www.dental-tribune.com/news/feed/
 https://www.dentistryiq.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D
 https://dentistrytoday.com/feed/
-https://www.beckersdental.com/feed/
 https://www.dentalproductsreport.com/rss
 https://www.dentaleconomics.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D
 https://www.rdhmag.com/__rss/website-scheduled-content.xml?input=%7B%22sectionAlias%22%3A%22home%22%7D
@@ -18,8 +17,6 @@ https://decisionsindentistry.com/feed/
 # American Association of Oral and Maxillofacial Surgeons (press releases)
 https://aaoms.org/feed/
 
-# ---- Government (NIH National Institute of Dental and Craniofacial Research) ----
-https://public.govdelivery.com/accounts/USNIHNIDCR/feed.rss
 
 # ---- Research: PubMed searches ----
 # Write "pubmed:" followed by any PubMed search. Only papers with abstracts
