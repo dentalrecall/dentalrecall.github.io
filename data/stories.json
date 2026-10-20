@@ -1054,5 +1054,115 @@
   "headline": "MRI radiomics combining DKI and DCE predicts T stage and nodal spread in oral cancer",
   "summary": "A prospective single-center study of 157 patients with oral and oropharyngeal squamous cell carcinoma tested radiomics features from diffusion kurtosis imaging and dynamic contrast-enhanced MRI. The combined models predicted T stage and lymph node metastasis with AUC values from 0.818 to 0.978 across training and validation sets. In a temporal validation cohort of 18 patients, AUCs were 0.900 for T stage and 0.800 for lymph node metastasis.",
   "why": ""
+ },
+ {
+  "id": "e933aceb55a1",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42881064/",
+  "source": "Oral Surg Oral Med Oral Pathol Oral Radiol",
+  "published": "2026-10-20T21:47:28.035194+00:00",
+  "added": "2026-10-20T21:47:28.035194+00:00",
+  "category": "research",
+  "headline": "AI decision support tool improves intraoral radiograph quality, expert panel finds",
+  "summary": "Researchers built and tested an AI-driven clinical decision support tool meant to enhance intraoral radiographs and reduce retakes. Using about 188,684 manually labeled images from 16,703 patients (2020-2024), they developed general and localized enhancement methods, including artifact removal. A panel of dental experts rated 1,500 original and enhanced radiographs, finding 81% improved, 15% unchanged, and 3% of reduced diagnostic quality, with statistically significant differences.",
+  "why": "If validated tools like this reach clinical software, they could help practices get diagnostic-quality images on the first attempt, reducing retakes and patient radiation exposure."
+ },
+ {
+  "id": "9e47287bc532",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42869743/",
+  "source": "Oral Surg Oral Med Oral Pathol Oral Radiol",
+  "published": "2026-10-20T21:47:28.035194+00:00",
+  "added": "2026-10-20T21:47:28.035194+00:00",
+  "category": "research",
+  "headline": "Deep learning flags patient positioning errors in panoramic radiographs",
+  "summary": "Researchers retrospectively analyzed 1,490 panoramic radiographs taken between 2020 and 2023 to build a deep learning system that detects and classifies positioning errors. YOLOv10 outperformed Mask R-CNN for mandibular region extraction, and a hybrid ConvNeXt and Swin Transformer model performed best, reaching 73.02% accuracy for binary error detection and 56.91% for six-class error typing. Focusing on the mandibular region improved results compared with analyzing full images.",
+  "why": "Automated checks could help catch positioning errors on panoramic images before patients leave, reducing retakes and supporting more consistent image quality control, though the accuracy reported here is still modest."
+ },
+ {
+  "id": "347ab40c7348",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42869742/",
+  "source": "Oral Surg Oral Med Oral Pathol Oral Radiol",
+  "published": "2026-10-20T21:47:28.035194+00:00",
+  "added": "2026-10-20T21:47:28.035194+00:00",
+  "category": "research",
+  "headline": "CBCT finds small salivary stones that prior ultrasound missed",
+  "summary": "A retrospective study of 37 salivary glands with suspected parotid or submandibular sialolithiasis compared cone-beam CT with earlier ultrasound reports. Of 49 sialoliths identified, 31 (63.3%) were seen only on CBCT and were significantly smaller than those seen on both imaging methods. Stones detected only by CBCT were more often round, multiple, and located in the middle or distal submandibular duct, though that trend was not statistically significant.",
+  "why": "Ultrasound alone may miss small, distally located stones, so CBCT may add diagnostic value when sialolithiasis is suspected and ultrasound has already been done."
+ },
+ {
+  "id": "753d0063baaf",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42886045/",
+  "source": "J Dent Educ",
+  "published": "2026-10-20T21:47:28.035194+00:00",
+  "added": "2026-10-20T21:47:28.035194+00:00",
+  "category": "research",
+  "headline": "Journal paper weighs entrustable professional activities against competency-based assessment in US dental education",
+  "summary": "A Journal of Dental Education paper compares competency-based dental education (CBDE), adopted in US schools in the late 1990s, with entrustable professional activities (EPAs). It examines differences in terminology, assessment methods, decision-making, and the evidence needed to meet US predoctoral accreditation standards. The authors argue EPAs are a clinically grounded evolution of competency assessment but not sufficient on their own, suggesting hybrid models that combine longitudinal workplace observation with targeted high-stakes assessments.",
+  "why": "Dental educators and program leaders may need to consider how workplace-based, longitudinal assessment could be combined with traditional exams to document graduate readiness for practice under CODA standards."
+ },
+ {
+  "id": "39cf31efaa5c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42876440/",
+  "source": "J Dent Educ",
+  "published": "2026-10-20T21:47:28.035194+00:00",
+  "added": "2026-10-20T21:47:28.035194+00:00",
+  "category": "research",
+  "headline": "Structured scientific debate proposed as a teaching tool for dental students",
+  "summary": "A perspective article in the Journal of Dental Education argues that structured scientific debate can serve as a formative learning activity for dental students. It describes an inter-university postgraduate debate and the participants' views of the experience. The author links the approach to independent judgment, intellectual humility, patient-centered dialogue, and responsible clinical decision-making.",
+  "why": "It suggests a classroom method for training future clinicians to weigh evidence and question assumptions, which may shape how new dentists approach clinical judgment."
+ },
+ {
+  "id": "917854481a5c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42876438/",
+  "source": "J Dent Educ",
+  "published": "2026-10-20T21:47:28.035194+00:00",
+  "added": "2026-10-20T21:47:28.035194+00:00",
+  "category": "research",
+  "headline": "Dental students feel least prepared for trauma survivors and patients with special needs",
+  "summary": "A cross-sectional survey of D1–D4 dental students measured self-rated preparedness to treat patients with diverse social, cultural, and clinical needs. Of 113 students in the final analytic sample, ratings were moderate overall, lowest for survivors of sexual violence, intimate partner violence, trauma, and patients with special healthcare needs, and highest for patients differing by sexual orientation, race, and culture. Clinical students rated their preparedness significantly higher than pre-clinical students on most identities and experiences.",
+  "why": "Students report weakest readiness for trauma-affected and special-needs patients, suggesting new dentists may need additional training or support when treating these complex cases."
+ },
+ {
+  "id": "31f7baabbf32",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42867313/",
+  "source": "J Dent Educ",
+  "published": "2026-10-20T21:47:28.035194+00:00",
+  "added": "2026-10-20T21:47:28.035194+00:00",
+  "category": "research",
+  "headline": "Summit Group Proposes Structural Interprofessional Education for Dental Training",
+  "summary": "A nine-member working group at the Reimagining Dental Education Summit at Harvard School of Dental Medicine developed consensus recommendations to move interprofessional education (IPE) from occasional exposure into a measurable, built-in part of predoctoral dental training. The group used a \"future-back\" process and nominal group technique to reach unanimous agreement on five recommendations and proposed evaluation metrics. The recommendations cover measurable oral health outcomes, partnerships beyond medicine, training in integrated care settings such as FQHCs, alumni outcome tracking, and stronger referral communication.",
+  "why": "Dental programs and accreditors may need to shift IPE toward assessable competencies and follow-up on whether graduates change their practice, which could shape how future dentists collaborate with other health professionals."
+ },
+ {
+  "id": "497e5e082a62",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42867002/",
+  "source": "J Dent Educ",
+  "published": "2026-10-20T21:47:28.035194+00:00",
+  "added": "2026-10-20T21:47:28.035194+00:00",
+  "category": "research",
+  "headline": "Consensus Recommendations Aim to Strengthen Dental Faculty Pathways and Retention",
+  "summary": "A working group of eight participants, including dental school deans, clinician-educators, clinician-scientists, and national and federal leaders, developed consensus recommendations to address the shortage of oral health faculty. The group, which met in three facilitated sessions, agreed on five recommendations covering loan repayment, earlier admission pathways, a public awareness campaign, targeted recruitment through fellowships and federal programs, and standardized accreditation expectations for faculty development. The public awareness campaign and faculty loan-repayment program were prioritized as near-term and intermediate efforts, with progress to be tracked through annual reporting and a first review in 2028.",
+  "why": "A shortage of faculty affects the quality of training future dentists receive and, in turn, patient care, so the proposed loan-repayment and pathway incentives could eventually shape the pool of educators available to practices and schools."
+ },
+ {
+  "id": "e5613c325a12",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42889427/",
+  "source": "J Dent Anesth Pain Med",
+  "published": "2026-10-20T21:47:28.035194+00:00",
+  "added": "2026-10-20T21:47:28.035194+00:00",
+  "category": "research",
+  "headline": "Japan study maps travel-time gaps to dental anesthesiology specialists",
+  "summary": "A nationwide Japanese analysis measured travel times from each municipal office to the nearest facility with a board-certified dental anesthesiology specialist, using data from 355 specialists and 1,878 municipalities. It defined \"medical deserts\" as areas 120 minutes or more away, and found that 11.8% of municipalities (221) fell into this rural category, covering 20.1% of land area. Travel time was positively correlated with aging rate, and the authors proposed candidate priority areas such as Matsuyama and Hakodate.",
+  "why": "Specialist anesthesia support is concentrated in cities, so patients in aging rural areas may face long trips for safely managed dental care, a factor to consider when referring or planning services."
+ },
+ {
+  "id": "11bd8a9c0798",
+  "url": "https://orthodonticproductsonline.com/practice-management/continuing-education/the-leadership-lesson-dental-school-never-taught/",
+  "source": "Orthodontic Products",
+  "published": "2026-10-20T20:53:07+00:00",
+  "added": "2026-10-20T21:47:28.035194+00:00",
+  "category": "education",
+  "headline": "AAO and Simon Sinek Launch Leadership Course for Orthodontists",
+  "summary": "The American Association of Orthodontists partnered with leadership expert Simon Sinek on a six-module, self-paced online certificate course covering team leadership, patient communication, and burnout. Launched in October 2024, the program has been completed by more than 600 orthodontists and over 80 office managers, and the next cohort begins January 28, 2027.",
+  "why": ""
  }
 ]
