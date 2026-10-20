@@ -1,49 +1,5 @@
 [
  {
-  "id": "172783defa2b",
-  "url": "https://www.beckersdental.com/staffing-issues/wisconsin-college-launches-dental-hygiene-assistant-programs-with-3-5m-clinic/",
-  "source": "Becker’s Dental Review – DSO + Dental News",
-  "published": "2026-10-20T15:59:36+00:00",
-  "added": "2026-10-20T17:41:41.064246+00:00",
-  "category": "events",
-  "headline": "Wisconsin technical college opens $3.5M dental clinic for hygiene and assistant training",
-  "summary": "Mid-State Technical College has opened a $3.5 million dental clinic in Wisconsin Rapids to support its new dental hygiene and dental assistant programs. The program will take up to 10 students in each field per semester, and the clinic includes simulation labs, dental imaging rooms and dental chairs. Hygiene students are currently in entry-level courses and will start hygiene program classes in the fall.",
-  "why": "The new training capacity adds to the pipeline of hygienists and dental assistants, and the college credited feedback and engagement from the local dental community, which may create opportunities for practices to partner with the program."
- },
- {
-  "id": "07d4f2192164",
-  "url": "https://www.beckersdental.com/executive-moves/5-dentists-stepping-into-new-leadership-roles-2/",
-  "source": "Becker’s Dental Review – DSO + Dental News",
-  "published": "2026-10-20T15:23:40+00:00",
-  "added": "2026-10-20T17:41:41.064246+00:00",
-  "category": "people",
-  "headline": "Five dentists take on new leadership roles across DSOs, schools and associations",
-  "summary": "Smile Brands promoted Jason Genta, DDS, to senior vice president of clinical operations. Thomas Paumier, DDS, was installed as the 163rd president of the American Dental Association, and Nova Southeastern University named Andres Pinto, DDS, DMD, dean of its College of Dental Medicine effective Jan. 2. The roundup also notes that Marcelo Araujo, DDS, PhD, was elected to the FDI World Dental Federation's Science Committee and that the Minnesota Dental Association installed John Noack, DDS, as president for the 2026-27 term.",
-  "why": "Changes in leadership at DSOs, dental schools and professional associations can shift the clinical direction, education priorities and policy agenda that affect how practicing dentists work and train the next generation."
- },
- {
-  "id": "69d4e2408fa8",
-  "url": "https://www.beckersdental.com/ai-teledentistry/videa-expands-its-dental-ai-platform-into-canada-through-cleardent-partnership/",
-  "source": "Becker’s Dental Review – DSO + Dental News",
-  "published": "2026-10-20T15:21:40+00:00",
-  "added": "2026-10-20T17:41:41.064246+00:00",
-  "category": "business",
-  "headline": "Videa's dental AI imaging tools will reach Canadian practices via ClearDent",
-  "summary": "Boston-based Videa has partnered with British Columbia-based ClearDent, a dental practice management platform, to bring Videa's AI imaging into ClearDent's software in Canada. Radiographs captured in ClearDent can be automatically analyzed by Videa's AI, with findings meant to support patient education and treatment acceptance. Videa is the first AI imaging partner to launch through ClearDent's Embedded Experience program.",
-  "why": "Dentists using ClearDent in Canada may gain access to AI-assisted radiograph analysis inside their existing practice management system, which could affect how findings are explained to patients and how treatment is presented."
- },
- {
-  "id": "7bbc89489c3c",
-  "url": "https://www.beckersdental.com/benchmarking/10-dental-schools-with-the-most-graduates/",
-  "source": "Becker’s Dental Review – DSO + Dental News",
-  "published": "2026-10-20T15:06:25+00:00",
-  "added": "2026-10-20T17:41:41.064246+00:00",
-  "category": "research",
-  "headline": "Ranking of US dental schools by 2025-26 graduate count released by ADA data",
-  "summary": "Based on American Dental Association data for the 2025-26 academic year, New York University led the list of dental schools by number of graduates, followed by Tufts University and Boston University. The article lists the top 10 schools, with the ranking ending at Midwestern University with 142 graduates.",
-  "why": "Dentists and dental specialists considering where to recruit new graduates or where to train may find this graduate-volume data useful for understanding the pipeline of incoming dentists."
- },
- {
   "id": "624558fc2adb",
   "url": "https://www.dental-tribune.com/news/review-assesses-evidence-on-3d-printed-versus-thermoformed-aligners-and-retainers/",
   "source": "Articles – Dental Tribune",
@@ -64,28 +20,6 @@
   "headline": "Reexamining tissue-level implants for front-tooth aesthetic cases",
   "summary": "A new clinical article revisits the use of tissue-level implants in anterior restorations, where their role remains debated. The debate centers on limited control over the emergence profile and the possibility of implant collar exposure. The authors argue for their use by examining possible biological and mechanical benefits of the design.",
   "why": "Clinicians placing implants in visible front-tooth sites may find this a useful reference when weighing tissue-level designs against alternatives for aesthetic outcomes."
- },
- {
-  "id": "8b9ce23487ea",
-  "url": "https://www.beckersdental.com/dso-dpms/specialized-dental-partners-adds-200th-partner/",
-  "source": "Becker’s Dental Review – DSO + Dental News",
-  "published": "2026-10-19T20:54:05+00:00",
-  "added": "2026-10-20T17:41:41.064246+00:00",
-  "category": "business",
-  "headline": "Specialized Dental Partners reaches 200 partnerships across 37 states",
-  "summary": "Franklin, Tennessee-based Specialized Dental Partners has marked its 200th partnership. The DSO began in 2018 as US Endo Partners, focused only on endodontists, then expanded into other specialties and was renamed in 2023. According to the company, its network now includes more than 450 doctors and 2,500 team members across 37 states.",
-  "why": "Growth of specialty-focused DSOs like this one signals increasing consolidation among specialty practices, which may affect how independent specialists weigh partnership options."
- },
- {
-  "id": "2ea592191743",
-  "url": "https://www.beckersdental.com/executive-moves/aspen-group-exec-joins-southern-orthodontic-partners/",
-  "source": "Becker’s Dental Review – DSO + Dental News",
-  "published": "2026-10-19T20:36:25+00:00",
-  "added": "2026-10-20T17:41:41.064246+00:00",
-  "category": "people",
-  "headline": "Former Aspen Group sales executive named COO of Southern Orthodontic Partners",
-  "summary": "Nashville-based Southern Orthodontic Partners has appointed Sarah Sharfstein as its chief operating officer. She previously held leadership roles over eight years at The Aspen Group, most recently as vice president of sales enablement and sales effectiveness, and spent more than a decade at Align Technology. The DSO supports more than 120 practices across the southern U.S.",
-  "why": "The hire of a leader with sales and operations experience from large dental companies signals how DSOs are staffing their management teams to support their growing networks of practices."
  },
  {
   "id": "b9a96abb2d00",
@@ -121,17 +55,6 @@
   "why": "For a practicing dentist, this is a vendor recognition rather than a clinical finding, but it highlights practice management software that aims to reduce workflow complexity so teams can focus on patient care."
  },
  {
-  "id": "057791a9cb87",
-  "url": "https://www.beckersdental.com/dso-dpms/dentistry-ma-transactions-drop-27-year-over-year/",
-  "source": "Becker’s Dental Review – DSO + Dental News",
-  "published": "2026-10-19T20:58:52+00:00",
-  "added": "2026-10-20T18:59:48.146307+00:00",
-  "category": "business",
-  "headline": "Dental M&A deal volume falls 27% from a year earlier in Q3 2026",
-  "summary": "Levin Associates reported 51 dental transactions in the third quarter of 2026, which it said accounted for 49% of all physician medical group mergers and acquisitions. Dental deal volume fell 7% from the second quarter and 27% from the third quarter of 2025. DSOs made up 30 of the deals, including 16 by private equity-backed DSOs, with Imagen Dental Partners and Heartland Dental among the most active.",
-  "why": "A slowdown in dental deal activity, especially among DSOs and private equity-backed groups, signals shifting competition and buyer interest that could affect practice sale and partnership options."
- },
- {
   "id": "ce4fd9f42ecf",
   "url": "https://www.dentistrytoday.com/dentsply-sirona-marks-five-years-of-sustainability-progress/",
   "source": "Dentistry Today",
@@ -163,50 +86,6 @@
   "headline": "Solventum launches redesigned Filtek Matrix system for conservative anterior composites",
   "summary": "Solventum has made available a next-generation Filtek Matrix restorative system, built on matrix technology first introduced in 2022. The redesign adds a new delivery system meant to make placement and cleanup more efficient, and it works with a digital workflow and Solventum's restorative materials. Through its Clarity Portal planning platform, clinicians receive patient-specific treatment plans, and a customized 3D-printed matrix is then used to guide placement of Filtek restoratives.",
   "why": "Dentists placing anterior composites may find that a more efficient matrix delivery and cleanup process could save chair time and support conservative, natural-looking restorations for patients."
- },
- {
-  "id": "c348bda256d3",
-  "url": "https://www.beckersdental.com/dso-dpms/vitana-pediatric-orthodontic-partners-adds-louisiana-practice/",
-  "source": "Becker’s Dental Review – DSO + Dental News",
-  "published": "2026-10-20T15:18:18+00:00",
-  "added": "2026-10-20T19:50:34.313347+00:00",
-  "category": "business",
-  "headline": "Vitana Pediatric & Orthodontic Partners adds Hollis Orthodontics in Louisiana",
-  "summary": "Vitana Pediatric & Orthodontic Partners, a Fort Lauderdale-based group, has added Hollis Orthodontics in Baton Rouge, Louisiana, to its network, according to an October 19 LinkedIn post. The practice is led by Bryan Hollis, DDS. The group, which supports practices in 10 states, earlier added Saratoga Investment Corp. as a debt financing partner in June to fund its growth.",
-  "why": "It shows continued consolidation by dental support organizations, which may matter to independent orthodontic and pediatric practices weighing affiliation or financing options."
- },
- {
-  "id": "da263ddc9a14",
-  "url": "https://www.beckersdental.com/dentists/wvu-dental-school-lands-15m-in-federal-funding/",
-  "source": "Becker’s Dental Review – DSO + Dental News",
-  "published": "2026-10-20T20:15:56+00:00",
-  "added": "2026-10-20T20:23:59.848447+00:00",
-  "category": "policy",
-  "headline": "WVU School of Dentistry receives $15M federal award for renovations and equipment",
-  "summary": "The West Virginia University School of Dentistry in Morgantown received a $15 million Congressionally Directed Spending award through the Health Resources and Services Administration. Sen. Shelley Capito, who helped secure the funding, announced it in an October 20 release, and the money will go toward dental school renovations and equipment purchases. The school had also received $12.6 million in 2024 for an expansion and renovation project.",
-  "why": ""
- },
- {
-  "id": "af05b59d9714",
-  "url": "https://www.beckersdental.com/featured-perspectives/the-future-of-dentistry-wont-be-won-in-the-operatory-5-dentists-on-vertical-integration/",
-  "source": "Becker’s Dental Review – DSO + Dental News",
-  "published": "2026-10-20T16:33:55+00:00",
-  "added": "2026-10-20T20:23:59.848447+00:00",
-  "category": "business",
-  "headline": "Five dentists weigh in on how vertical integration will reshape dental care",
-  "summary": "Becker's Dental Review gathered views from five dental leaders on vertical integration, prompted by Optum's recently awarded $30 billion VA dental contract. The article notes that payers and large health systems are moving deeper into dentistry, and that dental executives expect financial performance to determine which practices survive. The excerpt also cites VA figures showing more than 800,000 veterans received dental care through the VA in fiscal year 2025.",
-  "why": "Dentists should expect growing pressure from large payers and health systems, which could affect practice independence, reimbursement, and referral patterns, so financial planning and strategy matter more."
- },
- {
-  "id": "31fe00b2252e",
-  "url": "https://www.beckersdental.com/dental-technology/align-technology-lands-another-court-victory-in-patent-battle-against-angelalign/",
-  "source": "Becker’s Dental Review – DSO + Dental News",
-  "published": "2026-10-20T15:11:37+00:00",
-  "added": "2026-10-20T20:23:59.848447+00:00",
-  "category": "business",
-  "headline": "Unified Patent Court sides with Align Technology in Angelalign infringement case",
-  "summary": "The Unified Patent Court ruled that Angelalign's aligner systems using its Torque Ridges feature infringe Align Technology's Power Ridge patent, and it rejected Angelalign's challenges to the patent's validity. Angelalign must stop offering the systems in 17 countries, recall and destroy infringing products, and pay damages. The ruling can still be appealed, and a separate Chinese court earlier found Angelalign's MasterForce and ATreat systems infringed Align's patent rights.",
-  "why": "This ongoing dispute between two clear-aligner makers could affect which aligner products are available in Europe and how competition in the market plays out for practices that offer clear aligners."
  },
  {
   "id": "4506e46043e0",
