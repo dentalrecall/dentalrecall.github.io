@@ -1131,5 +1131,16 @@
   "headline": "Occlusal Trauma Linked to MRONJ Around Implants in Mouse Study",
   "summary": "In a mouse model, researchers placed implants after molar extraction, then gave zoledronic acid or saline before inducing premature occlusal contact on one implant per animal. Occlusal contact reduced bone-to-implant contact in both groups, and in zoledronic acid-treated mice it caused widespread circumferential bone necrosis with more macrophages. Peptidoglycan-positive bacterial signals did not differ among groups.",
   "why": "This suggests occlusal trauma may act as a local contributor to MRONJ around osseointegrated implants in patients on antiresorptive drugs, so occlusal assessment may matter in these patients, though the findings come from an animal study."
+ },
+ {
+  "id": "2c8717b47f30",
+  "url": "https://www.dental-tribune.com/news/3ddx-launches-3ddx-ai-planning-ai-prepared-implant-plans-with-a-dentist-in-the-loop/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-10-21T10:52:04+00:00",
+  "added": "2026-10-21T13:06:36.350446+00:00",
+  "category": "products",
+  "headline": "3DDX launches AI Planning tool for dental implant cases",
+  "summary": "Digital dentistry company 3DDX has launched 3DDX AI Planning, which it describes as the first AI implant planning solution with a human in the loop. The system generates AI implant plans that are reviewed by the company's in-house dentists before they move into production. Approved plans are linked to surgical guide and restoration manufacturing in one workflow.",
+  "why": "Dentists who place implants or use surgical guides may see a new option for AI-generated planning, but each plan still gets clinical review by 3DDX dentists before production."
  }
 ]
