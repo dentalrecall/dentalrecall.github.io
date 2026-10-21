@@ -1109,5 +1109,27 @@
   "headline": "Shed primary teeth show higher chemical levels in children with autism",
   "summary": "US scientists analysed naturally shed primary teeth from children with and without autism. The autism group had higher concentrations of many environmental chemicals, and the researchers called the results preliminary and in need of further study.",
   "why": "This is early-stage research, so it does not change clinical practice, but it highlights that primary teeth can serve as a record of childhood chemical exposure."
+ },
+ {
+  "id": "107e0fa9bf9d",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42902506/",
+  "source": "Clin Oral Implants Res",
+  "published": "2026-10-21T09:53:22.057987+00:00",
+  "added": "2026-10-21T09:53:22.057987+00:00",
+  "category": "research",
+  "headline": "Combining biomarkers with clinical measures improves detection of peri-implant bone loss",
+  "summary": "A university-based cohort of dental implant patients was followed for a mean of 3.9 years, with peri-implant bone loss defined by radiographic change over that period. Host-derived and microbial biomarkers alone were poor detectors of bone loss (best AUC 0.68), and their links to bone loss disappeared after adjusting for clinical parameters. Combinations of biomarkers with clinical measures performed well, with IL-1β plus bleeding on probing or probing depth reaching an AUC of 0.97, though that combination did not beat clinical parameters alone.",
+  "why": "Individual salivary or fluid biomarkers are not reliable on their own for spotting implant bone loss, so routine monitoring should keep relying on clinical measures, with biomarkers possibly adding value as part of a combined screening approach."
+ },
+ {
+  "id": "c85293fc94c1",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42902500/",
+  "source": "Clin Oral Implants Res",
+  "published": "2026-10-21T09:53:22.057987+00:00",
+  "added": "2026-10-21T09:53:22.057987+00:00",
+  "category": "research",
+  "headline": "Occlusal Trauma Linked to MRONJ Around Implants in Mouse Study",
+  "summary": "In a mouse model, researchers placed implants after molar extraction, then gave zoledronic acid or saline before inducing premature occlusal contact on one implant per animal. Occlusal contact reduced bone-to-implant contact in both groups, and in zoledronic acid-treated mice it caused widespread circumferential bone necrosis with more macrophages. Peptidoglycan-positive bacterial signals did not differ among groups.",
+  "why": "This suggests occlusal trauma may act as a local contributor to MRONJ around osseointegrated implants in patients on antiresorptive drugs, so occlusal assessment may matter in these patients, though the findings come from an animal study."
  }
 ]
