@@ -1065,5 +1065,27 @@
   "headline": "Air polishing adds no clear probing depth benefit in non-surgical peri-implantitis care",
   "summary": "A systematic review and meta-analysis of 14 studies, ten of them pooled, examined air polishing used alongside or in place of conventional non-surgical instrumentation for peri-implantitis. At six months, adding air polishing did not produce a meaningful change in probing pocket depth compared with instrumentation alone, and no significant differences appeared at other timepoints or for bleeding on probing. The evidence was rated low to very low certainty, and the authors found the data too imprecise to judge air polishing as a replacement.",
   "why": ""
+ },
+ {
+  "id": "b067e089b218",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42901221/",
+  "source": "J Oral Maxillofac Surg",
+  "published": "2026-10-21T04:52:08.507543+00:00",
+  "added": "2026-10-21T04:52:08.507543+00:00",
+  "category": "research",
+  "headline": "Narrative review surveys hemostatic agents for dental and oral surgery",
+  "summary": "A narrative review in the Journal of Oral and Maxillofacial Surgery summarizes local and systemic hemostatic agents used in dental, oral, and maxillofacial surgery, covering mechanisms, uses, efficacy, and safety. It screened literature from January 2020 through November 2025 and reviewed seven clinical cases to illustrate practical use. The authors found mechanical agents effective for routine bleeding, active and flowable agents helpful for persistent or diffuse bleeding, and tranexamic acid particularly useful in patients on antithrombotic therapy.",
+  "why": "It offers a current evidence overview to help clinicians choose hemostatic agents based on bleeding pattern, procedure complexity, and patient risk, especially for patients on blood-thinning medications."
+ },
+ {
+  "id": "624559c9238c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42901220/",
+  "source": "J Oral Maxillofac Surg",
+  "published": "2026-10-21T04:52:08.507543+00:00",
+  "added": "2026-10-21T04:52:08.507543+00:00",
+  "category": "research",
+  "headline": "VR Operating Room Tour Tested as Preoperative Aid for Oral Surgery Patients",
+  "summary": "Researchers built a virtual reality tour of the operating room using a three-dimensional camera that recorded the route from the hospital ward to the central operating room. Oral and maxillofacial surgery patients watched the tour the day before surgery and then completed a questionnaire on realism, satisfaction, anxiety, and fear. The authors describe the tour as a feasible supplementary tool for preoperative orientation.",
+  "why": "Since preoperative operating room visits are often impractical, a VR walkthrough could help dental surgery patients, many of whom are young, feel less anxious before general anesthesia, though the excerpt does not report the size of any effect."
  }
 ]
