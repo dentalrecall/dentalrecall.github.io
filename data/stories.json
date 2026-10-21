@@ -1153,5 +1153,60 @@
   "headline": "Treatment acceptance depends on addressing patient concerns before cost talks",
   "summary": "The article argues that dental treatment acceptance improves when practices look beyond insurance and cost to address what patients are worried about. It points to strong team communication, empathetic conversations, and patient-centered care as ways to build trust so patients feel comfortable moving forward with recommended treatment.",
   "why": "Practices may see better case acceptance by focusing on patient trust and team communication early in the conversation, not only on financial arrangements."
+ },
+ {
+  "id": "227d5a5f090f",
+  "url": "https://www.dentistrytoday.com/dr-sara-mahmood-on-digital-dentistry-suresmile-practice-growth/",
+  "source": "Dentistry Today",
+  "published": "2026-10-21T14:29:37+00:00",
+  "added": "2026-10-21T14:52:48.924240+00:00",
+  "category": "people",
+  "headline": "Dr. Sara Mahmood on digital dentistry, SureSmile, and growing a practice",
+  "summary": "In a video interview filmed at DS World 2026, Dentistry Today editor-in-chief Dr. Paul Feuerstein speaks with Dr. Sara Mahmood, founder and owner of brush365, a six-location practice group. The conversation covers her use of Dentsply Sirona technologies such as CEREC, CBCT, 3D printing, and DS Core, as well as her experience with SureSmile clear aligners, including IPR and attachments. It also touches on leadership, delegation, and mentorship.",
+  "why": "It offers a practicing dentist's perspective on how investing early in digital workflows and clear aligner planning can shape a multi-location practice's growth and clinical collaboration."
+ },
+ {
+  "id": "3ef1f62aef3d",
+  "url": "https://www.dentistrytoday.com/johannes-krug-wolf-dieter-perlitz-on-ds-core-ai-and-connected-dentistry/",
+  "source": "Dentistry Today",
+  "published": "2026-10-21T14:28:03+00:00",
+  "added": "2026-10-21T14:52:48.924240+00:00",
+  "category": "tech",
+  "headline": "Dentsply Sirona execs discuss DS Core cloud platform and AI in connected dentistry",
+  "summary": "At Dentsply Sirona World 2026, Dentistry Today's editor-in-chief interviewed Johannes Krug and Wolf-Dieter Perlitz about the company's move from standalone equipment toward integrated solutions. The discussion covered DS Core, its cloud-based platform that links scanners, milling systems, imaging and digital workflows, along with AI that flags potential findings in diagnostic images while leaving decisions to the dentist.",
+  "why": "Connected cloud workflows and AI-assisted imaging could affect how practices share patient information with specialists and streamline daily operations, though the excerpt is promotional and gives no specifics on results."
+ },
+ {
+  "id": "72d84967c62e",
+  "url": "https://www.dentistrytoday.com/heartland-dental-reaches-2000-supported-dental-offices/",
+  "source": "Dentistry Today",
+  "published": "2026-10-21T14:25:52+00:00",
+  "added": "2026-10-21T14:52:48.924240+00:00",
+  "category": "business",
+  "headline": "Heartland Dental Reaches 2,000 Supported Dental Offices",
+  "summary": "Heartland Dental, the nation's largest dental support organization, has reached 2,000 supported offices. The company says it grew from a single practice to more than 1,900 practices across 38 states and the District of Columbia by the end of 2025. Its model keeps clinical decisions with doctors while providing business, administrative, technology, and continuing education support, and it now supports more than 10,000 doctors and hygienists.",
+  "why": "For dentists weighing affiliation, this shows how large DSOs are expanding by offering non-clinical services such as billing, HR, and marketing while leaving clinical judgment with the doctor."
+ },
+ {
+  "id": "4d5535c9b350",
+  "url": "https://www.dentistrytoday.com/roe-dental-lab-introduces-archbridge-overdenture-system/",
+  "source": "Dentistry Today",
+  "published": "2026-10-21T14:13:50+00:00",
+  "added": "2026-10-21T14:52:48.924240+00:00",
+  "category": "products",
+  "headline": "ROE Dental Lab launches ArchBridge digital overdenture scanning system",
+  "summary": "ROE Dental Laboratory has introduced ArchBridge for Overdenture, a patent-pending digital scanning system and workflow for fixed and removable overdenture cases. Clinicians record attachment positions intraorally with six reusable titanium scan bodies, and the lab places and cures the overdenture housings without poured models, analogs, or chairside pickup.",
+  "why": "Moving housing placement to the lab could remove chairside blockout and acrylic pickup steps for overdenture cases, though the excerpt does not give clinical outcome data."
+ },
+ {
+  "id": "0a08b86b053f",
+  "url": "https://www.dentistrytoday.com/smartee-highlights-class-ii-treatment-at-sido-2026/",
+  "source": "Dentistry Today",
+  "published": "2026-10-21T14:08:12+00:00",
+  "added": "2026-10-21T14:52:48.924240+00:00",
+  "category": "events",
+  "headline": "Smartee Presents Class II Mandibular Repositioning Approach at SIDO 2026",
+  "summary": "Smartee Denti-Technology took part in the 57th SIDO International Congress in Turin, held October 8–10, discussing complex case management and digital tools in orthodontic decisions. Dr. Jingting Lu gave a clinical lecture on S8-SGTB, part of the Smartee GS system, which pairs Mandibular Repositioning Technology with clear aligners to treat severe skeletal Class II jaw discrepancies.",
+  "why": ""
  }
 ]
