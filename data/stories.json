@@ -1252,5 +1252,16 @@
   "headline": "Implant-anchored 3D-printed titanium mesh rebuilds severe maxilla in ectodermal dysplasia case",
   "summary": "A case report describes a 24-year-old man with ectodermal dysplasia, oligodontia, and severe maxillary ridge hypoplasia who had only four permanent teeth left. Treatment combined orthodontics, restoration of remaining teeth, bilateral sinus floor elevation, and staged implant placement, with two posterior implants anchoring a custom 3D-printed titanium mesh for guided bone regeneration. Six implants were ultimately restored with fixed prostheses, and at about four years all implants were functioning with healthy peri-implant tissue and no complications.",
   "why": "It shows that patient-specific printed titanium mesh, secured by implants, can be part of a digitally planned approach to rebuilding severely deficient jaws, though this is a single case with a relatively short follow-up."
+ },
+ {
+  "id": "e0eb04ebe2ce",
+  "url": "https://www.dental-tribune.com/news/us-appeals-court-revives-antitrust-claims-against-align-technology/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-10-22T07:47:17+00:00",
+  "added": "2026-10-22T08:00:24.747793+00:00",
+  "category": "business",
+  "headline": "Appeals court revives antitrust suit over Align's Invisalign scanner access",
+  "summary": "A US federal appeals court has reinstated antitrust claims against Align Technology tied to its 2017 decision to end software interoperability between Invisalign and 3Shape intra-oral scanners. The 9th Circuit reversed a lower court's summary judgment in Align's favor, so the claims can proceed to trial.",
+  "why": "The ruling could affect how Invisalign works with scanners from other manufacturers, which matters for practices choosing digital impression systems and for the competitive landscape of clear aligner workflows."
  }
 ]
