@@ -1312,5 +1312,16 @@
   "headline": "GuidedSMILE Gains New U.S. Patent for Guided Implant Surgery Fixation Base",
   "summary": "The USPTO issued U.S. Patent No. 12,758,365 to GuidedSMILE, covering a fixation base and guides for dental prosthesis installation, announced October 13, 2026. The patent adds 17 claims to the company's portfolio and is described as the broadest claims in the GuidedSMILE patent family to date. The company says its methodology has been used in more than 50,000 patient cases.",
   "why": ""
+ },
+ {
+  "id": "a7440fd182e0",
+  "url": "https://www.dentistrytoday.com/simplifying-implant-supported-overdenture-prosthetics-a-digital-workflow/",
+  "source": "Dentistry Today",
+  "published": "2026-10-22T15:53:40+00:00",
+  "added": "2026-10-22T16:53:49.736076+00:00",
+  "category": "tech",
+  "headline": "Digital Workflow Aims to Simplify Implant-Supported Overdenture Prosthetics",
+  "summary": "The article describes the ArchBridge for Overdenture digital workflow from ROE Dental Laboratory, which pairs uniquely identifiable scan bodies with digital capture of a patient's existing denture or overdenture. The workflow uses that prosthesis as a restorative template to record implant position, soft tissue, occlusion, and vertical dimension, enabling a model-free laboratory process. The authors frame it as a response to the difficulty of transferring implant position while keeping the patient's established occlusion and tooth arrangement.",
+  "why": "For dentists restoring edentulous patients with implant overdentures, this offers a possible digital alternative to technique-sensitive conventional implant impressions, though the excerpt does not report outcomes or comparative accuracy data."
  }
 ]
