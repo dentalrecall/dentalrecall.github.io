@@ -1241,5 +1241,16 @@
   "headline": "Betsy Shapiro Receives ADA Distinguished Service Award at 2026 Scientific Session",
   "summary": "The American Dental Association recognized Dr. Elizabeth \"Betsy\" Shapiro with its Distinguished Service Award, the highest honor given by the ADA Board of Trustees, at the 2026 Scientific Session in Indianapolis. Shapiro has served the ADA for more than 15 years, currently as Chief of Governance and Strategy Management, and was interim Executive Director in 2025. Three other awards were also presented at the meeting, including the Norton M. Ross Award for Excellence in Clinical Research.",
   "why": "The recognition highlights leadership changes within the ADA, the national association that shapes policy and programs affecting practicing dentists."
+ },
+ {
+  "id": "a3104e125454",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42901219/",
+  "source": "J Oral Maxillofac Surg",
+  "published": "2026-10-22T04:52:25.307281+00:00",
+  "added": "2026-10-22T04:52:25.307281+00:00",
+  "category": "research",
+  "headline": "Implant-anchored 3D-printed titanium mesh rebuilds severe maxilla in ectodermal dysplasia case",
+  "summary": "A case report describes a 24-year-old man with ectodermal dysplasia, oligodontia, and severe maxillary ridge hypoplasia who had only four permanent teeth left. Treatment combined orthodontics, restoration of remaining teeth, bilateral sinus floor elevation, and staged implant placement, with two posterior implants anchoring a custom 3D-printed titanium mesh for guided bone regeneration. Six implants were ultimately restored with fixed prostheses, and at about four years all implants were functioning with healthy peri-implant tissue and no complications.",
+  "why": "It shows that patient-specific printed titanium mesh, secured by implants, can be part of a digitally planned approach to rebuilding severely deficient jaws, though this is a single case with a relatively short follow-up."
  }
 ]
