@@ -1345,5 +1345,16 @@
   "headline": "CareCredit Adds Pay Later Installment Loan for Elective Health Care Costs",
   "summary": "Synchrony's CareCredit has launched CareCredit Pay Later, a one-time-use installment loan with fixed monthly payments and a fixed APR for elective health and wellness costs not covered by insurance. It is available at nearly 20,000 locations, including select dental practices, and is offered alongside the traditional revolving CareCredit card through a single application. Providers also get a Provider Center payment calculator that includes the new option and can adjust loan amounts before funding.",
   "why": ""
+ },
+ {
+  "id": "fa4e15981c74",
+  "url": "https://decisionsindentistry.com/2026/10/your-5-star-reviews-are-hiding-something-how-ai-review-analysis-reveals-what-your-practice-is-missing/",
+  "source": "Decisions in Dentistry",
+  "published": "2026-10-22T23:27:38+00:00",
+  "added": "2026-10-22T23:46:00.618376+00:00",
+  "category": "tech",
+  "headline": "AI review analysis can surface hidden service gaps in five-star patient feedback",
+  "summary": "The article argues that even positive Google reviews contain comments about wait times and other friction that teams often miss. It describes using AI tools such as ChatGPT, Claude, or Gemini to sort and count recurring themes across a year of reviews, with three practices sharing examples at each stage of the patient visit. The piece also offers copy-and-paste AI prompts and a chart for assigning each fix to a team member.",
+  "why": "Patient reviews, including praise with caveats, can be a low-cost source of insight into front-desk, paperwork, and chairside issues that practices can then assign to specific staff."
  }
 ]
