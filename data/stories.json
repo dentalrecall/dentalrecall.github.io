@@ -1263,5 +1263,16 @@
   "headline": "Appeals court revives antitrust suit over Align's Invisalign scanner access",
   "summary": "A US federal appeals court has reinstated antitrust claims against Align Technology tied to its 2017 decision to end software interoperability between Invisalign and 3Shape intra-oral scanners. The 9th Circuit reversed a lower court's summary judgment in Align's favor, so the claims can proceed to trial.",
   "why": "The ruling could affect how Invisalign works with scanners from other manufacturers, which matters for practices choosing digital impression systems and for the competitive landscape of clear aligner workflows."
+ },
+ {
+  "id": "0fe0b137e926",
+  "url": "https://www.dental-tribune.com/news/nextdent-300-streamlines-digital-denture-fabrication/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-10-22T07:41:59+00:00",
+  "added": "2026-10-22T08:57:43.087968+00:00",
+  "category": "products",
+  "headline": "NextDent 300 aims to simplify digital denture production",
+  "summary": "3D Systems has introduced the NextDent Jetted Denture Solution, an integrated approach meant to address bottlenecks in digital denture manufacturing. The excerpt notes that separate printing steps, manual assembly, post-polymerisation and lengthy finishing can erode the efficiency expected from a fully digital workflow.",
+  "why": "For dentists who work with dental labs, a more streamlined denture workflow could shorten turnaround times and reduce manual steps in producing digital dentures."
  }
 ]
