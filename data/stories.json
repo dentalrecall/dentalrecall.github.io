@@ -1576,5 +1576,16 @@
   "headline": "Coast Dental to Pay $3.8M to Settle Suit Over Unwanted Calls and Texts",
   "summary": "Coast Dental, a DSO with practices in Florida, Georgia, and Texas, agreed to pay more than $3.8 million to settle a class action alleging it violated federal and Florida telephone consumer protection laws. The suit claims the company made unsolicited calls and texts encouraging scheduling, including to people who had opted out. The company does not admit wrongdoing, and class members can choose $59 cash or a free power toothbrush (sold by the practice for $99) by October 30.",
   "why": "Practices that use phone or text marketing need documented opt-in consent and opt-out handling, since violations of these telephone laws can lead to costly class action settlements."
+ },
+ {
+  "id": "74d9843ac095",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42910647/",
+  "source": "J Dent Educ",
+  "published": "2026-10-23T22:48:48.772616+00:00",
+  "added": "2026-10-23T22:48:48.772616+00:00",
+  "category": "research",
+  "headline": "Short case-based dental-pharmacy training improves collaboration skills in students",
+  "summary": "A study evaluated a single 3-hour interprofessional session in which 118 third-year dental students and second-year pharmacy students worked through an anticoagulant case involving a patient taking apixaban before a tooth extraction. Using a retrospective pre-post survey, 19 of 20 self-rated collaboration competencies improved significantly, with small-to-moderate effect sizes. Students also described clearer understanding of each profession's role and greater confidence communicating across disciplines, though scheduling and instruction problems reduced engagement for some.",
+  "why": "It suggests that brief, case-focused training with pharmacists may help dentists coordinate safely on medically complex patients on high-risk medications, and that clear logistics matter for making such training work."
  }
 ]
