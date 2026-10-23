@@ -1411,5 +1411,27 @@
   "headline": "Survey of Sana'a dentists reveals gaps in TMD care under conflict conditions",
   "summary": "Researchers in Yemen surveyed dentists in Sana'a about physical therapies for temporomandibular disorder (TMD), an area where earlier studies found knowledge and use gaps. The work focused on conflict-affected healthcare settings, where little was previously known. Based on the findings, the team proposed targeted training and practical TMD management approaches suited to local constraints.",
   "why": "It points to the value of focused continuing education on physical therapy options for TMD and of treatment approaches that work within limited resources."
+ },
+ {
+  "id": "2897d590de36",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42908344/",
+  "source": "J Periodontol",
+  "published": "2026-10-23T09:53:29.850026+00:00",
+  "added": "2026-10-23T09:53:29.850026+00:00",
+  "category": "research",
+  "headline": "Commentary urges explicit causal reasoning in oral health research",
+  "summary": "This Journal of Periodontology commentary argues that oral health studies often present adjusted associations as causal effects despite using advanced statistics. The author proposes a four-pillar framework: defining a precise estimand, aligning study design with it, using counterfactual reasoning and directed acyclic graphs to guide adjustment, and interpreting estimates with explicit attention to causal assumptions. The framework is illustrated with a worked example on periodontal treatment and cardiovascular disease.",
+  "why": "It suggests that dentists reading periodontal or systemic-health studies should look closely at whether causal claims rest on clearly stated assumptions, not just on statistical significance."
+ },
+ {
+  "id": "57a1cd6b6645",
+  "url": "https://www.dental-tribune.com/news/finnish-study-highlights-the-need-for-coordinated-dental-care-in-metastatic-breast-cancer/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-10-23T09:18:04+00:00",
+  "added": "2026-10-23T09:53:29.850026+00:00",
+  "category": "research",
+  "headline": "Finnish study examines jaw osteonecrosis risk in breast cancer patients with bone metastases",
+  "summary": "A nationwide Finnish study looked at how often medication-related osteonecrosis of the jaws (MRONJ) occurs in patients with breast cancer that has spread to bone. These patients take anti-resorptive drugs to limit bone damage, pain and fractures, and this group had not been studied before in Finland. The authors highlight the need for dental and oncology professionals to work together.",
+  "why": "Dentists treating patients on anti-resorptive drugs for metastatic breast cancer should coordinate closely with the patient's oncology team to manage MRONJ risk."
  }
 ]
