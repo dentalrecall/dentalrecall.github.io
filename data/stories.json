@@ -1565,5 +1565,16 @@
   "headline": "Carestream launches CS 1300 intraoral camera for image capture and patient communication",
   "summary": "Carestream Dental has introduced the CS 1300 intraoral camera, aimed at producing high-quality images for patient communication and clinical documentation. It features a 280° rotating head, nine adjustable LED lights with selectable color-temperature modes, and dual autofocus with a 10–100 mm focus range. The camera works with CS Imaging version 8 and other imaging software, and connects via USB without drivers.",
   "why": "For a practice, this is a new intraoral camera option that could make chairside image capture and sharing with patients quicker, with plug-and-play setup and compatibility with existing imaging software."
+ },
+ {
+  "id": "9c9a8d9e7ebe",
+  "url": "https://decisionsindentistry.com/2026/10/dental-practice-is-hit-with-lawsuit-due-to-unwanted-calls-and-texts/",
+  "source": "Decisions in Dentistry",
+  "published": "2026-10-23T20:59:30+00:00",
+  "added": "2026-10-23T21:50:20.095169+00:00",
+  "category": "business",
+  "headline": "Coast Dental to Pay $3.8M to Settle Suit Over Unwanted Calls and Texts",
+  "summary": "Coast Dental, a DSO with practices in Florida, Georgia, and Texas, agreed to pay more than $3.8 million to settle a class action alleging it violated federal and Florida telephone consumer protection laws. The suit claims the company made unsolicited calls and texts encouraging scheduling, including to people who had opted out. The company does not admit wrongdoing, and class members can choose $59 cash or a free power toothbrush (sold by the practice for $99) by October 30.",
+  "why": "Practices that use phone or text marketing need documented opt-in consent and opt-out handling, since violations of these telephone laws can lead to costly class action settlements."
  }
 ]
