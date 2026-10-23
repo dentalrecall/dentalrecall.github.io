@@ -1400,5 +1400,16 @@
   "headline": "In vitro study compares guide printing methods and implant design in static guided surgery",
   "summary": "An in vitro study placed 80 implants in resin bone models using guides printed by either digital light processing or material extrusion. Positional deviations were smaller at healed premolar ridges than at molar extraction sites, and the two Straumann tissue-level implants differed in deviation and primary stability.",
   "why": "For guided implant placement, printing technology did not change accuracy in this lab setting, but molar extraction sites showed larger deviations and the chosen implant design affected both accuracy and stability, so extra safety margins may be warranted there until in vivo results are available."
+ },
+ {
+  "id": "defdc26d722b",
+  "url": "https://www.dental-tribune.com/news/yemen-study-highlights-gaps-in-dental-tmd-care/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-10-23T07:38:39+00:00",
+  "added": "2026-10-23T08:54:17.595278+00:00",
+  "category": "research",
+  "headline": "Survey of Sana'a dentists reveals gaps in TMD care under conflict conditions",
+  "summary": "Researchers in Yemen surveyed dentists in Sana'a about physical therapies for temporomandibular disorder (TMD), an area where earlier studies found knowledge and use gaps. The work focused on conflict-affected healthcare settings, where little was previously known. Based on the findings, the team proposed targeted training and practical TMD management approaches suited to local constraints.",
+  "why": "It points to the value of focused continuing education on physical therapy options for TMD and of treatment approaches that work within limited resources."
  }
 ]
