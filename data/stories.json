@@ -1356,5 +1356,49 @@
   "headline": "AI review analysis can surface hidden service gaps in five-star patient feedback",
   "summary": "The article argues that even positive Google reviews contain comments about wait times and other friction that teams often miss. It describes using AI tools such as ChatGPT, Claude, or Gemini to sort and count recurring themes across a year of reviews, with three practices sharing examples at each stage of the patient visit. The piece also offers copy-and-paste AI prompts and a chart for assigning each fix to a team member.",
   "why": "Patient reviews, including praise with caveats, can be a low-cost source of insight into front-desk, paperwork, and chairside issues that practices can then assign to specific staff."
+ },
+ {
+  "id": "8d1769d72bd4",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42906628/",
+  "source": "J Oral Maxillofac Surg",
+  "published": "2026-10-23T03:53:43.415696+00:00",
+  "added": "2026-10-23T03:53:43.415696+00:00",
+  "category": "research",
+  "headline": "Cone-beam CT study compares soft and hard tissue changes after sliding genioplasty for microgenia",
+  "summary": "A retrospective cohort study from a Zhejiang University hospital used cone-beam CT three-dimensional cephalometric analysis to examine patients with microgenia who underwent advancement sliding genioplasty between January 2024 and January 2025. Patients were grouped by facial convexity angle (≤25° or >25°), and the soft-to-hard tissue movement ratio was compared between groups. The authors report a sagittal difference only at the menton and describe stable movement ratios in both sagittal and vertical chin movements.",
+  "why": "The findings offer quantitative data that could help surgeons and orthodontic or surgical planners predict how the soft tissue profile will respond after chin advancement, though the excerpt does not give the full results or clinical recommendations."
+ },
+ {
+  "id": "2cb783ec5649",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42906943/",
+  "source": "Clin Implant Dent Relat Res",
+  "published": "2026-10-23T03:53:43.415696+00:00",
+  "added": "2026-10-23T03:53:43.415696+00:00",
+  "category": "research",
+  "headline": "Single implants placed 1982-1985 show high satisfaction after nearly 39 years",
+  "summary": "A cross-sectional study followed 13 patients with 18 single dental implants placed between 1982 and 1985, with a mean follow-up of 38.9 years. Patients reported high overall treatment and functional satisfaction, while esthetic ratings and professional soft-tissue scores were more variable. Incisal and cervical crown discrepancies were seen at all six assessable anterior sites, but without baseline esthetic data they cannot be attributed specifically to progressive infraposition.",
+  "why": "It offers rare very-long-term evidence that single implants can keep patients satisfied, though esthetic results and soft-tissue appearance varied and the small sample limits how far the findings apply to routine practice."
+ },
+ {
+  "id": "088db0b38419",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42906676/",
+  "source": "J Endod",
+  "published": "2026-10-23T03:53:43.415696+00:00",
+  "added": "2026-10-23T03:53:43.415696+00:00",
+  "category": "research",
+  "headline": "On-demand dosing matches scheduled analgesics for postop pain after endodontic treatment",
+  "summary": "A randomized trial at a graduate endodontic clinic compared scheduled and on-demand dosing of ibuprofen and acetaminophen in emergency patients with symptomatic apical periodontitis. Of 172 enrolled patients, 126 completed diaries and returned pill counts over 3 days after treatment. Scheduled dosing led to roughly double the medication use, yet pain relief did not differ significantly between groups.",
+  "why": "Dentists may consider advising patients to take ibuprofen and acetaminophen as needed rather than on a fixed schedule, which could reduce medication intake without sacrificing pain control."
+ },
+ {
+  "id": "b375fad2b23b",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42906837/",
+  "source": "J Dent",
+  "published": "2026-10-23T03:53:43.415696+00:00",
+  "added": "2026-10-23T03:53:43.415696+00:00",
+  "category": "research",
+  "headline": "In vitro study compares guide printing methods and implant design in static guided surgery",
+  "summary": "An in vitro study placed 80 implants in resin bone models using guides printed by either digital light processing or material extrusion. Positional deviations were smaller at healed premolar ridges than at molar extraction sites, and the two Straumann tissue-level implants differed in deviation and primary stability.",
+  "why": "For guided implant placement, printing technology did not change accuracy in this lab setting, but molar extraction sites showed larger deviations and the chosen implant design affected both accuracy and stability, so extra safety margins may be warranted there until in vivo results are available."
  }
 ]
