@@ -1510,5 +1510,38 @@
   "headline": "DentalXChange Appoints Scott Hampel as President",
   "summary": "DentalXChange, a revenue cycle management provider for dentistry, has named Scott Hampel as its president. He brings more than 25 years of healthcare technology leadership and will oversee the company's product, operations, and engineering teams, reporting to CEO Paul Kaiser. The company says combining those functions under one leader should speed delivery of new solutions such as Eligibility AI, Reconcile AI, PayConnect, PortalPass, and XConnect.",
   "why": "A leadership change at a dental billing and claims company may affect how quickly new tools for insurance eligibility and payment reach dental offices."
+ },
+ {
+  "id": "88d87d7d1daf",
+  "url": "https://decisionsindentistry.com/2026/10/when-titanium-triggers-inflammation/",
+  "source": "Decisions in Dentistry",
+  "published": "2026-10-23T17:48:09+00:00",
+  "added": "2026-10-23T17:48:58.619520+00:00",
+  "category": "research",
+  "headline": "Titanium Particles May Drive Persistent Inflammation Around Dental Implants",
+  "summary": "A Rutgers School of Dental Medicine study, conducted in mice, found that dental implants can release tiny titanium particles when bacteria are present. These particles trigger white blood cells to stay in a hyperinflammatory state that gradually erodes bone, and closing a specific calcium channel in those cells shut down the inflammatory pathway. The article notes that antibiotics are rarely effective against peri-implantitis, and that the findings could eventually lead to medications that switch off this response.",
+  "why": "It suggests a possible biological reason peri-implantitis is hard to treat with antibiotics, which may eventually lead to new drug options for keeping implants healthy long term, though current findings come from animal research."
+ },
+ {
+  "id": "dc2df5044ede",
+  "url": "https://decisionsindentistry.com/2026/10/dental-sleep-medicine-experts-call-on-the-fda-to-protect-consumers/",
+  "source": "Decisions in Dentistry",
+  "published": "2026-10-23T17:41:34+00:00",
+  "added": "2026-10-23T17:48:58.619520+00:00",
+  "category": "policy",
+  "headline": "Dental sleep group asks FDA to warn consumers about OSA oral appliances",
+  "summary": "The American Academy of Dental Sleep Medicine sent a letter to the FDA asking it to create a consumer webpage on oral appliances for obstructive sleep apnea. The group says these devices need a prescription or licensed-practitioner supervision to work and avoid harm. It points to an existing FDA page on clear aligners that stresses seeking care from a licensed orthodontist, and it warns that many over-the-counter OSA products lack evidence of efficacy.",
+  "why": "Dentists treating sleep apnea may see patients who bought unsupervised oral appliances or over-the-counter devices, and any FDA consumer guidance could shape how patients approach these treatments."
+ },
+ {
+  "id": "5bfc3fde2251",
+  "url": "https://decisionsindentistry.com/2026/10/manufacturer-recalls-more-than-4-million-tubes-of-toothpaste/",
+  "source": "Decisions in Dentistry",
+  "published": "2026-10-23T17:40:35+00:00",
+  "added": "2026-10-23T17:48:58.619520+00:00",
+  "category": "business",
+  "headline": "Maker of Brush Buddies, Evo and ARU Toothpastes Recalls Over 4 Million Tubes",
+  "summary": "The manufacturer voluntarily recalled more than 4 million tubes of toothpaste nationwide on September 10. On October 19, the FDA classified the recall as Class II, a category for products that may cause temporary or short-lived negative health effects but not serious, lasting harm. The FDA tied the recall to failures to meet current good manufacturing practice requirements for controlling manufacturing, processing, and packaging.",
+  "why": ""
  }
 ]
