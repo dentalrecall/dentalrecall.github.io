@@ -1587,5 +1587,148 @@
   "headline": "Short case-based dental-pharmacy training improves collaboration skills in students",
   "summary": "A study evaluated a single 3-hour interprofessional session in which 118 third-year dental students and second-year pharmacy students worked through an anticoagulant case involving a patient taking apixaban before a tooth extraction. Using a retrospective pre-post survey, 19 of 20 self-rated collaboration competencies improved significantly, with small-to-moderate effect sizes. Students also described clearer understanding of each profession's role and greater confidence communicating across disciplines, though scheduling and instruction problems reduced engagement for some.",
   "why": "It suggests that brief, case-focused training with pharmacists may help dentists coordinate safely on medically complex patients on high-risk medications, and that clear logistics matter for making such training work."
+ },
+ {
+  "id": "5c0342eb9f46",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42913723/",
+  "source": "J Oral Maxillofac Surg",
+  "published": "2026-10-24T03:52:52.115730+00:00",
+  "added": "2026-10-24T03:52:52.115730+00:00",
+  "category": "research",
+  "headline": "Systematic review compares diagnostic tests for peripheral trigeminal nerve injuries",
+  "summary": "A systematic review of 10 studies (520 participants, 514 nerves) assessed how accurately methods detect peripheral trigeminal nerve injuries in the maxillary and mandibular regions after oral and maxillofacial procedures. Clinical neurosensory testing performed well for lingual nerve injuries but worse for inferior alveolar nerve injuries, while the tongue somatosensory evoked magnetic field laterality index had the highest single-test accuracy for lingual nerve injury. The authors concluded that a multimodal diagnostic approach is supported.",
+  "why": "Dentists managing nerve sensation problems after extractions, implant or surgical procedures may find that no single test is reliable, so combining clinical testing with other methods may give a more accurate picture of injury."
+ },
+ {
+  "id": "942c752eb14c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42919615/",
+  "source": "J Clin Periodontol",
+  "published": "2026-10-24T03:52:52.115730+00:00",
+  "added": "2026-10-24T03:52:52.115730+00:00",
+  "category": "research",
+  "headline": "Salivary vesicles shift after non-surgical periodontal therapy in periodontitis patients",
+  "summary": "In a longitudinal study of 25 patients with stage III/IV periodontitis, researchers tracked host and microbial extracellular vesicles in saliva at baseline and at 3 and 6 months after non-surgical periodontal therapy. Periodontal parameters improved at both follow-up points, with rises in certain host-vesicle cytokines (IL-4, IL-12, IL-9) and declines in bacterial vesicles and matching bacterial taxa in saliva and plaque. At 6 months, one fungal vesicle source fell while a Candida parapsilosis source rose.",
+  "why": ""
+ },
+ {
+  "id": "be19c1141f9c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42919771/",
+  "source": "J Prosthet Dent",
+  "published": "2026-10-24T03:52:52.115730+00:00",
+  "added": "2026-10-24T03:52:52.115730+00:00",
+  "category": "research",
+  "headline": "Extraoral scan body design affects accuracy of digital facial-intraoral patient models",
+  "summary": "This observational clinical study compared how extraoral scan body designs affect the trueness and precision of virtual patient models built from facial scans merged with intraoral scans. Ten participants were scanned with one professional facial scanner (MetiSmile) and three smartphone-based scanners (EM3D, Heges, Qlone), using a tooth-based method or five different scan body designs. Tooth-based integration gave better trueness than scan body workflows for the professional scanner and EM3D, the scan body design significantly affected trueness across all scanners, and MetiSmile had the best trueness overall.",
+  "why": "Dentists using facial scanning for virtual dentofacial analysis should know that the integration method and scan body design can change the accuracy of the resulting patient model, so these choices matter when planning digital workflows."
+ },
+ {
+  "id": "5a376e0cf246",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42919768/",
+  "source": "J Prosthet Dent",
+  "published": "2026-10-24T03:52:52.115730+00:00",
+  "added": "2026-10-24T03:52:52.115730+00:00",
+  "category": "research",
+  "headline": "Facial hair affects accuracy of virtual patient models from facial scanners",
+  "summary": "A clinical study of 10 male participants compared how clean-shaven, stubble, and bearded faces affected the accuracy of virtual patient representations built from three professional facial scanners and one smartphone-based scanner. Facial hair style significantly affected accuracy only for smiling scans, and the effect depended on which scanner was used. For one professional scanner, a dedicated beard mode improved accuracy for full beards but worsened it for stubble.",
+  "why": "Dentists using facial scans merged with intraoral scans for digital planning should be aware that facial hair and scanner choice can change accuracy, especially for smile captures."
+ },
+ {
+  "id": "d5f1283fb1af",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42919774/",
+  "source": "J Prosthet Dent",
+  "published": "2026-10-24T03:52:52.115730+00:00",
+  "added": "2026-10-24T03:52:52.115730+00:00",
+  "category": "research",
+  "headline": "Digital workflow for bimaxillary complete-arch implant rehabilitation with immediate loading",
+  "summary": "A clinical report describes a digitally assisted protocol for full-arch implant treatment in both jaws of a 70-year-old edentulous man. The team used stackable surgical guides, a double-scan virtual planning method, and immediate loading of all but one implant. Six months later, segmented zirconia and lithium disilicate restorations were delivered, and the authors reported favorable functional, esthetic, and biologic outcomes.",
+  "why": "It shows a single-patient example of how a double-scan digital plan with stackable guides can guide bimaxillary immediate-load implant cases, though one case report offers limited evidence for routine adoption."
+ },
+ {
+  "id": "dcb6daf0bb59",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42919773/",
+  "source": "J Prosthet Dent",
+  "published": "2026-10-24T03:52:52.115730+00:00",
+  "added": "2026-10-24T03:52:52.115730+00:00",
+  "category": "research",
+  "headline": "Custom trays showed better trueness than stock trays in complete arch implant impressions",
+  "summary": "An in vitro study compared stock and custom impression trays, with and without heavy-body PVS subsplint reinforcement, for maxillary complete arch implant impressions. The primary analysis found custom trays gave more accurate casts than stock trays, while subsplint reinforcement did not significantly improve trueness and no interaction was found. The tray effect was not consistent across all statistical methods, so the authors urge caution in interpreting it.",
+  "why": ""
+ },
+ {
+  "id": "9b0cd10285fa",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42919770/",
+  "source": "J Prosthet Dent",
+  "published": "2026-10-24T03:52:52.115730+00:00",
+  "added": "2026-10-24T03:52:52.115730+00:00",
+  "category": "research",
+  "headline": "Postprint cleaning time and glaze choice shape 3D-printed resin strength and color",
+  "summary": "An in vitro study tested four 3D-printed A2 resin composites under different cleaning durations and surface glazing agents, measuring flexural strength, surface roughness, and color stability. Material type, cleaning duration, and glazing all significantly affected the outcomes, and glazing reduced roughness, improved color stability, and raised flexural strength, with Palaseal performing best overall. Longer cleaning generally increased strength and roughness on unglazed specimens, and the ideal cleaning time varied by material.",
+  "why": "Postprocessing steps such as cleaning time and glazing appear to meaningfully change how printed resin restorations perform, so protocols for these steps matter for the durability and appearance of chairside or lab-printed restorations."
+ },
+ {
+  "id": "8692adc71f50",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42919769/",
+  "source": "J Prosthet Dent",
+  "published": "2026-10-24T03:52:52.115730+00:00",
+  "added": "2026-10-24T03:52:52.115730+00:00",
+  "category": "research",
+  "headline": "In vitro study compares intraoral, reverse, and photogrammetry recordings for complete-arch implants",
+  "summary": "Researchers compared three digital recording methods for a complete maxillary implant arch with six multi-unit abutments: intraoral scanning, reverse scanning, and stereophotogrammetry, with 15 recordings per method. Reverse scanning had the best linear trueness (39.1 µm), followed by intraoral scanning (69.7 µm) and stereophotogrammetry (102.8 µm). Reverse scanning had the worst angular trueness, and its angular error was above the clinically acceptable threshold, while precision did not differ significantly among the methods.",
+  "why": "For complete-arch implant cases, reverse scanning may offer good linear accuracy but its angular error suggests limited clinical use for now, so intraoral scanning may remain the more reliable choice for angular fit."
+ },
+ {
+  "id": "f7b051a8741c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42919727/",
+  "source": "Dent Mater",
+  "published": "2026-10-24T03:52:52.115730+00:00",
+  "added": "2026-10-24T03:52:52.115730+00:00",
+  "category": "research",
+  "headline": "Review weighs therapeutic-ion bioactive glasses for vital pulp therapy",
+  "summary": "This critical narrative review in Dental Materials examines whether bioactive glasses doped with therapeutic ions can control microbes and modulate immune responses in the pulp while keeping pulp cells viable and supporting reparative dentin. It compares silicate, phosphate, and borate-based glasses and assesses Ag, Zn, Sr, Li, Ce, Ga, and emerging Cu- and Co-containing systems. The authors conclude that current evidence is mostly preclinical, often lacks matched ion release, pH, and biological measurements, and that no dopant or safe concentration can be chosen on ion identity alone.",
+  "why": "Dentists considering bioactive materials for vital pulp therapy should treat ion-doped glasses as still experimental, since the review finds no established safe concentration and little direct clinical outcome data."
+ },
+ {
+  "id": "a75bbd235f45",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42919726/",
+  "source": "Dent Mater",
+  "published": "2026-10-24T03:52:52.115730+00:00",
+  "added": "2026-10-24T03:52:52.115730+00:00",
+  "category": "research",
+  "headline": "Glass coating method improves bonding to ultra-translucent zirconia in lab study",
+  "summary": "Researchers developed an experimental SiO₂-Li₂O-Al₂O₃ glass-ceramic coating for ultra-translucent zirconia (5Y-PSZ) and compared it with a commercial glass-ceramic coating, Biomic LiSi Connect. Across 110 specimens, both coatings produced a glass-rich surface and enhanced optical properties, and longer 60-second hydrofluoric acid etching increased shear bond strength. The experimental coating also showed stable bonding after 5000 thermal cycles, with mostly mixed or cohesive failures.",
+  "why": "This suggests a possible way to improve adhesion of translucent zirconia restorations without compromising their aesthetic properties, though it remains a lab study with no clinical outcomes reported."
+ },
+ {
+  "id": "6da1b99e17cf",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42918482/",
+  "source": "J Dent",
+  "published": "2026-10-24T03:52:52.115730+00:00",
+  "added": "2026-10-24T03:52:52.115730+00:00",
+  "category": "research",
+  "headline": "Brazilian dentists often over-treat direct resin restorations versus FDI criteria",
+  "summary": "In a diagnostic accuracy study, 394 Brazilian dentists chose management options for posterior resin-based restorations in clinical scenarios and their choices were compared with FDI-based reference decisions. Overall accuracy was 44.8%, with fair agreement (kappa 0.27), and over-treatment occurred about seven times more often than under-treatment. Replacement was chosen far more often than the reference indicated, and scenario type explained more of the variation than the individual dentist did; education and time since graduation showed only limited associations with accuracy.",
+  "why": "It suggests many dentists may replace restorations that could be reviewed, refurbished, or repaired, which would remove more sound tooth structure, so conservative options deserve emphasis in training and practice."
+ },
+ {
+  "id": "d9de0f24d627",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42918481/",
+  "source": "J Dent",
+  "published": "2026-10-24T03:52:52.115730+00:00",
+  "added": "2026-10-24T03:52:52.115730+00:00",
+  "category": "research",
+  "headline": "Smaller filler particles improve initial strength of 3D-printed resins but add print time",
+  "summary": "Researchers compared two highly filled experimental 3D-printed dental resins containing silanized barium glass of 1.5 µm or 0.7 µm particle size, printed by digital light processing. Before thermocycling, the finer 0.7 µm formulation had higher flexural strength and elastic modulus and lower surface roughness, but these gains were not kept after thermocycling. The finer formulation also took far longer to fabricate (about 122 minutes versus 48 minutes), and no advantage was found for microhardness or shear bond strength.",
+  "why": "Finer filler may strengthen printed resins initially, but the benefit faded after aging and printing took much longer, so particle size is a trade-off to weigh when choosing printable materials."
+ },
+ {
+  "id": "0628ce35a55a",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42919697/",
+  "source": "Oral Surg Oral Med Oral Pathol Oral Radiol",
+  "published": "2026-10-24T03:52:52.115730+00:00",
+  "added": "2026-10-24T03:52:52.115730+00:00",
+  "category": "research",
+  "headline": "Areca (betel) nut use rising in US and what it means for dental practice",
+  "summary": "A narrative review examines areca nut, also called betel nut, which is abused as a psychostimulant and is the fourth most commonly abused psychoactive substance globally. Its use is strongly linked to potentially malignant oral disorders such as leukoplakia and oral submucous fibrosis, as well as oral cancers, staining, dentin hypersensitivity, periodontal disease, and betel chewer's mucosa. The authors note growing use in the United States due to immigration from regions where the habit is common, and they cover US regulations, US-based user studies, and knowledge gaps.",
+  "why": "US dentists may see more patients who chew areca nut without recognizing the habit, so learning to identify users and manage its oral effects, including precancerous lesions, is increasingly important."
  }
 ]
