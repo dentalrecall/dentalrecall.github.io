@@ -2049,5 +2049,16 @@
   "headline": "Sleep and awake bruxism linked to mental health conditions in Brazilian cohort",
   "summary": "A cross-sectional analysis of the 1982 Pelotas Birth Cohort in Southern Brazil examined self-reported sleep and awake bruxism at age 40 alongside common mental disorders and specific psychiatric diagnoses. Both forms of bruxism were more common among women and people with alcohol dependence, and depression was associated with higher prevalence of each. Participants with probable common mental disorders at both age 30 and age 40 had the strongest associations with bruxism.",
   "why": "For dentists, this suggests patients reporting grinding or clenching may also have mental health concerns, so asking about mood and alcohol use could be a useful part of assessing bruxism."
+ },
+ {
+  "id": "89adc70e2fb4",
+  "url": "https://www.dental-tribune.com/news/from-chairside-to-cyberspace-ai-can-grow-your-practice-and-your-risk-too-part-6/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-10-26T07:02:22+00:00",
+  "added": "2026-10-26T07:13:50.959173+00:00",
+  "category": "tech",
+  "headline": "AI in dentistry brings practice gains and new risks, says Part 6 of series",
+  "summary": "This installment of a Dental Tribune series says artificial intelligence and augmented intelligence are quickly spreading into dental work, touching imaging, documentation, treatment planning, patient communication and office administration. It notes the technology can improve care and efficiency but needs careful leadership and cannot replace the dentist's clinical judgment. As software reaches more patient data and produces content or takes actions on its own, the article says practices must weigh privacy, oversight, accuracy and verification.",
+  "why": "Dentists adopting AI tools should plan for patient privacy, human oversight and verification of outputs, since the clinician remains responsible for diagnosis and treatment."
  }
 ]
