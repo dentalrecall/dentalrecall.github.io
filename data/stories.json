@@ -2016,5 +2016,38 @@
   "headline": "Study identifies drivers of patient dropout before orthodontic treatment in education clinic",
   "summary": "This cross-sectional study reviewed records from 2022 to 2024 at an advanced orthodontic education clinic to find why patients stopped care before treatment despite being advised to proceed. Overall attrition fell from 51.2% after the screening appointment to 24.1% after the records appointment. Among Medicaid patients, dropout rose as the estimated likelihood of obtaining Medicaid coverage declined, and older age and orthognathic surgery plans were linked to higher attrition at different stages.",
   "why": "Dentists running orthodontic programs may see pretreatment dropout concentrated among older patients, surgical cases, and those with uncertain Medicaid coverage, so early coverage checks and clear counseling on surgical plans may help retain patients."
+ },
+ {
+  "id": "a482ea32f943",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42927980/",
+  "source": "J Clin Periodontol",
+  "published": "2026-10-26T03:56:27.412780+00:00",
+  "added": "2026-10-26T03:56:27.412780+00:00",
+  "category": "research",
+  "headline": "Caries, periodontitis and tooth loss linked to higher primary liver cancer risk in Swedish cohort",
+  "summary": "A large Swedish registry study of about 5.9 million adults followed for a mean of 6.36 years found that caries, periodontitis and tooth loss were each associated with a higher risk of primary liver cancer. Risk rose as the number of remaining teeth fell, and periodontitis was linked mainly to hepatocellular carcinoma while caries was linked mainly to other liver cancer subtypes. Sibling-comparison and sensitivity analyses gave generally consistent results.",
+  "why": "These findings add to evidence that oral health may be connected to systemic cancer risk, which reinforces the value of caries and periodontal management and tooth retention, though the study shows association rather than cause."
+ },
+ {
+  "id": "15385c9c3bd8",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42927864/",
+  "source": "J Dent",
+  "published": "2026-10-26T03:56:27.412780+00:00",
+  "added": "2026-10-26T03:56:27.412780+00:00",
+  "category": "research",
+  "headline": "Polyurethane resin cement with antibacterial DMAHDM shows promise in lab tests",
+  "summary": "Researchers developed a polyurethane resin cement for bonding indirect restorations that includes DMAHDM, an antibacterial monomer, aimed at reducing secondary caries. At 3% DMAHDM, the cement kept mechanical properties close to a commercial comparator and showed strong antibacterial activity against several oral bacteria, with 4-5 log10 reductions in bacterial viability. Higher concentrations (4-5%) reduced flexural strength and increased polymerization shrinkage, and the authors say clinical studies are still needed.",
+  "why": "This is early laboratory and animal work, so it does not yet change how dentists bond restorations, but it signals a possible future cement option aimed at lowering secondary caries risk."
+ },
+ {
+  "id": "481a3b206e29",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42927863/",
+  "source": "J Dent",
+  "published": "2026-10-26T03:56:27.412780+00:00",
+  "added": "2026-10-26T03:56:27.412780+00:00",
+  "category": "research",
+  "headline": "Sleep and awake bruxism linked to mental health conditions in Brazilian cohort",
+  "summary": "A cross-sectional analysis of the 1982 Pelotas Birth Cohort in Southern Brazil examined self-reported sleep and awake bruxism at age 40 alongside common mental disorders and specific psychiatric diagnoses. Both forms of bruxism were more common among women and people with alcohol dependence, and depression was associated with higher prevalence of each. Participants with probable common mental disorders at both age 30 and age 40 had the strongest associations with bruxism.",
+  "why": "For dentists, this suggests patients reporting grinding or clenching may also have mental health concerns, so asking about mood and alcohol use could be a useful part of assessing bruxism."
  }
 ]
