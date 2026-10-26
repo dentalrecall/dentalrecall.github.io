@@ -2071,5 +2071,115 @@
   "headline": "Patient satisfaction with implants over 5 years tied to pre-treatment information and fewer complications",
   "summary": "This cross-sectional study surveyed 260 patients whose dental implants had been placed more than five years earlier, asking about functional, aesthetic, psychosocial and economic satisfaction. Overall satisfaction was high, with 93.1% of respondents satisfied or very satisfied. The strongest independent factors linked to satisfaction were the amount of information patients received before treatment and the absence of self-reported peri-implant inflammation, while demographics, cost and extent of rehabilitation were not associated with satisfaction.",
   "why": "Patients who felt well informed before treatment and who reported no peri-implant problems were more satisfied long term, suggesting that thorough pre-treatment counseling and ongoing maintenance may matter as much as demographics for outcomes; because the design is cross-sectional and self-reported, the link is associational rather than causal."
+ },
+ {
+  "id": "d55cd3c184c1",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42929132/",
+  "source": "Clin Oral Implants Res",
+  "published": "2026-10-26T15:46:21.078608+00:00",
+  "added": "2026-10-26T15:46:21.078608+00:00",
+  "category": "research",
+  "headline": "Chairside fully guided implants improve accuracy; bone-level gains not significant after adjustment",
+  "summary": "A 1-year follow-up of a randomized trial compared chairside fully guided flapless implant placement with conventional partially guided open-flap placement in patients who also had transcrestal sinus augmentation. Of 56 randomized patients, 21 fully guided and 22 partially guided patients completed follow-up. The fully guided group had better placement accuracy, while between-group differences in marginal bone level change were not statistically significant after adjustment for multiple comparisons.",
+  "why": ""
+ },
+ {
+  "id": "1fb758052ca6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42929543/",
+  "source": "Int Endod J",
+  "published": "2026-10-26T15:46:21.078608+00:00",
+  "added": "2026-10-26T15:46:21.078608+00:00",
+  "category": "research",
+  "headline": "Wnt agonist peptide L803-mts shows reparative dentinogenesis in vitro and in rats",
+  "summary": "Researchers tested L803-mts, a GSK-3β inhibitory peptide, on dental pulp stem cells and macrophages under inflammatory conditions, and in a rat pulp injury model. The peptide was studied for odontogenic differentiation, macrophage polarization, and dentine repair, with MTA as a comparison. The excerpt indicates the peptide acted through Wnt signalling activation and immunomodulation to promote reparative dentinogenesis.",
+  "why": "This is preclinical work suggesting a biologically active agent could support vital pulp therapy beyond simply forming a dentine barrier, but it remains animal and lab evidence without clinical use yet."
+ },
+ {
+  "id": "fd74c2e0bc4c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42929371/",
+  "source": "J Dent Educ",
+  "published": "2026-10-26T15:46:21.078608+00:00",
+  "added": "2026-10-26T15:46:21.078608+00:00",
+  "category": "research",
+  "headline": "Proposed \"2+4+1\" dental education model aims to cut costs and boost rural workforce",
+  "summary": "A Journal of Dental Education narrative review proposes a post-high school \"2+4+1\" model to address dental workforce shortages, rising education costs, and the relevance of licensure exams. The model combines two years of integrated pre-professional undergraduate study, a traditional four-year DDS/DMD program, and a seventh year spent in supervised rural or underserved service or in a CODA-accredited residency. Graduates would receive a limited practice-under-supervision permit, with full licensure tied to completing the seventh year or residency.",
+  "why": "If adopted, the model could lower educational debt and expand access in underserved areas, but it is a proposal only and would change how new dentists enter practice."
+ },
+ {
+  "id": "8ea90af22b29",
+  "url": "https://www.dentistrytoday.com/predictable-graft-resorption-and-long-term-implant-success-why-the-mechanism-matters/",
+  "source": "Dentistry Today",
+  "published": "2026-10-26T15:10:50+00:00",
+  "added": "2026-10-26T15:46:21.078608+00:00",
+  "category": "clinical",
+  "headline": "Graft resorption behavior may shape long-term implant success after ridge preservation",
+  "summary": "The article argues that bone grafts placed after extraction should be gradually replaced by vital bone, since that resorption determines bone-to-implant contact later. It contrasts this with dense, heat-treated materials such as ceramic hydroxyapatite and heat-treated bovine xenografts, which the body struggles to resorb and which may become encapsulated by connective tissue. The piece also introduces OsteoGen, a non-sintered graft described as working through bioactive ion exchange with phosphate, calcium, and hydroxyl ions.",
+  "why": "When choosing a graft for ridge preservation, the material's resorption behavior may affect how well implants integrate and hold up under load later, so graft selection deserves attention beyond immediate socket filling."
+ },
+ {
+  "id": "75b3ff38e4e6",
+  "url": "https://www.dentistrytoday.com/jacob-r-dent-dds-on-special-needs-dentistry-desensitization-and-restorative-techniques/",
+  "source": "Dentistry Today",
+  "published": "2026-10-26T14:42:38+00:00",
+  "added": "2026-10-26T15:46:21.078608+00:00",
+  "category": "education",
+  "headline": "Dr. Jacob Dent discusses special needs dentistry and desensitization techniques",
+  "summary": "In an interview with Dentistry Today's editor-in-chief, special needs dentist Jacob R. Dent, DDS, discusses dental care for patients with intellectual and developmental disabilities and dental anxiety. He covers how sensory sensitivities affect visits, the Dental Desensitization Systems kit, and home oral hygiene strategies for caregivers. The conversation also touches on minimally invasive options such as silver diamine fluoride and the SMART restorative technique, and on the restorative cement Directa's Ceramir Crown & Bridge in his workflow. The interview is sponsored by Directa USA.",
+  "why": "It offers practical ideas for adapting the environment and treatment approach for anxious or sensory-sensitive patients, though the excerpt is a sponsored interview and gives few specific clinical details."
+ },
+ {
+  "id": "637bbeb7450c",
+  "url": "https://www.dentistrytoday.com/universal-composites-in-everyday-practice-a-placement-evolution-worth-knowing/",
+  "source": "Dentistry Today",
+  "published": "2026-10-26T14:30:34+00:00",
+  "added": "2026-10-26T15:46:21.078608+00:00",
+  "category": "clinical",
+  "headline": "Universal Composites Reshape Placement Habits for Anterior and Posterior Restorations",
+  "summary": "Two clinicians describe how universal nanohybrid composites have moved beyond the amalgam-centered posterior approach taught in earlier dental training. They focus on GrandioSO 4U (VOCO) as a single material for both anterior and posterior indications. The article also argues that clinicians should reassess the incremental layering standard, with implications for outcomes, workflow, and practice profitability.",
+  "why": "Dentists may need to reconsider long-standing placement habits, such as reliance on amalgam for larger posterior cases and strict incremental layering, as universal composites take on a broader role."
+ },
+ {
+  "id": "5e399c277542",
+  "url": "https://www.dentistrytoday.com/from-plaque-disclosure-to-real-time-at-home-feedback-how-ai-is-changing-patient-coaching-in-dentistry/",
+  "source": "Dentistry Today",
+  "published": "2026-10-26T14:12:35+00:00",
+  "added": "2026-10-26T15:46:21.078608+00:00",
+  "category": "clinical",
+  "headline": "AI Visual Overlays and Plaque Disclosure Aid Patient Coaching in Dentistry",
+  "summary": "A dentist writing in Dentistry Today argues that patients change behavior more readily when they can see findings such as plaque, bone loss, and demineralization. AI platforms like Overjet convert radiographic findings into color-coded overlays to help explain them, building on older tools like plaque disclosure that show retained biofilm. The piece notes that these in-office moments are important, but that daily oral health decisions happen at home.",
+  "why": "Visual tools such as AI-enhanced radiographs and plaque disclosure may help dentists explain findings and motivate patients to change home care habits, though the excerpt does not report outcome data."
+ },
+ {
+  "id": "65abd0da6004",
+  "url": "https://www.dentistrytoday.com/align-technology-pledges-1-million-to-aao-foundation/",
+  "source": "Dentistry Today",
+  "published": "2026-10-26T14:00:01+00:00",
+  "added": "2026-10-26T15:46:21.078608+00:00",
+  "category": "business",
+  "headline": "Align Technology Commits $1 Million to AAO Foundation Over Five Years",
+  "summary": "Align Technology has announced a new $1 million, five-year commitment to the American Association of Orthodontists Foundation, following a $1 million pledge it made in 2021. The funding supports the Foundation's Full-time Faculty Fellowship Campaign, which aims to endow orthodontic faculty fellowships at dental schools in the United States and Canada. Since 1994, the Foundation's Awards Program has provided $17.7 million in funding for 297 fellowships and 404 research grants.",
+  "why": "The pledge reflects continued corporate investment in orthodontic education and faculty development, which supports the training pipeline for future orthodontists."
+ },
+ {
+  "id": "481a4d1bdcce",
+  "url": "https://www.dental-tribune.com/news/sprintray-introduces-intra-oral-scanner-and-compact-chairside-3d-printing-system/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-10-26T13:50:32+00:00",
+  "added": "2026-10-26T15:46:21.078608+00:00",
+  "category": "products",
+  "headline": "SprintRay unveils wireless intra-oral scanner and compact chairside printing system",
+  "summary": "SprintRay, a German-based dental technology company, showed an expanded digital dentistry platform at 3DNext 2026 in Miami Beach. The lineup includes the Foundation wireless intra-oral scanner, its ScanOS scanning software, and the Nano Series compact chairside production system. The company also announced a new restorative resin developed with GC Corp.",
+  "why": ""
+ },
+ {
+  "id": "8d76d2a7eb3e",
+  "url": "https://www.dentistrytoday.com/usosm-surgeon-supports-colorado-mission-of-mercy-free-clinic/",
+  "source": "Dentistry Today",
+  "published": "2026-10-26T12:00:21+00:00",
+  "added": "2026-10-26T15:46:21.078608+00:00",
+  "category": "events",
+  "headline": "USOSM Surgeon Volunteers at Colorado Mission of Mercy Free Clinic in Cripple Creek",
+  "summary": "Oral and maxillofacial surgeon Michael Daetwyler, DDS, of Fort Collins Oral & Maxillofacial Surgery, volunteered at the 19th annual Colorado Mission of Mercy free clinic in Cripple Creek, Colorado. He spent the day mainly extracting severely decayed teeth, with the oral surgery department set up in a large tent outside the local high school. According to COMOM, more than 140 dentist volunteers treated more than 1,000 patients.",
+  "why": "It shows how volunteer dental clinics can deliver large amounts of care in a single day, and how oral surgeons and general dentists can contribute to community access-to-care efforts."
  }
 ]
