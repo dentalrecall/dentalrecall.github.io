@@ -2203,5 +2203,27 @@
   "headline": "Align Technology Commits $1 Million to AAO Foundation Faculty Fellowships",
   "summary": "Align Technology has pledged $1 million over five years to the AAO Foundation, adding to a $1 million pledge it made in 2021. The funding supports the foundation's three-year Full-time Faculty Fellowship Campaign, launched in 2024, which aims to endow three two-year fellowships for orthodontic faculty at US and Canadian dental schools.",
   "why": "The campaign targets the supply of full-time orthodontic educators and researchers who train future orthodontists, which matters for dentists considering orthodontic training or referral pipelines."
+ },
+ {
+  "id": "a7db4654f6c6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42931806/",
+  "source": "Clin Oral Implants Res",
+  "published": "2026-10-26T21:51:29.349956+00:00",
+  "added": "2026-10-26T21:51:29.349956+00:00",
+  "category": "research",
+  "headline": "Topical Teriparatide on Implant Surfaces Aids Bone Integration in Rats Under Osteoporosis-Like Conditions",
+  "summary": "Researchers coated titanium implants with teriparatide using a layer-by-layer topical delivery method and placed them in the maxillae of ovariectomized rats fed a cafeteria diet, some also given risedronate. After 28 days, the coated implants showed higher removal torque across all groups, with the largest gain in the rats receiving risedronate, and greater peri-implant bone volume in the two ovariectomized groups. Gene markers for bone formation and blood vessel growth were also upregulated.",
+  "why": ""
+ },
+ {
+  "id": "0cb93e3f1152",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42931724/",
+  "source": "Am J Orthod Dentofacial Orthop",
+  "published": "2026-10-26T21:51:29.349956+00:00",
+  "added": "2026-10-26T21:51:29.349956+00:00",
+  "category": "research",
+  "headline": "CBCT study links mandibular symphysis shape to vertical skeletal pattern and incisor tilt",
+  "summary": "A retrospective CBCT study of 108 adults examined how mandibular symphysis morphology relates to lower incisor inclination across sagittal and vertical skeletal patterns. Vertical patterns showed significant variation in symphyseal measurements, while sagittal groups did not. Patients with hyperdivergence had larger symphyseal ratios and narrower apical widths.",
+  "why": "For orthodontic planning, the study suggests that vertical facial pattern and incisor position should be assessed individually with CBCT, since symphysis shape appears to track vertical rather than sagittal skeletal differences."
  }
 ]
