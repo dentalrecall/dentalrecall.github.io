@@ -2368,5 +2368,27 @@
   "headline": "Dr. Silverman's reflection: starting patient conversations with a mirror and a question",
   "summary": "This weekly column describes a hygienist who, noticing a patient's stated dissatisfaction with their smile on an updated dental history form, asks the patient to point out what they would like changed. The author argues that this open conversation, rather than a diagnosis or sales pitch, helps the patient feel heard and gives the team and doctor useful insight before treatment begins.",
   "why": ""
+ },
+ {
+  "id": "2c9f8585c68e",
+  "url": "https://www.dental-tribune.com/news/scotland-announces-nhs-dental-pay-rise-amid-concerns-over-practice-costs/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-10-27T09:30:00+00:00",
+  "added": "2026-10-27T15:05:26.728411+00:00",
+  "category": "policy",
+  "headline": "Scotland confirms 3.75% NHS dental pay rise; BDA says practice funding is still short",
+  "summary": "The Scottish government has confirmed a 3.75% pay increase for NHS general dental practitioners for the 2026/2027 financial year. The award matches the recommendation of the independent Review Body on Doctors' and Dentists' Remuneration, but the British Dental Association says it does not adequately address wider financial pressures on practices.",
+  "why": ""
+ },
+ {
+  "id": "cee9df86e12c",
+  "url": "https://www.dentistrytoday.com/gargle-updates-dental-website-development-for-seo/",
+  "source": "Dentistry Today",
+  "published": "2026-10-27T07:40:26+00:00",
+  "added": "2026-10-27T15:05:26.728411+00:00",
+  "category": "products",
+  "headline": "Gargle Moves Dental Websites From WordPress to Custom Coded Builds",
+  "summary": "Gargle, a dental marketing company, is changing how it builds websites for dental practices across North America, shifting away from WordPress templates toward a custom, fully coded infrastructure. The company says the change is aimed at better security, faster performance, and stronger SEO capabilities. Gargle president Jeff Richins said practices need a secure, high-performing digital foundation that turns online searches into new-patient opportunities.",
+  "why": "Dental practices relying on their website for new patient inquiries may see changes in how their sites are built, secured, and optimized if they work with Gargle."
  }
 ]
