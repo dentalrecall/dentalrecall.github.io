@@ -2225,5 +2225,38 @@
   "headline": "CBCT study links mandibular symphysis shape to vertical skeletal pattern and incisor tilt",
   "summary": "A retrospective CBCT study of 108 adults examined how mandibular symphysis morphology relates to lower incisor inclination across sagittal and vertical skeletal patterns. Vertical patterns showed significant variation in symphyseal measurements, while sagittal groups did not. Patients with hyperdivergence had larger symphyseal ratios and narrower apical widths.",
   "why": "For orthodontic planning, the study suggests that vertical facial pattern and incisor position should be assessed individually with CBCT, since symphysis shape appears to track vertical rather than sagittal skeletal differences."
+ },
+ {
+  "id": "e9273eb7f11b",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42933590/",
+  "source": "J Dent",
+  "published": "2026-10-27T03:54:15.355768+00:00",
+  "added": "2026-10-27T03:54:15.355768+00:00",
+  "category": "research",
+  "headline": "New eating difficulty signals broader frailty, not an oral cause of cognitive decline",
+  "summary": "A study pooling four long-running ageing cohorts from China, England, the United States and Europe tested whether newly reported eating difficulty or dental problems came before sudden cognitive decline. Across 219,047 participants, eating difficulty was linked to higher dementia-indicator risk over six years, while tooth loss or poor dental health showed little adjusted association. Eating difficulty appeared to mark wider functional vulnerability, and there was no sign of an abrupt drop in cognition following its onset.",
+  "why": "Eating difficulty reported in a dental or primary-care visit may prompt a broader functional and cognitive check, but the authors caution it should not be used alone as an oral-specific dementia screening test."
+ },
+ {
+  "id": "6d78e7f0e193",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42933589/",
+  "source": "J Dent",
+  "published": "2026-10-27T03:54:15.355768+00:00",
+  "added": "2026-10-27T03:54:15.355768+00:00",
+  "category": "research",
+  "headline": "Fit of zirconia three-unit bridges depends on how it is measured",
+  "summary": "An in vitro study compared digital, semi-digital, and conventional silicone replica methods for assessing the fit of three-unit zirconia fixed dental prostheses made by additive or subtractive manufacturing. Gap values differed by material and by assessment method, and the 3D replica method gave the highest values within each material. Group mean gaps exceeded the designed cement space, and the alternative methods did not reliably substitute for the conventional one.",
+  "why": ""
+ },
+ {
+  "id": "58f30ecb20ba",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42933588/",
+  "source": "J Dent",
+  "published": "2026-10-27T03:54:15.355768+00:00",
+  "added": "2026-10-27T03:54:15.355768+00:00",
+  "category": "research",
+  "headline": "Coded healing abutment transfer accuracy varies by scanner and implant site",
+  "summary": "An in vitro study compared single-implant digital impressions from three intraoral scanners (Medit i900, 3Shape TRIOS 6, Dentsply Sirona Primescan 2) on a partially edentulous maxillary model using coded healing abutments at molar, incisor, and premolar sites. Transfer accuracy differed by site-specific abutment configuration, and scanner performance depended on the specific scanner, site, and component combination. The marginal scanner effect was not significant for translational or angular deviation.",
+  "why": "Scanner accuracy for implant impressions with coded healing abutments may not be uniform across sites, so clinicians should not assume one scanner performs best in every situation until clinical validation is available."
  }
 ]
