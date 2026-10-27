@@ -2258,5 +2258,93 @@
   "headline": "Coded healing abutment transfer accuracy varies by scanner and implant site",
   "summary": "An in vitro study compared single-implant digital impressions from three intraoral scanners (Medit i900, 3Shape TRIOS 6, Dentsply Sirona Primescan 2) on a partially edentulous maxillary model using coded healing abutments at molar, incisor, and premolar sites. Transfer accuracy differed by site-specific abutment configuration, and scanner performance depended on the specific scanner, site, and component combination. The marginal scanner effect was not significant for translational or angular deviation.",
   "why": "Scanner accuracy for implant impressions with coded healing abutments may not be uniform across sites, so clinicians should not assume one scanner performs best in every situation until clinical validation is available."
+ },
+ {
+  "id": "6403252bba51",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42934893/",
+  "source": "J Dent Res",
+  "published": "2026-10-27T09:57:53.199986+00:00",
+  "added": "2026-10-27T09:57:53.199986+00:00",
+  "category": "research",
+  "headline": "Single-cell atlas maps human periodontal ligament cells during orthodontic tooth movement",
+  "summary": "Researchers built the first single-cell transcriptomic atlas of human periodontal ligament during orthodontic tooth movement, profiling pressure- and tension-side tissues at days 3 and 7 after force application. They analyzed 65,032 cells and found 15 populations, including a CTHRC1+ fibroblast subset enriched on the pressure side at day 3 that expressed TRPA1. In a mouse model, blocking TRPA1 or knocking it down reduced tooth movement, and C3 was identified as a possible downstream mediator of osteoclast-driven bone remodeling.",
+  "why": "This basic-science work points to a possible molecular target, TRPA1 and C3 signaling, that could eventually influence how fast teeth move during orthodontic treatment, but it is preclinical and not yet a clinical guide."
+ },
+ {
+  "id": "99979df8f636",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42934883/",
+  "source": "J Dent Res",
+  "published": "2026-10-27T09:57:53.199986+00:00",
+  "added": "2026-10-27T09:57:53.199986+00:00",
+  "category": "research",
+  "headline": "Postoperative oral irrigation helps stabilize mouth microbes after oral cancer reconstruction",
+  "summary": "An exploratory randomized trial of 60 oral cancer patients who had free flap reconstruction compared postoperative rinsing with bipolar water against a hydrogen peroxide and sodium bicarbonate solution. Surgery reduced oral microbial diversity and shifted the community toward a more anaerobic, unstable state, while continued irrigation moved it toward a more stable structure. Wound infection rates and microbial composition did not differ between the two groups, but the bipolar water group reported better comfort, needed shorter irrigation times, and kept microbial diversity more stable.",
+  "why": "For clinicians caring for patients after oral cancer reconstruction, bipolar water may be a comfortable alternative to peroxide-based irrigation, though the trial is exploratory and showed no difference in infection rates."
+ },
+ {
+  "id": "943d24328bc3",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42935180/",
+  "source": "J Periodontol",
+  "published": "2026-10-27T09:57:53.199986+00:00",
+  "added": "2026-10-27T09:57:53.199986+00:00",
+  "category": "research",
+  "headline": "Scoping review tracks gum inflammation markers during experimental gingivitis recovery",
+  "summary": "A scoping review in the Journal of Periodontology examined immune and tissue-remodeling markers in gingival crevicular fluid as experimental gingivitis resolved. It covered 17 controlled trials from 1960 to 2024 involving 303 volunteers, and did not perform a meta-analysis because the studies were heterogeneous. The authors reported that IL-1β and ALP returned to baseline levels by the end of the resolution phase, which typically lasted 7 to 21 days.",
+  "why": ""
+ },
+ {
+  "id": "28202fb7ecdc",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42935113/",
+  "source": "J Clin Periodontol",
+  "published": "2026-10-27T09:57:53.199986+00:00",
+  "added": "2026-10-27T09:57:53.199986+00:00",
+  "category": "research",
+  "headline": "Mechanically crushed and hyaluronic acid-bound grafts shrink more in rabbit calvarial model",
+  "summary": "In a preclinical study of ten rabbits with four vertical calvarial defects each, particulate porcine bone mineral alone (Control) and intact collagenated blocks kept their augmented volume at 8 weeks. Crushed collagenated blocks and particulate graft mixed with hyaluronic acid showed significant volumetric shrinkage, and mechanically manipulated grafts had shorter particles. New bone formation rose in all groups but was highest in the Control group.",
+  "why": ""
+ },
+ {
+  "id": "2ba6b6226a5b",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42935004/",
+  "source": "J Periodontol",
+  "published": "2026-10-27T09:57:53.199986+00:00",
+  "added": "2026-10-27T09:57:53.199986+00:00",
+  "category": "research",
+  "headline": "Periodontal management cost-effectiveness for CKD in Chinese adults depends on disease stage",
+  "summary": "A Markov cohort model simulated Chinese adults aged 50 with periodontitis and chronic kidney disease, comparing usual care, scaling and root planing with maintenance, and comprehensive intensive management over 40 years. In early CKD, both periodontal strategies exceeded the willingness-to-pay threshold and were not cost-effective. In advanced CKD, both strategies were dominant, meaning they cost less and produced more QALYs than usual care, mainly because of avoided dialysis costs.",
+  "why": "Suggests periodontal treatment may be economically justified for patients with advanced kidney disease, though the excerpt is a model-based study and the evidence linking periodontal care to kidney outcomes is observational."
+ },
+ {
+  "id": "4b9c9630de06",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42934976/",
+  "source": "J Periodontol",
+  "published": "2026-10-27T09:57:53.199986+00:00",
+  "added": "2026-10-27T09:57:53.199986+00:00",
+  "category": "research",
+  "headline": "Epithelialized graft fragments vs. hemostatic sponge for palatal donor site healing",
+  "summary": "A randomized clinical trial of 44 patients with deep lower incisor gingival recessions compared two ways to protect the palatal donor site after subepithelial connective tissue grafting: epithelialized fragments of the free gingival graft or a hemostatic sponge. Wound area was measured from standardized photographs over 28 days by a blinded examiner. The fragment group healed better than the sponge group at day 14 only, while pain scores and analgesic use were similar in both groups.",
+  "why": ""
+ },
+ {
+  "id": "f817634986d5",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42935264/",
+  "source": "Int Endod J",
+  "published": "2026-10-27T09:57:53.199986+00:00",
+  "added": "2026-10-27T09:57:53.199986+00:00",
+  "category": "research",
+  "headline": "Survey finds gaps in endodontic antibiotic knowledge among dental students",
+  "summary": "An online survey of final-year undergraduate and postgraduate endodontic students across 10 dental schools in several countries assessed their knowledge of antibiotic use in endodontic care. Most respondents correctly identified when systemic antibiotics were not needed for localised infections and when they were indicated, such as acute apical abscess with systemic involvement or after replantation of an avulsed permanent tooth. Awareness of European (ESE) guidelines was much lower among undergraduates (49.1%) than postgraduates (82.6%), and prescribing knowledge varied by clinical scenario.",
+  "why": "It suggests that dentists may see variation in antibiotic prescribing decisions tied to training, and that familiarity with current endodontic guidelines, especially ESE, cannot be assumed among newer graduates."
+ },
+ {
+  "id": "b58333fef066",
+  "url": "https://www.dental-tribune.com/news/dentsply-sirona-reports-five-years-of-sustainability-progress-and-sets-2030-targets/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-10-27T07:55:16+00:00",
+  "added": "2026-10-27T09:57:53.199986+00:00",
+  "category": "business",
+  "headline": "Dentsply Sirona reports five years of sustainability progress, sets 2030 targets",
+  "summary": "Dentsply Sirona marked five years since launching its \"BEYOND\" sustainability strategy, which rests on three pillars: Healthy Planet, Healthy Smiles and Healthy Business. The company says it has reported progress on its environmental, social and governance goals since 2021 and has set new sustainability targets for 2030.",
+  "why": ""
  }
 ]
