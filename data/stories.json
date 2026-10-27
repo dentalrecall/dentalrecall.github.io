@@ -2390,5 +2390,27 @@
   "headline": "Gargle Moves Dental Websites From WordPress to Custom Coded Builds",
   "summary": "Gargle, a dental marketing company, is changing how it builds websites for dental practices across North America, shifting away from WordPress templates toward a custom, fully coded infrastructure. The company says the change is aimed at better security, faster performance, and stronger SEO capabilities. Gargle president Jeff Richins said practices need a secure, high-performing digital foundation that turns online searches into new-patient opportunities.",
   "why": "Dental practices relying on their website for new patient inquiries may see changes in how their sites are built, secured, and optimized if they work with Gargle."
+ },
+ {
+  "id": "4dbb364aed89",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42937034/",
+  "source": "J Periodontol",
+  "published": "2026-10-27T16:03:27.268241+00:00",
+  "added": "2026-10-27T16:03:27.268241+00:00",
+  "category": "research",
+  "headline": "Factors linked to mid-buccal gingival recession severity in US adults, by periodontitis status",
+  "summary": "A population study using NHANES 2011-2014 data from 5,891 dentate US adults aged 30 and older examined mid-buccal gingival recession and its associated factors. Recession was found in over 90% of adults at 1 mm or more, while severe recession (5 mm or more) was much less common. Age, sex, smoking, and education were associated with severity, with the pattern differing between adults with and without periodontitis.",
+  "why": "Gingival recession is very common in this population, and age, male sex, and smoking (in people with periodontitis) appear to raise severity, which may help dentists target prevention and risk-based management."
+ },
+ {
+  "id": "6353ecf3bf99",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42937026/",
+  "source": "J Periodontol",
+  "published": "2026-10-27T16:03:27.268241+00:00",
+  "added": "2026-10-27T16:03:27.268241+00:00",
+  "category": "research",
+  "headline": "P. gingivalis PPAD gene expression tracks periodontitis more than rheumatoid arthritis status",
+  "summary": "Researchers measured Porphyromonas gingivalis ppad gene expression in subgingival plaque across groups with preclinical, early, and established rheumatoid arthritis, with and without periodontitis. ppad expression was elevated in all periodontitis groups regardless of RA status, and its links to salivary CitH3 and serum ACPA appeared only in certain periodontitis subgroups. The authors concluded that PPAD is associated mainly with periodontitis and does not support a direct mechanistic link between PPAD and neutrophil extracellular traps in RA.",
+  "why": "For dentists, this suggests periodontal bacterial activity is linked to periodontal inflammation more than to RA, so periodontitis remains a condition to manage on its own merits even in patients with early joint disease."
  }
 ]
