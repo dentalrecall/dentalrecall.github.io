@@ -2500,5 +2500,192 @@
   "headline": "Stakeholders say oral health is under-prioritised for dependent older adults",
   "summary": "Researchers ran semi-structured interviews with 36 stakeholders, including dependent older adults, carers, family members, health professionals and researchers, and analysed them thematically. Six themes emerged, covering experiences of oral health, current services, consequences of poor oral health, needed improvements, and outcomes that matter to patients. Participants agreed that oral health is not currently a priority for this group, and that care assistants are often reluctant to help with oral hygiene.",
   "why": "It suggests that oral health outcomes for dependent older patients are judged more by comfort, function and social ability than by clinical measures, which may shape how dentists approach care for these patients and their carers."
+ },
+ {
+  "id": "44bcccf7eeec",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42946603/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-10-28T10:05:23.062824+00:00",
+  "added": "2026-10-28T10:05:23.062824+00:00",
+  "category": "research",
+  "headline": "Contralateral condyle shrinks after unilateral TMJ replacement, prosthesis stays put",
+  "summary": "A retrospective study of 17 patients with an average age of 26 who had unilateral total temporomandibular joint replacement tracked 3D changes in the untreated condyle using CT scans taken right after surgery and at long-term follow-up (mean 13.2 months). The untreated side's condyle lost volume significantly, about 9.3% on average, with bone resorption on its posterior and superior surfaces. Simultaneous orthognathic surgery did not change this remodeling pattern, and the replacement condylar prosthesis moved less than 1 mm in each direction.",
+  "why": "Surgeons planning TMJ replacement may need to account for bone changes on the opposite, non-operated joint, though the prosthesis itself appeared positionally stable in this small study."
+ },
+ {
+  "id": "ab3395e7c409",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42947396/",
+  "source": "Clin Oral Implants Res",
+  "published": "2026-10-28T10:05:23.062824+00:00",
+  "added": "2026-10-28T10:05:23.062824+00:00",
+  "category": "research",
+  "headline": "Synthetic self-retaining block yields more new bone than xenogeneic block in dog study",
+  "summary": "In a split-mouth study in eight beagle dogs, staged alveolar ridge augmentation was compared using a self-retaining synthetic block versus a self-retaining xenogeneic block, each with particulate bone and a collagen membrane. Total augmented area did not differ between the two, but the synthetic side formed significantly more new bone (about 7.9 mm² versus 4.4 mm²). The synthetic side also showed greater horizontal distance to the most buccal new bone at mid-portion sites, reaching significance at one level after correction.",
+  "why": ""
+ },
+ {
+  "id": "930d0524de20",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42947572/",
+  "source": "J Prosthodont",
+  "published": "2026-10-28T10:05:23.062824+00:00",
+  "added": "2026-10-28T10:05:23.062824+00:00",
+  "category": "research",
+  "headline": "In vitro study compares five impression methods for complete-arch implant accuracy",
+  "summary": "Researchers tested five techniques for complete-arch implant impressions on a maxillary edentulous model with six implants: conventional open-tray splinted, direct intraoral scanning, calibrated intraoral scan protocol, extraoral photogrammetry, and intraoral photogrammetry. Each was repeated 10 times and compared against desktop scanning reference data for trueness and precision. Extraoral photogrammetry showed the best overall accuracy and precision, while calibrated intraoral scanning and conventional impressions had smaller deviations at distal implant sites under constrained alignment.",
+  "why": "For complete-arch implant cases, the choice of impression method may affect fit accuracy, especially at distal implants, though these in vitro results have not been tested clinically."
+ },
+ {
+  "id": "6847008208df",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42947571/",
+  "source": "J Prosthodont",
+  "published": "2026-10-28T10:05:23.062824+00:00",
+  "added": "2026-10-28T10:05:23.062824+00:00",
+  "category": "research",
+  "headline": "3D-printed highly translucent zirconia crowns show fit and strength comparable to milled crowns",
+  "summary": "Researchers compared 3D-printed and milled single crowns made from highly translucent 5Y zirconia, testing fit and fracture resistance under two debinding and presintering protocols. Printed crowns had larger cement gaps around the margin circumference but smaller occlusal gaps than milled crowns, and marginal gaps stayed under 80 µm in all groups. At 0.7 mm wall thickness printed crowns were stronger, while at 1.5 mm milled crowns were stronger, and the faster debinding protocol tended to give lower and more variable results for thicker printed crowns.",
+  "why": "It suggests printed translucent zirconia crowns may be a viable alternative to milled ones, but a rapid debinding step may weaken thicker printed restorations, so protocol choice matters."
+ },
+ {
+  "id": "3840037d505d",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42947540/",
+  "source": "J Prosthodont",
+  "published": "2026-10-28T10:05:23.062824+00:00",
+  "added": "2026-10-28T10:05:23.062824+00:00",
+  "category": "research",
+  "headline": "Acidic aging roughens and softens two resin-ceramic crown materials, with differences by type",
+  "summary": "Researchers compared a subtractively manufactured resin-ceramic (Vita Enamic) with an additively manufactured one (Permanent Crown) intended for definitive crowns. Disk specimens were polished and aged for 7 days in acidic artificial saliva at pH 5.0 to simulate an acidic oral environment, then tested for roughness, microhardness, and protein adsorption. Acidic aging increased surface roughness and reduced hardness for both materials, and the additively manufactured material adsorbed more protein than the subtractive one only after aging.",
+  "why": ""
+ },
+ {
+  "id": "1fd09022ca70",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42946612/",
+  "source": "J Prosthet Dent",
+  "published": "2026-10-28T10:05:23.062824+00:00",
+  "added": "2026-10-28T10:05:23.062824+00:00",
+  "category": "research",
+  "headline": "Intraoral scans beat conventional impressions for short complete-arch implant spans only",
+  "summary": "A systematic review of 23 studies (22 in vitro, 1 clinical) compared intraoral scanning techniques for complete-arch implants with the conventional splinted open tray impression. Plain intraoral scanning and scanning with scan aids were more accurate than conventional impressions for short implant spans, but less accurate for long spans. Evidence for the other scanning approaches was limited or insufficient.",
+  "why": ""
+ },
+ {
+  "id": "3afade679391",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42947524/",
+  "source": "Int J Paediatr Dent",
+  "published": "2026-10-28T10:05:23.062824+00:00",
+  "added": "2026-10-28T10:05:23.062824+00:00",
+  "category": "research",
+  "headline": "Direct pulp capping performs similarly to pulpotomy in carious primary molars",
+  "summary": "A split-mouth randomized trial of 100 carious primary molars in children aged 4 to 9 compared direct pulp capping with pulpotomy, both using a calcium silicate-based putty (NeoPUTTY). Teeth were restored with glass ionomer and stainless-steel crowns and followed for 12 months. Success rates were 89.6% versus 91.7% at 6 months (p = 0.73) and were identical at 85.1% at 12 months, with preoperative factors not linked to outcome.",
+  "why": "This short-term evidence suggests the less invasive direct pulp capping may achieve results comparable to pulpotomy for carious pulp exposures in primary molars, though the findings are limited to short-term follow-up."
+ },
+ {
+  "id": "ce8e9f905498",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42947303/",
+  "source": "Pediatr Dent",
+  "published": "2026-10-28T10:05:23.062824+00:00",
+  "added": "2026-10-28T10:05:23.062824+00:00",
+  "category": "research",
+  "headline": "Ambulatory surgery centers outperform hospital outpatient departments for pediatric caries surgery",
+  "summary": "A cross-sectional study of 2016 to 2020 Medicaid data from 28 states compared outcomes of pediatric dental caries surgeries done in ambulatory surgery centers with those done in hospital outpatient departments. Across eight racial and ethnic groups, surgeries in ambulatory surgery centers had shorter waits from the last dental visit, lower payments, and lower rates of emergency department visits and hospitalizations afterward. The benefits were seen across groups, with outcomes for most groups similar to those for White children.",
+  "why": "For dentists referring children for surgical caries treatment, ambulatory surgery centers may offer faster access and lower costs than hospital outpatient departments, with no worse postoperative outcomes in this Medicaid population."
+ },
+ {
+  "id": "8d6c3e4ac2e9",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42947301/",
+  "source": "Pediatr Dent",
+  "published": "2026-10-28T10:05:23.062824+00:00",
+  "added": "2026-10-28T10:05:23.062824+00:00",
+  "category": "research",
+  "headline": "Hospital peer consult line with dentistry used in 2,689 pediatric encounters",
+  "summary": "A cross-sectional study reviewed electronic records from 2009 to 2023 for patients whose providers used Physician Direct Connect, a provider-to-provider consultation program with dentistry at a major children's hospital. Most requests came from physicians, mostly at urgent care sites, and dental trauma was the leading concern, with about 29% of consults ending in emergency department transfer.",
+  "why": ""
+ },
+ {
+  "id": "b5245df1e907",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42947299/",
+  "source": "Pediatr Dent",
+  "published": "2026-10-28T10:05:23.062824+00:00",
+  "added": "2026-10-28T10:05:23.062824+00:00",
+  "category": "research",
+  "headline": "Scoping review maps collaborative care models linking medical and dental providers for children",
+  "summary": "Researchers reviewed literature on multidisciplinary care in pediatric patients, using a five-stage scoping review method and three databases. Of 30 practice models, 14 were ranked high collaboration, 10 low, and 2 medium. High-collaboration models were linked to fewer missed appointments, more referrals, and higher dental use, while low-collaboration models were tied to reduced caries and restorative treatment and fewer preventive care gaps.",
+  "why": "It suggests that coordinating with medical providers can help children keep dental appointments and receive preventive care, though barriers such as limited provider time, electronic health records, state practice laws, and interprofessional training must be addressed."
+ },
+ {
+  "id": "1f01dc759f00",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42947297/",
+  "source": "Pediatr Dent",
+  "published": "2026-10-28T10:05:23.062824+00:00",
+  "added": "2026-10-28T10:05:23.062824+00:00",
+  "category": "research",
+  "headline": "School-based dental clinic compared with children's hospital dental clinic for pediatric caries care",
+  "summary": "A retrospective study compared pediatric patients with caries treated over 17 months at a children's hospital dental clinic and a school-based dental clinic, using electronic health records and matching patients by age, sex, insurance status, and autism or ADHD diagnosis. The school-based clinic served a higher share of nonWhite patients, lower child opportunity index zip codes, and Medicaid or uninsured children, while the hospital clinic saw more Latino/Hispanic patients, non-English home languages, and children with autism. Among 556 matched pairs, school-based clinic patients had more visits, more completed treatment plans, more procedures completed, and better cooperation, with fewer general anesthesia referrals and without nitrous oxide available.",
+  "why": "It suggests school-based clinics can deliver comprehensive pediatric treatment and reach underserved children, offering a model for practices or partnerships serving Medicaid and uninsured patients."
+ },
+ {
+  "id": "654a12a67d61",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42947296/",
+  "source": "Pediatr Dent",
+  "published": "2026-10-28T10:05:23.062824+00:00",
+  "added": "2026-10-28T10:05:23.062824+00:00",
+  "category": "research",
+  "headline": "Noise Levels and Speech Intelligibility in Pediatric Dental Treatment Settings",
+  "summary": "Researchers measured sound with a sound level meter in four pediatric dental locations: an open bay, a quiet room, a moderate sedation suite, and an operating suite. They calculated articulation index values, a measure of speech intelligibility when background noise may obscure speech, and compared them with procedure type and chart data from 197 patients. The articulation index did not differ significantly by location or procedure, though values ranged from excellent to barely acceptable, and the authors concluded that noise affects speech intelligibility.",
+  "why": "Clinicians working in open or shared pediatric spaces may find that background noise makes it harder for team members to communicate clearly, which bears on the workflow and safety of chairside communication."
+ },
+ {
+  "id": "b788a6dd1632",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42947295/",
+  "source": "Pediatr Dent",
+  "published": "2026-10-28T10:05:23.062824+00:00",
+  "added": "2026-10-28T10:05:23.062824+00:00",
+  "category": "research",
+  "headline": "Use of the Hall technique rises at a US dental school over 12 years",
+  "summary": "A retrospective review of a US dental school's records from 2012 through 2024 looked at how often the Hall technique was used for pediatric stainless steel crowns compared with conventional crowns. Of 25,837 crowns placed, 3,526 (13.6%) used the Hall technique, and that share grew significantly over the period. Pediatric dentistry residents placed the most Hall crowns, while predoctoral students increasingly adopted it over time.",
+  "why": "The findings suggest the Hall technique is becoming a standard part of pediatric dental training and practice, which may prompt dentists to review how they place primary molar crowns."
+ },
+ {
+  "id": "5ae26800784c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42947294/",
+  "source": "Pediatr Dent",
+  "published": "2026-10-28T10:05:23.062824+00:00",
+  "added": "2026-10-28T10:05:23.062824+00:00",
+  "category": "research",
+  "headline": "Photobiomodulation Lowers Stress and Pain in Children During Diagnostic Dental Visits",
+  "summary": "A split-mouth randomized trial at the University of Maryland tested photobiomodulation (PBMT) with a multiwavelength LED device on 30 children aged 7 to 12 before cold pulp testing and gingival probing. PBMT produced smaller heart rate changes during cold testing and lower self-reported pain during gingival probing than the untreated control tooth, with no adverse events and preserved cold sensation.",
+  "why": "This suggests PBMT could be a nonpharmacological option for calming young patients during routine diagnostic steps, though it is a single trial and its wider clinical role is not yet established."
+ },
+ {
+  "id": "d7f960cdfb92",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42947293/",
+  "source": "Pediatr Dent",
+  "published": "2026-10-28T10:05:23.062824+00:00",
+  "added": "2026-10-28T10:05:23.062824+00:00",
+  "category": "research",
+  "headline": "Buzzy and Vibradent vibrotactile devices ease pain and anxiety during pediatric anesthesia",
+  "summary": "A study of 126 children aged 7 to 10 having dental extractions compared two vibrotactile devices, Buzzy and Vibradent, against a conventional syringe during local anesthesia. Both devices significantly reduced pain, anxiety, and salivary cortisol relative to the control group. Buzzy showed more favorable pain, heart rate, and anxiety scores and received the highest satisfaction ratings.",
+  "why": "Both non-invasive vibrotactile tools may be practical options for making injections less distressing for young patients, with Buzzy appearing to perform somewhat better in this study."
+ },
+ {
+  "id": "f61ff157c77c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42947292/",
+  "source": "Pediatr Dent",
+  "published": "2026-10-28T10:05:23.062824+00:00",
+  "added": "2026-10-28T10:05:23.062824+00:00",
+  "category": "research",
+  "headline": "Pediatric dentists report high career satisfaction, with gaps across groups",
+  "summary": "A cross-sectional survey of U.S. pediatric dentists, sent electronically to 6,322 members, drew 669 usable responses (11% response rate). Respondents were highly satisfied with patient care and professional relationships but less satisfied with income, stress, well-being, practice management, and the effects of COVID-19. Satisfaction varied significantly by gender, age, race, family status, practice ownership, work hours, patient volume, and Medicaid participation.",
+  "why": "Practice owners and clinicians may find it useful that income, stress, and management are weak points, and that early-career dentists and those with heavy Medicaid caseloads show lower satisfaction, which points to where support could help retention."
+ },
+ {
+  "id": "0ad3b98f9d8f",
+  "url": "https://www.dental-tribune.com/news/researchers-investigate-the-effect-of-cranberry-juice-on-dental-plaque/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-10-28T07:13:07+00:00",
+  "added": "2026-10-28T10:05:23.062824+00:00",
+  "category": "research",
+  "headline": "Cranberry juice studied for effects on plaque bacteria and acid production",
+  "summary": "Two randomised controlled trials tested whether unsweetened cranberry juice can reduce bacterial growth and acid production in dental plaque from adults and children. The findings suggest the juice may influence plaque metabolism. The researchers say the results could guide further work on dietary approaches to caries prevention.",
+  "why": "Although this is early research, it adds to evidence on how everyday beverages may affect plaque and caries risk, which could eventually shape dietary advice given to patients."
  }
 ]
