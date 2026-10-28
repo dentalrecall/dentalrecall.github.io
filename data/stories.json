@@ -2445,5 +2445,60 @@
   "headline": "Sonic activation speeds bacterial reduction during root canal irrigation in lab study",
   "summary": "An in vitro study from researchers at an Indian dental institute compared 1% sodium hypochlorite alone with the same irrigant plus sonic activation using the SmartLite Pro EndoActivator. Activated irrigation reduced bacteria faster, reaching over 95% within one minute and over 99.9% within about two and a half minutes. The article, which is promotional in tone, also notes that more than 35% of canal surfaces are left untouched after instrumentation.",
   "why": "The findings suggest activating the irrigant may shorten disinfection time during root canal treatment, though the evidence is from an in vitro study and the source is a product-focused feed."
+ },
+ {
+  "id": "42a9caefd0aa",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42946043/",
+  "source": "J Endod",
+  "published": "2026-10-28T04:02:14.688070+00:00",
+  "added": "2026-10-28T04:02:14.688070+00:00",
+  "category": "research",
+  "headline": "Global CBCT study links missed canals and short fillings to post-treatment periapical lesions",
+  "summary": "A multinational study pooled pre-existing CBCT scans from 54 countries to measure post-treatment periapical radiolucencies in root canal-treated teeth. About 69.5% of patients and 43.7% of treated teeth had at least one such radiolucency, with rates varying by region from 31.4% in Oceania to 62.3% in Africa. Missed canals, short fillings, and overfilling were associated with higher odds of these lesions, while unrestored or cavitated teeth showed a weaker association than crowned or overlaid teeth.",
+  "why": "The findings reinforce that thorough canal location and proper working length filling are the treatment factors most tied to persistent periapical radiolucencies, which matters for endodontic quality and retreatment decisions."
+ },
+ {
+  "id": "a2b9bddbba10",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42946042/",
+  "source": "J Endod",
+  "published": "2026-10-28T04:02:14.688070+00:00",
+  "added": "2026-10-28T04:02:14.688070+00:00",
+  "category": "research",
+  "headline": "Irrigation Methods Affect Sealer Penetration and Dentin Erosion in Extracted Premolars",
+  "summary": "An ex vivo study of 100 extracted human mandibular premolars compared ultrasonic activation, laser-activated irrigation, and the GentleWave system after minimally invasive or conventional instrumentation. Smear layer removal did not differ between the two instrumentation techniques for the same irrigation method. In minimally invasive canals, GentleWave and laser-activated irrigation produced greater apical sealer penetration than ultrasonic activation, and dentin erosion appeared in 12.5% of images, none of them from the GentleWave group.",
+  "why": "Irrigation protocol may influence how well sealer reaches the apical canal and whether dentin is eroded, though the authors note the protocols differed in irrigant volume, exposure time, and sequence, so the results cannot be attributed to the activation technology alone."
+ },
+ {
+  "id": "68c815f2f8cc",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42946041/",
+  "source": "J Endod",
+  "published": "2026-10-28T04:02:14.688070+00:00",
+  "added": "2026-10-28T04:02:14.688070+00:00",
+  "category": "research",
+  "headline": "Larger apical enlargement linked to better strict healing in molar root canal treatment",
+  "summary": "A systematic review with exploratory meta-analysis pooled five studies on apical enlargement and taper in primary root canal treatment of permanent mandibular molars. Two randomized trials found that +3 enlargement produced a higher strict periapical healing rate than +2 enlargement, while the effect of taper alone remained unclear. Single-arm data with final apical preparation sizes of #30 or smaller showed a descriptive pooled healing rate of about 72.9%.",
+  "why": "For mandibular molars, preparing the apical canal slightly larger may improve periapical healing, though the evidence base is limited and taper's independent role is still uncertain."
+ },
+ {
+  "id": "09c59d6eea39",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42946040/",
+  "source": "J Endod",
+  "published": "2026-10-28T04:02:14.688070+00:00",
+  "added": "2026-10-28T04:02:14.688070+00:00",
+  "category": "research",
+  "headline": "Machine learning models struggle to flag failed root canal healing in imbalanced data",
+  "summary": "Researchers retrospectively trained logistic regression, random forest and SVM models on 276 single-tooth endodontic treatments to classify periapical healing as favorable or unfavorable after 12-18 months. Unfavorable healing occurred in 18.8% of cases, and a majority-class baseline reached 80.4% accuracy with zero sensitivity for failures. Imbalance handling improved detection of unfavorable outcomes, with an adjusted threshold reaching 90.9% sensitivity at the cost of many false positives; the authors say the findings are preliminary and need external validation.",
+  "why": "Accuracy alone can hide failed endodontic cases, and these preliminary models are not ready for clinical use, though tooth type and baseline lesion size were the top predictors."
+ },
+ {
+  "id": "50956d0b2f46",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42946116/",
+  "source": "J Dent",
+  "published": "2026-10-28T04:02:14.688070+00:00",
+  "added": "2026-10-28T04:02:14.688070+00:00",
+  "category": "research",
+  "headline": "Stakeholders say oral health is under-prioritised for dependent older adults",
+  "summary": "Researchers ran semi-structured interviews with 36 stakeholders, including dependent older adults, carers, family members, health professionals and researchers, and analysed them thematically. Six themes emerged, covering experiences of oral health, current services, consequences of poor oral health, needed improvements, and outcomes that matter to patients. Participants agreed that oral health is not currently a priority for this group, and that care assistants are often reluctant to help with oral hygiene.",
+  "why": "It suggests that oral health outcomes for dependent older patients are judged more by comfort, function and social ability than by clinical measures, which may shape how dentists approach care for these patients and their carers."
  }
 ]
