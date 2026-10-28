@@ -2852,5 +2852,115 @@
   "headline": "Podcast explores the origins of dental fear and how it may be treated",
   "summary": "An episode of the Dentistry Unmasked podcast features hosts Drs. Pam Maragliano and Brian Nový speaking with Dr. Kelly Daly, a clinical psychologist and researcher at NYU. The discussion covers where dental fear comes from and the science behind treating it.",
   "why": "Dentists dealing with anxious patients may find the conversation useful for understanding fear's roots and approaches to easing it, though the excerpt itself does not describe specific treatment results."
+ },
+ {
+  "id": "2f9bca2efc79",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42949943/",
+  "source": "Gen Dent",
+  "published": "2026-10-28T21:56:41.755135+00:00",
+  "added": "2026-10-28T21:56:41.755135+00:00",
+  "category": "research",
+  "headline": "In vitro study compares water solubility of three tricalcium silicate root canal sealers",
+  "summary": "Researchers immersed standardized specimens of BioRoot RCS, Bio-C Sealer, and NeoSealer Flo in distilled water under ISO 6876:2012 guidance and measured mass loss over 1440 hours. Bio-C Sealer was the most soluble at 11.56%, while BioRoot RCS (5.81%) and NeoSealer Flo (4.97%) were less soluble, though all three exceeded the 3% ISO limit. BioRoot RCS and NeoSealer Flo did not differ significantly from each other but both resisted dissolution better than Bio-C Sealer.",
+  "why": "Solubility may affect how long a bioceramic sealer maintains its seal, so sealer choice may matter in cases where long-term stability is important, though the authors note that more long-term research is needed."
+ },
+ {
+  "id": "0f9ed4d0c4b3",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42949942/",
+  "source": "Gen Dent",
+  "published": "2026-10-28T21:56:41.755135+00:00",
+  "added": "2026-10-28T21:56:41.755135+00:00",
+  "category": "research",
+  "headline": "Nanofibrous scaffold and laser photobiomodulation used for an incisor with root resorption",
+  "summary": "A case report describes managing internal root resorption and an open apex in a maxillary central incisor of a 25-year-old man with prior dental trauma. The approach combined revascularization, a nanofibrous scaffold at the apical third, an MTA plug, laser-assisted disinfection, adjunctive photobiomodulation, and a bioceramic sealer, followed by a zirconia crown. At 24 months, a periapical radiograph showed apical closure, resolution of the periapical lesion, and preserved tooth function.",
+  "why": ""
+ },
+ {
+  "id": "dd514fa0c9c3",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42949941/",
+  "source": "Gen Dent",
+  "published": "2026-10-28T21:56:41.755135+00:00",
+  "added": "2026-10-28T21:56:41.755135+00:00",
+  "category": "research",
+  "headline": "Methotrexate mix-up causes severe oral ulcers and blood toxicity in a 68-year-old woman",
+  "summary": "A case report describes a 68-year-old woman with inflammatory arthritis who developed acute methotrexate toxicity after taking methotrexate instead of mirtazapine for about a month, due to a pharmacy dispensing error. She presented with oral erosions resembling erythema multiforme and blistering skin lesions, and blood tests showed reduced leukocytes and erythrocytes. After methotrexate was stopped and she received supportive treatment, the lesions resolved and her counts improved before discharge.",
+  "why": "Oral erosions resembling erythema multiforme should prompt dentists to ask about recent medication use and possible dispensing errors, especially with high-risk drugs like methotrexate."
+ },
+ {
+  "id": "7a270cba27c9",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42949940/",
+  "source": "Gen Dent",
+  "published": "2026-10-28T21:56:41.755135+00:00",
+  "added": "2026-10-28T21:56:41.755135+00:00",
+  "category": "research",
+  "headline": "Coronectomy as an alternative to extraction for high-risk mandibular third molar",
+  "summary": "A case report describes a 55-year-old woman with pain and food trapping near a left mandibular third molar that lay close to the mandibular canal. Clinicians chose coronectomy, removing the crown and leaving the roots at least 3 mm below the alveolar crest to protect the inferior alveolar nerve. At two years, clinical and radiographic review showed good healing and bone repair with no root migration.",
+  "why": "It offers a conservative option for impacted third molars near the nerve when extraction carries a high risk of paresthesia, though it applies only to carefully selected cases and needs periodic follow-up of the retained roots."
+ },
+ {
+  "id": "2b37e2eca093",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42949939/",
+  "source": "Gen Dent",
+  "published": "2026-10-28T21:56:41.755135+00:00",
+  "added": "2026-10-28T21:56:41.755135+00:00",
+  "category": "research",
+  "headline": "Photoinitiator choice alters mechanical properties of experimental resin cements",
+  "summary": "Researchers compared three experimental light-curable resin cements, each using a different photoinitiator system, against a commercial resin cement (RelyX Veneer). They measured flexural strength, flexural modulus, and Knoop surface microhardness. The photoinitiator type significantly changed mechanical properties, and the BAPO-containing cements performed comparably to or better than the commercial control.",
+  "why": "Suggests that the photoinitiator chemistry in resin cements can affect how strong and hard the set material is, which may matter when choosing cements for restorations, though this is a laboratory study."
+ },
+ {
+  "id": "c3f4fe91e16f",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42949938/",
+  "source": "Gen Dent",
+  "published": "2026-10-28T21:56:41.755135+00:00",
+  "added": "2026-10-28T21:56:41.755135+00:00",
+  "category": "research",
+  "headline": "Tongue pain as first sign of glossopharyngeal neuralgia in a 73-year-old woman",
+  "summary": "This case report describes a 73-year-old woman with left-sided pain in the back of the tongue, later diagnosed as classical glossopharyngeal neuralgia, a rare orofacial pain disorder. The diagnosis was made using clinical findings along with high-resolution MRI and angiography. The authors note that the condition is easily confused with other cranial nerve neuralgias and with non-neuropathic problems such as oropharyngeal infections and reflux.",
+  "why": "Unexplained tongue pain can stem from a neurologic cause, so dentists should consider glossopharyngeal neuralgia in the differential and refer patients promptly when a dental cause is not found."
+ },
+ {
+  "id": "403b04000fac",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42949937/",
+  "source": "Gen Dent",
+  "published": "2026-10-28T21:56:41.755135+00:00",
+  "added": "2026-10-28T21:56:41.755135+00:00",
+  "category": "research",
+  "headline": "Single-shade composites match conventional resins in staining resistance",
+  "summary": "Researchers compared color, translucency, and coffee-staining susceptibility of two single-shade composite resins with two conventional composites using 48 disc specimens. After seven days in coffee, all composites darkened in lightness and shifted toward red and yellow, but the overall color change did not differ significantly between the single-shade and conventional materials. The single-shade resins showed greater translucency and, for one product, higher lightness.",
+  "why": ""
+ },
+ {
+  "id": "c20b588c0dab",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42949936/",
+  "source": "Gen Dent",
+  "published": "2026-10-28T21:56:41.755135+00:00",
+  "added": "2026-10-28T21:56:41.755135+00:00",
+  "category": "research",
+  "headline": "Case report describes an unusually pink lipoma on the ventral tongue",
+  "summary": "This case report describes an atypical oral lipoma, a fairly uncommon soft tissue lesion made mostly of mature fat cells. Oral lipomas can have several histologic variants containing tissues such as spindle cells, cartilage, or salivary glands, and they usually appear on the buccal mucosa with a yellow to yellow-pink color. The authors report a moderately pink lipoma located on the ventral tongue, which is an unusual presentation.",
+  "why": "Dentists may encounter oral lipomas with atypical coloring or locations, so this case is a reminder to consider them in the differential diagnosis of tongue lesions."
+ },
+ {
+  "id": "25dfa95f1b97",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42949935/",
+  "source": "Gen Dent",
+  "published": "2026-10-28T21:56:41.755135+00:00",
+  "added": "2026-10-28T21:56:41.755135+00:00",
+  "category": "research",
+  "headline": "High-power diode laser manages recurrent proliferative verrucous leukoplakia in one case",
+  "summary": "A case report describes treating proliferative verrucous leukoplakia, a persistent and recurrent oral potentially malignant disorder, in a 54-year-old male smoker with extensive white plaques across the mouth. The patient underwent nine surgical sessions with a 980-nm diode laser at 1.5 W in continuous mode, spaced 45 to 60 days apart. At 18 months after the first treatment, he reported satisfaction, showed no significant recurrence, and had reduced his tobacco use.",
+  "why": "It offers a single case suggesting high-power laser surgery may be an option for controlling extensive PVL lesions that are hard to treat, though one case cannot establish general effectiveness and close long-term monitoring remains essential."
+ },
+ {
+  "id": "f9ad9c5ad839",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42949934/",
+  "source": "Gen Dent",
+  "published": "2026-10-28T21:56:41.755135+00:00",
+  "added": "2026-10-28T21:56:41.755135+00:00",
+  "category": "research",
+  "headline": "Case report: managing invasive cervical resorption in a maxillary canine",
+  "summary": "A case report describes treating a patient with class 3Ap invasive cervical resorption (ICR) in the maxillary left canine, an aggressive form of external root resorption with unclear, likely multifactorial causes. Cone beam CT guided diagnosis and planning, and treatment combined endodontic therapy, surgery, and restoration with a bioactive resin containing a surface-treated prereacted glass ionomer filler. At 6-month follow-up, the tooth showed clinical and radiographic success with no recurrence.",
+  "why": "It illustrates that early diagnosis with CBCT and interdisciplinary endodontic and surgical management may preserve teeth affected by ICR and avoid extraction."
  }
 ]
