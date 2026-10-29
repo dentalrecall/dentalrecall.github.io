@@ -2973,5 +2973,38 @@
   "headline": "Unsweetened Cranberry Juice Linked to Slower Plaque Growth in Small Study",
   "summary": "A University of Illinois Chicago study compared unsweetened 100% cranberry juice with a sweetened cranberry cocktail containing 27% pure juice, in 14 children and eight adults who skipped brushing beforehand. Plaque exposed to the pure juice grew more slowly, and participants who drank it showed lower acid production than those who drank the sweetened beverage.",
   "why": ""
+ },
+ {
+  "id": "a25c958f6998",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42951003/",
+  "source": "J Dent",
+  "published": "2026-10-29T04:04:21.879451+00:00",
+  "added": "2026-10-29T04:04:21.879451+00:00",
+  "category": "research",
+  "headline": "One-shade vs multi-shade flowable composites for cervical lesions: 18-month trial",
+  "summary": "A double-blind, split-mouth randomized trial compared a one-shade flowable composite with a multi-shade flowable composite for restoring non-carious cervical lesions in 62 participants. Objective color differences did not differ significantly between the two materials, and 18-month retention was 98.4% for the one-shade and 100% for the multi-shade product. Visual color match scored higher for the multi-shade material at 18 months, though all restorations evaluated for color remained clinically acceptable.",
+  "why": "A one-shade flowable may simplify cervical lesion restorations by removing shade selection while keeping acceptable color match and performance, though the multi-shade material scored better visually at 18 months."
+ },
+ {
+  "id": "c9eb01707523",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42951002/",
+  "source": "J Dent",
+  "published": "2026-10-29T04:04:21.879451+00:00",
+  "added": "2026-10-29T04:04:21.879451+00:00",
+  "category": "research",
+  "headline": "Review examines stem cells from baby teeth and their cell-free derivatives in regenerative medicine",
+  "summary": "This literature review looks at stem cells from human exfoliated deciduous teeth (SHED) as a basis for cell-free regenerative approaches. It covers secretomes, extracellular vesicles, extracellular matrix, conditioned medium, and decellularized matrices, drawing mainly on preclinical studies from PubMed and Web of Science. The authors report that these products may support tissue repair through bioactive molecules and effects on the host environment, but standardized preparation, mechanistic validation, and safety and efficacy testing are still needed.",
+  "why": "Cell-free SHED-derived products could eventually offer a ready-to-use option for regenerative dentistry that avoids some risks of transplanting living cells, but the evidence is still preclinical and not ready for patient use."
+ },
+ {
+  "id": "854bb2d18bb6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42951001/",
+  "source": "J Dent",
+  "published": "2026-10-29T04:04:21.879451+00:00",
+  "added": "2026-10-29T04:04:21.879451+00:00",
+  "category": "research",
+  "headline": "Intraoral scanning shows feasibility for 3D soft-tissue volume assessment in mucogingival surgery",
+  "summary": "This proof-of-concept study tested a digital workflow using intraoperative scans on five patients with gingival recessions treated at 14 sites, with eight sites receiving a subepithelial connective tissue graft and six treated without grafting. Scans taken at several stages were compared to reconstruct external and internal soft-tissue volumes and initial graft volume. External volume was numerically higher at 1 month and lower at 3 months, but pairwise differences were not significant, and the authors call for validation in larger, standardized samples.",
+  "why": "It suggests intraoral scanning may eventually supplement conventional clinical measurements for tracking soft-tissue changes after gum grafting and recession surgery, though the evidence is preliminary and based on a very small sample."
  }
 ]
