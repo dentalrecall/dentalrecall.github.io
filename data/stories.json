@@ -3303,5 +3303,27 @@
   "headline": "Align Technology Q3 2026 Revenue Rises 1.9% on Clear Aligner Growth",
   "summary": "Align Technology reported third-quarter 2026 total revenues of $1.015 billion, up 1.9% year over year, led by its clear aligner segment. Clear aligner revenue reached $839.3 million (up 4.2%) on 690,600 cases (up 6.6%), while imaging systems and CAD/CAM revenue fell 7.6% to $175.5 million. The company also announced that Jennifer L. Davis will succeed longtime CEO Joseph M. Hogan, effective December 31, 2026.",
   "why": "Aligner volume growth and the leadership change at a major clear aligner supplier may influence how practices think about aligner offerings, while the decline in scanner and imaging revenue is a signal about digital workflow spending."
+ },
+ {
+  "id": "be9edb872328",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42955041/",
+  "source": "J Am Dent Assoc",
+  "published": "2026-10-29T21:59:25.559245+00:00",
+  "added": "2026-10-29T21:59:25.559245+00:00",
+  "category": "research",
+  "headline": "New matrix ranks precision dentistry research priorities by feasibility and importance",
+  "summary": "Researchers developed a scientometric-importance-feasibility matrix and applied it to 912 precision dentistry articles published from January 2016 through October 2025. Expert clinicians rated the research hot spots using best-worst scaling, which produced 13 research clusters and a three-stage shift from phenotype correlation toward combining artificial intelligence with noninterventional techniques. Machine learning and decision support systems were placed in the top priority tier for immediate action, while foundational biological research was judged highly important but limited by clinical translation barriers.",
+  "why": "It suggests where near-term efforts in precision dentistry, such as machine learning and decision support tools, are most practical, while basic biological work will need sustained funding before it reaches the clinic."
+ },
+ {
+  "id": "ef6676c0ea35",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42954957/",
+  "source": "Am J Orthod Dentofacial Orthop",
+  "published": "2026-10-29T21:59:25.559245+00:00",
+  "added": "2026-10-29T21:59:25.559245+00:00",
+  "category": "research",
+  "headline": "Multiloop edgewise archwire shows overbite gain for anterior open bite, but evidence remains weak",
+  "summary": "A systematic review and meta-analysis of five retrospective observational studies assessed the multiloop edgewise archwire (MEAW) technique for anterior open bite. The pooled analysis found a significant overbite increase with no significant change in mandibular plane angle, though the certainty of evidence was rated low. The authors concluded that the technique's effectiveness remains inconclusive and called for larger, higher-quality randomized controlled trials.",
+  "why": "Orthodontically treating anterior open bite with MEAW may improve overbite, but the low-certainty evidence means dentists should not treat it as a proven approach without better trial data."
  }
 ]
