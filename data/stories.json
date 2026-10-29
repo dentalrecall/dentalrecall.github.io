@@ -3039,5 +3039,148 @@
   "headline": "Plaque disclosing with erythritol air polishing may aid pediatric biofilm removal",
   "summary": "A randomised controlled clinical trial from Brescia, Italy, examined how plaque disclosing performs alongside different prophylaxis methods in children. The study looked at effectiveness, treatment time and patient acceptance. Its findings suggest that pairing plaque disclosing with erythritol-based air polishing may offer practical benefits for preventive care in children.",
   "why": ""
+ },
+ {
+  "id": "0d131db4039c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42952099/",
+  "source": "J Dent Res",
+  "published": "2026-10-29T10:07:47.282322+00:00",
+  "added": "2026-10-29T10:07:47.282322+00:00",
+  "category": "research",
+  "headline": "Queensland study finds community water fluoridation linked to less childhood caries",
+  "summary": "A population-based study of randomly selected 5 to 14 year old children in Queensland compared caries in areas that newly gained fluoridated water with areas that never had it, using surveys from 2010-2012 and 2022-2024. Children in newly fluoridated areas showed greater declines in caries than controls, with a clearer effect in primary teeth than in permanent teeth. The authors conclude that water fluoridation is effective against caries when disease levels are low and other preventive programs are available.",
+  "why": "This adds recent controlled evidence supporting water fluoridation as a caries prevention measure, which may be useful when patients or policymakers ask about its benefits, though the permanent-tooth results were not statistically clear."
+ },
+ {
+  "id": "ae43e174c070",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42952098/",
+  "source": "J Dent Res",
+  "published": "2026-10-29T10:07:47.282322+00:00",
+  "added": "2026-10-29T10:07:47.282322+00:00",
+  "category": "research",
+  "headline": "Mouse study maps how Meckel's cartilage breaks down during jaw development",
+  "summary": "Using transgenic mice, explant cultures, and grafting, researchers examined what triggers the breakdown of Meckel's cartilage, a temporary scaffold in lower jaw development. They found that initiation occurs around embryonic day 14.5 and is driven by signals from the dentary mesenchyme rather than from teeth or the bone itself. Breakdown then proceeds through a second, intrinsic stage that depends on RUNX2 and VEGF-linked blood vessel formation.",
+  "why": ""
+ },
+ {
+  "id": "6c2ac56f1bd3",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42952114/",
+  "source": "J Clin Periodontol",
+  "published": "2026-10-29T10:07:47.282322+00:00",
+  "added": "2026-10-29T10:07:47.282322+00:00",
+  "category": "research",
+  "headline": "Machine learning model using routine blood markers flags severe periodontitis",
+  "summary": "A two-centre retrospective study developed an interpretable machine learning model to separate Stage III-IV from Stage I-II periodontitis using routine lab data plus age, sex and smoking status. The model reached a moderate external AUC of 0.774, though its calibration was less favourable on external validation. Blood-derived predictors added only modest discrimination beyond age, sex and smoking status.",
+  "why": ""
+ },
+ {
+  "id": "5463ec695003",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42952057/",
+  "source": "J Prosthodont",
+  "published": "2026-10-29T10:07:47.282322+00:00",
+  "added": "2026-10-29T10:07:47.282322+00:00",
+  "category": "research",
+  "headline": "Implant-assisted rotational path RPD converts a Kennedy Class I case to Class III",
+  "summary": "A case report describes using an implant-assisted rotational path removable partial denture (RPRPD) to hide visible clasps and address a distal extension situation. The implants converted a Kennedy Class I arch into a Kennedy Class III arch. The authors report better patient satisfaction, biomechanics, and esthetics, and state that the approach was previously mostly limited to tooth-supported cases.",
+  "why": "For complex distal extension cases, adding implants to a rotational path partial may offer an esthetic and biomechanical alternative to conventional clasped designs, though this evidence comes from a single case report."
+ },
+ {
+  "id": "f27487525068",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42951781/",
+  "source": "J Prosthet Dent",
+  "published": "2026-10-29T10:07:47.282322+00:00",
+  "added": "2026-10-29T10:07:47.282322+00:00",
+  "category": "research",
+  "headline": "Half-C shield design eases stress in multi-tooth socket shield implant restorations",
+  "summary": "A finite element study compared classic and Half-C socket shield designs in a 3D model of the maxilla, simulating bilateral central incisor and combined central-lateral incisor implant restorations. The Half-C shield produced lower overall stress and a more balanced strain pattern in the surrounding bone than the classic shield, and shield type and socket aspects both significantly affected bone strain (P<.001).",
+  "why": ""
+ },
+ {
+  "id": "16195180b865",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42951780/",
+  "source": "J Prosthet Dent",
+  "published": "2026-10-29T10:07:47.282322+00:00",
+  "added": "2026-10-29T10:07:47.282322+00:00",
+  "category": "research",
+  "headline": "Super-speed sintered multilayer zirconia crowns match conventional crowns in fracture resistance",
+  "summary": "An in vitro study compared conventionally sintered monolithic and multilayer zirconia crowns with multilayer crowns sintered in a 15-minute super-speed protocol. Fracture resistance was similar between the two multilayer sintering protocols at baseline and after thermomechanical aging, and all specimens survived the loading. The monolithic 3Y-PSZ crowns were stronger at baseline, and fatigued multilayer crowns showed more fragmentation.",
+  "why": "Dentists considering faster zirconia processing may find that a 15-minute super-speed cycle does not reduce fracture resistance of multilayer crowns in this lab model, though monolithic zirconia was stronger at baseline and the findings come from an in vitro study only."
+ },
+ {
+  "id": "1b072e368d83",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42951779/",
+  "source": "J Prosthet Dent",
+  "published": "2026-10-29T10:07:47.282322+00:00",
+  "added": "2026-10-29T10:07:47.282322+00:00",
+  "category": "research",
+  "headline": "Surface treatments boost bond strength of 3D-printed denture teeth to bases",
+  "summary": "A systematic review and meta-analysis of 10 in vitro studies (4 in the meta-analysis, all with medium risk of bias) examined bonding protocols for 3D-printed denture teeth and denture bases. Surface treatment overall significantly increased shear bond strength versus untreated controls, with airborne-particle abrasion and combined protocols showing significant gains, while MMA chemical treatment alone did not reach significance. The authors suggest airborne-particle abrasion with aluminum oxide as the minimum surface treatment.",
+  "why": "For dentists fabricating or repairing 3D-printed dentures, surface preparation before bonding teeth to bases appears important for bond strength, though the evidence is limited to in vitro studies with high heterogeneity."
+ },
+ {
+  "id": "a3c9f4c6f3d9",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42951776/",
+  "source": "Dent Mater",
+  "published": "2026-10-29T10:07:47.282322+00:00",
+  "added": "2026-10-29T10:07:47.282322+00:00",
+  "category": "research",
+  "headline": "NMP conditioning improves durability of PEEK-to-acrylic resin bonding in lab study",
+  "summary": "Researchers tested five surface treatments on 105 PEEK specimens before bonding them to denture acrylic resin with an MMA/PETIA primer. The combination of sandblasting, sulfuric acid etching and NMP conditioning gave the highest initial bond strength (28.7 MPa) and kept a significantly higher bond after 5000 thermocycles (12.72 MPa) than the other treatments, which fell below 3.5 MPa. Failures shifted from mostly adhesive to mixed and cohesive.",
+  "why": "If these lab findings hold, adding an NMP step after conventional PEEK surface treatment could help keep PEEK-to-acrylic repairs or denture bases bonded under thermal aging, though this is an in vitro study and clinical performance is not yet established."
+ },
+ {
+  "id": "070b122cc062",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42951775/",
+  "source": "Dent Mater",
+  "published": "2026-10-29T10:07:47.282322+00:00",
+  "added": "2026-10-29T10:07:47.282322+00:00",
+  "category": "research",
+  "headline": "EGCG dentin pretreatment improves resin-dentin bond strength in systematic review",
+  "summary": "A PRISMA 2020 systematic review and meta-analysis of 35 clinical, in situ, and in vitro studies examined epigallocatechin-3-gallate (EGCG) for resin-dentin bonding. Meta-analysis found that pretreating dentin with EGCG significantly improved microtensile bond strength both immediately and over the long term. When EGCG was added to adhesives, it improved bond strength after aging only in etch-and-rinse systems, with no significant effect seen in self-etch adhesives.",
+  "why": "Dentin pretreatment with EGCG may be a way to improve bonding durability for restorations, though the benefit depends on the adhesive system used and the evidence comes from a review of mostly in vitro work."
+ },
+ {
+  "id": "92b9206222cb",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42951774/",
+  "source": "Dent Mater",
+  "published": "2026-10-29T10:07:47.282322+00:00",
+  "added": "2026-10-29T10:07:47.282322+00:00",
+  "category": "research",
+  "headline": "Non-thermal plasma leaves zirconia strength and phase stability unchanged in lab study",
+  "summary": "Researchers compared non-thermal atmospheric plasma (NTP) with sandblasting on three yttria-stabilized zirconia types, measuring flexural strength, phase transformation, and residual stress. Sandblasting caused monoclinic phase formation in 3Y and 4Y zirconia but not in 5Y, while NTP produced no detectable crystallographic or morphological changes. Flexural strength and elastic modulus did not differ among control, blasted, and NTP groups within each zirconia type, and 3Y showed the highest values.",
+  "why": ""
+ },
+ {
+  "id": "872b533c4c3e",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42951759/",
+  "source": "Oral Surg Oral Med Oral Pathol Oral Radiol",
+  "published": "2026-10-29T10:07:47.282322+00:00",
+  "added": "2026-10-29T10:07:47.282322+00:00",
+  "category": "research",
+  "headline": "Dentist radiation exposure from patients after I-131 thyroid cancer therapy",
+  "summary": "Researchers measured external radiation dose rates from 93 thyroid cancer patients treated with radioactive iodine, at distances of 5 to 100 cm, on days 1 through 7 after discharge. Patients were grouped by administered activity, with patients in the higher-activity group (3700-7400 MBq) producing substantially larger cumulative doses to a seated-examination position than the lower-activity group. Dose totals fell steadily with each day after discharge.",
+  "why": "The findings suggest dental examinations of recently treated thyroid cancer patients can proceed earlier at lower activity levels with radiation precautions, while higher-activity patients may need treatment postponed for at least 48 hours to keep staff exposure within limits."
+ },
+ {
+  "id": "64ad24baba59",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42951761/",
+  "source": "Oral Surg Oral Med Oral Pathol Oral Radiol",
+  "published": "2026-10-29T10:07:47.282322+00:00",
+  "added": "2026-10-29T10:07:47.282322+00:00",
+  "category": "research",
+  "headline": "Acalabrutinib linked to multiple oral ulcers in a 94-year-old leukemia patient",
+  "summary": "A case report describes a 94-year-old woman with chronic lymphocytic leukemia who developed deep oral ulcers, including on the hard palate, tongue, and buccal mucosa, while taking acalabrutinib. Stopping the drug and using a customized topical mouthwash led to near-complete healing within 2 weeks. When acalabrutinib was reintroduced 7 months later, milder ulcers returned and again resolved with the same mouthwash, without stopping the drug.",
+  "why": ""
+ },
+ {
+  "id": "551f58e5079c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42951760/",
+  "source": "Oral Surg Oral Med Oral Pathol Oral Radiol",
+  "published": "2026-10-29T10:07:47.282322+00:00",
+  "added": "2026-10-29T10:07:47.282322+00:00",
+  "category": "research",
+  "headline": "Full-spectrum CBD oil eases burning mouth syndrome pain in randomized placebo trial",
+  "summary": "A single-center randomized, single-blind placebo-controlled trial at an orofacial pain outpatient clinic tested full-spectrum cannabidiol oil in patients with burning mouth syndrome. Of 26 patients enrolled, 13 received CBD oil and 13 received placebo, and the sample was 96% women with a mean age of 61.9 years. The CBD group showed significant reductions in pain intensity and impact compared with placebo, and quality of life improved significantly in that group, with no serious adverse events reported.",
+  "why": "Burning mouth syndrome has few effective treatments, so this small trial suggests CBD oil may be a option worth watching, though the evidence is limited and needs further study before it changes patient care."
  }
 ]
