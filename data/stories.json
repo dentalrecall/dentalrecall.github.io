@@ -3347,5 +3347,71 @@
   "headline": "Surface-based registration gives accurate robotic maxillofacial osteotomy in lab model",
   "summary": "Researchers compared four registration methods for a task-autonomous robot performing maxillofacial osteotomies on a model built from imaging data: splint-based landmarks, dental landmarks, dental surfaces, and bone surfaces. All four methods kept mean target-registration error under 0.8 mm, and surface-based methods (bone and dental surface) generally matched or beat landmark-based ones. Splint-based landmark registration was the fastest, and no consistent accuracy difference appeared between dental-surface and bone-surface registration.",
   "why": ""
+ },
+ {
+  "id": "87520925735d",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42958619/",
+  "source": "Clin Implant Dent Relat Res",
+  "published": "2026-10-30T10:08:03.018221+00:00",
+  "added": "2026-10-30T10:08:03.018221+00:00",
+  "category": "research",
+  "headline": "SCTG and GBR for small peri-implant buccal dehiscences: 3-year pilot results",
+  "summary": "A small pilot study randomly treated small buccal bone dehiscences (3 mm or less) around single implants with either subepithelial connective tissue grafts or guided bone regeneration, comparing them with a group of five patients without dehiscences. Of the patients, 16 were available at 3 years, and both approaches kept buccal soft-tissue contours stable. Peri-implant health measures, marginal bone levels, and oral health-related quality of life stayed stable and comparable between the two groups.",
+  "why": "For clinicians treating thin buccal bone around implants, this small pilot suggests both graft methods may hold up over three years, but the authors say larger randomized trials are needed before changing practice."
+ },
+ {
+  "id": "fae3efd1489c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42957546/",
+  "source": "Dent Mater",
+  "published": "2026-10-30T10:08:03.018221+00:00",
+  "added": "2026-10-30T10:08:03.018221+00:00",
+  "category": "research",
+  "headline": "Zirconium oxynitrate etchant boosts dentin bond strength and cuts enzyme activity after 5 years",
+  "summary": "An in-vitro study tested an experimental zirconium oxynitrate etchant against standard phosphoric acid on dentin bonded with two simplified adhesives, measuring bond strength and matrix metalloproteinase activity at baseline and after simulated 5-year aging. The etchant produced higher bond strength in several groups and significantly lower collagen-degrading enzyme activity than phosphoric acid at both time points. Bond strength dropped with aging in all groups, and the best results came when the etchant was paired with a universal adhesive.",
+  "why": "If these lab findings hold clinically, a zirconium-based etchant paired with a universal adhesive could help dentin bonds last longer, though it remains in-vitro evidence and not yet a proven clinical change."
+ },
+ {
+  "id": "ec8e83e68dfc",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42957545/",
+  "source": "Dent Mater",
+  "published": "2026-10-30T10:08:03.018221+00:00",
+  "added": "2026-10-30T10:08:03.018221+00:00",
+  "category": "research",
+  "headline": "Piezoelectric resin composites could use chewing forces to fight bacteria and aid remineralization",
+  "summary": "A critical review examines dental resin composites containing piezoelectric fillers that convert mastication-induced mechanical loading into localized electrical charges. It covers barium titanate and zinc oxide, focusing on their energy conversion, antibacterial and antibiofilm mechanisms, and support for dentin remineralization. The authors call for future studies to validate antibacterial efficacy, remineralization, and biosafety under conditions that better reflect the oral environment.",
+  "why": ""
+ },
+ {
+  "id": "433f333ed0fd",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42957543/",
+  "source": "Dent Mater",
+  "published": "2026-10-30T10:08:03.018221+00:00",
+  "added": "2026-10-30T10:08:03.018221+00:00",
+  "category": "research",
+  "headline": "Veneer-specific resin cements outperform universal cements in lab color, conversion and water tests",
+  "summary": "This in vitro study compared two veneer-specific resin cements (G-CEM Veneer and RelyX Veneer) with two universal resin cements (G-CEM ONE and RelyX Universal). Researchers measured color change after immersion in distilled water, Coca-Cola, red wine, or black coffee for 1 and 7 days, plus degree of monomer conversion and water sorption and solubility. Veneer-specific cements showed higher conversion, and G-CEM Veneer had the lowest color change and water sorption/solubility, while RelyX Universal had the highest water sorption/solubility and the widest color change range.",
+  "why": "For veneer and other esthetic indirect restorations, choosing a veneer-specific cement may give more stable color and better-converted material than a universal cement, though these are lab results rather than clinical outcomes."
+ },
+ {
+  "id": "b357e20dfcfb",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42957542/",
+  "source": "Dent Mater",
+  "published": "2026-10-30T10:08:03.018221+00:00",
+  "added": "2026-10-30T10:08:03.018221+00:00",
+  "category": "research",
+  "headline": "In vivo study finds apical diameter, gel concentration and nanoparticle hydrophobicity shape endodontic hydrogel release",
+  "summary": "Researchers tested fibrin hydrogels used in endodontic regeneration in an in vivo model implanted in hairless mice, tracking release with live fluorescence imaging. They found that narrowing the apical opening from 2000 to 1000 µm cut apical release over the first 48 hours by 87.5-94.2%. Higher hydrogel concentration reduced the initial burst effect, and a hydrophobic nanoparticle slowed release compared with a hydrophilic one over 6 days.",
+  "why": "These findings suggest that canal apical size, hydrogel formulation and carrier particle chemistry all affect how long regenerative materials stay in place, which may matter when planning regenerative endodontic procedures, though this is preclinical animal work."
+ },
+ {
+  "id": "b2aa489da849",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42957532/",
+  "source": "J Prosthet Dent",
+  "published": "2026-10-30T10:08:03.018221+00:00",
+  "added": "2026-10-30T10:08:03.018221+00:00",
+  "category": "research",
+  "headline": "Bone-driven fibula reconstruction leaves limited space for implants in the posterior mandible",
+  "summary": "An observational study of 19 mandibular reconstruction patients, assessed with postoperative cone beam CT, measured the bone available for implant prostheses after bone-driven fibular reconstruction. Vertical bone height fell from about 27.6 mm at the central incisor to about 16.6 mm at the second molar, and the fibula's own height averaged about 14.5 mm. The authors also simulated a double-barrel fibula technique and found it limited in the posterior region.",
+  "why": "Surgeons and prosthodontists planning implant rehabilitation after fibular mandibular reconstruction should expect vertical deficiency and poor ridge alignment posteriorly, so prosthetic planning may need to favor the first molar and accept edge-to-edge anterior relationships."
  }
 ]
