@@ -3336,5 +3336,16 @@
   "headline": "Jennifer L Davis Named Next CEO of Align Technology",
   "summary": "Align Technology's board has picked Jennifer L Davis, formerly CEO of Procter & Gamble's global healthcare business, to succeed Joseph M Hogan as president and CEO, effective December 31, 2026. Davis joins as CEO-elect and board member on November 2, 2026, and will work with Hogan during the transition. Hogan, who has led Align since 2015, will retire from the board after a strategy meeting on June 16, 2027.",
   "why": "Leadership changes at Invisalign's parent company may shape the direction of clear aligner products, digital oral-health tools, and the doctor relationships that many practices rely on."
+ },
+ {
+  "id": "fb7f62d4d2bc",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42956986/",
+  "source": "J Dent",
+  "published": "2026-10-30T04:05:43.419847+00:00",
+  "added": "2026-10-30T04:05:43.419847+00:00",
+  "category": "research",
+  "headline": "Surface-based registration gives accurate robotic maxillofacial osteotomy in lab model",
+  "summary": "Researchers compared four registration methods for a task-autonomous robot performing maxillofacial osteotomies on a model built from imaging data: splint-based landmarks, dental landmarks, dental surfaces, and bone surfaces. All four methods kept mean target-registration error under 0.8 mm, and surface-based methods (bone and dental surface) generally matched or beat landmark-based ones. Splint-based landmark registration was the fastest, and no consistent accuracy difference appeared between dental-surface and bone-surface registration.",
+  "why": ""
  }
 ]
