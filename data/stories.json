@@ -3446,5 +3446,49 @@
   "headline": "LANAP Training Reaches 49% of Active US AAP Periodontists",
   "summary": "Millennium Dental Technologies, developer of the LANAP laser protocol and maker of the PerioLase MVP-7 laser, announced at the AAP Annual Meeting in Seattle that 49% of active US AAP members are now LANAP-trained. The company ties the milestone to the 25th anniversary of the PerioLase MVP-7 and the 10th anniversary of the protocol's FDA clearance for periodontal regeneration. The announcement is promotional in tone and comes from the manufacturer.",
   "why": "Dentists considering laser-assisted periodontal therapy as an alternative to traditional osseous surgery may see more LANAP-trained colleagues, but the claims about outcomes and regeneration come from the manufacturer and should be weighed accordingly."
+ },
+ {
+  "id": "53d5d5b95277",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42960616/",
+  "source": "J Periodontol",
+  "published": "2026-10-30T16:04:56.489390+00:00",
+  "added": "2026-10-30T16:04:56.489390+00:00",
+  "category": "research",
+  "headline": "Self-reported gum disease linked to weaker cognition and some Alzheimer's biomarkers",
+  "summary": "Using data from the nationally representative High School and Beyond (HS&B:80) cohort, researchers analyzed nearly 14,000 participants with a mean age of 58 and found 15.2% reported a history of periodontal disease. Periodontal disease was associated with lower general cognitive functioning, some domain-specific cognitive scores, and higher levels of pTau-181 and C-reactive protein. Most associations did not remain significant after correction for multiple comparisons, with only working memory meeting the false discovery rate threshold.",
+  "why": "This cross-sectional study suggests a possible link between gum disease and cognitive health, but its associations were largely not significant after statistical correction, so it does not establish that treating periodontitis affects dementia risk."
+ },
+ {
+  "id": "57838ccd5da4",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42960879/",
+  "source": "Int Endod J",
+  "published": "2026-10-30T16:04:56.489390+00:00",
+  "added": "2026-10-30T16:04:56.489390+00:00",
+  "category": "research",
+  "headline": "Few extensively restored teeth need root canal treatment, mostly within the first year",
+  "summary": "A Swedish register-based cohort followed 271,368 teeth restored with major direct or indirect restorations in the Public Dental Service between 2014 and 2019 for up to 10 years. About 5.7% of teeth went on to endodontic treatment, often within a year of restoration, and 6.6% were extracted. Direct restorations, younger age, and posterior teeth were linked to a higher hazard of endodontic treatment.",
+  "why": ""
+ },
+ {
+  "id": "1af5f65117a7",
+  "url": "https://www.dentistrytoday.com/the-overlooked-opportunity-predictable-anterior-restorations/",
+  "source": "Dentistry Today",
+  "published": "2026-10-30T14:53:42+00:00",
+  "added": "2026-10-30T16:04:56.489390+00:00",
+  "category": "clinical",
+  "headline": "Restoring Overlooked Anterior Enamel Fractures with Universal Shade Composites",
+  "summary": "The article argues that anterior enamel fractures, common traumatic injuries in general practice, are often missed or left undocumented even though they can be restored. It describes universal shade composites such as OMNICHROMA, which use light scattering rather than pigments to blend with adjacent tooth structure, reducing the need for multiple shades and layering.",
+  "why": "Many patients with Ellis Class I fractures may not know a minimally invasive, aesthetic restoration is available, so routine exams that document these defects could open a conservative treatment option."
+ },
+ {
+  "id": "f551c595025d",
+  "url": "https://www.dentistrytoday.com/aspen-dental-offers-veterans-free-dental-savings-plan-enrollment/",
+  "source": "Dentistry Today",
+  "published": "2026-10-30T11:11:20+00:00",
+  "added": "2026-10-30T16:04:56.489390+00:00",
+  "category": "business",
+  "headline": "Aspen Dental Offers Free Savings Plan Enrollment to Veterans in November",
+  "summary": "The Aspen Group announced new initiatives to make dental care more affordable for veterans, building on a five-year, $100 million commitment to underserved patients. Veterans can enroll in the Aspen Dental Savings Plan at no cost for the first year during November, with the $49 enrollment fee waived and renewals priced at $29 after that. Aspen Dental is also expanding benefits for Veterans of Foreign Wars members through its role as the VFW's official dental provider.",
+  "why": "Practices in Aspen Dental's network may see more veteran patients using the savings plan, and the plan's stated features (no waiting periods, annual maximums, or age- or preexisting-condition exclusions) describe what those patients will expect."
  }
 ]
