@@ -3688,5 +3688,49 @@
   "headline": "Income gaps in childhood caries persist across levels of municipal oral care coverage",
   "summary": "This cross-sectional Brazilian study analyzed 7,185 five-year-olds from the 2023 National Oral Health Survey, linked to monthly municipal oral healthcare coverage from 2019 to 2021. Coverage was grouped into four trajectories, and income-related inequalities in dmft and pufa scores were measured. Income gaps in dmft did not vary by trajectory, while pufa gaps were larger in medium-high coverage municipalities than in always-low ones.",
   "why": "Expanding dental service coverage alone may not close socioeconomic gaps in young children's caries, so practices and policymakers may need to address broader social factors as well."
+ },
+ {
+  "id": "2bbf4ac2e0f0",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42963993/",
+  "source": "J Prosthodont",
+  "published": "2026-10-31T09:56:19.226589+00:00",
+  "added": "2026-10-31T09:56:19.226589+00:00",
+  "category": "research",
+  "headline": "Low-profile EMI attachments lose retention faster than Locator in implant overdentures",
+  "summary": "A crossover clinical trial with 20 edentulous participants compared an EMI low-profile attachment system with a conventional Locator system in conventional and 3D-printed implant-retained mandibular overdentures over 9 months. Both systems lost retention over time, but the EMI attachments started with higher retention, declined sharply, and showed more component wear and more frequent replacement needs. Locator retention remained more stable, and its patient satisfaction scores did not change significantly over time.",
+  "why": "When choosing attachments for implant overdentures, the EMI system may require more frequent component checks or replacements than Locator, which bears on maintenance planning and long-term patient satisfaction."
+ },
+ {
+  "id": "d8ead41ba347",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42963280/",
+  "source": "J Prosthet Dent",
+  "published": "2026-10-31T09:56:19.226589+00:00",
+  "added": "2026-10-31T09:56:19.226589+00:00",
+  "category": "research",
+  "headline": "Digitally guided workflow preserves occlusal plane in Jaw-in-a-Day maxillary reconstruction",
+  "summary": "This clinical report describes a digitally guided, prosthesis-centered approach to immediate implant-supported rehabilitation after subtotal maxillectomy. A 69-year-old woman with adenoid cystic carcinoma and failing implant prostheses received a fibula free flap using a Jaw-in-a-Day approach, with virtual planning used to orient the reconstructed maxilla relative to stable craniofacial landmarks. An interim prosthesis was used to set the occlusal scheme, verify vertical dimension, and guide graft positioning, and occlusion was reported as stable at 24 months.",
+  "why": "It shows how a prosthesis-first, landmark-based occlusal plan may help dentists and prosthodontists restore function when no natural dentoalveolar references remain, though this is a single case report."
+ },
+ {
+  "id": "8209b2d68c10",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42963306/",
+  "source": "Oral Surg Oral Med Oral Pathol Oral Radiol",
+  "published": "2026-10-31T09:56:19.226589+00:00",
+  "added": "2026-10-31T09:56:19.226589+00:00",
+  "category": "research",
+  "headline": "Bone collagen aids bone regeneration after jaw cyst enucleation",
+  "summary": "A prospective nonrandomized controlled study of 50 patients with jaw cysts compared bone collagen implantation with an absorbable gelatin sponge after cyst enucleation. Cone-beam CT at 3 and 6 months showed higher bone density and greater cyst volume reduction in the bone collagen group. That group also had fewer postoperative complications.",
+  "why": ""
+ },
+ {
+  "id": "33d163e347c0",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42963307/",
+  "source": "Oral Surg Oral Med Oral Pathol Oral Radiol",
+  "published": "2026-10-31T09:56:19.226589+00:00",
+  "added": "2026-10-31T09:56:19.226589+00:00",
+  "category": "research",
+  "headline": "Qualitative study examines how clinicians decide on temporomandibular disorder management",
+  "summary": "Researchers interviewed 12 oral medicine or oral and maxillofacial surgery providers about how they manage temporomandibular disorders (TMD). Thematic analysis of the transcripts produced five themes, covering perceptions, TMD-specific challenges, general management approach, factors shaping decisions, and barriers and facilitators of good outcomes. The authors describe TMD care as complex, with limited strong evidence on management strategies, and note that education and conservative care remain central.",
+  "why": "It highlights that patient preferences, circumstances, and each clinician's own specialty and experience shape TMD treatment choices, and that the evidence base for those choices is thin."
  }
 ]
