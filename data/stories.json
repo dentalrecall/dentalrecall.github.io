@@ -3644,5 +3644,49 @@
   "headline": "WHO position article links oral health to environmental sustainability and climate resilience",
   "summary": "A position article in the Journal of the American Dental Association sets out how the World Health Organization wants oral health placed within global environmental and public health agendas. It reviews WHO frameworks, including the Global Strategy and Action Plan on Oral Health 2023-2030, and WHO efforts to phase out dental amalgam and promote less invasive caries prevention and management. The article urges the oral health community to adopt prevention-focused, sustainable, and climate-resilient approaches.",
   "why": "Dental practices may see growing emphasis on mercury-free materials, less invasive caries care, and sustainability measures as part of global health policy."
+ },
+ {
+  "id": "343773729ddd",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42963172/",
+  "source": "Br J Oral Maxillofac Surg",
+  "published": "2026-10-31T04:00:35.283593+00:00",
+  "added": "2026-10-31T04:00:35.283593+00:00",
+  "category": "research",
+  "headline": "Contralateral lymph node drainage found in 40% of early lateralised oral cancers",
+  "summary": "A single-centre retrospective study of 64 patients with early lateralised oral cavity squamous cell carcinoma who had sentinel node biopsy and wide local excision between 2016 and 2022. Contralateral or bilateral drainage occurred in 40.6% of cases, but contralateral metastases were found in only three patients (4.7%). The authors suggest sentinel node biopsy may refine staging by identifying contralateral drainage that ipsilateral elective neck dissection would miss.",
+  "why": "Contralateral drainage is common in early tongue and oral cancers, so sentinel node biopsy may help clinicians decide on neck management that a standard ipsilateral dissection would not cover, though the authors call for prospective multicentre studies first."
+ },
+ {
+  "id": "d25accc20e7e",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42962853/",
+  "source": "J Endod",
+  "published": "2026-10-31T04:00:35.283593+00:00",
+  "added": "2026-10-31T04:00:35.283593+00:00",
+  "category": "research",
+  "headline": "Review weighs management options for separated endodontic instruments",
+  "summary": "This narrative review compared nonsurgical retrieval, bypass, retention, and surgical management of separated endodontic instruments, focusing on residual dentin, fracture resistance, healing, and tooth retention. It found that aggressive retrieval can remove substantial dentin, and that clinical evidence is mostly observational. No strategy was shown to be superior for long-term tooth survival in controlled comparative studies.",
+  "why": ""
+ },
+ {
+  "id": "444b3e4705b8",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42962964/",
+  "source": "J Dent",
+  "published": "2026-10-31T04:00:35.283593+00:00",
+  "added": "2026-10-31T04:00:35.283593+00:00",
+  "category": "research",
+  "headline": "Arginine added to restorative dental materials shows antimicrobial promise in lab studies",
+  "summary": "A scoping review of 17 in vitro studies mapped how arginine has been incorporated into restorative materials, mainly orthodontic cements, adhesive systems, and resin-modified glass ionomers. Direct mixing of L-arginine powder was the most common method, and studies that tested antimicrobial effects reported favorable results, including on bacterial growth, adhesion, biofilm behavior, and pH. Mechanical effects depended on concentration, with some improvements and some reductions, though several studies found a concentration that kept properties close to the unmodified control.",
+  "why": "Arginine may eventually give restorative materials added antibiofilm function without clearly compromising mechanical performance, but the evidence is laboratory-only and heterogeneous, so it has no direct clinical application yet."
+ },
+ {
+  "id": "fb5be10eef10",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42962963/",
+  "source": "J Dent",
+  "published": "2026-10-31T04:00:35.283593+00:00",
+  "added": "2026-10-31T04:00:35.283593+00:00",
+  "category": "research",
+  "headline": "Income gaps in childhood caries persist across levels of municipal oral care coverage",
+  "summary": "This cross-sectional Brazilian study analyzed 7,185 five-year-olds from the 2023 National Oral Health Survey, linked to monthly municipal oral healthcare coverage from 2019 to 2021. Coverage was grouped into four trajectories, and income-related inequalities in dmft and pufa scores were measured. Income gaps in dmft did not vary by trajectory, while pufa gaps were larger in medium-high coverage municipalities than in always-low ones.",
+  "why": "Expanding dental service coverage alone may not close socioeconomic gaps in young children's caries, so practices and policymakers may need to address broader social factors as well."
  }
 ]
