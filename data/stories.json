@@ -3732,5 +3732,27 @@
   "headline": "Qualitative study examines how clinicians decide on temporomandibular disorder management",
   "summary": "Researchers interviewed 12 oral medicine or oral and maxillofacial surgery providers about how they manage temporomandibular disorders (TMD). Thematic analysis of the transcripts produced five themes, covering perceptions, TMD-specific challenges, general management approach, factors shaping decisions, and barriers and facilitators of good outcomes. The authors describe TMD care as complex, with limited strong evidence on management strategies, and note that education and conservative care remain central.",
   "why": "It highlights that patient preferences, circumstances, and each clinician's own specialty and experience shape TMD treatment choices, and that the evidence base for those choices is thin."
+ },
+ {
+  "id": "b87b550874b6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42965484/",
+  "source": "Clin Oral Implants Res",
+  "published": "2026-11-01T04:10:20.123250+00:00",
+  "added": "2026-11-01T04:10:20.123250+00:00",
+  "category": "research",
+  "headline": "Graft voids after sinus lift linked to more implant failures in retrospective study",
+  "summary": "In a retrospective review of 307 patients who had lateral sinus floor elevation between 2018 and 2023, voids in the graft were seen on 6-month CBCT scans in 31.3% of cases. Specific graft material, greater graft volume, and a smaller sinus mucosa tension angle were independently associated with voids. Over a mean follow-up of about 46.6 months, implants in sites with voids failed more often (7.3% vs. 1.9%) and had lower cumulative survival.",
+  "why": "Radiographic voids in grafted sinuses may signal a higher risk of implant failure, so graft material choice, graft volume, and post-op CBCT review deserve attention when planning sinus augmentation."
+ },
+ {
+  "id": "5683abaaa646",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42966425/",
+  "source": "J Dent",
+  "published": "2026-11-01T04:10:20.123250+00:00",
+  "added": "2026-11-01T04:10:20.123250+00:00",
+  "category": "research",
+  "headline": "Systematic review finds no proven way to preserve resin bonds to eroded dentin",
+  "summary": "This systematic review and meta-analysis pooled preclinical studies on resin bonding to dentin damaged by erosion, searched through August 2026, and kept 58 primary reports from 1,163 records. Chlorhexidine applied at the interface showed numerically lower bond strength than controls at 12-18 months, though not significantly so. Favorable long-term results for DMSO, hydrophobic coatings, and some collagen biomodifiers came mainly from single studies or one shared cohort.",
+  "why": ""
  }
 ]
