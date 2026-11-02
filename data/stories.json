@@ -3754,5 +3754,27 @@
   "headline": "Systematic review finds no proven way to preserve resin bonds to eroded dentin",
   "summary": "This systematic review and meta-analysis pooled preclinical studies on resin bonding to dentin damaged by erosion, searched through August 2026, and kept 58 primary reports from 1,163 records. Chlorhexidine applied at the interface showed numerically lower bond strength than controls at 12-18 months, though not significantly so. Favorable long-term results for DMSO, hydrophobic coatings, and some collagen biomodifiers came mainly from single studies or one shared cohort.",
   "why": ""
+ },
+ {
+  "id": "7d0db2f620c0",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42967672/",
+  "source": "J Oral Maxillofac Surg",
+  "published": "2026-11-02T06:19:27.593514+00:00",
+  "added": "2026-11-02T06:19:27.593514+00:00",
+  "category": "research",
+  "headline": "Opioid exposure after adolescent third molar surgery viewed through a neurodevelopmental lens",
+  "summary": "This perspective article reviews epidemiologic findings on persistent opioid use after third molar extraction in adolescents and considers how adolescent brain development may relate to it. Retrospective cohort studies cited report higher adjusted odds of persistent opioid use among some opioid-naive adolescents who received dental opioid prescriptions, though the absolute risk is low. The author notes that current evidence does not establish that short-course postoperative prescribing causes addiction.",
+  "why": ""
+ },
+ {
+  "id": "b698a2b0ef5f",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42967573/",
+  "source": "J Dent",
+  "published": "2026-11-02T06:19:27.593514+00:00",
+  "added": "2026-11-02T06:19:27.593514+00:00",
+  "category": "research",
+  "headline": "AI jaw-motion simulation shows smaller contact footprint in digital restoration planning",
+  "summary": "An exploratory within-case study of 14 paired intraoral scan datasets compared three digital workflows for monolithic restorations, measuring the share of software-rendered contact and penetration area. The AI jaw-motion file-driven simulation produced the lowest median contact area fraction (2.19%), lower than both the axiography-programmed and the average-value chairside reference workflows. The authors describe this as geometric compatibility with recorded morphology, not validated patient-specific movement accuracy.",
+  "why": "For dentists planning monolithic restorations digitally, AI-driven jaw-motion simulation may help complement virtual occlusal assessment, though the small, unvalidated study does not establish that it improves clinical outcomes."
  }
 ]
