@@ -3776,5 +3776,27 @@
   "headline": "AI jaw-motion simulation shows smaller contact footprint in digital restoration planning",
   "summary": "An exploratory within-case study of 14 paired intraoral scan datasets compared three digital workflows for monolithic restorations, measuring the share of software-rendered contact and penetration area. The AI jaw-motion file-driven simulation produced the lowest median contact area fraction (2.19%), lower than both the axiography-programmed and the average-value chairside reference workflows. The authors describe this as geometric compatibility with recorded morphology, not validated patient-specific movement accuracy.",
   "why": "For dentists planning monolithic restorations digitally, AI-driven jaw-motion simulation may help complement virtual occlusal assessment, though the small, unvalidated study does not establish that it improves clinical outcomes."
+ },
+ {
+  "id": "34581f4f9f1d",
+  "url": "https://www.dental-tribune.com/news/study-identifies-shared-genetic-links-between-oral-and-gastro-intestinal-diseases/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-11-02T07:32:31+00:00",
+  "added": "2026-11-02T10:24:15.814856+00:00",
+  "category": "research",
+  "headline": "Genetic study links oral and gastrointestinal diseases through immune pathways",
+  "summary": "A large-scale genetic study from Wuhan, China, examined whether common oral and gastrointestinal diseases share genetic susceptibility. The researchers identified immune-related pathways as potential connections between oral and gut health. The results also add evidence of a possible causal relationship between periodontitis and inflammatory bowel disease.",
+  "why": "It supports the idea that periodontal disease and gut conditions may be linked biologically, which may matter when dentists consider patients' broader health, though the findings remain associative and do not establish treatment changes."
+ },
+ {
+  "id": "fd6db536a390",
+  "url": "https://www.dental-tribune.com/news/registration-opens-for-2027-cds-midwinter-meeting/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-11-02T07:17:52+00:00",
+  "added": "2026-11-02T10:24:15.814856+00:00",
+  "category": "events",
+  "headline": "Registration open for 2027 Chicago Dental Society Midwinter Meeting",
+  "summary": "Registration has opened for the Chicago Dental Society Midwinter Meeting, which returns to the McCormick Place West Building in Chicago from 25 to 27 February 2027. The meeting will offer an expanded scientific program and a new Midwinter Meeting Digital Pass giving access to recorded educational sessions.",
+  "why": "Dentists who want to attend in person or remotely can now sign up for the 2027 meeting, and the digital pass offers a way to access continuing education sessions without traveling to Chicago."
  }
 ]
