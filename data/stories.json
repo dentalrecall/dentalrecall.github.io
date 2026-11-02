@@ -3798,5 +3798,27 @@
   "headline": "Registration open for 2027 Chicago Dental Society Midwinter Meeting",
   "summary": "Registration has opened for the Chicago Dental Society Midwinter Meeting, which returns to the McCormick Place West Building in Chicago from 25 to 27 February 2027. The meeting will offer an expanded scientific program and a new Midwinter Meeting Digital Pass giving access to recorded educational sessions.",
   "why": "Dentists who want to attend in person or remotely can now sign up for the 2027 meeting, and the digital pass offers a way to access continuing education sessions without traveling to Chicago."
+ },
+ {
+  "id": "77efd523f9c2",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42968416/",
+  "source": "Clin Oral Implants Res",
+  "published": "2026-11-02T12:09:04.213051+00:00",
+  "added": "2026-11-02T12:09:04.213051+00:00",
+  "category": "research",
+  "headline": "AI score from intraoral scans may objectively assess peri-implant mucosal erythema",
+  "summary": "Researchers developed an AI-driven Digital Erythema Score (DES) that uses intraoral scan data to grade redness of peri-implant mucosa without invasive probing. A U-Net model segmented the mucosal margins and a YOLO model localized erythema regions, with diagnostic accuracy reported as good on both an internal dataset of 200 patients and an external set of 23 patients. The score also correlated with bleeding on probing, and it improved the diagnostic performance and consistency of observers with different experience levels in the external validation.",
+  "why": "This preliminary study suggests intraoral scan-based AI could make peri-implant inflammation assessment more objective and support future remote or home-based monitoring, though it still needs validation with patient-accessible imaging devices before clinical use."
+ },
+ {
+  "id": "1bd9e61f2ace",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42967971/",
+  "source": "Clin Oral Implants Res",
+  "published": "2026-11-02T12:09:04.213051+00:00",
+  "added": "2026-11-02T12:09:04.213051+00:00",
+  "category": "research",
+  "headline": "Scan body type and AI tools affect accuracy of full-arch implant intraoral scans",
+  "summary": "This comparative clinical study tested how accurately an intraoral scanner captured a complete maxillary arch with four implants, using non-splinting and non-calibrated implant scan bodies made of PEEK or titanium. Scans were taken with two scanning patterns, with and without the scanner's integrated AI-based tool, and were compared against a reference cast digitized by a laboratory scanner. Non-calibrated techniques showed better linear trueness and better angular trueness and precision than non-splinting methods, and titanium scan bodies in the non-splinting group outperformed PEEK ones; the scanning pattern did not affect accuracy.",
+  "why": ""
  }
 ]
