@@ -3897,5 +3897,104 @@
   "headline": "Angelalign Unveils SuperElastic (MC-SE*) Clear Aligner Material",
   "summary": "Angelalign Technology has introduced SuperElastic (MC-SE*), a new proprietary clear aligner material it says is a major performance step up from its current material. The company says the material offers steady force at biologically safe levels, a wider elastic working range, and added strength and toughness, aimed at complex orthodontic cases. It will be sold globally once the required regulatory registrations are received.",
   "why": ""
+ },
+ {
+  "id": "a9de3e6e2c91",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42971682/",
+  "source": "J Am Dent Assoc",
+  "published": "2026-11-03T05:13:09.734099+00:00",
+  "added": "2026-11-03T05:13:09.734099+00:00",
+  "category": "research",
+  "headline": "Saliva biomarkers may help flag active periodontitis and track treatment response",
+  "summary": "A systematic review of 11 studies examined salivary biomarkers in systemically healthy people with periodontitis, looking at links to disease severity and changes after nonsurgical periodontal therapy. Inflammatory markers such as interleukin 1β and tumor necrosis factor-α were tied to active disease and fell after treatment, oxidative stress markers were elevated, and matrix metalloproteinase-8 consistently reflected periodontal breakdown and responded to therapy. Sample sizes and outcome reporting varied across the included studies.",
+  "why": "Noninvasive saliva tests could eventually help dentists judge current disease activity and monitor response to periodontal treatment, but the authors say standardized longitudinal validation is needed before routine use."
+ },
+ {
+  "id": "357e0ac76e31",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42971877/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-03T05:13:09.734099+00:00",
+  "added": "2026-11-03T05:13:09.734099+00:00",
+  "category": "research",
+  "headline": "Platelet concentrates may lower palatal fistula risk in cleft repair, but evidence is weak",
+  "summary": "A systematic review and meta-analysis of five randomized trials, covering 168 non-syndromic patients, examined autologous platelet concentrates (APCs) during primary cleft palate repair. Patients given APCs had a significantly lower likelihood of developing a palatal fistula than controls. The authors judged the certainty of the evidence to be very low and said more trials are needed before clinical recommendations can be made.",
+  "why": ""
+ },
+ {
+  "id": "572661bf6c56",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42971876/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-03T05:13:09.734099+00:00",
+  "added": "2026-11-03T05:13:09.734099+00:00",
+  "category": "research",
+  "headline": "Sagittal split osteotomy yields more bone contact than anterior oblique osteotomy in mandibular advancement",
+  "summary": "A double-blind randomized clinical trial at one center compared sagittal split osteotomy (SSO) with anterior oblique osteotomy (AOO) in 52 skeletal class II patients, covering 104 osteotomies. SSO produced significantly greater bone contact area between segments, while advancement magnitude and execution time were similar. Lingual split patterns also differed significantly between the two techniques, with SSO showing mostly LSS3 fractures and AOO mostly LSS1.",
+  "why": "For dentists involved in orthognathic planning, the trial suggests SSO may offer better bone contact for large mandibular advancements, though the authors note neither technique was absolutely superior."
+ },
+ {
+  "id": "4d84c93f8de6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42971847/",
+  "source": "Br J Oral Maxillofac Surg",
+  "published": "2026-11-03T05:13:09.734099+00:00",
+  "added": "2026-11-03T05:13:09.734099+00:00",
+  "category": "research",
+  "headline": "Global TMJ replacement device market has grown to 40 systems across 20 countries",
+  "summary": "An updated review of alloplastic temporomandibular joint replacement (TMJR) systems identified 40 devices available worldwide as of 2025, up from 27 in a 2019 review. Titanium alloys and ultra-high molecular weight polyethylene, often backed by titanium alloy, remain the most common materials, while custom and 3D-printed devices now dominate the market. The authors found peer-reviewed preclinical and clinical data to be inconsistent and regulatory approval to vary widely, often limited to the country of origin.",
+  "why": "Dentists and oral surgeons referring for TMJ replacement have more device options, but the uneven evidence and approval status mean careful comparison is needed before choosing a system."
+ },
+ {
+  "id": "3779dce156a7",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42971846/",
+  "source": "Br J Oral Maxillofac Surg",
+  "published": "2026-11-03T05:13:09.734099+00:00",
+  "added": "2026-11-03T05:13:09.734099+00:00",
+  "category": "research",
+  "headline": "AI soft tissue prediction for orthognathic virtual planning is promising but early-stage",
+  "summary": "A scoping review of six studies examined artificial intelligence models that predict facial soft tissue changes within virtual surgical planning for orthognathic surgery. All six used deep learning on point cloud or surface mesh data from CT, CBCT, and/or 3D surface scans. Geometric accuracy was often within clinically accepted limits of 2-3 mm, though accuracy was consistently lower in dynamic regions.",
+  "why": "AI soft tissue prediction may eventually help dentists and surgeons plan jaw surgery outcomes, but the review found no adequate evaluation of patient-reported outcomes, clinician usability, or full workflow integration, so it is not ready for routine clinical use."
+ },
+ {
+  "id": "b1767b4c1d8a",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42971465/",
+  "source": "J Endod",
+  "published": "2026-11-03T05:13:09.734099+00:00",
+  "added": "2026-11-03T05:13:09.734099+00:00",
+  "category": "research",
+  "headline": "Root resection failure risk similar for endodontic and periodontal molar indications",
+  "summary": "A systematic review and meta-analysis of root resection in permanent molars found no statistically significant difference in failure risk between teeth treated for endodontic reasons and those treated for periodontal reasons. Five comparative studies were pooled, with a crude pooled failure risk ratio of 0.82 that crossed 1, and the authors judged the estimate fragile because follow-up periods varied widely. Overall certainty of evidence was rated very low.",
+  "why": "For molars where retreatment or apical surgery is not feasible or furcation disease is severe, root resection appears to have a comparable failure risk regardless of indication, but the very low certainty means clinicians should weigh this cautiously against individual case factors."
+ },
+ {
+  "id": "50c4fb7a06c2",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42971464/",
+  "source": "J Endod",
+  "published": "2026-11-03T05:13:09.734099+00:00",
+  "added": "2026-11-03T05:13:09.734099+00:00",
+  "category": "research",
+  "headline": "Intraosseous anesthesia beats nerve block for pulpitis molars in pooled trials",
+  "summary": "A systematic review and meta-analysis of five randomized trials with 265 participants compared primary intraosseous anesthesia with inferior alveolar nerve block in mandibular teeth with symptomatic irreversible pulpitis. Anesthetic failure occurred in 27 participants given intraosseous anesthesia versus 65 given the nerve block, a pooled risk ratio of 0.46. The authors caution that the evidence base is small, has methodological concerns, and varies in agents and delivery systems.",
+  "why": "For patients with irreversible pulpitis in lower teeth, intraosseous anesthesia may give more reliable numbness than a standard nerve block, but the small, heterogeneous evidence means it should be viewed as promising rather than settled."
+ },
+ {
+  "id": "1af92de7ccad",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42971860/",
+  "source": "J Prosthet Dent",
+  "published": "2026-11-03T05:13:09.734099+00:00",
+  "added": "2026-11-03T05:13:09.734099+00:00",
+  "category": "research",
+  "headline": "Digital workflow used to restore failed incisor with cantilever resin-bonded bridge",
+  "summary": "A case report in the Journal of Prosthetic Dentistry describes a digital workflow for replacing a failed maxillary incisor with a resin-bonded fixed prosthesis in two patients, both with incisor root fractures. A digitally designed cantilever interim restoration was placed first, with the pontic sites gingivally contoured, and the definitive prostheses then copied that gingival form. The authors report that the digital approach offered significant advantages in predictability and consistency of pink and white esthetics compared with conventional techniques.",
+  "why": ""
+ },
+ {
+  "id": "a5b6b66500f4",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42971520/",
+  "source": "J Dent",
+  "published": "2026-11-03T05:13:09.734099+00:00",
+  "added": "2026-11-03T05:13:09.734099+00:00",
+  "category": "research",
+  "headline": "3D-printed interim resin full-arch prostheses show frequent fractures despite high early implant survival",
+  "summary": "A retrospective multicenter study of 63 patients (77 arches, 320 implants) at four centers examined immediately loaded full-arch implant prostheses made from 3D-printed interim resin. Fifteen of 77 prostheses (19.5%) had at least one framework fracture, with recurrence in 13 arches after reprinting from the original files, and 3 of 320 implants failed (99.06% early survival over 6 months). Male sex was associated with a higher fracture rate, which the authors describe as exploratory.",
+  "why": "Digital, printed interim full-arch prostheses may offer a streamlined workflow with early implant survival, but the fracture rate and recurrence after reprinting suggest that the design should be structurally checked before remaking them for patients."
  }
 ]
