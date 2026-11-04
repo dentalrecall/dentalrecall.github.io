@@ -4111,5 +4111,104 @@
   "headline": "Henry Schein posts Q3 2026 sales growth and raises full-year EPS guidance",
   "summary": "Henry Schein reported $3.5 billion in third-quarter 2026 sales, up 4.0% overall and 3.1% on an internal basis in local currencies. US dental merchandise sales rose 8.6%, which the company attributed mainly to volume from market share gains, and it raised its 2026 non-GAAP diluted EPS guidance to $5.50 to $5.56. The company also repurchased about 1.4 million shares for $125 million during the quarter.",
   "why": "Strong US dental distribution demand and a higher earnings outlook from a major supplier suggest healthy purchasing conditions in the dental supply market, though part of the guidance lift reflects one-time tariff refund benefits."
+ },
+ {
+  "id": "aec80acba0bb",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42977643/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-04T05:19:43.583138+00:00",
+  "added": "2026-11-04T05:19:43.583138+00:00",
+  "category": "research",
+  "headline": "Robotics in orthognathic surgery: scoping review finds mostly preclinical evidence",
+  "summary": "A scoping review of 35 publications mapped robotic applications in orthognathic surgery, searching Embase, Web of Science, MEDLINE, and the Cochrane Library through 28 May 2026. Most studies used phantom, cadaver, or animal models, and clinical work was limited to early feasibility evaluations. Robots have moved from passive measurement and positioning toward systems that support navigation, bone repositioning, and controlled osteotomies, with the most consistent gains in geometric accuracy for maxillary positioning and linear cuts under surgeon supervision.",
+  "why": "Robotic systems may offer a task-specific aid for accuracy in orthognathic cases, but the authors found no evidence yet that they should replace established digital workflows, and small cohorts and missing long-term data limit clinical use."
+ },
+ {
+  "id": "7baaec447b0f",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42976941/",
+  "source": "J Oral Maxillofac Surg",
+  "published": "2026-11-04T05:19:43.583138+00:00",
+  "added": "2026-11-04T05:19:43.583138+00:00",
+  "category": "research",
+  "headline": "CT-guided pathway for high-risk lower third molars shows low nerve injury rates",
+  "summary": "A prospective cohort study from Amstelland Hospital in the Netherlands (2019-2025) compared coronectomy with complete removal of high-risk mandibular third molars, using CT assessment to guide treatment. Among 2,450 molars in 1,727 patients, inferior alveolar nerve hypoesthesia occurred in 1.2%, and most cases resolved. Molars where coronectomy was converted to complete removal during surgery had a much higher rate of nerve injury than planned removals.",
+  "why": "It supports CT-based risk stratification before third molar surgery and suggests that intraoperative conversion of a planned coronectomy may signal higher nerve injury risk that clinicians should anticipate."
+ },
+ {
+  "id": "f7d7127f31f3",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42976940/",
+  "source": "J Oral Maxillofac Surg",
+  "published": "2026-11-04T05:19:43.583138+00:00",
+  "added": "2026-11-04T05:19:43.583138+00:00",
+  "category": "research",
+  "headline": "Pentoxifylline-tocopherol-clodronate for jaw osteoradionecrosis: pooled healing data, no controls",
+  "summary": "A systematic review and meta-analysis of six observational studies (303 total subjects, 192 treated with PENTOCLO) pooled time-to-event data to estimate mucosal healing in head and neck cancer-related osteoradionecrosis. The pooled median time to complete mucosal healing was 9.0 months, and the unhealed proportion fell from 70.7% at 6 months to 6.3% at 36 months. The reviewers rated risk of bias as serious to critical and found no untreated control groups.",
+  "why": ""
+ },
+ {
+  "id": "11ab5ed40e92",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42977247/",
+  "source": "J Endod",
+  "published": "2026-11-04T05:19:43.583138+00:00",
+  "added": "2026-11-04T05:19:43.583138+00:00",
+  "category": "research",
+  "headline": "Scoping review maps large language model use in endodontics and its limits",
+  "summary": "A scoping review of 50 studies from January 2023 to November 2025 mapped how large language model-based generative AI is used in endodontics across education, diagnosis and clinical support, and patient communication. GPT-series models accessed through ChatGPT were the most often evaluated. Performance was strong on structured multiple-choice questions but weaker on open-ended and case-based tasks, and diagnostic results were inconsistent and still below expert level.",
+  "why": "Dentists considering AI tools for endodontic decision support or patient education should know that accuracy varies by task, and the authors call for standardized, prospectively validated evaluation before clinical use."
+ },
+ {
+  "id": "e2a5a819b5d8",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42977669/",
+  "source": "J Prosthet Dent",
+  "published": "2026-11-04T05:19:43.583138+00:00",
+  "added": "2026-11-04T05:19:43.583138+00:00",
+  "category": "research",
+  "headline": "Single RMS values may miss complex distortion in intraoral scans of edentulous implant arches",
+  "summary": "This in vitro study compared three intraoral scanners and their recommended scan patterns on a five-implant edentulous mandible model, using a reference laboratory scan. It used an enhanced metrology method measuring linear, angular, and distance distortions, alongside the conventional best-fit alignment and RMS error approach. The authors argue that reporting one RMS value alone cannot capture the complex three-dimensional distortions that occur.",
+  "why": "Dentists relying on a single accuracy figure for scanners may overlook arch-level distortions that matter for implant-supported prostheses, so scanner choice and scan technique deserve closer evaluation."
+ },
+ {
+  "id": "eceb40e57ad4",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42977596/",
+  "source": "Dent Mater",
+  "published": "2026-11-04T05:19:43.583138+00:00",
+  "added": "2026-11-04T05:19:43.583138+00:00",
+  "category": "research",
+  "headline": "Zirconia-resin interpenetrating composites: ceramic content tunes strength and antibacterial effect",
+  "summary": "Researchers built zirconia scaffolds with 50% to 80% ceramic volume fractions using nanoparticle jetting, then infiltrated them with a UDMA/TEGDMA resin containing silver-loaded sodium zirconium phosphate. Stiffness and flexural strength rose with more ceramic, fracture toughness peaked at 70%, and antibacterial activity fell as ceramic content increased. Wear behavior stayed relatively stable across all four compositions, with low material wear and limited enamel wear on the opposing tooth.",
+  "why": "This suggests the ceramic-to-resin ratio could be adjusted to balance strength, enamel compatibility, and antibacterial function in future restorative materials, though the findings are from laboratory testing only."
+ },
+ {
+  "id": "3179948d856a",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42977595/",
+  "source": "Dent Mater",
+  "published": "2026-11-04T05:19:43.583138+00:00",
+  "added": "2026-11-04T05:19:43.583138+00:00",
+  "category": "research",
+  "headline": "Review finds restorative materials affect gum soft-tissue attachment, with inconsistent in-vitro methods",
+  "summary": "This narrative review pooled 20 in-vitro studies examining how restorative materials placed near gum tissue influence cells involved in soft-tissue attachment. Fibroblasts were studied most often, and the studies varied widely in specimen design, surface treatment, cell type, and assays, which makes direct comparison difficult. Surface polishing, preventing the oxygen-inhibited layer, and coating with bioactive resin were linked to better cell attachment, while changes to filler, degree of conversion, or alumina blasting were not consistently helpful; some materials were limited by cytotoxicity.",
+  "why": "For subgingival restorations, surface finish and resin handling may influence how well gum tissue attaches, but the evidence is too inconsistent to pick a best material yet."
+ },
+ {
+  "id": "23a1c709e0cd",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42977115/",
+  "source": "J Dent",
+  "published": "2026-11-04T05:19:43.583138+00:00",
+  "added": "2026-11-04T05:19:43.583138+00:00",
+  "category": "research",
+  "headline": "Review maps salivary biosensors for oral disease peptide and protein markers",
+  "summary": "This narrative review surveys salivary biosensors that detect peptide and protein biomarkers linked to oral diseases, sorting the work into four domains by what each approach physically measures. It proposes an analytical framework explaining why these strategies face different hurdles on the way to clinical use. The authors conclude that protein-targeted platforms are the most mature, with detection limits already below clinically relevant levels, but that reference standards and diagnostic metrics are often unreported.",
+  "why": "For dentists, salivary chairside tests are moving closer to practice, but their readiness depends on fixed case definitions, testing in unprocessed patient saliva, and comparison with existing point-of-care tests rather than sensitivity alone."
+ },
+ {
+  "id": "22f4d644d5e3",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42977114/",
+  "source": "J Dent",
+  "published": "2026-11-04T05:19:43.583138+00:00",
+  "added": "2026-11-04T05:19:43.583138+00:00",
+  "category": "research",
+  "headline": "Thiourethane oligomers and silanized TiO2 nanostructures tested in experimental composites",
+  "summary": "Researchers tested experimental resin composites combining thiourethane oligomers (TU-Oli) with silanized titanium dioxide nanotubes or nanoparticles at low concentrations. TU-Oli increased degree of conversion and slowed polymerization rate, while 0.3 wt% TiO2 gave better depth of cure and light transmission than 0.9 wt%. Nanotube-containing composites had lower glass transition temperature, while flexural strength and polymerization stress were similar across groups.",
+  "why": ""
  }
 ]
