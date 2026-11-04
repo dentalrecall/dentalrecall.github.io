@@ -4408,5 +4408,16 @@
   "headline": "Dr. Cesar Tapia Named Fellow of the American College of Dentists",
   "summary": "Dr. Cesar Tapia, founder of ConfiDENT in Alpharetta and Cumming, Georgia, was awarded Fellowship in the American College of Dentists on October 24, 2026, at the College's Annual Meeting and Convocation in Santa Barbara, California. Fellowship is by invitation and recognizes demonstrated leadership and contributions to the dental profession and society. Dr. Tapia, who is originally from Lima, Peru, also holds two master's credentials in implantology and was named an Associate Fellow of the American Academy of Implant Dentistry in 2025.",
   "why": ""
+ },
+ {
+  "id": "f34e97aa6d43",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42981157/",
+  "source": "J Prosthodont",
+  "published": "2026-11-04T23:01:57.371314+00:00",
+  "added": "2026-11-04T23:01:57.371314+00:00",
+  "category": "research",
+  "headline": "Extraction socket-supported guide improves implant accuracy in anterior in vitro models",
+  "summary": "An in vitro study tested a root-shaped, extraction socket-supported guide (ESSG) for immediate single-tooth implant placement in the anterior region. Using 3D-printed resin models of central incisors with labial, central, or palatal root-position deviations, 120 implants were placed with either the ESSG or a conventional tooth-supported guide. In labial and palatal deviation models, the ESSG produced smaller angular errors and, in most cases, smaller positional errors, though the authors state clinical studies are still needed.",
+  "why": "For dentists placing immediate anterior implants, this suggests a socket-based guide may improve placement accuracy when root position differs from the planned model, but the evidence is laboratory-based and not yet confirmed in patients."
  }
 ]
