@@ -4221,5 +4221,104 @@
   "headline": "Randomised trial compares BioFlx resin crowns with stainless steel and zirconia",
   "summary": "An Indian randomised controlled trial compared stainless steel, zirconia and BioFlx crowns on primary molars, assessing clinical performance and parental satisfaction. BioFlx is marketed as a tooth-coloured option that needs less tooth preparation than zirconia, but its clinical record is less established. The authors suggest that the choice of material involves different clinical trade-offs.",
   "why": "For pediatric crown decisions, parents may favour tooth-coloured options like BioFlx, but this study indicates clinicians need to weigh performance differences against aesthetics and preparation needs."
+ },
+ {
+  "id": "932018c6df17",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42978339/",
+  "source": "J Dent Res",
+  "published": "2026-11-04T12:06:21.522333+00:00",
+  "added": "2026-11-04T12:06:21.522333+00:00",
+  "category": "research",
+  "headline": "AI in Dental Research: Weighing Productivity Gains Against Research Integrity",
+  "summary": "A Journal of Dental Research article examines how AI, including large language models and agentic pipelines, is changing knowledge production in oral health research. It weighs faster literature synthesis, data analysis and manuscript drafting against risks such as fabricated findings and citations, overconfident inference and narrowing of research focus. The authors identify three structural asymmetries and call for enforceable governance, including mandatory AI disclosure, provenance tracking, adversarial testing of tools and institutional reform.",
+  "why": "Dentists who read or rely on published research should expect more AI-assisted papers, so critical appraisal and attention to disclosure and verification of citations will matter more."
+ },
+ {
+  "id": "1a3b97fa1061",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42978331/",
+  "source": "J Dent Res",
+  "published": "2026-11-04T12:06:21.522333+00:00",
+  "added": "2026-11-04T12:06:21.522333+00:00",
+  "category": "research",
+  "headline": "Proanthocyanidin acidic primers improve dentin-resin bond strength and durability in lab study",
+  "summary": "Researchers tested four proanthocyanidin (PAC) preparations formulated as glycolic acid-based primers in a simplified 2-step prime-and-rinse adhesive protocol. Across timepoints up to one year, PAC-treated groups showed significantly higher microtensile bond strength than the control, and reduced dye infiltration at the hybrid layer and underlying dentin. The trimeric C. verum-AA formulation produced the highest and most stable viscoelastic effects on the hybrid layer and underlying dentin.",
+  "why": ""
+ },
+ {
+  "id": "2a1e8502ce5e",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42978330/",
+  "source": "J Dent Res",
+  "published": "2026-11-04T12:06:21.522333+00:00",
+  "added": "2026-11-04T12:06:21.522333+00:00",
+  "category": "research",
+  "headline": "Maternal periodontitis in mice linked to offspring gut and brain changes",
+  "summary": "In a mouse study, periodontitis was induced in parous females by ligatures around the maxillary second molars for four weeks before breeding. Maternal periodontitis reduced oral microbial diversity and altered the maternal gut microbiome, and offspring showed reduced gut microbial diversity, impaired social interaction, reduced spontaneous locomotion, astrocyte increases in the cerebellum and frontal cortex, and disrupted Purkinje cell synchrony.",
+  "why": ""
+ },
+ {
+  "id": "589e7f0f365d",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42978299/",
+  "source": "J Dent Res",
+  "published": "2026-11-04T12:06:21.522333+00:00",
+  "added": "2026-11-04T12:06:21.522333+00:00",
+  "category": "research",
+  "headline": "Periodontitis linked to more non-VGS bloodstream infections after stem cell transplant",
+  "summary": "A retrospective and prospective cohort study from Princess Margaret Cancer Centre examined how periodontitis affects bloodstream infections in allogeneic stem cell transplant recipients. Patients with periodontitis had a higher share of non-viridans group streptococci infections in the retrospective cohort, a similar but nonsignificant trend in the prospective cohort, and a higher mortality risk, with elevated VGS-specific antibody levels also observed.",
+  "why": ""
+ },
+ {
+  "id": "3be548ce8376",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42978267/",
+  "source": "J Dent Res",
+  "published": "2026-11-04T12:06:21.522333+00:00",
+  "added": "2026-11-04T12:06:21.522333+00:00",
+  "category": "research",
+  "headline": "New framework models oral pH dynamics and introduces GatorpH web tool for caries parameters",
+  "summary": "Researchers describe a quantitative framework using nonlinear mixed effects and fixed effects modeling to estimate caries-related plaque pH parameters from sparse sampling data. They report that sparse datasets, common in clinical studies using the indirect or strip method, can underestimate parameters tied to caries risk. The team also released a publicly available web interface, GatorpH, that applies these models to plaque and saliva pH profiles.",
+  "why": "Dentists and researchers evaluating the cariogenicity of foods, cariostatic agents, or biomaterials may need to consider that sparse pH sampling can understate caries risk, and GatorpH offers a free way to analyze such data."
+ },
+ {
+  "id": "c31138766d40",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42978263/",
+  "source": "J Dent Res",
+  "published": "2026-11-04T12:06:21.522333+00:00",
+  "added": "2026-11-04T12:06:21.522333+00:00",
+  "category": "research",
+  "headline": "Metabolic memory may keep oral inflammation going after blood sugar and lipids are corrected",
+  "summary": "A review in the Journal of Dental Research describes how metabolic memory can sustain oral inflammation even after hyperglycemia or hyperlipidemia has been controlled. It is most evident in periodontitis and impaired wound healing, and the authors link it to epigenetic changes such as DNA methylation, histone modifications, and noncoding RNAs. The review also outlines possible preventive and therapeutic approaches.",
+  "why": "Patients whose metabolic disease is under control may still have persistent periodontal inflammation and slower healing, which could affect how clinicians plan periodontal treatment and follow-up for these patients."
+ },
+ {
+  "id": "a45a4a655a30",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42978328/",
+  "source": "J Prosthodont",
+  "published": "2026-11-04T12:06:21.522333+00:00",
+  "added": "2026-11-04T12:06:21.522333+00:00",
+  "category": "research",
+  "headline": "Dental radiotherapy spacers: material and thickness modestly reduce transmitted dose",
+  "summary": "An in vitro study compared three 3D-printed resins and three elastomeric impression materials, each at 5 mm and 10 mm thickness, for how much they reduced radiation transmitted through them in a solid-water phantom. Putty-type polyvinyl siloxane produced the largest reduction at both thicknesses, and thicker specimens reduced dose more than thinner ones. Among the printed resins, the Saremco Print CROWNTEC resin gave a greater reduction than the other two at 10 mm, while no difference was seen at 5 mm.",
+  "why": "The reductions were small and tied to this specific setup, and the authors state they do not show intrinsic material attenuation or clinical tissue protection, so these results should not be used to judge how well a spacer protects patient tissue."
+ },
+ {
+  "id": "983028b2e2a0",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42978313/",
+  "source": "J Prosthodont",
+  "published": "2026-11-04T12:06:21.522333+00:00",
+  "added": "2026-11-04T12:06:21.522333+00:00",
+  "category": "research",
+  "headline": "Intraoral scans can track alveolar ridge gap in infants with cleft lip and palate",
+  "summary": "A retrospective pilot study tested a standardized digital workflow that measures the distance between alveolar segments in six infants with unilateral cleft lip and palate. Serial intraoral scans were taken at birth, during presurgical treatment, and after primary lip repair, and the workflow was applied successfully at every time point. The measurements showed changes in segment distance over the treatment timeline.",
+  "why": "This suggests intraoral scanning could give clinicians an objective, repeatable way to monitor presurgical infant orthopedic treatment, though the study is small and only demonstrates feasibility."
+ },
+ {
+  "id": "8f545f4e9a90",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42978304/",
+  "source": "J Prosthodont",
+  "published": "2026-11-04T12:06:21.522333+00:00",
+  "added": "2026-11-04T12:06:21.522333+00:00",
+  "category": "research",
+  "headline": "Rotational path concept applied to maxillofacial prosthetics in a clinical case",
+  "summary": "A Journal of Prosthodontics article describes extending the rotational path placement concept, usually used for removable partial dentures, to maxillofacial prostheses. The authors say these prostheses can restore oral continuity, esthetics and phonetics, and may also improve chewing, speech and swallowing. The report presents a clinical case to illustrate the approach.",
+  "why": "It offers a possible prosthetic option for patients with maxillofacial defects, though the excerpt is based on a single case presentation and does not establish broader outcomes."
  }
 ]
