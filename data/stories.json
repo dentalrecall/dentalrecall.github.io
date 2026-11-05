@@ -4441,5 +4441,159 @@
   "headline": "UTSA dental school adds full digital restorative workflow to all four years",
   "summary": "The University of Texas at San Antonio School of Dentistry has introduced a complete digital workflow for restorative dentistry across its four-year DDS program. Students use the same digital tools in preclinical training that they will later use with patients, including intraoral scanning, digital jaw motion tracking, CAD design and in-house manufacturing, starting in the first year.",
   "why": ""
+ },
+ {
+  "id": "de0d63e526dc",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42982622/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-05T13:33:21.361285+00:00",
+  "added": "2026-11-05T13:33:21.361285+00:00",
+  "category": "research",
+  "headline": "Hardware-free wrapping technique for corticoperiosteal flaps in mandibular reconstruction",
+  "summary": "A technical note describes a mandibular reconstruction method that seats a medial femoral condyle corticoperiosteal flap in a prepared recess without rigid fixation. The periosteum is drawn around the superior mandibular margin to form a sealed, vascularized envelope over exposed bone. The authors aim to improve osseous integration and revascularization in irradiated, infected, or osteonecrotic bone, and suggest it may suit selected oncologic cases needing postoperative radiotherapy.",
+  "why": "For surgeons treating limited mandibular defects in compromised bone, this offers a possible hardware-free option that may reduce fixation-related complications, though the excerpt describes a technique without reported outcome data."
+ },
+ {
+  "id": "4677064e63e6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42982096/",
+  "source": "J Oral Maxillofac Surg",
+  "published": "2026-11-05T13:33:21.361285+00:00",
+  "added": "2026-11-05T13:33:21.361285+00:00",
+  "category": "research",
+  "headline": "Longer closed lock duration linked to weaker jaw function gains after arthroscopic disc repositioning",
+  "summary": "A retrospective cohort study at Massachusetts General Hospital examined 38 patients with closed lock who had arthroscopic disc repositioning, covering 42 temporomandibular joints. Each additional month between symptom onset and surgery was associated with a smaller improvement in Jaw Functional Limitation Scale scores at three months, and this held after adjusting for preoperative score and age. The study reports that longer locking duration was tied to poorer short-term functional improvement.",
+  "why": "For dentists and oral surgeons counseling TMJ patients, the findings suggest that delaying surgery after failed conservative care may be associated with less functional benefit, which can inform the timing of referral and surgical discussions."
+ },
+ {
+  "id": "b82b0ca196ed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42982412/",
+  "source": "Clin Implant Dent Relat Res",
+  "published": "2026-11-05T13:33:21.361285+00:00",
+  "added": "2026-11-05T13:33:21.361285+00:00",
+  "category": "research",
+  "headline": "PRF added to DFDBA does not significantly boost new bone in sinus augmentation",
+  "summary": "In a split-mouth randomized trial, each patient had one maxillary sinus grafted with DFDBA alone and the other with DFDBA plus leukocyte- and platelet-rich fibrin and injectable PRF. Of 24 enrolled subjects, 21 completed follow-up, and newly formed bone at 6 months did not differ significantly between sides (median 48.72% with PRF versus 45.76% without, p = 0.5). Connective tissue was lower on the PRF side (31.48% versus 36.92%, p = 0.016), and all definitively restored implants remained functional over 1 year of prosthetic follow-up.",
+  "why": "Adding PRF to DFDBA did not improve bone formation in this trial, so it offers no clear advantage for sinus graft outcomes, though the 1-year implant survival data are encouraging for restored implants."
+ },
+ {
+  "id": "895390962dd3",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42982741/",
+  "source": "J Prosthodont",
+  "published": "2026-11-05T13:33:21.361285+00:00",
+  "added": "2026-11-05T13:33:21.361285+00:00",
+  "category": "research",
+  "headline": "CBCT and finite element study of post-restored maxillary lateral incisors under lateral load",
+  "summary": "Researchers used cone beam CT to measure buccolingual root diameter in maxillary lateral incisors of 30 participants, finding the mean rose from 5.09 mm at 5 mm to 5.80 mm at 9 mm from the radiographic apex. Separately, a finite element model of one tooth geometry tested post diameters of 1.3 or 1.6 mm and ferrules of 1 or 2 mm under a 200 N lateral load at three contact sites. The authors caution that the modeling results describe component-specific responses in one geometry and do not predict fracture, fatigue, or clinical outcomes.",
+  "why": "It offers imaging-based reference values for lateral incisor root width near the apex, but the stress findings are modeling results only and should not be taken as guidance for choosing post or ferrule dimensions in patients."
+ },
+ {
+  "id": "911d3b163b9e",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42982646/",
+  "source": "J Prosthet Dent",
+  "published": "2026-11-05T13:33:21.361285+00:00",
+  "added": "2026-11-05T13:33:21.361285+00:00",
+  "category": "research",
+  "headline": "Salivary cytokines elevated in asymptomatic removable denture wearers",
+  "summary": "Researchers compared unstimulated saliva from 34 asymptomatic removable denture wearers with 21 people who had healthy natural teeth, all without clinical signs of oral inflammation. Several cytokines, including TNF-α, IL-2, IL-17, IL-4 and IL-10, were significantly higher in the denture group, and TNF-α correlated strongly with IL-17. The authors suggest salivary cytokine analysis could be a noninvasive way to detect subclinical inflammation and patients at risk for denture-related stomatitis, though the excerpt cuts off before further conclusions.",
+  "why": "This suggests saliva testing might one day help identify denture wearers at risk of stomatitis before visible symptoms appear, but it is a small study and the diagnostic use is not yet established."
+ },
+ {
+  "id": "81e5b85f4c2e",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42982645/",
+  "source": "J Prosthet Dent",
+  "published": "2026-11-05T13:33:21.361285+00:00",
+  "added": "2026-11-05T13:33:21.361285+00:00",
+  "category": "research",
+  "headline": "Low-temperature aging tested on colored multilayer ultratranslucent zirconia",
+  "summary": "An in vitro study aged disks of three colored multilayered ultratranslucent zirconia materials in a hydrothermal reactor to simulate low-temperature degradation, then measured microstructure, optical properties, and mechanical strength of each layer. Aging kept phase composition largely stable and reduced translucency with color shifts that the authors judged clinically acceptable. Hardness was mostly maintained, though flexural strength dropped in one layer, and one material showed stable fluorescence.",
+  "why": "This suggests these colored zirconias hold up reasonably well to aging-related changes in appearance and strength, which may inform material selection for esthetic restorations, though the findings come from lab testing rather than clinical outcomes."
+ },
+ {
+  "id": "3bcd07aaebe1",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42982218/",
+  "source": "J Dent",
+  "published": "2026-11-05T13:33:21.361285+00:00",
+  "added": "2026-11-05T13:33:21.361285+00:00",
+  "category": "research",
+  "headline": "Dynamic navigation improves novice socket-shield accuracy in vitro versus freehand",
+  "summary": "In a crossover in vitro study, eight novice dentists performed socket-shield preparations on standardized models using freehand and dynamic navigation. Dynamic navigation produced higher geometric overlap with the planned preparation (78.0% vs. 63.5%), shorter length deviation (1.12 mm vs. 2.68 mm), and higher self-rated confidence, with no perforations versus 5 of 24 freehand preparations. A small exploratory phase with four operators was analyzed descriptively only.",
+  "why": "Dynamic navigation may help less experienced clinicians prepare socket-shield teeth more accurately and with fewer perforations in the lab, but the authors state the findings do not show clinical safety or patient benefit."
+ },
+ {
+  "id": "8b5b3749c3dc",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42982217/",
+  "source": "J Dent",
+  "published": "2026-11-05T13:33:21.361285+00:00",
+  "added": "2026-11-05T13:33:21.361285+00:00",
+  "category": "research",
+  "headline": "Smoking's effect on L-PRF properties remains unclear, systematic review finds",
+  "summary": "A PRISMA 2020 systematic review pooled laboratory studies comparing leukocyte-platelet-rich fibrin from smokers and non-smokers. Nine studies were included, with several reporting looser fibrin architecture and altered cell entrapment in smoker-derived membranes, while growth-factor findings were inconsistent. The certainty of evidence was rated very low, so the authors concluded that it is not yet possible to say whether smoking compromises L-PRF.",
+  "why": "Dentists using L-PRF should not assume smoking impairs the membrane based on current data, but the review supports continuing to encourage smoking cessation given its known oral and systemic harms."
+ },
+ {
+  "id": "81940b93469c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42982653/",
+  "source": "Oral Surg Oral Med Oral Pathol Oral Radiol",
+  "published": "2026-11-05T13:33:21.361285+00:00",
+  "added": "2026-11-05T13:33:21.361285+00:00",
+  "category": "research",
+  "headline": "Ghost cell-negative jaw carcinoma with CTNNB1 mutation arising in a calcifying cyst",
+  "summary": "A case report describes an odontogenic carcinoma in a 14-year-old girl that arose within a calcifying odontogenic cyst and lacked ghost cells, which are the usual histologic clue for this tumor type. Sequencing found a CTNNB1 G34E mutation and no mutations in the MAPK or SHH pathway genes, and the authors assigned a diagnosis of WNT pathway-altered odontogenic carcinoma. They propose a molecularly defined category to address cases that the ghost cell-based classification cannot place.",
+  "why": "It suggests that some jaw tumors may be missed or misclassified if clinicians and pathologists rely only on ghost cells, so molecular testing may matter for future diagnostic accuracy."
+ },
+ {
+  "id": "cc0d484c3899",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42965897/",
+  "source": "J Dent Educ",
+  "published": "2026-11-05T13:33:21.361285+00:00",
+  "added": "2026-11-05T13:33:21.361285+00:00",
+  "category": "research",
+  "headline": "Burnout in dental and dental hygiene students tied to clinical training and stress",
+  "summary": "A repeated survey of DDS and dental hygiene students at Dalhousie University in Fall 2023 and Winter 2024 measured burnout, stress, grit, and well-being. Exhaustion was highest among students in clinical training, in the Fall term, and among those with higher stress or lower well-being. After adjustment, burnout did not differ independently by program, and the authors call for multilevel strategies addressing workload, clinical pacing, and coping resources.",
+  "why": "Burnout in students appears driven more by clinical training load, stress, and personal resources than by whether they are in dental or hygiene school, suggesting that workload and pacing of clinical work matter for future team members' wellbeing."
+ },
+ {
+  "id": "acd143139dee",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42965890/",
+  "source": "J Dent Educ",
+  "published": "2026-11-05T13:33:21.361285+00:00",
+  "added": "2026-11-05T13:33:21.361285+00:00",
+  "category": "research",
+  "headline": "Review urges dental curricula to include planetary health, One Health and sustainability",
+  "summary": "A narrative review in the Journal of Dental Education argues that oral health is shaped by environmental, social and systemic factors beyond clinical care, and that dental professionals could do more to promote sustainable practices if trained for it. It describes strategies and resources for teaching Planetary Health, One Health and environmental sustainability in dental education, aligned with the UN Sustainable Development Goals. The authors also highlight curriculum initiatives at one dental institution in the United States and one in the United Kingdom.",
+  "why": "Dental schools and educators may need to consider how to add transdisciplinary sustainability content to training, and practices may see growing expectations around environmental responsibility."
+ },
+ {
+  "id": "65bb74c882b7",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42965885/",
+  "source": "J Dent Educ",
+  "published": "2026-11-05T13:33:21.361285+00:00",
+  "added": "2026-11-05T13:33:21.361285+00:00",
+  "category": "research",
+  "headline": "Admissions Criteria Weakly Predict Preclinical Restorative Performance in Dental Students",
+  "summary": "A study of 367 predoctoral students from the 2023-2025 graduating classes tested whether admissions data predict success in preclinical manual dexterity work. DAT Perceptual Ability Test scores and a quantitatively or biomedically intensive undergraduate major were significantly tied to dexterity-based GPA, and adding interaction terms modestly improved prediction. Models predicted the longitudinal grade trajectory better than static outcomes, though overall predictive power stayed limited.",
+  "why": "Admissions scores alone are a weak guide to which students will struggle with hands-on restorative and prosthetic work, so faculty may get more value from tracking student progress over time and targeting advising early."
+ },
+ {
+  "id": "cb41b30178f1",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42965878/",
+  "source": "J Dent Educ",
+  "published": "2026-11-05T13:33:21.361285+00:00",
+  "added": "2026-11-05T13:33:21.361285+00:00",
+  "category": "research",
+  "headline": "Clear mold-guided composites outperform freehand in dental student simulation study",
+  "summary": "In a within-subject simulation, 21 dental students placed maxillary anterior composite restorations on typodonts using freehand and clear mold-guided techniques. Three blinded faculty raters scored esthetics, and restorations were compared with a reference model by RMS deviation. The mold-guided technique scored higher on esthetics, had lower deviation from the planned morphology, and took less time.",
+  "why": ""
+ },
+ {
+  "id": "d0cd0e25130c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42965877/",
+  "source": "J Dent Educ",
+  "published": "2026-11-05T13:33:21.361285+00:00",
+  "added": "2026-11-05T13:33:21.361285+00:00",
+  "category": "research",
+  "headline": "Peer-led and faculty-led teaching of updated FDI criteria yield similar learning gains",
+  "summary": "A study of 49 dental students compared peer-assisted learning with faculty-led instruction on the updated FDI restorative evaluation criteria. Peer sessions were offered both face-to-face and online. Both approaches improved knowledge, with no significant difference between the two groups after adjusting for baseline scores, and no difference between online and in-person formats; the peer-assisted group also showed a significant drop in stress.",
+  "why": ""
  }
 ]
