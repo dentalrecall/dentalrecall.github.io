@@ -4628,5 +4628,60 @@
   "headline": "Henry Schein to present at two investor conferences in late 2026",
   "summary": "Henry Schein, Inc. (Nasdaq: HSIC) will present at the Jefferies Healthcare Conference in London on November 17, 2026, and at the Piper Sandler Healthcare Conference in New York on December 1, 2026. Both presentations will be available by live webcast, with replays posted on the company's website afterward.",
   "why": ""
+ },
+ {
+  "id": "076aefc5ef17",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42984391/",
+  "source": "J Dent Res",
+  "published": "2026-11-05T17:27:07.881411+00:00",
+  "added": "2026-11-05T17:27:07.881411+00:00",
+  "category": "research",
+  "headline": "Review urges sex-specific host modulation therapy for periodontitis",
+  "summary": "A J Dent Res review examines preclinical and clinical evidence on how biological sex affects host modulation therapies for periodontitis. It reports that males show higher prevalence and severity of the disease, and that sex-dependent differences appear in pathways such as IL-1β/inflammasome signaling, RANKL/OPG-driven osteoclast activity, IL-17, IL-6, complement, resolvins and cyclooxygenase inhibitors. The authors call for sex to be treated as a biological variable in periodontal research and for sex-disaggregated data reporting.",
+  "why": "Differences in how male and female patients respond to immune-targeted treatments suggest future nonsurgical periodontal therapies may need to account for patient sex, though these findings remain preliminary and clinical application is not yet established."
+ },
+ {
+  "id": "5a80960e0221",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42984125/",
+  "source": "J Dent Res",
+  "published": "2026-11-05T17:27:07.881411+00:00",
+  "added": "2026-11-05T17:27:07.881411+00:00",
+  "category": "research",
+  "headline": "Lifetime Water Fluoridation Not Linked to Cognition in Older Irish Adults",
+  "summary": "A study using data from the Irish Longitudinal Study on Ageing estimated lifetime and early-life fluoride exposure from community water fluoridation by linking residential histories to national monitoring data. After adjusting for sociodemographic, lifestyle, health, loneliness, and health care access factors, lifetime exposure showed no association with errors on the MMSE or MoCA cognitive tests. Early-life exposure did not modify these associations.",
+  "why": ""
+ },
+ {
+  "id": "58ede4a27d9e",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42984420/",
+  "source": "Clin Oral Implants Res",
+  "published": "2026-11-05T17:27:07.881411+00:00",
+  "added": "2026-11-05T17:27:07.881411+00:00",
+  "category": "research",
+  "headline": "Metal and plastic probes perform comparably for peri-implant pocket depth; electronic probe unreliable",
+  "summary": "A cross-sectional study of 50 patients with 85 implants compared a metal probe, a plastic probe and an electronic probe for measuring peri-implant probing depth, with patient pain and preference recorded. The metal and plastic probes were relatively accurate and agreed closely, though a thick peri-implant mucosal phenotype reduced the metal probe's accuracy. The electronic probe deviated by 1.5 mm or more from the correct depth in 65% of measurements.",
+  "why": ""
+ },
+ {
+  "id": "9f2c8e89617a",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42985871/",
+  "source": "J Dent Educ",
+  "published": "2026-11-05T17:27:07.881411+00:00",
+  "added": "2026-11-05T17:27:07.881411+00:00",
+  "category": "research",
+  "headline": "Dental students' predictions about treating underserved patients compared with alumni practice",
+  "summary": "A longitudinal University of Iowa study compared dental students' stated willingness to treat 13 underserved populations with what their alumni actually do. Students' surveys from their first and fourth years were matched to alumni surveys mailed in Fall 2023, with 227 alumni responding. Many alumni treated more underserved groups than they had predicted as students, although they overestimated future care for some groups, including Medicaid, homebound or nursing home, and incarcerated patients.",
+  "why": "The findings suggest dentists often end up serving a wider range of patients than they expected as students, though students may overestimate how much they will treat certain groups such as Medicaid patients, which is useful context for dental education and practice planning."
+ },
+ {
+  "id": "b6b66b547b63",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42985845/",
+  "source": "J Dent Educ",
+  "published": "2026-11-05T17:27:07.881411+00:00",
+  "added": "2026-11-05T17:27:07.881411+00:00",
+  "category": "research",
+  "headline": "Endodontic residents' colorblind racial attitudes linked to phone follow-up after root canal pain",
+  "summary": "An online study of US endodontic residents used four standardized video vignettes, two featuring Black actors and two featuring White actors, describing moderate pain after root canal treatment. Residents rated how likely they were to offer various treatments and completed a colorblind racial attitudes scale; 37% of invited residents responded. Treatment choices differed little by patient race overall, but the likelihood of planning a follow-up phone call depended on residents' attitude scores, with low scorers more likely to call Black patients and high scorers more likely to call White patients.",
+  "why": "Even when treatment decisions look consistent across patients, subtle differences in how clinicians communicate and follow up may vary by race and implicit attitudes, which is worth considering in patient communication and post-treatment care."
  }
 ]
