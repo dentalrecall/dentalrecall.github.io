@@ -4848,5 +4848,43 @@
   "headline": "Review of local anesthesia complications in dentistry proposes new classification",
   "summary": "A systematic review of PubMed, Web of Science and Scopus through June 2025 screened 364 records and included 28 studies on accidents and complications from dental local anesthetics. Complications were most frequent with inferior alveolar nerve blocks, and local and systemic events were identified, with many resolving on their own while others needed surgical or drug treatment. The authors propose classifying these events by affected anatomical plane (superficial, deep, neurological, orbitoocular) and by systemic category.",
   "why": "Dentists giving inferior alveolar nerve blocks should be aware that this technique carries the highest complication frequency, and a structured classification may help with recognizing and managing adverse events."
+ },
+ {
+  "id": "0f45505ad828",
+  "url": "https://decisionsindentistry.com/2026/11/managing-tooth-wear/",
+  "source": "Decisions in Dentistry",
+  "published": "2026-11-06T19:07:48+00:00",
+  "added": "2026-11-06T19:15:02.197506+00:00",
+  "category": "education",
+  "headline": "Quiz Reviews Erosion, Abrasion, and Pathological Tooth Wear",
+  "summary": "This Decisions in Dentistry quiz tests knowledge of tooth wear. It covers how erosion appears clinically, which everyday habits commonly cause abrasion, and how patient age helps decide whether wear is pathological or physiological.",
+  "why": "A quick refresher on distinguishing erosive from abrasive wear and judging whether wear is age-appropriate can support more accurate assessment and management decisions during routine exams."
+ },
+ {
+  "id": "a7e587f84053",
+  "url": "https://decisionsindentistry.com/2026/11/why-dental-hygienists-leave/",
+  "source": "Decisions in Dentistry",
+  "published": "2026-11-06T19:02:18+00:00",
+  "added": "2026-11-06T19:15:02.197506+00:00",
+  "category": "research",
+  "headline": "Abusive supervision linked to hygienist distress and intent to leave",
+  "summary": "A study in the Journal of Dental Hygiene surveyed 137 clinical hygienists in the US and Canada about abusive supervision, defined as sustained hostile verbal or nonverbal behavior from a supervisor. Of participants, 81% reported at least some abusive supervision, and about a third said it occurred moderately to very often. The article also reports high rates of psychological distress and notes that abusive supervision was more strongly tied to clinicians' intent to leave than psychological distress was.",
+  "why": "Workplace culture, not only pay or scheduling, may play a major role in hygienist turnover, so practice leaders should examine how supervisors treat their teams."
+ },
+ {
+  "id": "46e6a9c7d321",
+  "url": "https://decisionsindentistry.com/2026/11/unlicensed-iowa-clinic-shut-down-after-years-of-unregulated-care/",
+  "source": "Decisions in Dentistry",
+  "published": "2026-11-06T18:58:46+00:00",
+  "added": "2026-11-06T19:15:02.197506+00:00",
+  "category": "policy",
+  "headline": "Unlicensed Iowa Clinic Offering Dental and Medical Care Is Shut Down by Court Order",
+  "summary": "Authorities arrested Eddie Gingerich in August for running Old Cabin Retreat in Centerville, Iowa, a facility that provided medical, dental, and dietetic care without licenses. After Iowa's medical, dental, and dietetic boards filed a civil case, a court order has since closed the clinic, which had reportedly operated for six years. Gingerich pleaded guilty to employing an unlicensed dentist under a plea deal, and he now faces a felony charge for running an unlicensed hospital, which he disputes on sovereign citizen grounds.",
+  "why": "It shows that state dental boards are working with medical and dietetic regulators to act against unlicensed clinics, and it is a reminder that dental care must be provided under a licensed professional."
+ },
+ {
+  "id": "b8dce8498f6c",
+  "hidden": true,
+  "added": "2026-11-06T19:15:02.197506+00:00"
  }
 ]
