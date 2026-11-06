@@ -4826,5 +4826,27 @@
   "headline": "Stabili-Teeth Chief Clinical Officer Urges Expanding Fixed Full-Arch Options",
   "summary": "In an interview, Dr. Dale Spadafora, chief clinical officer of Stabili-Teeth, argues that full-arch dentistry has reached an inflection point and that the next step is adding fixed treatment options rather than replacing existing ones. He says many patients who want fixed teeth leave without treatment due to anatomical or financial barriers, often defaulting to removable dentures. He describes the Stabili-Teeth protocol as a patented, fully implant-supported system using six implants, mixing standard and narrow-diameter implants, with fixed provisional teeth placed on the day of surgery.",
   "why": "It points to a possible fixed full-arch option for patients who might otherwise choose removable prostheses, though the excerpt is promotional from a company executive and offers no outcome data."
+ },
+ {
+  "id": "2e10324db047",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42993102/",
+  "source": "Am J Orthod Dentofacial Orthop",
+  "published": "2026-11-06T17:11:04.628529+00:00",
+  "added": "2026-11-06T17:11:04.628529+00:00",
+  "category": "research",
+  "headline": "Sandblasting with orthodontic primer gives strongest adhesive bond to stainless steel and CoCr",
+  "summary": "An in-vitro study compared surface treatments (none, bur roughening, sandblasting) and primer systems for bonding orthodontic adhesive to stainless steel and cobalt-chromium. Metal primer alone caused complete pretest failures on untreated and bur-roughened surfaces of both metals. Sandblasting combined with an orthodontic primer produced the highest bond strengths on both substrates, while adding metal primer gave no consistent benefit.",
+  "why": "For bonding attachments to non-noble metals such as stainless steel or CoCr, sandblasting followed by an orthodontic primer appears to be the most reliable approach, and metal primer alone is unlikely to be sufficient."
+ },
+ {
+  "id": "82fa99502eba",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42991714/",
+  "source": "Rev Cient Odontol (Lima)",
+  "published": "2026-11-06T17:11:04.628529+00:00",
+  "added": "2026-11-06T17:11:04.628529+00:00",
+  "category": "research",
+  "headline": "Review of local anesthesia complications in dentistry proposes new classification",
+  "summary": "A systematic review of PubMed, Web of Science and Scopus through June 2025 screened 364 records and included 28 studies on accidents and complications from dental local anesthetics. Complications were most frequent with inferior alveolar nerve blocks, and local and systemic events were identified, with many resolving on their own while others needed surgical or drug treatment. The authors propose classifying these events by affected anatomical plane (superficial, deep, neurological, orbitoocular) and by systemic category.",
+  "why": "Dentists giving inferior alveolar nerve blocks should be aware that this technique carries the highest complication frequency, and a structured classification may help with recognizing and managing adverse events."
  }
 ]
