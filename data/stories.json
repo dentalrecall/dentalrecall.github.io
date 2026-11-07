@@ -4952,5 +4952,49 @@
   "headline": "Review finds promising clinical evidence for 3D-printed titanium implants and custom meshes",
   "summary": "A critical review of human clinical studies examined additively manufactured titanium implants, root-analogue implants, subperiosteal and maxillofacial devices, and customised titanium meshes used in oral rehabilitation and guided bone regeneration. Conventional additively manufactured endosseous implants showed favourable short- and medium-term results, with survival between 94.5% and 100% in selected cohorts. The authors noted that subperiosteal and maxillofacial devices carried notable long-term risks such as mucosal exposure and infection, and that heterogeneity and limited follow-up restrict firm comparisons.",
   "why": "Supports the use of additively manufactured titanium endosseous implants in practice, while signalling that custom subperiosteal devices and meshes need indication-specific judgement and longer-term data."
+ },
+ {
+  "id": "3f9746c7606c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42995066/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-07T06:02:10.629106+00:00",
+  "added": "2026-11-07T06:02:10.629106+00:00",
+  "category": "research",
+  "headline": "Virtual surgical planning with standardized temporomandibular joint prostheses",
+  "summary": "A technical note describes how virtual surgical planning can be carried out using available standardized total temporomandibular joint replacements instead of custom patient-specific implants. It covers the workflow and imaging outputs such as resection models, drilling depths, and occlusal splints. In the reported sample, the largest movements were 37 mm of anterior chin repositioning combined with 22 mm of vertical mandibular angle repositioning.",
+  "why": ""
+ },
+ {
+  "id": "47c03a77bb12",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42995065/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-07T06:02:10.629106+00:00",
+  "added": "2026-11-07T06:02:10.629106+00:00",
+  "category": "research",
+  "headline": "Burning mouth syndrome linked to higher odds of psychological disorders, meta-analysis finds",
+  "summary": "A systematic review and meta-analysis of 52 studies examined the connection between burning mouth syndrome and psychological factors, searching several major databases through February 2026. Patients with burning mouth syndrome had about 3.19 times the odds of psychological disorders compared with controls, and the analysis found a strong positive association between the condition and psychological factors overall.",
+  "why": "The findings support screening burning mouth syndrome patients for psychological concerns and including psychological assessment and support in a multidisciplinary management plan."
+ },
+ {
+  "id": "102f3d45836a",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42995064/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-07T06:02:10.629106+00:00",
+  "added": "2026-11-07T06:02:10.629106+00:00",
+  "category": "research",
+  "headline": "Stem cell therapy shows no proven edge over iliac crest grafting for alveolar cleft repair",
+  "summary": "A systematic review and meta-analysis of 20 studies (six RCTs, 11 non-randomized studies, three case series; 437 participants) compared stem cell-based therapies with autologous bone grafting for secondary alveolar cleft repair. The single eligible RCT found less bone fill at 6 months with stem cell therapy than with iliac crest bone graft, while success rates and bone volume did not differ significantly between the two approaches. Certainty of evidence was rated very low for all outcomes.",
+  "why": "Current evidence does not show stem cell therapy outperforms iliac crest grafting for alveolar cleft repair, so conventional grafting remains the reference approach until larger 12-month trials report results."
+ },
+ {
+  "id": "9569a4de5d63",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42995063/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-07T06:02:10.629106+00:00",
+  "added": "2026-11-07T06:02:10.629106+00:00",
+  "category": "research",
+  "headline": "Patient-specific PEEK implants show good aesthetic and functional results in craniomaxillofacial reconstruction",
+  "summary": "A systematic review and meta-analysis of 15 studies (203 patients, 236 implants) assessed patient-specific PEEK implants in adult craniomaxillofacial reconstruction. The pooled overall complication rate was 20.1%, mostly minor and mainly local surgical issues, with implant loss at 6.5% and aesthetic outcomes rated satisfactory or very satisfactory in 87.4% of cases. Implant loss was numerically higher in previously irradiated patients, though that subgroup was very small.",
+  "why": "For dentists and oral surgeons involved in mandibular or midface reconstruction, this suggests PEEK patient-specific implants can be a viable alloplastic option for selected cases, while irradiated patients and local risk factors call for careful case selection."
  }
 ]
