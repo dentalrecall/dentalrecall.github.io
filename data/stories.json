@@ -4908,5 +4908,49 @@
   "headline": "California law requires dental plans to honor assignment of benefits from 2027",
   "summary": "Starting January 1, 2027, California dental plans must honor patients' assignment of benefits, so practices can collect payment directly from insurers rather than from patients up front. The change comes from AB 1629, a bill backed by the California Dental Association and signed by Governor Gavin Newsom in September. The law also requires patients to be told whether a practice is in network, receive an out-of-pocket cost estimate, and lets state regulators review dental networks for adequate provider coverage.",
   "why": "Dentists in California will be able to bill insurers directly instead of waiting on patient reimbursements, which may ease cash flow and reduce upfront collection friction."
+ },
+ {
+  "id": "acffe2753b9a",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42994555/",
+  "source": "J Dent",
+  "published": "2026-11-07T05:08:08.017872+00:00",
+  "added": "2026-11-07T05:08:08.017872+00:00",
+  "category": "research",
+  "headline": "Polyacrylic acid toothpastes show promise against enamel erosion in lab study",
+  "summary": "In an in vitro study, experimental toothpastes with bioadhesive polymers were tested on bovine enamel under erosive-abrasive and erosion-only cycling. Polyacrylic acid (PAA) formulations gave the strongest protection under erosive-abrasive conditions, performing better than the commercial anti-erosive comparator, while chitosan and linear polyphosphate formulations showed no protection. Under erosion-only conditions, PAA and the PAA, fluoride and stannous combination, along with a linear polyphosphate, fluoride and stannous formulation, also reduced surface loss.",
+  "why": "This early laboratory work suggests PAA-based toothpastes could be a future option for patients with erosive tooth wear, but it does not yet show clinical benefit in people."
+ },
+ {
+  "id": "f1373bf8bf58",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42994554/",
+  "source": "J Dent",
+  "published": "2026-11-07T05:08:08.017872+00:00",
+  "added": "2026-11-07T05:08:08.017872+00:00",
+  "category": "research",
+  "headline": "Systematic review finds high bias and weak validation in AI dental diagnostic studies",
+  "summary": "This PRISMA-guided systematic review assessed 96 studies of AI used in dental diagnosis across several specialties. Most studies were retrospective, convolutional neural networks were the most common architecture, and reported accuracy ranged from 81% to 99%. The authors found high risk of bias in 55.2% of studies, limited external validation, and gaps in reporting such as sample-size justification, missing-data handling, and data or code availability.",
+  "why": "AI diagnostic tools look promising, but the evidence behind them is often weak, so they should be used as decision support that supplements, not replaces, clinical judgement."
+ },
+ {
+  "id": "bdf16ee2ac9e",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42994553/",
+  "source": "J Dent",
+  "published": "2026-11-07T05:08:08.017872+00:00",
+  "added": "2026-11-07T05:08:08.017872+00:00",
+  "category": "research",
+  "headline": "Robotic guided implant surgery shows promising early accuracy in edentulous patients",
+  "summary": "A systematic review and meta-analysis pooled five studies with 35 fully edentulous patients to assess robot-assisted computer-guided implant placement. The pooled deviations were 0.73 mm at the platform, 0.74 mm at the apex, and 1.64° angularly, with very low certainty of evidence. Higher-autonomy systems showed smaller platform and apex deviations than operator-dependent systems in an exploratory analysis.",
+  "why": "Early data suggest robotic guidance can place implants accurately in fully edentulous patients, but the small sample and very low certainty mean it is not yet proven to outperform static or dynamic guided surgery, and survival and complication data are still lacking."
+ },
+ {
+  "id": "505aeb6794bd",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42994552/",
+  "source": "J Dent",
+  "published": "2026-11-07T05:08:08.017872+00:00",
+  "added": "2026-11-07T05:08:08.017872+00:00",
+  "category": "research",
+  "headline": "Review finds promising clinical evidence for 3D-printed titanium implants and custom meshes",
+  "summary": "A critical review of human clinical studies examined additively manufactured titanium implants, root-analogue implants, subperiosteal and maxillofacial devices, and customised titanium meshes used in oral rehabilitation and guided bone regeneration. Conventional additively manufactured endosseous implants showed favourable short- and medium-term results, with survival between 94.5% and 100% in selected cohorts. The authors noted that subperiosteal and maxillofacial devices carried notable long-term risks such as mucosal exposure and infection, and that heterogeneity and limited follow-up restrict firm comparisons.",
+  "why": "Supports the use of additively manufactured titanium endosseous implants in practice, while signalling that custom subperiosteal devices and meshes need indication-specific judgement and longer-term data."
  }
 ]
