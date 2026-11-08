@@ -4996,5 +4996,82 @@
   "headline": "Patient-specific PEEK implants show good aesthetic and functional results in craniomaxillofacial reconstruction",
   "summary": "A systematic review and meta-analysis of 15 studies (203 patients, 236 implants) assessed patient-specific PEEK implants in adult craniomaxillofacial reconstruction. The pooled overall complication rate was 20.1%, mostly minor and mainly local surgical issues, with implant loss at 6.5% and aesthetic outcomes rated satisfactory or very satisfactory in 87.4% of cases. Implant loss was numerically higher in previously irradiated patients, though that subgroup was very small.",
   "why": "For dentists and oral surgeons involved in mandibular or midface reconstruction, this suggests PEEK patient-specific implants can be a viable alloplastic option for selected cases, while irradiated patients and local risk factors call for careful case selection."
+ },
+ {
+  "id": "a0c549dbf71b",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42998945/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-08T06:04:26.199474+00:00",
+  "added": "2026-11-08T06:04:26.199474+00:00",
+  "category": "research",
+  "headline": "Condylectomy for active unilateral condylar hyperplasia: pooled meta-analysis of 17 studies",
+  "summary": "A systematic review and single-arm meta-analysis of 17 studies covering 476 patients examined condylectomy for active unilateral condylar hyperplasia. The pooled rate of secondary orthognathic surgery was about 15% (95% CI 4.7-29.7%), with no significant difference among high, proportional, and adaptable condylectomy techniques. The pooled female proportion was 63%, and the authors note that very high heterogeneity limits how far the pooled mean age of 23.47 years can be interpreted.",
+  "why": "For clinicians and oral surgeons managing active condylar hyperplasia, the findings suggest condylectomy is a reasonable early option with a modest rate of later jaw surgery, though the authors call for more standardized prospective trials before firm recommendations."
+ },
+ {
+  "id": "a3ae735dabdf",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42995471/",
+  "source": "Int Endod J",
+  "published": "2026-11-08T06:04:26.199474+00:00",
+  "added": "2026-11-08T06:04:26.199474+00:00",
+  "category": "research",
+  "headline": "Cold response and bleeding time may flag vital pulp therapy failure in mature teeth",
+  "summary": "A prospective study of 50 mature permanent teeth with reversible or irreversible pulpitis treated by partial or full pulpotomy tracked outcomes over one year. Overall success was 82% (41 successful, nine failed), and prolonged cold response time and intraoperative bleeding time were significantly greater in failed cases. Patient-reported symptoms and preoperative diagnosis were not linked to outcome, and the authors say pulpal biomarkers offer only complementary prognostic information.",
+  "why": "Simple chair-side measures such as cold response time and bleeding time during pulpotomy may help dentists gauge the likely outcome of vital pulp therapy, though the biomarkers are not yet reliable predictors on their own."
+ },
+ {
+  "id": "ee0b86e1193c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42998065/",
+  "source": "Am J Orthod Dentofacial Orthop",
+  "published": "2026-11-08T06:04:26.199474+00:00",
+  "added": "2026-11-08T06:04:26.199474+00:00",
+  "category": "research",
+  "headline": "S100A7 found to drive osteoclast-mediated tooth movement via RAGE signaling",
+  "summary": "Researchers studied damage-associated molecular patterns in human periodontal ligament after orthodontic force and found S100A7 was upregulated, peaking at day 7. In mice, its homolog mS100a7a15 supported osteoclast formation, alveolar bone resorption and tooth movement, and its loss reduced these processes. The authors describe a signaling pathway running through RAGE, UBE2N, TRAF6 and NF-κB that appears to mediate this effect.",
+  "why": ""
+ },
+ {
+  "id": "bc791dc3317b",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42998942/",
+  "source": "J Prosthet Dent",
+  "published": "2026-11-08T06:04:26.199474+00:00",
+  "added": "2026-11-08T06:04:26.199474+00:00",
+  "category": "research",
+  "headline": "Digitally milled, magnet-retained partial denture for a boy with ectodermal dysplasia",
+  "summary": "A clinical report describes rehabilitating a 12-year-old boy with hypohidrotic ectodermal dysplasia using a fully digital workflow and a magnet-retained removable partial denture. Resin crowns on the maxillary central incisors served as abutments for magnetic attachments, and the denture was milled as a single piece from a dual-shade PMMA disk. At six-month follow-up, retention and stability were satisfactory and the patient reported better chewing and facial appearance.",
+  "why": "It shows a digital, monolithic approach with magnetic retention that may suit growing patients, while allowing later prosthetic changes."
+ },
+ {
+  "id": "aad27a336be4",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42998932/",
+  "source": "Dent Mater",
+  "published": "2026-11-08T06:04:26.199474+00:00",
+  "added": "2026-11-08T06:04:26.199474+00:00",
+  "category": "research",
+  "headline": "3D-printed holders for cell culture tested; PLA shows promise in preliminary study",
+  "summary": "Researchers evaluated four 3D-printable materials for holders used in cell culture assays, aiming to reduce variability between experiments. Using human gingival fibroblasts in direct contact with the printed holders, PLA showed significantly higher cell viability at day 7 than the other materials and was the only one remaining above the ISO 10993-5 cytotoxicity threshold. Over 21 days in culture medium, PLA holders kept pH stable, showed minimal mass change, and had only minor surface changes.",
+  "why": ""
+ },
+ {
+  "id": "efa911d1ce9c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42998745/",
+  "source": "J Dent",
+  "published": "2026-11-08T06:04:26.199474+00:00",
+  "added": "2026-11-08T06:04:26.199474+00:00",
+  "category": "research",
+  "headline": "Novel bioactive cement shows antibacterial and remineralizing effects in vitro",
+  "summary": "Researchers developed a bioactive cement built from bioactive glass, ZrO2 and MgO nanoparticles, mixed with a phosphate and O-carboxymethyl chitosan liquid, intended as a temporary seal after selective caries removal. In laboratory tests, it met ISO 9917-1:2025 requirements for setting time, compressive strength and erosion depth, showed stronger activity against S. mutans than Biodentine, and produced a greater increase in dentin mineral density in an artificial caries model. The authors describe it as a promising candidate for temporary coronal restoration, though all findings are in vitro.",
+  "why": "If validated clinically, this material could offer a temporary sealing option for deep caries lesions that combines antibacterial action with remineralization, but for now the evidence is limited to laboratory testing."
+ },
+ {
+  "id": "75006f35001a",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42998963/",
+  "source": "Oral Surg Oral Med Oral Pathol Oral Radiol",
+  "published": "2026-11-08T06:04:26.199474+00:00",
+  "added": "2026-11-08T06:04:26.199474+00:00",
+  "category": "research",
+  "headline": "Parapharyngeal space involvement predicts reoperation in odontogenic infection patients",
+  "summary": "A single-center retrospective cohort study reviewed 1,173 hospitalized patients treated for odontogenic infections between January 2014 and April 2020. Of these, 38 needed reoperation for further surgical drainage, and the rest did not. Parapharyngeal space involvement was the strongest independent predictor of reoperation, while chronic renal failure, chronic respiratory disease, and buccal space 1 involvement were linked to it in univariable analysis, and admission C-reactive protein showed an association in a limited subset of patients.",
+  "why": "Patients with parapharyngeal spread, and possibly those with chronic renal or respiratory disease, may warrant closer monitoring for the possible need for repeat surgical drainage after admission for a dental infection."
  }
 ]
