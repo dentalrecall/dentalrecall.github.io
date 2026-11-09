@@ -5073,5 +5073,60 @@
   "headline": "Parapharyngeal space involvement predicts reoperation in odontogenic infection patients",
   "summary": "A single-center retrospective cohort study reviewed 1,173 hospitalized patients treated for odontogenic infections between January 2014 and April 2020. Of these, 38 needed reoperation for further surgical drainage, and the rest did not. Parapharyngeal space involvement was the strongest independent predictor of reoperation, while chronic renal failure, chronic respiratory disease, and buccal space 1 involvement were linked to it in univariable analysis, and admission C-reactive protein showed an association in a limited subset of patients.",
   "why": "Patients with parapharyngeal spread, and possibly those with chronic renal or respiratory disease, may warrant closer monitoring for the possible need for repeat surgical drainage after admission for a dental infection."
+ },
+ {
+  "id": "6d0ecbc3ba20",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43000100/",
+  "source": "J Dent",
+  "published": "2026-11-09T06:25:31.217286+00:00",
+  "added": "2026-11-09T06:25:31.217286+00:00",
+  "category": "research",
+  "headline": "Toothpastes partly restore microhardness of irradiated dentin in an in vitro study",
+  "summary": "An in vitro study compared five toothpastes on healthy human dentin and dentin exposed to head-and-neck radiotherapy (70 Gy). Radiotherapy lowered surface microhardness and gelatinolytic activity, and all five toothpastes partially restored microhardness, with distinct tubule obliteration patterns seen between conditions.",
+  "why": "Patients who have had head-and-neck radiation may benefit from active-ingredient toothpastes as a low-cost preventive measure against dentin breakdown, though these lab results do not establish clinical outcomes."
+ },
+ {
+  "id": "f4832b4c3ba3",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43000099/",
+  "source": "J Dent",
+  "published": "2026-11-09T06:25:31.217286+00:00",
+  "added": "2026-11-09T06:25:31.217286+00:00",
+  "category": "research",
+  "headline": "Dopamine-doped nanoparticles reduce root dentin permeability in ex vivo study",
+  "summary": "Researchers tested polymeric nanoparticles doped with dexamethasone, zinc, parathyroid hormone, tideglusib, or dopamine on radicular dentin after endodontic treatment, assessing fluid filtration, remineralization, and hardness at 24 hours and 6 months. Dopamine-doped nanoparticles produced the lowest micropermeability, with sealed dentinal tubules and extended mineral deposits, but gave only limited structural reinforcement. The authors note the work is ex vivo and lacks biological, cytocompatibility, and in vivo validation.",
+  "why": "This is laboratory evidence only; it suggests a possible future way to improve root canal sealing, but it does not yet change clinical endodontic practice."
+ },
+ {
+  "id": "1d52302f1729",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43000098/",
+  "source": "J Dent",
+  "published": "2026-11-09T06:25:31.217286+00:00",
+  "added": "2026-11-09T06:25:31.217286+00:00",
+  "category": "research",
+  "headline": "Scoping review maps 3D-printed porous and lattice dental implant research",
+  "summary": "This scoping review charted 139 English-language reports on additively manufactured porous or lattice dental implants and implant-supported prostheses, covering titanium, cobalt-chromium, zirconia and polymer materials. Most studies tested physical mechanical properties, while clinical outcome data came from 18 reports. The authors found that porous designs can change stiffness, mass and tissue interaction, but manufacturing deviations and mechanical trade-offs limit translation to practice.",
+  "why": "Current evidence supports the feasibility of porous printed implant designs and some clinical use, but it does not show that porosity itself produces better patient outcomes, so clinicians should not expect superior results from these designs yet."
+ },
+ {
+  "id": "21385993f265",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43000097/",
+  "source": "J Dent",
+  "published": "2026-11-09T06:25:31.217286+00:00",
+  "added": "2026-11-09T06:25:31.217286+00:00",
+  "category": "research",
+  "headline": "Dental procedures and trauma can temporarily skew pulp test results, review finds",
+  "summary": "A scoping review of 78 studies (from 2,679 records) examined how orthodontic, surgical, periodontal, traumatic, and restorative or aesthetic interventions affect sensibility and vitality pulp tests. It found these factors can transiently change test responses without pulp necrosis, often producing false-negative sensibility results. Cold testing was generally more reliable than electric pulp testing, while pulse oximetry and laser Doppler flowmetry measure blood flow more directly but are limited by cost and availability.",
+  "why": "Clinicians may avoid misdiagnosing pulp status and unnecessary root canal treatment by recognizing that recent procedures or trauma can cause temporary false-negative pulp test results and by choosing the more reliable test, with clinical and radiographic findings considered alongside."
+ },
+ {
+  "id": "63b59841b544",
+  "url": "https://orthodonticproductsonline.com/practice-management/business-development/referral-marketing-strategies-orthodontic-practice-growth/",
+  "source": "Orthodontic Products",
+  "published": "2026-11-09T05:36:57+00:00",
+  "added": "2026-11-09T06:25:31.217286+00:00",
+  "category": "business",
+  "headline": "Referral marketing as the first pillar toward a $3 million orthodontic practice",
+  "summary": "Orthodontist Roger P. Levin, DDS, argues that a practice following his \"Four Pillars of Orthodontic Success\" could grow toward $3 million in revenue. This article focuses on the first pillar, building referrals through referral marketing across patients, parents, referring doctors, social media and community. He notes that referrals help fill open chair time, and that production depends on both referral volume and start rate.",
+  "why": "For orthodontic practices, the piece frames referral volume and case start rate as the two levers of production, which matters for scheduling efficiency and revenue planning."
  }
 ]
