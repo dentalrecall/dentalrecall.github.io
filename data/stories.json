@@ -5199,5 +5199,16 @@
   "headline": "MassMutual South Carolina adds Bluewater Dental Advisors team in Charleston",
   "summary": "MassMutual South Carolina, a general agency based in Charleston, has brought on the Bluewater Dental Advisors team and its founders, Steven Huskey and Brandon Wilson. The advisory firm reportedly manages more than $73 million in client assets and serves dental practice owners nationwide.",
   "why": "Dental practice owners seeking financial planning may find a new advisory option focused on the dental sector, though the announcement itself is a firm-level personnel move with no direct clinical impact."
+ },
+ {
+  "id": "a9d13e434652",
+  "url": "https://orthodonticproductsonline.com/practice-products/software/imaging-software/tresd-dicom-browser-based-3d-scan-viewer-launch/",
+  "source": "Orthodontic Products",
+  "published": "2026-11-09T21:40:14+00:00",
+  "added": "2026-11-09T22:02:20.855027+00:00",
+  "category": "products",
+  "headline": "Free Browser-Based 3D Scan Viewer tresD DICOM Launches for Clinicians",
+  "summary": "An orthodontist at Clínica Áncora in Málaga, Spain, has released tresD DICOM, a free scan viewer that runs in a web browser with no sign-up or software install. Files are processed locally on the user's device rather than uploaded to a server, and the tool supports 3D rendering, airway heat maps, superimposition of scans, and files from several major imaging manufacturers. A companion free tool, tresD Models, opens intraoral scans in the browser.",
+  "why": "Dentists who review CBCT scans could view patient images from any computer without sending files off-site, but the developer states the tools are visualization and teaching aids, not FDA-cleared or CE-marked devices, and their measurements are indicative only."
  }
 ]
