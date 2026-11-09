@@ -5210,5 +5210,60 @@
   "headline": "Free Browser-Based 3D Scan Viewer tresD DICOM Launches for Clinicians",
   "summary": "An orthodontist at Clínica Áncora in Málaga, Spain, has released tresD DICOM, a free scan viewer that runs in a web browser with no sign-up or software install. Files are processed locally on the user's device rather than uploaded to a server, and the tool supports 3D rendering, airway heat maps, superimposition of scans, and files from several major imaging manufacturers. A companion free tool, tresD Models, opens intraoral scans in the browser.",
   "why": "Dentists who review CBCT scans could view patient images from any computer without sending files off-site, but the developer states the tools are visualization and teaching aids, not FDA-cleared or CE-marked devices, and their measurements are indicative only."
+ },
+ {
+  "id": "9355c01ca6b6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43002539/",
+  "source": "J Dent Educ",
+  "published": "2026-11-09T23:00:06.979908+00:00",
+  "added": "2026-11-09T23:00:06.979908+00:00",
+  "category": "research",
+  "headline": "Consensus report urges dental schools to add AI training and shorten paths to practice",
+  "summary": "A working group of eight academic and organization leaders met at the 2026 Reimagining Dental Education Summit at Harvard University to develop consensus recommendations on technology, AI, and practice readiness. Their recommendations include an AI and technology curriculum across all levels of dental education, a dedicated leadership role for AI integration, and pathways to shorten time to a dental degree. They also called for more external clinical experiences and additional postgraduate residency positions with incentives.",
+  "why": "Dental schools may change how they teach AI and clinical skills, and new graduates may arrive with different training, which could affect hiring and how practices onboard associates."
+ },
+ {
+  "id": "9226df05e185",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43002538/",
+  "source": "J Dent Educ",
+  "published": "2026-11-09T23:00:06.979908+00:00",
+  "added": "2026-11-09T23:00:06.979908+00:00",
+  "category": "research",
+  "headline": "Survey finds US dental schools use varied faculty calibration methods in prosthodontics",
+  "summary": "A cross-sectional survey of 27 US CODA-accredited dental programs examined how predoctoral prosthodontics and restorative faculty are standardized and calibrated. About 73% of respondents reported a formal process for standardizing teaching, and 69% reported one for calibrating faculty assessment, though methods varied widely. Among the 17 respondents who answered the perception question, all agreed these practices improve education quality and student outcomes.",
+  "why": "Dental educators and practices that train or supervise students may see that consistent faculty calibration is common but uneven, and that extramural site faculty inclusion and protected faculty time are areas needing attention."
+ },
+ {
+  "id": "485bdab3acc8",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43002537/",
+  "source": "J Dent Educ",
+  "published": "2026-11-09T23:00:06.979908+00:00",
+  "added": "2026-11-09T23:00:06.979908+00:00",
+  "category": "research",
+  "headline": "Dental communication assessment tools validated in Portuguese and English",
+  "summary": "Researchers adapted the Patient Communication Assessment Instrument (PCAI) and Student Communication Assessment Instrument (SCAI) into Brazilian Portuguese and tested them with students and patients in Brazil and Canada. Factor analyses found a consistent three-factor structure (Caring, Sharing, Comfort) in both languages, explaining 44.1% to 70.5% of the variance. Internal reliability was high across all domains, and the authors noted small cultural differences in factor composition.",
+  "why": "The findings support using these tools to measure therapeutic communication in dental education across cultures, and suggest communication training may benefit from adapting to diverse patient populations."
+ },
+ {
+  "id": "16e4c9bb07fd",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43002521/",
+  "source": "J Dent Educ",
+  "published": "2026-11-09T23:00:06.979908+00:00",
+  "added": "2026-11-09T23:00:06.979908+00:00",
+  "category": "research",
+  "headline": "FACE Forward program lifts dental students' interest in academic careers",
+  "summary": "A yearlong collaborative program between two universities used lectures, mentorship, professional development, and teaching experiences to introduce dental students to academic dentistry. Of 29 enrolled students, 24 completed it, and afterward 95% said they were somewhat or very interested in academic careers. Familiarity with academic career pathways rose from 20% before the program to 86% after, and scheduling conflicts with academic obligations were the main challenge.",
+  "why": "Early exposure to faculty careers may help build the pipeline for the national dental faculty shortage, and similar mentorship programs could be a way for practices and schools to encourage future educators."
+ },
+ {
+  "id": "11c87a34248c",
+  "url": "https://orthodonticproductsonline.com/treatment-products/accessories/eyewear/admetec-introduces-new-headlights-for-magnification-loupes/",
+  "source": "Orthodontic Products",
+  "published": "2026-11-09T22:02:34+00:00",
+  "added": "2026-11-09T23:00:06.979908+00:00",
+  "category": "products",
+  "headline": "Admetec Launches PLUS Family of Headlights for Magnification Loupes",
+  "summary": "Admetec has released the PLUS Family, a line of lightweight headlight attachments for high-magnification loupes, including the wireless Butterfly EVO+ and the wired Orchid+. The Butterfly EVO+ is listed at up to 140,000 lux, weighs 29 grams with its battery, and runs up to 4.5 hours, while the Orchid+ offers up to 200,000 lux with a tighter beam, weighs 11 grams, and has up to 25 hours of runtime from its wired battery unit. The company says the headlights address dim fields that can occur when higher magnification is used with ergonomic loupes.",
+  "why": "For dentists using magnification, these new headlights target the dimmer working field that often comes with ergonomic loupes, which may matter when considering lighting upgrades for loupe-based practice."
  }
 ]
