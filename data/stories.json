@@ -5265,5 +5265,38 @@
   "headline": "Admetec Launches PLUS Family of Headlights for Magnification Loupes",
   "summary": "Admetec has released the PLUS Family, a line of lightweight headlight attachments for high-magnification loupes, including the wireless Butterfly EVO+ and the wired Orchid+. The Butterfly EVO+ is listed at up to 140,000 lux, weighs 29 grams with its battery, and runs up to 4.5 hours, while the Orchid+ offers up to 200,000 lux with a tighter beam, weighs 11 grams, and has up to 25 hours of runtime from its wired battery unit. The company says the headlights address dim fields that can occur when higher magnification is used with ergonomic loupes.",
   "why": "For dentists using magnification, these new headlights target the dimmer working field that often comes with ergonomic loupes, which may matter when considering lighting upgrades for loupe-based practice."
+ },
+ {
+  "id": "fb49b9c97eb2",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42994503/",
+  "source": "J Oral Maxillofac Surg",
+  "published": "2026-11-10T05:12:51.585856+00:00",
+  "added": "2026-11-10T05:12:51.585856+00:00",
+  "category": "research",
+  "headline": "Meta-analysis ranks MMF screws above hybrid and Erich arch bars for jaw fracture fixation",
+  "summary": "A Bayesian network meta-analysis of 12 randomized controlled trials (624 subjects) compared Erich arch bars, hybrid arch bars, and maxillomandibular fixation screws for maxillofacial fractures. Hybrid arch bars significantly shortened operative time compared with Erich arch bars, and screws were associated with shorter operative time than hybrid bars, though that difference was not statistically significant. Screws also had the lowest overall complication rate, and rankings placed screws first, hybrid bars second, and Erich arch bars last.",
+  "why": ""
+ },
+ {
+  "id": "980ed0e6cbe1",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43003217/",
+  "source": "J Dent",
+  "published": "2026-11-10T05:12:51.585856+00:00",
+  "added": "2026-11-10T05:12:51.585856+00:00",
+  "category": "research",
+  "headline": "Whiter Isn't Always a Better Match: 12-Month Intracoronal Bleaching Reanalysis",
+  "summary": "A post hoc reanalysis of a clinical trial compared 35% hydrogen peroxide with 37% carbamide peroxide for intracoronal bleaching, using four weekly walking-bleach sessions and tracking color through 12 months. Hydrogen peroxide produced a greater color change (ΔE00) across post-baseline assessments, but whiteness index results did not differ significantly between the two agents. The maximum whiteness often did not coincide with the closest match to the patient's natural homologous tooth.",
+  "why": "Whitening amount alone may not indicate the best outcome, so clinicians may need to consider how closely a bleached tooth matches its natural neighbor and whether results stay stable over time."
+ },
+ {
+  "id": "7f3c626e0d3f",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43003216/",
+  "source": "J Dent",
+  "published": "2026-11-10T05:12:51.585856+00:00",
+  "added": "2026-11-10T05:12:51.585856+00:00",
+  "category": "research",
+  "headline": "Smoking linked to more gum inflammation, staining and poorer whiteness in SMILE study",
+  "summary": "Researchers compared oral health, tooth aesthetics and self-reported outcomes between 308 current smokers and 66 never smokers in the SMILE cohort. After adjusting for age, sex and nationality, current smoking was independently linked to greater gingival inflammation, extrinsic staining, reduced tooth whiteness, poorer oral hygiene and lower self-perceived general health. The authors say combining calibrated digital measurements with standard clinical indices offers a reproducible way to track changes after smoking cessation or substitution.",
+  "why": ""
  }
 ]
