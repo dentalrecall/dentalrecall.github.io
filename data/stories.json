@@ -5391,5 +5391,82 @@
   "headline": "Melatonin may help limit bone loss around immediate dental implants",
   "summary": "A randomised controlled clinical trial from Alexandria University tested melatonin applied locally around newly placed implants. The researchers examined whether it could preserve bone and affect biological processes involved in early osseointegration. The findings suggest its main potential benefit may be in limiting bone loss.",
   "why": "If confirmed, melatonin as a local adjunct could be a way to reduce early bone loss around immediate implants, though the excerpt alone does not establish clinical use."
+ },
+ {
+  "id": "a71e023d63c4",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43004549/",
+  "source": "Clin Oral Implants Res",
+  "published": "2026-11-10T17:10:54.085818+00:00",
+  "added": "2026-11-10T17:10:54.085818+00:00",
+  "category": "research",
+  "headline": "Flap release and membrane fixation interact to shape ridge augmentation in dogs",
+  "summary": "In a preclinical study, six male dogs received implants in chronic noncontained buccal defects augmented with particulate bone substitute and resorbable collagen membranes. Sites were split into four groups by flap approach (limited or extensive periosteal release) and whether the membrane was fixed, then assessed at 12 weeks by micro-CT and histomorphometry. The authors describe the study as exploratory, finding that the effect of flap management depended on membrane fixation, with some combinations producing greater augmented dimensions than extensive release without fixation.",
+  "why": ""
+ },
+ {
+  "id": "8fb573c3e83a",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43004133/",
+  "source": "Clin Oral Implants Res",
+  "published": "2026-11-10T17:10:54.085818+00:00",
+  "added": "2026-11-10T17:10:54.085818+00:00",
+  "category": "research",
+  "headline": "Custom scan bodies improve deep-learning smartphone scans of full-arch implants",
+  "summary": "An in vitro study compared four ways of digitising a maxillary edentulous model with six implant analogues: conventional open-tray impression, photogrammetry, and deep-learning reconstruction from smartphone video using either stock PEEK scan bodies or custom 3D-printed ones. Custom scan bodies were significantly more accurate than stock ones in the deep-learning method, while conventional impressions and photogrammetry showed the best trueness and photogrammetry the best precision. The authors describe the deep-learning approach as early stage but potentially viable for full-arch implant scanning.",
+  "why": "This suggests smartphone-based deep-learning scanning could eventually offer an alternative to conventional impressions for full-arch implant cases, though it is still experimental and conventional methods remained more accurate here."
+ },
+ {
+  "id": "043086c35085",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43006281/",
+  "source": "Int Endod J",
+  "published": "2026-11-10T17:10:54.085818+00:00",
+  "added": "2026-11-10T17:10:54.085818+00:00",
+  "category": "research",
+  "headline": "CDKN1A drives osteoblast cell death and bone loss in apical periodontitis",
+  "summary": "This study examined CDKN1A (p21) in apical periodontitis, using single-cell sequencing of human periapical lesions, Porphyromonas gingivalis-infected osteoblast cultures, and rat disease models. CDKN1A rose after P. gingivalis infection and promoted osteoblast apoptosis and pyroptosis while suppressing necroptosis and ferroptosis. In rats, overexpression worsened bone destruction, while knockdown reduced bone loss and restored osteogenic activity.",
+  "why": ""
+ },
+ {
+  "id": "55cf8aaccf7b",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43006251/",
+  "source": "Int Endod J",
+  "published": "2026-11-10T17:10:54.085818+00:00",
+  "added": "2026-11-10T17:10:54.085818+00:00",
+  "category": "research",
+  "headline": "Heat treatment shapes NiTi endodontic file performance despite identical design",
+  "summary": "Researchers compared 240 NiTi endodontic instruments with the same nominal design, split into four groups: three made with a single heat-treatment condition (GOLD, PURPLE, BLUE) and one with a Dual Wire configuration combining two heat treatments. Geometry, elemental composition and phase-transformation temperatures were broadly similar across groups, but mechanical tests showed differences. BLUE had the greatest cyclic fatigue resistance and flexibility but the lowest buckling resistance, while DUAL WIRE had greater cutting ability than BLUE.",
+  "why": "Instruments that look identical can behave differently in fatigue, flexibility, buckling and cutting depending on heat treatment, so clinicians should not assume a Dual Wire design offers a general mechanical advantage."
+ },
+ {
+  "id": "9acfe2bec194",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43006218/",
+  "source": "Int Endod J",
+  "published": "2026-11-10T17:10:54.085818+00:00",
+  "added": "2026-11-10T17:10:54.085818+00:00",
+  "category": "research",
+  "headline": "Mendelian randomisation review finds limited causal evidence linking endodontic disease to systemic health",
+  "summary": "This review explains how Mendelian randomisation can be used to test causal questions in endodontics and systematically identified 10 MR studies from 2023 to 2025. The only fairly consistent signal was a positive association between rheumatoid arthritis liability and endodontic outcomes, though it was biologically non-specific and not replicated. Other systemic exposures were mostly null, inconsistent or unreplicated, and evidence that endodontic disease causes systemic outcomes was limited to isolated findings, including one lacunar-stroke analysis.",
+  "why": "Associations between endodontic disease and general health should not yet be treated as established cause-and-effect, so clinicians should avoid presenting such links to patients as proven."
+ },
+ {
+  "id": "23e21928befc",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43004723/",
+  "source": "J Prosthodont",
+  "published": "2026-11-10T17:10:54.085818+00:00",
+  "added": "2026-11-10T17:10:54.085818+00:00",
+  "category": "research",
+  "headline": "Cleaning methods affect staining and surface properties of 3D-printed denture base resins",
+  "summary": "An in vitro study compared a heat-polymerized denture base resin with an extrinsically characterized 3D-printed resin after staining in coffee, tea, wine, or tobacco solutions, followed by chemical or mechanical cleaning. The heat-polymerized resin showed greater color change, while the 3D-printed resin showed greater surface changes. Whitening tablets gave the best color recovery, Efferdent best preserved surface smoothness, and biofilm formation varied among conditions.",
+  "why": "Dentists fabricating or relining dentures may need to weigh how denture cleaning products affect stain removal, surface smoothness, and biofilm control, especially for 3D-printed bases."
+ },
+ {
+  "id": "ef85c95bcf68",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43004707/",
+  "source": "J Prosthodont",
+  "published": "2026-11-10T17:10:54.085818+00:00",
+  "added": "2026-11-10T17:10:54.085818+00:00",
+  "category": "research",
+  "headline": "Custom-made ocular prostheses outperform prefabricated ones in motility and satisfaction",
+  "summary": "A randomized controlled trial of 40 patients with a unilateral ocular defect compared prefabricated and custom-made ocular prostheses, in patients with atrophia bulbi or implanted anophthalmic sockets. Motility was the primary outcome, and satisfaction was measured at insertion and again three months later. Motility differed significantly across the four groups at both time points, with patients with atrophia bulbi reporting higher overall motility and satisfaction than those with implanted sockets.",
+  "why": "For clinicians who fit ocular prostheses, the findings suggest custom-made prostheses and atrophia bulbi cases are associated with better movement and patient satisfaction, which can inform treatment planning and patient expectations."
  }
 ]
