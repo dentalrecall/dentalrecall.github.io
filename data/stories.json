@@ -5468,5 +5468,38 @@
   "headline": "Custom-made ocular prostheses outperform prefabricated ones in motility and satisfaction",
   "summary": "A randomized controlled trial of 40 patients with a unilateral ocular defect compared prefabricated and custom-made ocular prostheses, in patients with atrophia bulbi or implanted anophthalmic sockets. Motility was the primary outcome, and satisfaction was measured at insertion and again three months later. Motility differed significantly across the four groups at both time points, with patients with atrophia bulbi reporting higher overall motility and satisfaction than those with implanted sockets.",
   "why": "For clinicians who fit ocular prostheses, the findings suggest custom-made prostheses and atrophia bulbi cases are associated with better movement and patient satisfaction, which can inform treatment planning and patient expectations."
+ },
+ {
+  "id": "0a9d2adcf007",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43008849/",
+  "source": "J Endod",
+  "published": "2026-11-11T05:21:33.441713+00:00",
+  "added": "2026-11-11T05:21:33.441713+00:00",
+  "category": "research",
+  "headline": "Cemental tear found in 0.37% of CBCT exams in retrospective Brazilian study",
+  "summary": "A retrospective study of CBCT scans from 2022 to 2025 looked for cemental tear, a root surface defect, and checked about 30,865 examinations. Cemental tear was confirmed in 114 patients involving 123 teeth, an overall prevalence of 0.37%, with most cases in older adults (mean age 63.2 years). Maxillary central incisors and the middle root third were the most commonly affected sites, and root third was significantly linked to alveolar bone loss and tooth group.",
+  "why": ""
+ },
+ {
+  "id": "a7fbb3b1be54",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43008848/",
+  "source": "J Endod",
+  "published": "2026-11-11T05:21:33.441713+00:00",
+  "added": "2026-11-11T05:21:33.441713+00:00",
+  "category": "research",
+  "headline": "Pre-treatment diode laser may let dentists use less articaine for endodontic anesthesia",
+  "summary": "A randomized clinical trial of 60 patients with symptomatic irreversible pulpitis in mandibular posterior teeth compared 1.8 mL of 4% articaine with epinephrine against 0.9 mL of articaine preceded by high-power diode laser irradiation at the puncture site. The laser group reported 100% anesthetic success with no supplemental anesthesia, versus 76.7% in the control group, and lower pain scores during puncture, access and instrumentation. The authors conclude the laser approach halves the required anesthetic volume while maintaining efficacy.",
+  "why": "If replicated, pre-injection laser irradiation could offer a way to reduce anesthetic volume and improve comfort during root canal treatment of inflamed mandibular molars, though this is a single trial with a modest sample."
+ },
+ {
+  "id": "ab5dbb182bbb",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43009393/",
+  "source": "Dent Mater",
+  "published": "2026-11-11T05:21:33.441713+00:00",
+  "added": "2026-11-11T05:21:33.441713+00:00",
+  "category": "research",
+  "headline": "Zinc-based MOF filler added to resin infiltrant shows antibacterial effects in lab study",
+  "summary": "Researchers tested an experimental resin infiltrant modified with a zinc-based metal-organic framework (IRMOF-3) that was post-modified with glycidyl methacrylate to improve dispersion. Adding 5% of this filler reduced biofilm formation and improved resistance to demineralization for both L. casei and S. mutans, while the penetration coefficient stayed unchanged and the degree of conversion increased. The authors describe the filler as a promising antibacterial additive for helping arrest and manage caries.",
+  "why": ""
  }
 ]
