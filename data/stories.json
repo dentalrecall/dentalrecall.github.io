@@ -5534,5 +5534,27 @@
   "headline": "UIC researcher studies protein DPP for possible dentin self-repair",
   "summary": "Prof. Anne George of the University of Illinois Chicago has received a grant to study dentine phosphophoryn (DPP), a protein involved in dentin mineralisation. The work builds on her team's recent findings and will examine how DPP may protect dental pulp stem cells and support their development into odontoblasts.",
   "why": "If DPP proves useful, it could eventually inform approaches that help damaged teeth repair themselves, though this project is at an early research stage with no clinical application yet."
+ },
+ {
+  "id": "bbac3dcc62dd",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43012386/",
+  "source": "J Dent Res",
+  "published": "2026-11-11T17:17:55.188707+00:00",
+  "added": "2026-11-11T17:17:55.188707+00:00",
+  "category": "research",
+  "headline": "BMPR1A in periodontal ligament stem cells helps maintain periodontal bone balance",
+  "summary": "A mouse study found that removing the BMP receptor BMPR1A from Gli1+ periodontal ligament stem cells caused periodontal breakdown, including alveolar bone loss, cementum defects, and disorganized collagen fibers. The loss of BMPR1A both weakened the stem cells' bone-forming ability and increased osteoclast formation, with conditioned medium from BMPR1A-deficient human cells boosting osteoclast differentiation through a higher RANKL/OPG ratio.",
+  "why": "This suggests BMP signaling in periodontal ligament stem cells is a regulator of bone turnover around teeth, a basic mechanism that may matter for future periodontal therapies, though it is preclinical work in mice and cells."
+ },
+ {
+  "id": "8c7fdf668454",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43012168/",
+  "source": "Int Endod J",
+  "published": "2026-11-11T17:17:55.188707+00:00",
+  "added": "2026-11-11T17:17:55.188707+00:00",
+  "category": "research",
+  "headline": "Delphi study yields 24 consensus recommendations for deep caries and vital pulp treatment",
+  "summary": "A national modified Delphi study with 22 completing experts developed consensus recommendations for general dentists on deep and extremely deep carious lesions in permanent teeth. Starting from 29 statements, the panel reached agreement on 24 final statements, with the last three settled after an online meeting and re-rating. The output includes a clinical decision-support pathway covering pulpal assessment, selective caries removal, management by root maturity, vital pulp treatment, asepsis, biomaterials, restoration and follow-up.",
+  "why": "It offers a structured, expert-agreed framework for managing deep caries and pulp-preserving care, though the authors note its feasibility and clinical outcomes still need external evaluation before wide adoption."
  }
 ]
