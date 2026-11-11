@@ -5523,5 +5523,16 @@
   "headline": "Study compares smartphones and DSLR cameras for clinical dental photography",
   "summary": "Researchers in Chengdu, China, compared smartphones with digital single-lens reflex (DSLR) cameras for clinical dental photography. Earlier work had looked at individual aspects of performance rather than colour accuracy, dimensional accuracy and image quality together. The team used a standardised workflow with colour calibration and controlled magnification.",
   "why": "The results may help dentists decide which device to use for clinical photos, which affects documentation quality and equipment choices for the practice."
+ },
+ {
+  "id": "e6fa920669bb",
+  "url": "https://www.dental-tribune.com/news/us-researchers-investigate-proteins-potential-for-dentin-regeneration/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-11-11T09:26:31+00:00",
+  "added": "2026-11-11T15:09:22.974670+00:00",
+  "category": "research",
+  "headline": "UIC researcher studies protein DPP for possible dentin self-repair",
+  "summary": "Prof. Anne George of the University of Illinois Chicago has received a grant to study dentine phosphophoryn (DPP), a protein involved in dentin mineralisation. The work builds on her team's recent findings and will examine how DPP may protect dental pulp stem cells and support their development into odontoblasts.",
+  "why": "If DPP proves useful, it could eventually inform approaches that help damaged teeth repair themselves, though this project is at an early research stage with no clinical application yet."
  }
 ]
