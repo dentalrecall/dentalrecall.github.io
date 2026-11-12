@@ -5556,5 +5556,82 @@
   "headline": "Delphi study yields 24 consensus recommendations for deep caries and vital pulp treatment",
   "summary": "A national modified Delphi study with 22 completing experts developed consensus recommendations for general dentists on deep and extremely deep carious lesions in permanent teeth. Starting from 29 statements, the panel reached agreement on 24 final statements, with the last three settled after an online meeting and re-rating. The output includes a clinical decision-support pathway covering pulpal assessment, selective caries removal, management by root maturity, vital pulp treatment, asepsis, biomaterials, restoration and follow-up.",
   "why": "It offers a structured, expert-agreed framework for managing deep caries and pulp-preserving care, though the authors note its feasibility and clinical outcomes still need external evaluation before wide adoption."
+ },
+ {
+  "id": "9a0701f5f9e8",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43015157/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-12T05:23:51.937861+00:00",
+  "added": "2026-11-12T05:23:51.937861+00:00",
+  "category": "research",
+  "headline": "Study examines how many arthrocentesis sessions with hyaluronic acid are needed for TMJ osteoarthritis",
+  "summary": "A retrospective study of 101 adults with temporomandibular joint osteoarthritis, who had not responded to at least 6 months of conservative care, received five weekly arthrocentesis sessions with hyaluronic acid injections. Pain, chewing efficacy, functional limitation, and mouth opening were tracked before each session and at 3-month follow-up. All measures improved overall, and the session-by-session analysis suggested that some improvements appeared after fewer than five sessions, leading the authors to call for more individualized protocols with fewer interventions.",
+  "why": "For dentists treating TMJ osteoarthritis with injections, this suggests the standard five-session course may not be necessary for every patient, which could reduce chair time and treatment burden, though the study is retrospective and observational."
+ },
+ {
+  "id": "404f3279c883",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43015156/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-12T05:23:51.937861+00:00",
+  "added": "2026-11-12T05:23:51.937861+00:00",
+  "category": "research",
+  "headline": "Cerebrospinal fluid leak during infratemporal fossa clearance for buccal carcinoma",
+  "summary": "A case report describes an intraoperative cerebrospinal fluid leak during compartmental infratemporal fossa resection, performed as en-bloc removal of a buccal mucosa carcinoma with the fossa's contents. The authors say this complication has not been documented before, and they supported their observations with a cadaveric correlation. The report also discusses management of such leaks and intraoperative considerations in this region.",
+  "why": "Surgeons and oral oncology teams treating advanced buccal cancers with deep infratemporal fossa involvement should be aware that dural or CSF leakage is a possible intraoperative risk of this approach."
+ },
+ {
+  "id": "4d7323f38512",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43015155/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-12T05:23:51.937861+00:00",
+  "added": "2026-11-12T05:23:51.937861+00:00",
+  "category": "research",
+  "headline": "Proposed three-type classification guides surgery for temporomandibular joint CPPD disease",
+  "summary": "A single-center case series of 10 surgically treated patients proposed sorting temporomandibular joint calcium pyrophosphate deposition disease into three types by lesion location and extent. Treatment was complete excision with reconstruction using autologous tissue or alloplastic materials. Mouth opening and pain improved at a mean follow-up of 25.1 months, with no recurrence reported.",
+  "why": "For clinicians who see TMJ pain or restricted opening, this offers a possible framework for categorizing CPPD cases, though the small sample of 10 patients limits how far the outcomes can be generalized."
+ },
+ {
+  "id": "60124815af44",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43015207/",
+  "source": "J Prosthet Dent",
+  "published": "2026-11-12T05:23:51.937861+00:00",
+  "added": "2026-11-12T05:23:51.937861+00:00",
+  "category": "research",
+  "headline": "OT bridge shows more screw loosening than multi-unit angled abutments at molar implants",
+  "summary": "An in vitro study compared screw loosening in 3-unit implant-supported partial dentures using an OT bridge abutment versus a multi-unit angled abutment on a tilted implant in a mandibular model. Screw stability at the premolar site was similar between the two systems, but the OT bridge showed significantly greater screw loosening and retentive torque loss at the second molar site. Cyclic loading did not significantly cause loosening within either group.",
+  "why": "When an implant must be tilted at the molar region, the choice of abutment system may affect screw stability, so clinicians may want to monitor these high-stress sites closely."
+ },
+ {
+  "id": "b1ba71931971",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43014475/",
+  "source": "J Dent",
+  "published": "2026-11-12T05:23:51.937861+00:00",
+  "added": "2026-11-12T05:23:51.937861+00:00",
+  "category": "research",
+  "headline": "Quercetin and bioactive glass toothpaste reduces dentin erosive-abrasive wear in vitro",
+  "summary": "An in vitro study tested experimental fluoride toothpastes containing quercetin and bioactive glass against erosion-abrasion on enamel and dentin over a 7-day cycling protocol. The toothpastes were stable, alkaline, and biocompatible with gingival fibroblasts. The formulation with 0.075 wt% quercetin and 4 wt% bioactive glass best reduced dentin lesion depth and preserved the demineralized organic matrix, while enamel protection was comparable to the fluoride base and commercial controls.",
+  "why": "This suggests a fluoride toothpaste with quercetin and bioactive glass could be a future adjunct for dentin erosive wear, though the findings are laboratory-based and not yet tested clinically."
+ },
+ {
+  "id": "6372d24bbf02",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43014474/",
+  "source": "J Dent",
+  "published": "2026-11-12T05:23:51.937861+00:00",
+  "added": "2026-11-12T05:23:51.937861+00:00",
+  "category": "research",
+  "headline": "Long-term crestal bone levels stable around implants restored by digital or conventional workflows",
+  "summary": "This retrospective follow-up of 65 microthreaded, platform-switched implants in 38 patients, observed for roughly 5 to 11.6 years, compared peri-implant crestal bone levels across restorative workflows. Of 128 evaluable implant surfaces, 87.5% showed either radiographic improvement or stable bone, and results were similar for digital and conventional impressions. The authors did not run statistical comparisons and describe the links to abutment type and splinting as exploratory.",
+  "why": "Suggests that digital impressions did not compromise long-term bone levels around implants in this small cohort, though the study cannot prove equivalence or isolate the effect of individual restorative choices."
+ },
+ {
+  "id": "eb47613cb798",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43014473/",
+  "source": "J Dent",
+  "published": "2026-11-12T05:23:51.937861+00:00",
+  "added": "2026-11-12T05:23:51.937861+00:00",
+  "category": "research",
+  "headline": "Review examines ambient AI for dental clinical documentation and its limited evidence base",
+  "summary": "This narrative review looks at ambient AI, which passively captures clinician-patient conversations and generates structured records, as a way to reduce documentation workload in dentistry. The authors drew mainly on broader healthcare studies and a small number of dental studies of AI-assisted speech recognition. They found no published studies that specifically evaluated fully ambient AI documentation systems in routine dental practice.",
+  "why": "Ambient AI may eventually ease charting burden and improve workflow, but its benefits for dental practice remain unproven and should not drive adoption until dental-specific clinical validation is available."
  }
 ]
