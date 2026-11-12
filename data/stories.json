@@ -5633,5 +5633,16 @@
   "headline": "Review examines ambient AI for dental clinical documentation and its limited evidence base",
   "summary": "This narrative review looks at ambient AI, which passively captures clinician-patient conversations and generates structured records, as a way to reduce documentation workload in dentistry. The authors drew mainly on broader healthcare studies and a small number of dental studies of AI-assisted speech recognition. They found no published studies that specifically evaluated fully ambient AI documentation systems in routine dental practice.",
   "why": "Ambient AI may eventually ease charting burden and improve workflow, but its benefits for dental practice remain unproven and should not drive adoption until dental-specific clinical validation is available."
+ },
+ {
+  "id": "c08ba6de915f",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43015966/",
+  "source": "J Periodontol",
+  "published": "2026-11-12T11:19:32.319539+00:00",
+  "added": "2026-11-12T11:19:32.319539+00:00",
+  "category": "research",
+  "headline": "Enamel matrix derivative in extraction sockets boosts early soft tissue healing",
+  "summary": "A randomized human study of 20 single-rooted tooth extractions compared sockets filled with a collagen hemostat alone against sockets filled with the same hemostat embedded with enamel matrix derivative (EMD). After 4 weeks, tissue samples taken at implant placement showed thicker epithelium and lamina propria, more blood vessel area, and higher VEGF immunostaining in the EMD group.",
+  "why": "Adding EMD to an extraction socket may speed early gum healing by promoting blood vessel formation, though this small study only examined early-stage healing at 4 weeks and does not show clinical outcomes."
  }
 ]
