@@ -5781,5 +5781,49 @@
   "headline": "ADA to Host Live Webinar on Infection Control and OSHA Requirements",
   "summary": "The American Dental Association will hold a live continuing education webinar on December 3, running from 5 to 8 pm CST. Titled \"Infection Control and OSHA: What Every Team Member Must Know and Do,\" it will review OSHA bloodborne pathogens rules, CDC recommendations for dental settings, and guidance from other professional groups. Topics include sterilization, instrument reprocessing, waterline management, environmental cleaning, personal protective equipment, and administrative controls.",
   "why": "The course offers three CE credits for dental teams seeking to meet compliance standards and reduce risks to patients and staff, though it falls outside the standard ADA CE subscription; a 10% early registration discount runs through November 18."
+ },
+ {
+  "id": "f3109019a95b",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43020721/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-13T05:22:02.095067+00:00",
+  "added": "2026-11-13T05:22:02.095067+00:00",
+  "category": "research",
+  "headline": "Free flaps for osteoradionecrosis show 10% failure and 6% recurrence in meta-analysis",
+  "summary": "A systematic review and meta-analysis of 30 studies (851 patients, 896 microvascular free flap reconstructions) assessed flap surgery for osteoradionecrosis of the head and neck. The pooled flap failure rate was 10% and the pooled ORN recurrence rate was 6%, with a mean follow-up of 35.8 months. The authors judged the certainty of evidence to be very low because the included evidence was mostly retrospective and heterogeneous.",
+  "why": "Microvascular free flaps remain a useful option for jaw osteoradionecrosis that improves function, but flap survival is more variable than in general head and neck reconstruction, so case selection and counseling should reflect that uncertainty."
+ },
+ {
+  "id": "d3e23bddf9c0",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43020733/",
+  "source": "Dent Mater",
+  "published": "2026-11-13T05:22:02.095067+00:00",
+  "added": "2026-11-13T05:22:02.095067+00:00",
+  "category": "research",
+  "headline": "Light beam profile and photoinitiator choice drive uneven cure in experimental composites",
+  "summary": "This lab study tested experimental filled resin composites with different photoinitiators (CQ, TPO, or both, at varying concentrations) cured by two LED light-curing units using homogenising and non-homogenising tips. The researchers mapped light transmission, temperature and degree of conversion across the specimens, both after curing and in real time. Cure was uneven, with peripheral conversion lower than central conversion in nearly all combinations, and the unevenness was reduced only in materials with combined photoinitiators cured using homogenous beam profiles.",
+  "why": "Central measurements of light transmission, temperature and cure may miss local under-curing at the edges of large restorations, so matching the light unit's output to the photoinitiator system and using even beam profiles may matter for restoration longevity."
+ },
+ {
+  "id": "2e93d43a76e2",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43020734/",
+  "source": "Dent Mater",
+  "published": "2026-11-13T05:22:02.095067+00:00",
+  "added": "2026-11-13T05:22:02.095067+00:00",
+  "category": "research",
+  "headline": "Non-isothermal sintering boosts zirconia strength and shortens processing time",
+  "summary": "Researchers compared conventional sintering, which holds zirconia at temperature for two hours, with a non-isothermal protocol that has no hold time, across three yttria-stabilized zirconia compositions. The non-isothermal method at higher temperatures reached densification similar to conventional sintering, produced more tetragonal phase and smaller grains, and significantly increased flexural strength. Translucency was unchanged for 3YSZ but lower for 4YSZ and 5YSZ.",
+  "why": "Dropping the dwell time could let labs produce stronger zirconia restorations faster, though 4YSZ and 5YSZ lose some translucency, so shade-critical cases may still call for the conventional approach."
+ },
+ {
+  "id": "138219b72cf6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43020454/",
+  "source": "J Dent",
+  "published": "2026-11-13T05:22:02.095067+00:00",
+  "added": "2026-11-13T05:22:02.095067+00:00",
+  "category": "research",
+  "headline": "Bulk-fill and incremental placement perform similarly in Class II thermoviscous composite restorations at 2 years",
+  "summary": "A randomized split-mouth trial compared incremental and bulk-fill placement of thermoviscous resin composites in paired Class II restorations in 30 patients. After 2 years, 25 patients (50 restorations) were recalled, and no statistically significant differences were found between techniques on any measured parameter. Minor fractures in two restorations per group were repaired, and overall success was 95.9% for both techniques.",
+  "why": "This suggests bulk-fill placement with thermoviscous composites can be a viable alternative to incremental placement in Class II restorations, though the 2-year results come from a small sample with dropout."
  }
 ]
