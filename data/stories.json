@@ -5957,5 +5957,16 @@
   "headline": "Flex Dental Redesigns FlexVerification Insurance Checks for Open Dental Users",
   "summary": "Flex Dental Solutions has introduced a redesigned FlexVerification tool for Open Dental that automates eligibility and benefits checks. Its new VerifySync review step lets front desk staff compare insurance portal responses with existing Open Dental data and choose which fields to update. The release also adds connection alerts for portal login problems and a single queue showing each patient's review status.",
   "why": "Front desk staff can automate insurance checks while keeping control over what changes in patient records, which may help offices prepare for the January benefit resets."
+ },
+ {
+  "id": "e3270d519742",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43023956/",
+  "source": "J Am Dent Assoc",
+  "published": "2026-11-13T17:14:30.146102+00:00",
+  "added": "2026-11-13T17:14:30.146102+00:00",
+  "category": "research",
+  "headline": "Patients favor CBCT over periapical radiography in endodontic assessment",
+  "summary": "A cross-sectional study of 117 patients referred for endodontic assessment compared cone-beam CT with periapical radiography and surveyed their perceptions and radiation knowledge. Most patients rated CBCT as more useful than periapical radiographs and reported greater confidence in their treatment plans and trust in clinicians. Baseline knowledge of ionizing radiation was limited, with 59% rating their understanding as poor or very poor.",
+  "why": "Patients in this study valued CBCT's diagnostic benefits over its radiation risks and would accept it for future care, but clinicians should explain both the advantages and radiation risks during consent."
  }
 ]
