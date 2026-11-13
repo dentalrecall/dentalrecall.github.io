@@ -5825,5 +5825,27 @@
   "headline": "Bulk-fill and incremental placement perform similarly in Class II thermoviscous composite restorations at 2 years",
   "summary": "A randomized split-mouth trial compared incremental and bulk-fill placement of thermoviscous resin composites in paired Class II restorations in 30 patients. After 2 years, 25 patients (50 restorations) were recalled, and no statistically significant differences were found between techniques on any measured parameter. Minor fractures in two restorations per group were repaired, and overall success was 95.9% for both techniques.",
   "why": "This suggests bulk-fill placement with thermoviscous composites can be a viable alternative to incremental placement in Class II restorations, though the 2-year results come from a small sample with dropout."
+ },
+ {
+  "id": "5c24ef8b4f47",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43021680/",
+  "source": "J Clin Periodontol",
+  "published": "2026-11-13T11:15:20.744104+00:00",
+  "added": "2026-11-13T11:15:20.744104+00:00",
+  "category": "research",
+  "headline": "Neutrophil extracellular traps linked to peri-implant bone loss in rat model",
+  "summary": "Researchers examined clinical peri-implantitis specimens and a rat model to test whether neutrophil extracellular traps (NETs) drive peri-implant bone loss. NET-related markers were higher in diseased specimens and tracked with inflammatory cytokines, and local DNase I treatment reduced bone resorption and inflammation in rats. The study also identified pro-inflammatory macrophages as an upstream population that promoted NET formation via a MIF-CD74-p38 MAPK pathway.",
+  "why": "This points to NET formation as a possible contributor to inflammatory bone loss around implants and to macrophage-neutrophil signalling as a future immunomodulatory target, though the evidence so far comes from animal and in vitro work."
+ },
+ {
+  "id": "cc43ccc5ae9b",
+  "url": "https://www.dental-tribune.com/news/expanding-ai-capabilities-exocad-announces-dentalcad-3-3-chemnitz-service-release-2/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-11-13T09:04:29+00:00",
+  "added": "2026-11-13T11:15:20.744104+00:00",
+  "category": "products",
+  "headline": "exocad releases DentalCAD 3.3 Chemnitz service release 2 with expanded AI features",
+  "summary": "Exocad, an Align Technology company, has released DentalCAD 3.3 Chemnitz service release 2, which adds to the software's artificial intelligence capabilities. A main addition is batch submission for AI Design, its AI-powered crown design service, letting users send several cases at once directly from the DentalDB case management interface.",
+  "why": ""
  }
 ]
