@@ -5990,5 +5990,60 @@
   "headline": "Acid reflux far more common in infants with Pierre Robin sequence than isolated cleft palate",
   "summary": "A retrospective cohort study of 118 children who had preoperative 24-hour pH monitoring between 1988 and 2017 found gastroesophageal reflux disease in 61.3% of those with Pierre Robin sequence, compared with 16.1% of those with isolated cleft palate. Reflux was defined as a reflux index above 10%. The authors concluded that children with Pierre Robin sequence should receive systematic gastroenterological evaluation.",
   "why": "Dentists and specialists treating children with cleft or Pierre Robin sequence may see feeding difficulties linked to reflux, supporting coordination with gastroenterology before and around surgery."
+ },
+ {
+  "id": "75617964884b",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43026049/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-14T07:26:13.448452+00:00",
+  "added": "2026-11-14T07:26:13.448452+00:00",
+  "category": "research",
+  "headline": "Intraosseous lipoma of the mandibular condyle causing progressive jaw deviation: case report",
+  "summary": "A case report describes a 55-year-old woman with a 10-year history of worsening mandibular deviation caused by an intraosseous lipoma of the right condyle. The lesion appeared as a well-defined swelling with a thinned cortex and no soft-tissue invasion, and was completely excised through a hemicoronal approach. Histology confirmed mature fat within bone, and the deviation and occlusion were corrected with no recurrence at 6 months.",
+  "why": "Condylar intraosseous lipoma is extremely rare, and this report shows that such a lesion can present as slowly progressive jaw deviation and that histopathology is needed for diagnosis, which is useful when evaluating long-standing condylar swelling or asymmetry."
+ },
+ {
+  "id": "4603406ea1e0",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43026148/",
+  "source": "Clin Implant Dent Relat Res",
+  "published": "2026-11-14T07:26:13.448452+00:00",
+  "added": "2026-11-14T07:26:13.448452+00:00",
+  "category": "research",
+  "headline": "Cantilevers Raise Bone Loss and Stress in Mandibular Implant-Supported Prostheses",
+  "summary": "A study combined a retrospective clinical review of 17 patients with finite element analysis of 32 simulated mandibular models to compare fixed implant-supported prostheses with and without cantilevers. Both clinical groups had high 3-year implant survival, but the cantilever group had significantly greater marginal bone loss. Simulations found distal cantilevers increased peri-implant stress and strain, and zirconia frameworks reduced stress more than polymethyl methacrylate.",
+  "why": "For edentulous mandible cases, avoiding long distal cantilevers may limit marginal bone loss, and a six-implant design with a short cantilever may be a better option than a highly tilted four-implant setup when posterior bone is deficient."
+ },
+ {
+  "id": "12de9270e307",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43026138/",
+  "source": "Dent Mater",
+  "published": "2026-11-14T07:26:13.448452+00:00",
+  "added": "2026-11-14T07:26:13.448452+00:00",
+  "category": "research",
+  "headline": "Surface layer affects remineralization of artificial enamel caries by three agents",
+  "summary": "Researchers induced artificial caries in 80 extracted human premolars using a lactic acid buffer, creating lesions of 48 or 72 hours, and then treated them with a rosin-based fluoride varnish, a water-based fluoride agent, a self-assembling peptide agent, or artificial saliva as a control before 12 pH-cycles. Micro-CT and OCT were used to measure demineralization depth, reflectivity, lesion depth and mineral gain. The 72-hour lesions had a distinct surface layer while the 48-hour lesions did not, and the surface layer significantly affected outcomes for the peptide agent and rosin-based fluoride but not the water-based fluoride.",
+  "why": "Whether early white spot lesions have a surface layer may influence how well a remineralizing agent works, so the choice of product could depend on lesion characteristics, though this is an in vitro study on extracted teeth."
+ },
+ {
+  "id": "fcc43a63fea0",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43025747/",
+  "source": "J Dent",
+  "published": "2026-11-14T07:26:13.448452+00:00",
+  "added": "2026-11-14T07:26:13.448452+00:00",
+  "category": "research",
+  "headline": "Barriers to fluoride caries prevention in German nursing homes identified in qualitative study",
+  "summary": "A qualitative study based on the Theoretical Domains Framework interviewed nursing staff, residents and dentists from five nursing homes in Krefeld, Germany, about implementing fluoride-based caries prevention. Participants reported barriers such as limited fluoride-specific knowledge and training, uncertainty about application and dosage, unclear responsibilities, unreliable product supply, uncertain financing, weak dental-nursing communication, and little fluoride-specific documentation. Fluoride products were often used only as part of general oral care rather than as planned, monitored preventive measures.",
+  "why": "It suggests that dentists working with nursing homes may need to offer fluoride-specific guidance, clarify who does what, and coordinate closely with care staff to make preventive fluoride routine for residents."
+ },
+ {
+  "id": "5288c06506d9",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43025745/",
+  "source": "J Dent",
+  "published": "2026-11-14T07:26:13.448452+00:00",
+  "added": "2026-11-14T07:26:13.448452+00:00",
+  "category": "research",
+  "headline": "Intraoral scanners show moderate accuracy for detecting caries in systematic review",
+  "summary": "A systematic review and meta-analysis of 22 studies pooled diagnostic results for intraoral scanner-assisted caries detection and compared them with conventional methods. Sensitivity was moderate overall and higher for occlusal than approximal surfaces, while specificity was higher in clinical studies. No statistically significant differences were found between intraoral scanners and conventional methods.",
+  "why": "Intraoral scanners may help monitor early caries lesions and could reduce radiation exposure, but their limited sensitivity means they cannot replace conventional diagnosis or serve as a reliable standalone screening tool."
  }
 ]
