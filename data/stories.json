@@ -5979,5 +5979,16 @@
   "headline": "Human Review Essential When Orthodontic Practices Use AI for Patient Messages",
   "summary": "An opinion piece argues that AI can speed up orthodontic consultation summaries, insurance claim narratives, and follow-up messages, but needs careful human review. Unchecked AI drafts may leave out important conditions, invent treatment details, or promise outcomes the orthodontist never approved. The author outlines five tips for using AI safely, starting with three routine documentation workflows.",
   "why": "Practices adopting AI for patient communications and billing should assign a named clinical or billing reviewer to check every draft, since errors can cause reimbursement problems and damage credibility."
+ },
+ {
+  "id": "3681266e99f4",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43009419/",
+  "source": "Br J Oral Maxillofac Surg",
+  "published": "2026-11-14T05:11:31.567194+00:00",
+  "added": "2026-11-14T05:11:31.567194+00:00",
+  "category": "research",
+  "headline": "Acid reflux far more common in infants with Pierre Robin sequence than isolated cleft palate",
+  "summary": "A retrospective cohort study of 118 children who had preoperative 24-hour pH monitoring between 1988 and 2017 found gastroesophageal reflux disease in 61.3% of those with Pierre Robin sequence, compared with 16.1% of those with isolated cleft palate. Reflux was defined as a reflux index above 10%. The authors concluded that children with Pierre Robin sequence should receive systematic gastroenterological evaluation.",
+  "why": "Dentists and specialists treating children with cleft or Pierre Robin sequence may see feeding difficulties linked to reflux, supporting coordination with gastroenterology before and around surgery."
  }
 ]
