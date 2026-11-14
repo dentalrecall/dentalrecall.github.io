@@ -6045,5 +6045,93 @@
   "headline": "Intraoral scanners show moderate accuracy for detecting caries in systematic review",
   "summary": "A systematic review and meta-analysis of 22 studies pooled diagnostic results for intraoral scanner-assisted caries detection and compared them with conventional methods. Sensitivity was moderate overall and higher for occlusal than approximal surfaces, while specificity was higher in clinical studies. No statistically significant differences were found between intraoral scanners and conventional methods.",
   "why": "Intraoral scanners may help monitor early caries lesions and could reduce radiation exposure, but their limited sensitivity means they cannot replace conventional diagnosis or serve as a reliable standalone screening tool."
+ },
+ {
+  "id": "bb97522eb352",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43026254/",
+  "source": "Br Dent J",
+  "published": "2026-11-14T10:59:06.824991+00:00",
+  "added": "2026-11-14T10:59:06.824991+00:00",
+  "category": "research",
+  "headline": "Delivering Better Oral Health's fourth edition flags research gaps in prevention",
+  "summary": "The fourth version of Delivering Better Oral Health, a guideline on prevention now available as an online digital resource, has been reviewed to identify priority areas for further research. These cover dental caries, oral cancer, periodontal disease, tooth wear and behaviour change. The authors suggest national research funding should ideally target these areas within an integrated plan.",
+  "why": "Dentists may see future guidance on caries, periodontal disease, tooth wear and oral cancer prevention shaped by these identified evidence gaps, and national funding may follow these priorities."
+ },
+ {
+  "id": "0190eedcd8e9",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43026253/",
+  "source": "Br Dent J",
+  "published": "2026-11-14T10:59:06.824991+00:00",
+  "added": "2026-11-14T10:59:06.824991+00:00",
+  "category": "research",
+  "headline": "Review reframes antimicrobial resistance in dentistry across past, present and future",
+  "summary": "A British Dental Journal article examines antimicrobial resistance (AMR) in dentistry through historical, current and future perspectives, from the penicillin era to modern stewardship. It analyses dental prescribing patterns using English surveillance data for 2023-2024 and explores options such as rapid diagnostics, microbiome restoration and non-antibiotic therapies. The authors argue AMR is a microbial ecological imbalance driven by industrialisation and antibiotic overuse, not only a clinical problem.",
+  "why": "Dentistry is cited as contributing roughly 10% of antibiotic prescriptions worldwide, often for conditions where they offer limited benefit, so prescribing restraint and stewardship are directly relevant to everyday practice."
+ },
+ {
+  "id": "7d76d96851f9",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43026252/",
+  "source": "Br Dent J",
+  "published": "2026-11-14T10:59:06.824991+00:00",
+  "added": "2026-11-14T10:59:06.824991+00:00",
+  "category": "research",
+  "headline": "UK nations' NHS dental systems have diverged since devolution, study finds",
+  "summary": "A British Dental Journal paper compares how England, Wales, Scotland and Northern Ireland plan, commission and deliver NHS dental care since health policy was devolved in the late 1990s. It describes three contract models: target-driven in England, fee-per-item in Scotland and Northern Ireland, and a shift toward needs-based care packages in Wales. The authors report that Scotland and Wales run strong national oral health programmes, while England relies on local initiatives and Northern Ireland faces capacity limits in dental public health.",
+  "why": "Dentists working under NHS contracts should understand that payment and contract structures differ across the UK, and these differences shape prevention focus, access and workforce pressures in each nation."
+ },
+ {
+  "id": "2a67d5d4c8ba",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43026251/",
+  "source": "Br Dent J",
+  "published": "2026-11-14T10:59:06.824991+00:00",
+  "added": "2026-11-14T10:59:06.824991+00:00",
+  "category": "research",
+  "headline": "Community-based child oral health programmes compared across the four UK nations",
+  "summary": "A British Dental Journal article gives a descriptive overview of the main community-based (midstream) child oral health programmes in England, Scotland, Wales and Northern Ireland. It looks at the challenges and opportunities of each approach and the policy framework each operates within. Cross-party political support and integration with early years services were common facilitators, while funding sustainability and workforce capacity were challenges.",
+  "why": "It shows which community-level approaches have support and which strain resources, which can inform how dental teams work with early years services and local programmes."
+ },
+ {
+  "id": "d6e6f0de1826",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43026250/",
+  "source": "Br Dent J",
+  "published": "2026-11-14T10:59:06.824991+00:00",
+  "added": "2026-11-14T10:59:06.824991+00:00",
+  "category": "research",
+  "headline": "Dental public health's role in health protection, with case studies from England",
+  "summary": "This narrative overview in the British Dental Journal describes how dental public health specialists contribute to health protection across the UK. It presents two case studies: specialist leadership during the COVID-19 pandemic response, and the management of a dental practice with infection prevention and control concerns. The authors conclude that these specialists provide clinical and system leadership that enables coordinated action across organisations.",
+  "why": "It shows how dental public health specialists can be called on to help manage infection control failures and system-level incidents that affect practices, patients and staff."
+ },
+ {
+  "id": "ccc3f9f643ed",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43026249/",
+  "source": "Br Dent J",
+  "published": "2026-11-14T10:59:06.824991+00:00",
+  "added": "2026-11-14T10:59:06.824991+00:00",
+  "category": "research",
+  "headline": "Public health review calls for systemic reform of the UK oral health workforce",
+  "summary": "A British Dental Journal paper takes a public health view of how to build a sustainable oral health workforce in the UK, looking at need, demand and supply through the lens of sociological theory on professions. It notes that the UK has more dental professionals than ever and a varied skill mix, yet access to dental care is limited and adult disease levels are rising. The authors argue that a sustainable workforce needs systems redesign, workforce development, and a focus on prevention, equity, and leadership.",
+  "why": "It suggests that adding more dental staff alone will not solve access and disease problems, so practices and policymakers may need to rethink how the workforce is organised and used."
+ },
+ {
+  "id": "fda096da92ce",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43026248/",
+  "source": "Br Dent J",
+  "published": "2026-11-14T10:59:06.824991+00:00",
+  "added": "2026-11-14T10:59:06.824991+00:00",
+  "category": "research",
+  "headline": "Oral health challenges of older adults call for prevention and integrated care",
+  "summary": "This Br Dent J paper reviews the oral health challenges facing older people in the UK and Republic of Ireland, where the over-65 share of the population is projected to reach 25% by 2050. It notes that older adults have a high prevalence of dental disease, that most are now dentate or partially dentate with heavy repair and replacement needs, and that recent studies and training initiatives aimed at promoting oral health in this group are summarized.",
+  "why": "Dentists will see a growing older patient base with complex restorative needs, and the paper argues that a shift from treatment toward prevention across the life course, plus better domiciliary care and inter-professional working, is needed."
+ },
+ {
+  "id": "ed967ebc1c36",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43026247/",
+  "source": "Br Dent J",
+  "published": "2026-11-14T10:59:06.824991+00:00",
+  "added": "2026-11-14T10:59:06.824991+00:00",
+  "category": "research",
+  "headline": "Consultants in dental public health drive change in complex English systems",
+  "summary": "A British Dental Journal article describes how consultants in dental public health turn national policy and evidence into local action to reduce oral health inequalities in England. It presents three case studies: dental services equity audits in the West Midlands, oral cancer prevention in the North West, and water fluoridation expansion in the North East. The authors argue these consultants combine clinical dental credibility with population health expertise to align NHS dental commissioning, local authority prevention and wider health pathways.",
+  "why": "It shows how dental public health leaders shape commissioning and prevention programmes that can affect access to services and the local context in which general practices work."
  }
 ]
