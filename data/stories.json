@@ -6133,5 +6133,38 @@
   "headline": "Consultants in dental public health drive change in complex English systems",
   "summary": "A British Dental Journal article describes how consultants in dental public health turn national policy and evidence into local action to reduce oral health inequalities in England. It presents three case studies: dental services equity audits in the West Midlands, oral cancer prevention in the North West, and water fluoridation expansion in the North East. The authors argue these consultants combine clinical dental credibility with population health expertise to align NHS dental commissioning, local authority prevention and wider health pathways.",
   "why": "It shows how dental public health leaders shape commissioning and prevention programmes that can affect access to services and the local context in which general practices work."
+ },
+ {
+  "id": "8e21854d91b1",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43033829/",
+  "source": "J Oral Maxillofac Surg",
+  "published": "2026-11-15T06:12:15.529862+00:00",
+  "added": "2026-11-15T06:12:15.529862+00:00",
+  "category": "research",
+  "headline": "Hospitals Rarely Post Discounted Cash Prices for Oral and Maxillofacial Surgery",
+  "summary": "A cross-sectional study of hospital price transparency data examined nine elective oral and maxillofacial surgery procedures. Of 7,319 hospitals, 2,717 reported a price for at least one of them, and nearly all of those reported insurer-negotiated rates, while only about one in five reported a discounted cash price. Discounted cash prices were far more common for professional fees than for facility fees, and were less likely for dental extractions and implant or ridge augmentation than for orthognathic procedures.",
+  "why": "Patients paying out of pocket for dental-related surgery may struggle to find upfront cash prices, which could make cost discussions with them harder for practices and surgical teams."
+ },
+ {
+  "id": "6fca66787f2a",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43033828/",
+  "source": "J Oral Maxillofac Surg",
+  "published": "2026-11-15T06:12:15.529862+00:00",
+  "added": "2026-11-15T06:12:15.529862+00:00",
+  "category": "research",
+  "headline": "Pre-extubation bupivacaine infiltration lowers pain and opioid use after orthognathic surgery",
+  "summary": "A randomized controlled trial at Başkent University in Ankara compared bimaxillary orthognathic surgery patients who received extra bupivacaine/epinephrine infiltration before extubation with those who did not. Of 108 patients assessed, 102 were randomized (51 per group), and pain scores were recorded out to 48 hours. The treated group had significantly lower visual analog pain scores at every time point and used less rescue and total morphine.",
+  "why": "This suggests a simple, low-cost adjunct to multimodal analgesia could reduce pain and opioid needs for patients undergoing bimaxillary orthognathic procedures, though it is a single trial from one center."
+ },
+ {
+  "id": "9116530d40c7",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43034007/",
+  "source": "J Dent",
+  "published": "2026-11-15T06:12:15.529862+00:00",
+  "added": "2026-11-15T06:12:15.529862+00:00",
+  "category": "research",
+  "headline": "Scoping review finds wide variation in oral hypofunction prevalence among older adults",
+  "summary": "This scoping review pooled 15 studies on oral hypofunction, an intermediate stage between oral frailty and oral dysfunction, in older adults. Most included studies came from East Asia and used variations of the Japanese Society of Gerodontology seven-item checklist, with reported prevalence ranging from 14.3% to 95.5%. The authors found the evidence lacked uniform diagnostic criteria and longitudinal data, and called for standardized criteria and longer-term research.",
+  "why": "Dentists screening older patients may see large differences in how oral hypofunction is defined and measured, so standardized screening tools and longer-term evidence are needed before its links to malnutrition, frailty and cognitive decline can be relied on in care planning."
  }
 ]
