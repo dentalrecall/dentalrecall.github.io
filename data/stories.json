@@ -6199,5 +6199,16 @@
   "headline": "Meta-analysis finds AI-assisted restoration design inconclusive versus conventional CAD",
   "summary": "A systematic review and meta-analysis compared AI-assisted and conventional CAD software for designing dental restorations, covering 28 eligible studies, 10 of which were pooled. The pooled design time difference was not statistically significant, and accuracy results showed high heterogeneity. Evidence was mostly from in vitro studies, and the authors judged it inconclusive on restoration quality, though AI designs were generally clinically acceptable with technician refinement still helpful.",
   "why": "AI design tools may save some design time, but the evidence does not yet show they match conventional CAD in fit or morphology, so clinicians should still plan on technician review of AI-generated restorations."
+ },
+ {
+  "id": "610eff00278c",
+  "url": "https://www.dental-tribune.com/news/hantavirus-infections-review-examines-oral-signs-and-risks-for-dental-practice/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-11-16T09:27:29+00:00",
+  "added": "2026-11-16T12:34:49.566125+00:00",
+  "category": "research",
+  "headline": "Narrative review looks at oral and salivary signs of hantavirus infection",
+  "summary": "A recent narrative review examines the oral and salivary features of hantavirus infections, an area that dental research has largely overlooked compared with the well-documented systemic effects. The paper covers oral symptoms and the role of oral secretions in transmission. It also discusses saliva-based diagnostics and how dental professionals might recognise signs of infection and manage affected patients.",
+  "why": "Dentists may need to recognise possible oral signs of hantavirus and understand whether oral secretions play a part in spread, which could affect infection-control and patient-triage decisions in the practice."
  }
 ]
