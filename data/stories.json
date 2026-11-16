@@ -6166,5 +6166,38 @@
   "headline": "Scoping review finds wide variation in oral hypofunction prevalence among older adults",
   "summary": "This scoping review pooled 15 studies on oral hypofunction, an intermediate stage between oral frailty and oral dysfunction, in older adults. Most included studies came from East Asia and used variations of the Japanese Society of Gerodontology seven-item checklist, with reported prevalence ranging from 14.3% to 95.5%. The authors found the evidence lacked uniform diagnostic criteria and longitudinal data, and called for standardized criteria and longer-term research.",
   "why": "Dentists screening older patients may see large differences in how oral hypofunction is defined and measured, so standardized screening tools and longer-term evidence are needed before its links to malnutrition, frailty and cognitive decline can be relied on in care planning."
+ },
+ {
+  "id": "4f57751910cc",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43035141/",
+  "source": "J Dent",
+  "published": "2026-11-16T05:43:28.640202+00:00",
+  "added": "2026-11-16T05:43:28.640202+00:00",
+  "category": "research",
+  "headline": "Dynamic computer-guided implant surgery shows high accuracy in edentulous private-practice patients",
+  "summary": "A retrospective cohort study of 107 fully edentulous patients (500 implants) treated with dynamic computer-assisted implant surgery in a private practice between June 2020 and September 2025 compared planned and actual implant positions using superimposed CBCT scans. Mean angular deviation was 1.87°, with platform and apex deviations of about 1.06 mm and 1.07 mm. Older age, maxillary location, anterior region, post-extraction sites, and pterygoid implants were associated with greater deviation.",
+  "why": "It supports dynamic navigation as a reliable option for fully edentulous cases in general practice, and flags maxillary, anterior, post-extraction, and pterygoid sites as areas needing closer planning attention."
+ },
+ {
+  "id": "0275b2f962b2",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43035140/",
+  "source": "J Dent",
+  "published": "2026-11-16T05:43:28.640202+00:00",
+  "added": "2026-11-16T05:43:28.640202+00:00",
+  "category": "research",
+  "headline": "Multimodal AI models show uneven skill reading dental radiographs",
+  "summary": "Researchers tested six general-purpose multimodal large language models and two clinicians on 27 radiograph interpretation tasks covering periapical, panoramic, and lateral cephalometric images. The models did relatively well on some visually obvious findings, such as root fillings and restorations, but struggled with low-contrast findings, spatial localization, and prediction or decision-making tasks. Only 6 of the 27 tasks showed significant differences between models, and no model showed a broad advantage.",
+  "why": "These results suggest general-purpose AI image tools are not yet reliable for dental radiograph interpretation without clinician oversight, and the error types identified (false positives from artifacts, missed low-contrast lesions, localization mistakes) are worth keeping in mind when evaluating any AI diagnostic aid."
+ },
+ {
+  "id": "cb5347115f74",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43035139/",
+  "source": "J Dent",
+  "published": "2026-11-16T05:43:28.640202+00:00",
+  "added": "2026-11-16T05:43:28.640202+00:00",
+  "category": "research",
+  "headline": "Meta-analysis finds AI-assisted restoration design inconclusive versus conventional CAD",
+  "summary": "A systematic review and meta-analysis compared AI-assisted and conventional CAD software for designing dental restorations, covering 28 eligible studies, 10 of which were pooled. The pooled design time difference was not statistically significant, and accuracy results showed high heterogeneity. Evidence was mostly from in vitro studies, and the authors judged it inconclusive on restoration quality, though AI designs were generally clinically acceptable with technician refinement still helpful.",
+  "why": "AI design tools may save some design time, but the evidence does not yet show they match conventional CAD in fit or morphology, so clinicians should still plan on technician review of AI-generated restorations."
  }
 ]
