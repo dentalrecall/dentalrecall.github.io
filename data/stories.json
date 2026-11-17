@@ -6446,5 +6446,60 @@
   "headline": "Pearl Street Dental Partners Adds Four Greater Houston Practices",
   "summary": "Texas-based dental partnership organization Pearl Street Dental Partners announced partnerships with four practices in the Greater Houston area: Conroe Comprehensive Dental Center, Montgomery Comprehensive Dental Center, Waheed Dental Professionals in Houston, and Gustafson Dental in Humble. With these additions, its network reaches 50 locations across Texas and Oklahoma and eight locations in Greater Houston. Under its joint venture model, owner-dentists keep an equity stake and continue leading clinical care.",
   "why": ""
+ },
+ {
+  "id": "5d748647c785",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43043323/",
+  "source": "J Am Dent Assoc",
+  "published": "2026-11-17T19:25:18.819702+00:00",
+  "added": "2026-11-17T19:25:18.819702+00:00",
+  "category": "research",
+  "headline": "Frequent snacking linked to higher caries risk but less preventive care in dental school clinics",
+  "summary": "A study using data from 9 BigMouth repository institutions reviewed adult patients examined between July 2022 and August 2023. Among 8,067 patients with complete dietary questionnaires, 30.1% reported frequent snacking, and these patients were far more likely to be rated high or extreme caries risk, even after adjusting for age, gender, race or ethnicity, and examination type. Despite this, frequent snackers were less likely to receive prophylaxis, and nutritional counseling was documented in only 7.8% of encounters.",
+  "why": "Patients who snack frequently between meals show higher caries risk and disease signs, yet dietary counseling and preventive steps are rarely documented, suggesting dentists should build diet assessment into routine caries risk management."
+ },
+ {
+  "id": "a2e23b2a0746",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43043324/",
+  "source": "J Am Dent Assoc",
+  "published": "2026-11-17T19:25:18.819702+00:00",
+  "added": "2026-11-17T19:25:18.819702+00:00",
+  "category": "research",
+  "headline": "Childhood adversity linked to tooth loss and fewer dental visits in U.S. adults",
+  "summary": "Using 2022 Behavioral Risk Factor Surveillance System data from 73,537 adults across 12 states, researchers examined links between adverse childhood experiences (ACEs) and oral health. Adults with one or more ACEs had higher odds of missing 6 or more teeth, with the risk rising at 4 or more ACEs. Those with 4 or more ACEs were also less likely to have visited a dentist in the past year.",
+  "why": "Patients with a history of childhood adversity may have more tooth loss and less regular dental care, so clinicians may benefit from trauma-informed approaches that build safety and trust."
+ },
+ {
+  "id": "0b06677c1c35",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43043322/",
+  "source": "J Am Dent Assoc",
+  "published": "2026-11-17T19:25:18.819702+00:00",
+  "added": "2026-11-17T19:25:18.819702+00:00",
+  "category": "research",
+  "headline": "Tutorial urges dentists to read heterogeneity in meta-analyses more carefully",
+  "summary": "A narrative tutorial in the Journal of the American Dental Association explains how heterogeneity should be interpreted in dental meta-analyses, which have grown rapidly in number. It works through a hypothetical low-level laser therapy example for oral mucositis and lists six common interpretive errors. The author concludes that no single statistic is sufficient and that the prediction interval is the most clinically useful of the four statistics discussed.",
+  "why": "Dentists reading pooled estimates should check heterogeneity measures together, especially the prediction interval, before assuming a treatment effect will hold across different clinical settings."
+ },
+ {
+  "id": "0979c95c83aa",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43042494/",
+  "source": "Int Endod J",
+  "published": "2026-11-17T19:25:18.819702+00:00",
+  "added": "2026-11-17T19:25:18.819702+00:00",
+  "category": "research",
+  "headline": "Sleep deprivation worsens pulpal inflammation and repair in rats via neutrophil activity",
+  "summary": "In rat studies, sleep deprivation worsened pulp inflammation and impaired healing after direct pulp capping, with incomplete bridge formation and later necrosis and apical periodontitis. In an induced pulpitis model, sleep-deprived rats showed faster inflammatory progression and more pulpal necrosis, along with higher neutrophil abundance and activation and elevated neutrophil elastase. Depleting neutrophils or inhibiting neutrophil elastase reduced inflammation and tissue damage.",
+  "why": "This is animal research suggesting poor sleep may impair pulp healing and worsen inflammation, pointing to neutrophil-related pathways as a possible mechanism, but it does not yet show effects in patients or guide clinical care."
+ },
+ {
+  "id": "0b0c4e9f47f7",
+  "url": "https://www.dental-tribune.com/news/could-silver-diamine-fluoride-help-young-children-avoid-dental-general-anaesthesia/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-11-17T16:36:08+00:00",
+  "added": "2026-11-17T19:25:18.819702+00:00",
+  "category": "research",
+  "headline": "Silver diamine fluoride may help young children avoid dental general anaesthesia",
+  "summary": "In Germany, a large share of general anaesthesia procedures for children under 5 are done for dental reasons, and guidelines favour minimally invasive care first. Researchers at University Medicine Greifswald studied outcomes of starting caries management with silver diamine fluoride (SDF) in children referred for treatment under general anaesthesia. They report that this approach may allow restorative work to be done chairside instead.",
+  "why": ""
  }
 ]
