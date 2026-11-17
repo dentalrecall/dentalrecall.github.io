@@ -6292,5 +6292,93 @@
   "headline": "Angelalign Unveils Six Clinical Innovations, Most Slated for 2027",
   "summary": "Angelalign Technology has announced six clinical innovations for North American doctors, including new aligner materials, a mandibular advancement tool for growth guidance, a DeepBite solution, and iPlan planning software. Most are preannounced for 2027, while the Halo retention system is available now. The SuperElastic (MC-SE) material will be offered pending appropriate registrations.",
   "why": ""
+ },
+ {
+  "id": "a9723dde40d1",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43039791/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-17T05:20:00.971797+00:00",
+  "added": "2026-11-17T05:20:00.971797+00:00",
+  "category": "research",
+  "headline": "Oral microbiota around zirconia implants in reconstructed jaws compared with natural teeth",
+  "summary": "A prospective observational study of 10 patients with vascularized bone flap jaw reconstruction (six fibula, four deep circumflex iliac artery flaps) compared the oral microbiome around zirconia implants with that around natural teeth. Samples were collected at 3, 6 and 12 months after implant surgery. Zirconia implants showed higher relative Streptococcus levels than teeth, and lower relative Actinomyces levels in fibula patients, while Porphyromonas gingivalis and Tannerella forsythia were more prominent around teeth in the fibula group and rose over time. By 12 months, teeth and implants did not show similar prevalence or levels of the target species.",
+  "why": "Early evidence suggests zirconia implants in reconstructed jaws harbor a different peri-implant microbial profile than teeth, which is relevant to planning maintenance and monitoring in these complex cases, though the sample of 10 patients is small."
+ },
+ {
+  "id": "f79b4808b253",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43039032/",
+  "source": "J Oral Maxillofac Surg",
+  "published": "2026-11-17T05:20:00.971797+00:00",
+  "added": "2026-11-17T05:20:00.971797+00:00",
+  "category": "research",
+  "headline": "Synovectomy margin method may improve intraoperative disc position check in TMJ discopexy",
+  "summary": "A prospective cohort study at a tertiary referral center evaluated an objective intraoperative method for judging disc position during arthroscopic discopexy, using the relationship between the anterior synovectomy margin and the articular eminence instead of roofing evaluation. Across 131 patients (209 joints) treated with the mattress-loop (Yang) technique, every joint was judged reduced intraoperatively, and immediate postoperative MRI confirmed reduction in 207 of 209 joints. The association between the two was statistically significant (P < .001), and the authors describe the concordance as high.",
+  "why": "For surgeons performing arthroscopic TMJ disc repair, this suggests a more objective intraoperative landmark may help confirm disc position than roofing assessment alone, though the study's single-center, cohort design and short-term MRI follow-up limit how far the findings can be generalized."
+ },
+ {
+  "id": "f359ee7a2fc3",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43039031/",
+  "source": "J Oral Maxillofac Surg",
+  "published": "2026-11-17T05:20:00.971797+00:00",
+  "added": "2026-11-17T05:20:00.971797+00:00",
+  "category": "research",
+  "headline": "Processed nerve allografts show high sensory recovery in trigeminal nerve repairs",
+  "summary": "A systematic review and meta-analysis of eight observational studies (160 subjects, 164 repairs) pooled functional sensory recovery after processed peripheral nerve allograft reconstruction of trigeminal nerves. Recovery occurred in about 89.5% of repairs, with similar rates for inferior alveolar nerve-only studies and mixed inferior alveolar and lingual nerve studies. No graft-related adverse events were reported, but the certainty of evidence was graded as low.",
+  "why": "For clinicians managing inferior alveolar or lingual nerve injuries, this suggests allografts may achieve sensory recovery in most cases, though the low-certainty evidence and lack of comparative or patient-reported outcome data limit firm conclusions."
+ },
+ {
+  "id": "1e83acd3c939",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43039029/",
+  "source": "J Oral Maxillofac Surg",
+  "published": "2026-11-17T05:20:00.971797+00:00",
+  "added": "2026-11-17T05:20:00.971797+00:00",
+  "category": "research",
+  "headline": "Longer antibiotic prophylaxis after cleft lip/palate surgery linked to no reduction in severe SSI",
+  "summary": "A nationwide Japanese retrospective cohort study of 13,333 cleft lip and/or palate surgery patients compared short-term (≤2 days) and prolonged (≥3 days) postoperative antibiotic prophylaxis. Severe surgical site infection requiring debridement or reoperation was extremely rare, occurring in one patient in the prolonged group. Short-term prophylaxis was associated with a hospital stay about half a day shorter but no difference in hospitalization charges.",
+  "why": ""
+ },
+ {
+  "id": "9e09857f4451",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43039215/",
+  "source": "J Endod",
+  "published": "2026-11-17T05:20:00.971797+00:00",
+  "added": "2026-11-17T05:20:00.971797+00:00",
+  "category": "research",
+  "headline": "Gene expression profiling compares symptomatic irreversible pulpitis with healthy dental pulp",
+  "summary": "Researchers ran RNA sequencing on pulp tissue from patients with symptomatic irreversible pulpitis and from healthy controls having elective root canal treatment, analyzing differentially expressed genes with edgeR. Many inflammatory and angiogenesis-related genes, including IL6, TNF, ANGPT2, and VEGF-A, were upregulated in diseased pulp, while TGF-β1 and TGIF2 were downregulated. The authors suggest these genes could serve as biomarkers of disease activity and targets for future diagnostic and treatment strategies.",
+  "why": ""
+ },
+ {
+  "id": "05920dd39abf",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43039214/",
+  "source": "J Endod",
+  "published": "2026-11-17T05:20:00.971797+00:00",
+  "added": "2026-11-17T05:20:00.971797+00:00",
+  "category": "research",
+  "headline": "FDA MAUDE reports on endodontic files show reporting patterns, not comparative clinical risk",
+  "summary": "Researchers analysed 2,666 FDA MAUDE adverse-event reports for endodontic files filed from 2015 to 2025, grouping them into heat-treated NiTi, conventional NiTi, and manual hand files. Hand-file reports showed more injury events than heat-treated NiTi reports, but this was driven almost entirely by stainless-steel hand files. The authors conclude MAUDE cannot support alloy-level clinical-risk comparisons, and 87.2% of reports came from Dentsply-affiliated entities.",
+  "why": "Adverse-event databases like MAUDE cannot reliably show whether one file type is riskier than another, so clinicians should not change instrument choice based on these reports alone."
+ },
+ {
+  "id": "59509bd1436e",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43039801/",
+  "source": "Dent Mater",
+  "published": "2026-11-17T05:20:00.971797+00:00",
+  "added": "2026-11-17T05:20:00.971797+00:00",
+  "category": "research",
+  "headline": "Bioactive glass hydrogels show promise in protecting enamel and dentin from erosion",
+  "summary": "Researchers built bio-adhesive hydrogels containing bioactive glass nanoparticles in sodium carboxymethyl cellulose or carbomer and tested them against erosion of enamel and dentin. The hydrogels stayed colloidally stable, were non-cytotoxic, and cut surface loss by about 80% compared with deionized water, with protective layers forming on the tooth surface. Collagen preservation in dentin was comparable to chlorhexidine, and molecular simulations suggested the carboxymethyl cellulose version binds collagen more strongly.",
+  "why": "This laboratory study suggests a bioactive glass hydrogel could give longer-lasting erosion protection than a rinse-off suspension, but it has not been tested clinically, so it does not change current practice yet."
+ },
+ {
+  "id": "385bc89a5e26",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43039211/",
+  "source": "J Dent",
+  "published": "2026-11-17T05:20:00.971797+00:00",
+  "added": "2026-11-17T05:20:00.971797+00:00",
+  "category": "research",
+  "headline": "Smartphone 3D reconstruction of dental models less accurate than dental scanners",
+  "summary": "Researchers benchmarked a sparse-view smartphone workflow for digitising dental models against an intraoral scanner and an extraoral scanner, using coordinate measuring machine measurements as the reference under the ISO 20896-1:2019 protocol. Images captured with an iPhone 15 Pro were reconstructed using 3D Gaussian Splatting and Neural Surface Reconstruction. The intraoral scanner was the most accurate, followed by the extraoral scanner, while the smartphone methods showed deviations of roughly 200 to 300 µm.",
+  "why": "Smartphone-based reconstruction is not yet precise enough for high-precision prosthodontic work such as crowns and inlays, so dedicated scanners remain the standard, though the approach may suit less demanding clinical or teaching uses."
  }
 ]
