@@ -6380,5 +6380,16 @@
   "headline": "Smartphone 3D reconstruction of dental models less accurate than dental scanners",
   "summary": "Researchers benchmarked a sparse-view smartphone workflow for digitising dental models against an intraoral scanner and an extraoral scanner, using coordinate measuring machine measurements as the reference under the ISO 20896-1:2019 protocol. Images captured with an iPhone 15 Pro were reconstructed using 3D Gaussian Splatting and Neural Surface Reconstruction. The intraoral scanner was the most accurate, followed by the extraoral scanner, while the smartphone methods showed deviations of roughly 200 to 300 µm.",
   "why": "Smartphone-based reconstruction is not yet precise enough for high-precision prosthodontic work such as crowns and inlays, so dedicated scanners remain the standard, though the approach may suit less demanding clinical or teaching uses."
+ },
+ {
+  "id": "ea4eae92f015",
+  "url": "https://www.dental-tribune.com/news/beyond-dental-applications-why-broader-am-insights-matter/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-11-17T08:32:26+00:00",
+  "added": "2026-11-17T09:21:51.985636+00:00",
+  "category": "events",
+  "headline": "Formnext 2026 opens in Frankfurt with focus on additive manufacturing",
+  "summary": "Formnext 2026, an additive manufacturing trade event, opens today at Messe Frankfurt and runs until 20 November. The article notes that dental AM is now established, with attention moving toward production efficiency, automation, quality and scalability. It also says Formnext now offers year-round AM information through its Industry Insights platform.",
+  "why": ""
  }
 ]
