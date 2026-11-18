@@ -1,16 +1,5 @@
 [
  {
-  "id": "42b42d150884",
-  "url": "https://www.nature.com/articles/s41415-026-0002-3",
-  "source": "British Dental Journal",
-  "published": "2026-10-19T00:00:00+00:00",
-  "added": "2026-10-20T20:23:59.848447+00:00",
-  "category": "research",
-  "headline": "Dietary patterns linked to dental caries in postmenopausal women",
-  "summary": "A British Dental Journal article published online examines the association between dietary patterns and dental caries experience among postmenopausal women. The excerpt is limited to the title and publication details, so specific findings are not available.",
-  "why": "Diet may be a factor in caries risk for postmenopausal patients, so dentists may want to review the full paper for dietary counseling points once it is accessible."
- },
- {
   "id": "106d1469ddff",
   "url": "https://www.nature.com/articles/s41415-026-0007-y",
   "source": "British Dental Journal",
@@ -6556,5 +6545,16 @@
   "headline": "Modified miniscrew-assisted expander with distalizer outperforms pendulum appliance in adolescents",
   "summary": "This study compared modified miniscrew-assisted rapid palatal expanders with distalizers (MMDs) against pendulum appliances (PAs) in 36 adolescents with Class II malocclusion and maxillary crowding who had nonextraction treatment. The MMD group showed greater bodily molar distalization, less molar rotation, less incisor labial tipping, and a shorter alignment time (8.6 vs 14.1 months) than the PA group, along with larger increases in intermolar and interpremolar widths.",
   "why": ""
+ },
+ {
+  "id": "4a24d06e77f9",
+  "url": "https://www.dentistrytoday.com/american-academy-of-periodontology-names-2026-2027-president/",
+  "source": "Dentistry Today",
+  "published": "2026-11-18T14:40:24+00:00",
+  "added": "2026-11-18T19:18:01.989121+00:00",
+  "category": "people",
+  "headline": "Kristi M. Soileau Installed as American Academy of Periodontology President",
+  "summary": "The American Academy of Periodontology installed periodontist Dr. Kristi M. Soileau as its president for 2026-2027 at its 112th Annual Meeting in Seattle, held Oct. 29-Nov. 1. Dr. Richard Nagy was named president-elect, Dr. Brad Crump vice president, and Dr. Thomas J. Kepic secretary/treasurer. The excerpt also outlines Dr. Soileau's background, including her full-time periodontics practice in Uptown New Orleans since 1988 and her long involvement in local, state, and national dental organizations.",
+  "why": "Leadership changes at the AAP can shape the academy's direction on periodontal education and policy that affects how general practices refer and manage gum disease patients."
  }
 ]
