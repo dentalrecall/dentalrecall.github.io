@@ -1,16 +1,5 @@
 [
  {
-  "id": "70657b7aea2b",
-  "url": "https://www.dentistrytoday.com/lori-serna-pate-on-dental-infection-control-mercury-and-evacuation-systems/",
-  "source": "Dentistry Today",
-  "published": "2026-10-19T15:05:43+00:00",
-  "added": "2026-10-20T20:23:59.848447+00:00",
-  "category": "events",
-  "headline": "Podcast on dental evacuation system maintenance, biofilm, and mercury from amalgam",
-  "summary": "In an episode of Dentistry Today's TEN @ 10 hosted by Dr. Paul Feuerstein, infection control specialist Lori Serna-Pate discusses maintaining evacuation and suction systems. The conversation covers purging versus end-of-day line cleaning, how biofilm and amalgam mercury can affect these systems, and amalgam separators. It also touches on Solmetex cleaning products and training the whole dental team on these procedures.",
-  "why": "Evacuation system cleaning is an often-overlooked area, and the episode suggests that clear protocols and team-wide training can improve consistency and compliance in the office."
- },
- {
   "id": "42b42d150884",
   "url": "https://www.nature.com/articles/s41415-026-0002-3",
   "source": "British Dental Journal",
@@ -6556,5 +6545,16 @@
   "headline": "Why dental vendor gifts and perks differ from company to company",
   "summary": "An article explains that what dental vendors can give practices, such as gifts, meals, and sponsorships, depends on each company's obligations under the Physician Payments Sunshine Act. It also says federal reporting rules, FDA device classifications, and corporate ownership shape what industry representatives can offer.",
   "why": "Practices evaluating vendor relationships may need to understand which reporting obligations apply to a given company before accepting gifts, meals, or sponsorships."
+ },
+ {
+  "id": "52900811b4f5",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43049724/",
+  "source": "Am J Orthod Dentofacial Orthop",
+  "published": "2026-11-18T18:08:05.388422+00:00",
+  "added": "2026-11-18T18:08:05.388422+00:00",
+  "category": "research",
+  "headline": "Modified miniscrew-assisted expander with distalizer outperforms pendulum appliance in adolescents",
+  "summary": "This study compared modified miniscrew-assisted rapid palatal expanders with distalizers (MMDs) against pendulum appliances (PAs) in 36 adolescents with Class II malocclusion and maxillary crowding who had nonextraction treatment. The MMD group showed greater bodily molar distalization, less molar rotation, less incisor labial tipping, and a shorter alignment time (8.6 vs 14.1 months) than the PA group, along with larger increases in intermolar and interpremolar widths.",
+  "why": ""
  }
 ]
