@@ -1,49 +1,5 @@
 [
  {
-  "id": "624558fc2adb",
-  "url": "https://www.dental-tribune.com/news/review-assesses-evidence-on-3d-printed-versus-thermoformed-aligners-and-retainers/",
-  "source": "Articles – Dental Tribune",
-  "published": "2026-10-20T12:18:52+00:00",
-  "added": "2026-10-20T17:41:41.064246+00:00",
-  "category": "research",
-  "headline": "Scoping review sorts evidence on 3D-printed versus thermoformed aligners and retainers",
-  "summary": "A recent scoping review examined studies on thermoformed and 3D-printed orthodontic appliances and their materials. It notes that laboratory, ageing and safety findings are often presented as if they matter as much as patient studies, which can leave clinicians relying on manufacturers' claims. The review aims to clarify what can be concluded about appliance performance and which clinical questions remain open.",
-  "why": "Dentists who prescribe or fabricate aligners and retainers can use this review to judge how much weight to give lab data versus clinical studies when choosing between appliance types."
- },
- {
-  "id": "67189d15e2e1",
-  "url": "https://www.dental-tribune.com/news/reconsidering-tissue-level-implants-for-the-aesthetic-zone/",
-  "source": "Articles – Dental Tribune",
-  "published": "2026-10-20T06:09:33+00:00",
-  "added": "2026-10-20T17:41:41.064246+00:00",
-  "category": "clinical",
-  "headline": "Reexamining tissue-level implants for front-tooth aesthetic cases",
-  "summary": "A new clinical article revisits the use of tissue-level implants in anterior restorations, where their role remains debated. The debate centers on limited control over the emergence profile and the possibility of implant collar exposure. The authors argue for their use by examining possible biological and mechanical benefits of the design.",
-  "why": "Clinicians placing implants in visible front-tooth sites may find this a useful reference when weighing tissue-level designs against alternatives for aesthetic outcomes."
- },
- {
-  "id": "b9a96abb2d00",
-  "url": "https://www.dentistrytoday.com/videa-and-cleardent-integrate-ai-powered-dental-imaging/",
-  "source": "Dentistry Today",
-  "published": "2026-10-19T14:28:41+00:00",
-  "added": "2026-10-20T17:41:41.064246+00:00",
-  "category": "tech",
-  "headline": "Videa's AI imaging joins ClearDent software for Canadian dental practices",
-  "summary": "Videa and ClearDent announced a partnership that brings Videa's AI-assisted radiographic analysis into ClearDent Imaging. Radiographs captured in ClearDent can be analyzed automatically and securely, with findings shown alongside patient images and treatment information. Videa is the first AI imaging partner to launch through ClearDent's Embedded Experience framework.",
-  "why": "Dentists using ClearDent in Canada may be able to review AI-assisted imaging findings within their existing software, which could help them explain findings and recommended care to patients more clearly."
- },
- {
-  "id": "b92e70257440",
-  "url": "https://www.dental-tribune.com/news/china-to-balance-quality-and-price-in-bulk-dental-implant-bids/",
-  "source": "Articles – Dental Tribune",
-  "published": "2026-10-19T06:59:50+00:00",
-  "added": "2026-10-20T17:41:41.064246+00:00",
-  "category": "policy",
-  "headline": "China's second dental implant bulk procurement round weighs quality alongside price",
-  "summary": "Chinese healthcare authorities are putting more weight on product quality in the second round of volume-based procurement for dental implants and related consumables, which launched on 28 September. Sichuan province is leading the implant contract renewals and Shaanxi province is leading those for orthodontic products. Manufacturers that offer a competitive mix of price and quality could receive larger procurement volumes.",
-  "why": "For dentists and practices sourcing implants in or from China, procurement rules that reward quality as well as price may shape which implant brands are available and at what cost."
- },
- {
   "id": "a3a055728c61",
   "url": "https://www.dentistrytoday.com/oryx-dental-software-named-2026-inc-power-partner-winner/",
   "source": "Dentistry Today",
@@ -6501,5 +6457,104 @@
   "headline": "Silver diamine fluoride may help young children avoid dental general anaesthesia",
   "summary": "In Germany, a large share of general anaesthesia procedures for children under 5 are done for dental reasons, and guidelines favour minimally invasive care first. Researchers at University Medicine Greifswald studied outcomes of starting caries management with silver diamine fluoride (SDF) in children referred for treatment under general anaesthesia. They report that this approach may allow restorative work to be done chairside instead.",
   "why": ""
+ },
+ {
+  "id": "80b27222f27d",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43045583/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-18T05:23:59.909669+00:00",
+  "added": "2026-11-18T05:23:59.909669+00:00",
+  "category": "research",
+  "headline": "Patient-perceived donor site morbidity after fibula, scapula and iliac crest free flaps",
+  "summary": "A single-site prospective cohort study at a large metropolitan hospital followed 59 head and neck reconstruction patients for over 12 months after osseous free flap harvest from the fibula, scapula, or iliac crest. Patients' own ratings of donor site function showed no significant change after scapula harvest, while fibula and iliac crest patients reported significant declines. The authors concluded that scapula harvest, especially in females, was associated with minimal perceived morbidity, iliac crest harvest caused significant morbidity beyond 12 months, and fibula results were equivocal.",
+  "why": ""
+ },
+ {
+  "id": "835b60776200",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43045582/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-18T05:23:59.909669+00:00",
+  "added": "2026-11-18T05:23:59.909669+00:00",
+  "category": "research",
+  "headline": "Orthognathic surgery does not raise screening-based OSA risk in healthy adults over one year",
+  "summary": "This prospective cohort study followed 70 healthy adults undergoing orthognathic surgery for Class II or Class III dentoskeletal deformities, using sleep questionnaires before surgery and at 6 and 12 months afterward. Patients with Class II deformities, mostly treated with mandibular or bimaxillary advancement, showed a statistically significant drop in obstructive sleep apnoea risk on two questionnaires, with no significant change in daytime sleepiness. Class III patients, most of whom had bimaxillary surgery, showed no significant rise in OSA risk or daytime sleepiness.",
+  "why": "For clinicians planning jaw surgery, this suggests that orthognathic procedures did not increase screening-measured sleep apnoea risk in healthy patients within one year, though the findings rely on questionnaires rather than sleep studies."
+ },
+ {
+  "id": "3a26654c7254",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43045581/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-18T05:23:59.909669+00:00",
+  "added": "2026-11-18T05:23:59.909669+00:00",
+  "category": "research",
+  "headline": "Narrative review maps autonomy levels, evidence, and liability for robotics and AI in oral surgery",
+  "summary": "This narrative review classifies robotic systems in oral and maxillofacial surgery by level of autonomy and evidence stage, and looks at AI surgical planning tools and their regulatory and liability issues. Dental implant placement accounts for most clinical activity. The only FDA-cleared OMS system offers haptic guidance only, while other systems that perform osteotomies and implant placement along a surgeon-approved plan are not yet FDA-cleared and have been reported in patient series; most autonomous tumor resection and orthognathic systems remain preclinical.",
+  "why": "Dentists using robotic implant guidance should know that the only cleared system does not act independently, and that competency standards, guidelines, and consent language have not caught up, which may leave the operating surgeon carrying most of the legal risk."
+ },
+ {
+  "id": "bee1e2191a2d",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43045580/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-18T05:23:59.909669+00:00",
+  "added": "2026-11-18T05:23:59.909669+00:00",
+  "category": "research",
+  "headline": "Repaired cleft lip and palate alters pterygomaxillary anatomy and separation during Le Fort I surgery",
+  "summary": "A single-centre retrospective study compared 31 patients with repaired cleft lip and palate undergoing orthognathic surgery with 31 age- and deformity-matched non-cleft Class III controls. Preoperative CBCT showed thicker and wider pterygomaxillary junctions and a shorter medial pterygoid plate on both sides in the cleft group, with a greater right-side pterygomaxillary angle. Separation patterns on 1-month postoperative CBCT were similar on the right but differed on the left, with more type 4 separations in the cleft patients.",
+  "why": "For dentists planning Le Fort I osteotomies in patients with repaired cleft lip and palate, the study supports detailed preoperative CBCT assessment of the pterygomaxillary region to help plan safe separation and reduce surgical risk."
+ },
+ {
+  "id": "b0ddc4b4368e",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43044627/",
+  "source": "J Clin Periodontol",
+  "published": "2026-11-18T05:23:59.909669+00:00",
+  "added": "2026-11-18T05:23:59.909669+00:00",
+  "category": "research",
+  "headline": "Concentrated growth factor and collagen fleece may speed palatal donor-site healing",
+  "summary": "A randomised controlled trial of 39 patients undergoing palatal graft harvesting compared concentrated growth factor (CGF), collagen fleece (CF) and a gelatine sponge control, with 38 completing the study. Both CGF and CF groups showed faster soft-tissue normalisation, smaller wound areas in the first two weeks, lower pain scores during the first week and better patient-reported oral health outcomes than control. CGF also showed lower analgesic use during Days 4-7.",
+  "why": "For clinicians performing palatal grafts, these materials may offer a way to reduce donor-site pain and speed early wound closure, though the small sample and short-term follow-up limit how far the findings can be applied."
+ },
+ {
+  "id": "031e875f52d8",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43044580/",
+  "source": "J Clin Periodontol",
+  "published": "2026-11-18T05:23:59.909669+00:00",
+  "added": "2026-11-18T05:23:59.909669+00:00",
+  "category": "research",
+  "headline": "Spatial transcriptomics reveals uneven inflammation and epithelial differences in peri-implantitis",
+  "summary": "This exploratory study used high-resolution spatial transcriptomics on five peri-implantitis lesions and four healthy tooth-associated gingival reference tissues. Lesions showed descriptively more immune-cell presence than the reference tissue, with fibroblast-state differences near immune-rich areas and an 11-gene epithelial inflammation-associated set that needs further validation. The authors also reported suggested increased epithelial signalling involving WNT5A, MIF and ANXA1.",
+  "why": ""
+ },
+ {
+  "id": "966fd991c13f",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43045595/",
+  "source": "J Prosthet Dent",
+  "published": "2026-11-18T05:23:59.909669+00:00",
+  "added": "2026-11-18T05:23:59.909669+00:00",
+  "category": "research",
+  "headline": "AI system automates crown lengthening assessment and post selection from radiographs",
+  "summary": "Researchers developed and validated a two-part deep learning system that uses dental radiographs to evaluate whether crown lengthening is needed and to recommend post dimensions for endodontically treated teeth. The crown pipeline combines U-Net tooth segmentation with Mask R-CNN crown measurement, while the post pipeline uses Mask R-CNN to detect and measure endodontic posts. The segmentation model reported a mean IoU of 0.52 and a Dice coefficient of 0.66, and the authors described its recommendations as closely aligned with expert decisions.",
+  "why": "Such a tool could offer a more consistent, less time-consuming way to plan restorations for root-canal-treated teeth, though the excerpt describes early validation work rather than clinical deployment."
+ },
+ {
+  "id": "e9d8f888c430",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43045594/",
+  "source": "J Prosthet Dent",
+  "published": "2026-11-18T05:23:59.909669+00:00",
+  "added": "2026-11-18T05:23:59.909669+00:00",
+  "category": "research",
+  "headline": "AI shows promise for finish-line detection in digital crown workflows, but evidence is early",
+  "summary": "A systematic review and functional meta-synthesis of 17 studies examined AI use for finish-line detection, margin extraction, and margin-related accuracy in tooth-supported fixed prosthodontic digital workflows. The authors found AI performed measurably well at margin detection and often shortened crown design time, while marginal and internal fit were generally clinically acceptable or comparable to conventional methods. However, the evidence was too heterogeneous to pool quantitatively, and the authors judged it mostly early-stage and insufficient to show consistent clinical superiority.",
+  "why": "For dentists using digital crown workflows, AI margin detection looks technically feasible and may speed design, but it has not yet been shown to produce consistently better fit than conventional workflows."
+ },
+ {
+  "id": "19dd0eab744e",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43045593/",
+  "source": "J Prosthet Dent",
+  "published": "2026-11-18T05:23:59.909669+00:00",
+  "added": "2026-11-18T05:23:59.909669+00:00",
+  "category": "research",
+  "headline": "Indexing component improves linear accuracy of reverse scan body implant scans",
+  "summary": "An in vitro study compared seven intraoral scanners using a standard reverse scan body protocol and a modified version that added an indexing component, on a maxillary edentulous model with four implants. Adding the indexing component significantly improved linear trueness and precision, while the effect on angular deviation depended on which scanner was used.",
+  "why": "Dentists using digital implant impressions may get more reliable linear accuracy with an indexing component, but scanner choice and workflow may need scanner-specific adjustment before relying on the same protocol across systems."
  }
 ]
