@@ -1,49 +1,5 @@
 [
  {
-  "id": "ce4fd9f42ecf",
-  "url": "https://www.dentistrytoday.com/dentsply-sirona-marks-five-years-of-sustainability-progress/",
-  "source": "Dentistry Today",
-  "published": "2026-10-19T15:30:48+00:00",
-  "added": "2026-10-20T18:59:48.146307+00:00",
-  "category": "business",
-  "headline": "Dentsply Sirona Reports Progress Five Years Into Its BEYOND Sustainability Strategy",
-  "summary": "Dentsply Sirona is marking five years of its BEYOND sustainability strategy, which is built on the pillars Healthy Planet, Healthy Smiles, and Healthy Business. The company says it has made strong progress toward its 2025 goals, has exceeded its target of 25 million smiles, and has cut Scope 1 and 2 greenhouse gas emissions intensity by more than 30% against the 2019 baseline. It is also setting new ambitions for 2030.",
-  "why": "For a practice, the manufacturer's push on reduced packaging waste and longer equipment lifespan through service and repair may affect how dental products and equipment are sourced, maintained, and replaced."
- },
- {
-  "id": "21705fb40caf",
-  "url": "https://www.nature.com/articles/s41415-026-0039-3",
-  "source": "British Dental Journal",
-  "published": "2026-10-19T00:00:00+00:00",
-  "added": "2026-10-20T18:59:48.146307+00:00",
-  "category": "research",
-  "headline": "National Norwegian study examines quality of life among oral health professionals",
-  "summary": "A British Dental Journal article reports a national study of professional quality of life among oral health professionals in Norway. The excerpt contains only the title and citation, so its findings are not available here.",
-  "why": "Dentists and their teams may find this study useful for understanding how working conditions affect professional well-being across the oral health workforce."
- },
- {
-  "id": "af4b7d3b471b",
-  "url": "https://www.dentistrytoday.com/solventum-unveils-next-generation-filtek-matrix-restorative-system/",
-  "source": "Dentistry Today",
-  "published": "2026-10-20T19:32:02+00:00",
-  "added": "2026-10-20T19:50:34.313347+00:00",
-  "category": "products",
-  "headline": "Solventum launches redesigned Filtek Matrix system for conservative anterior composites",
-  "summary": "Solventum has made available a next-generation Filtek Matrix restorative system, built on matrix technology first introduced in 2022. The redesign adds a new delivery system meant to make placement and cleanup more efficient, and it works with a digital workflow and Solventum's restorative materials. Through its Clarity Portal planning platform, clinicians receive patient-specific treatment plans, and a customized 3D-printed matrix is then used to guide placement of Filtek restoratives.",
-  "why": "Dentists placing anterior composites may find that a more efficient matrix delivery and cleanup process could save chair time and support conservative, natural-looking restorations for patients."
- },
- {
-  "id": "4506e46043e0",
-  "url": "https://www.dentistrytoday.com/tuesday-morning-reflections-with-dr-silverman-11/",
-  "source": "Dentistry Today",
-  "published": "2026-10-20T13:16:08+00:00",
-  "added": "2026-10-20T20:23:59.848447+00:00",
-  "category": "clinical",
-  "headline": "Dr. Silverman on why the IEEM approach builds patient trust in cosmetic dentistry",
-  "summary": "In his weekly reflection, Harvey N. Silverman argues that successful cosmetic practices using the IEEM System (Inform, Educate, Empower & Motivate) help patients feel comfortable asking questions and considering options. He says team members should see their role as informing and educating patients rather than selling, so patients can make better decisions. He concludes that reducing uncertainty tends to reduce patient resistance.",
-  "why": "The piece suggests that framing cosmetic treatment as education rather than sales may help patients feel less pressured and more willing to explore options, which bears on how a practice presents treatment."
- },
- {
   "id": "99cb063514ae",
   "url": "https://www.dentistrytoday.com/aae-launches-marketplace-for-endodontic-products-and-services/",
   "source": "Dentistry Today",
@@ -6556,5 +6512,49 @@
   "headline": "Indirect posterior restoration using universal materials in a digital workflow",
   "summary": "A Dental Tribune article describes how CAD/CAM technology combined with universal materials can make restorative procedures simpler and more predictable. It presents a clinical case restoring an endodontically treated second molar using Kuraray Noritake products, including a flow composite, a universal bond, a CAD/CAM resin block, a cleaner and a self-adhesive universal cement.",
   "why": ""
+ },
+ {
+  "id": "5b1289b689c3",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43046596/",
+  "source": "Clin Implant Dent Relat Res",
+  "published": "2026-11-18T11:19:17.543064+00:00",
+  "added": "2026-11-18T11:19:17.543064+00:00",
+  "category": "research",
+  "headline": "Robotic guided implant surgery showed highest accuracy in healed partially edentulous sites",
+  "summary": "A retrospective comparative study of 73 patients with 92 implants compared static, dynamic, and autonomous robotic computer-assisted implant surgery in healed partially edentulous sites. Using pre- and postoperative CBCT scans, the robotic approach had the smallest platform, apex, and angular deviations, and it was faster chair-side than dynamic guidance (which was timed alongside the robotic group).",
+  "why": ""
+ },
+ {
+  "id": "428f17da17f0",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43046725/",
+  "source": "J Periodontol",
+  "published": "2026-11-18T11:19:17.543064+00:00",
+  "added": "2026-11-18T11:19:17.543064+00:00",
+  "category": "research",
+  "headline": "Non-surgical periodontal therapy lowers inflammation markers in periodontitis, with and without diabetes",
+  "summary": "A study of 90 participants compared serum levels of AIM2, IFI16, and IL-18 in healthy controls and in stage III periodontitis patients with or without type 2 diabetes. Biomarker levels were highest in patients with both conditions, and they fell after six weeks of non-surgical periodontal therapy, which also improved probing depth, attachment level, and glycemic status.",
+  "why": ""
+ },
+ {
+  "id": "2917898fd407",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43046704/",
+  "source": "J Periodontol",
+  "published": "2026-11-18T11:19:17.543064+00:00",
+  "added": "2026-11-18T11:19:17.543064+00:00",
+  "category": "research",
+  "headline": "MCPIP-1 and MALT-1 levels differ in peri-implant mucositis and peri-implantitis",
+  "summary": "This cross-sectional study compared peri-implant tissue levels of MCPIP-1 and MALT-1 in granulation tissue from patients with peri-implantitis (25) and peri-implant mucositis (23), with 24 control soft-tissue samples taken during second-stage implant surgery. MCPIP-1 was higher in the mucositis group than in both controls and the peri-implantitis group, while MALT-1 was lower in both disease groups than in controls. MCPIP-1 was associated with IL-6, IL-8 and IL-17A, and MALT-1 was associated with IL-1β.",
+  "why": ""
+ },
+ {
+  "id": "79bdbed35013",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43046270/",
+  "source": "J Prosthodont",
+  "published": "2026-11-18T11:19:17.543064+00:00",
+  "added": "2026-11-18T11:19:17.543064+00:00",
+  "category": "research",
+  "headline": "Food-simulating liquids alter Martens parameters of heat-cured, milled and printed denture resins",
+  "summary": "An in vitro study compared heat-polymerized, subtractively manufactured (milled) and additively manufactured (printed) denture base resins after immersion in artificial saliva, citric acid or ethanol for 24 and 168 hours at 37°C. Material type, liquid type and time all significantly affected the Martens parameters measured by instrumented indentation. Milled resins showed the highest hardness and indentation modulus, printed resins had the lowest baseline hardness, and ethanol reduced hardness and modulus at 168 hours.",
+  "why": "Suggests that the manufacturing method of a denture base affects how well it resists indentation and that ethanol exposure can degrade heat-cured resins over time, which may matter when choosing materials for denture fabrication."
  }
 ]
