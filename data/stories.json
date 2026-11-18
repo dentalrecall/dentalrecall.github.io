@@ -1,115 +1,5 @@
 [
  {
-  "id": "106d1469ddff",
-  "url": "https://www.nature.com/articles/s41415-026-0007-y",
-  "source": "British Dental Journal",
-  "published": "2026-10-19T00:00:00+00:00",
-  "added": "2026-10-20T20:23:59.848447+00:00",
-  "category": "research",
-  "headline": "Systemic disease burden in adults 40+ attending a UK dental hospital studied via linked records",
-  "summary": "A cross-sectional study published in the British Dental Journal examined the burden of systemic disease among patients aged 40 and over who attended a UK dental hospital. The authors used linked electronic health record data. The excerpt provided does not include the study's findings.",
-  "why": "The study focuses on general health conditions in older dental patients, which may be relevant to how dentists consider medical history when treating this age group, though specific results are not available in the excerpt."
- },
- {
-  "id": "fd7f0d66aa40",
-  "url": "https://www.nature.com/articles/s41415-026-0041-9",
-  "source": "British Dental Journal",
-  "published": "2026-10-19T00:00:00+00:00",
-  "added": "2026-10-20T20:23:59.848447+00:00",
-  "category": "research",
-  "headline": "INDICATE study to estimate undiagnosed pre-diabetes and type 2 diabetes in dental primary care",
-  "summary": "A British Dental Journal article published online on 19 October 2026 describes the INDICATE study, which aims to estimate how many patients in primary dental care have undiagnosed pre-diabetes or type 2 diabetes. The excerpt contains only the title and publication details, so no findings or methods are available.",
-  "why": "It points to dental settings as a possible place for diabetes screening, though the excerpt gives no results yet to act on."
- },
- {
-  "id": "ecde42ef2f45",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42897215/",
-  "source": "Br Dent J",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Systemic disease common among older patients at a UK dental hospital",
-  "summary": "A cross-sectional study of patients aged 40 and over at Leeds Dental Hospital, linking dental records to electronic health records from 2014 to 2023, found that about one in five patients had at least one systemic disease. Prevalence was highest in periodontal/restorative and acute dental care clinics, and patients in periodontal/restorative clinics were over three times more likely to have systemic disease than those in maxillofacial surgery clinics. The authors call for integrated information systems and care planning for medically complex dental patients.",
-  "why": "Dentists treating older patients in hospital or specialist settings may see a substantial share with coexisting systemic conditions, which supports closer coordination with medical records and tailored care planning."
- },
- {
-  "id": "197beb6dd058",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42897214/",
-  "source": "Br Dent J",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Undiagnosed pre-diabetes and type 2 diabetes common among NHS dental attendees",
-  "summary": "A cross-sectional study at 13 NHS dental practices screened adults aged 40 and over without a known diagnosis using two validated diabetes risk questionnaires and point-of-care HbA1c testing. About 10% had non-diabetic hyperglycaemia (pre-diabetes) and 3% had previously undiagnosed type 2 diabetes. Both questionnaires showed good sensitivity but low specificity, and adding HbA1c testing improved specificity in a two-step pathway.",
-  "why": "Dental teams, particularly when treating patients with periodontitis, may be well placed to flag undiagnosed diabetes, and a questionnaire followed by HbA1c testing offers a practical way to screen with fewer false positives."
- },
- {
-  "id": "afd4440a1d19",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42897213/",
-  "source": "Br Dent J",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Healthier diets linked to fewer cavities in postmenopausal women, but not to progression",
-  "summary": "In a study of postmenopausal women from the OsteoPerio cohort, researchers compared several dietary pattern scores with DMFT (decayed, missing, and filled teeth) counts. At baseline, higher Healthy Eating Index, Alternative Healthy Eating Index, and alternate Mediterranean Diet scores were associated with fewer missing teeth and lower DMFT scores. The researchers found no significant prospective link between diet scores and changes in missing or DMFT counts over five years.",
-  "why": ""
- },
- {
-  "id": "f4ad6c3123c2",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42897212/",
-  "source": "Br Dent J",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Norwegian study finds workplace factors drive strain more than vulnerable patient care",
-  "summary": "A national survey of 984 Norwegian oral health professionals examined their professional quality of life, including secondary traumatic stress, burnout, and compassion satisfaction. More than half reported regularly treating vulnerable patients, and most reported moderate burnout and compassion satisfaction with low secondary traumatic stress. The authors found that psychosocial workplace factors, such as work-life balance and social support, contributed more to occupational strain than working with traumatised patients did.",
-  "why": "It suggests that practice-level conditions like workload balance and team support may matter more for clinician wellbeing than the emotional demands of complex patients, pointing to where practices can focus their efforts."
- },
- {
-  "id": "eb4895fcdda2",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42891661/",
-  "source": "J Am Dent Assoc",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Parafunctional habits and TMD in children and teens: review finds weak, uncertain evidence",
-  "summary": "A systematic review and meta-analysis of 35 cross-sectional studies examined whether parafunctional oral habits are linked to temporomandibular disorders in children and adolescents. Pooled estimates showed raised odds for some habits, including chewing and any parafunctional habit, but confidence intervals were wide and the sensitivity analysis was not robust. The authors rated the certainty of evidence as very low and concluded that the evidence does not support an association.",
-  "why": "Dentists assessing young patients with jaw or muscle complaints should not assume that habits like chewing or biting cause TMD, since the evidence is very low certainty and cannot establish causation."
- },
- {
-  "id": "43c972a742de",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42897059/",
-  "source": "Int J Oral Maxillofac Surg",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Anterior oblique osteotomy gives better lateral mandibular angle projection than sagittal split",
-  "summary": "A longitudinal cohort study compared conventional sagittal split osteotomy with anterior oblique osteotomy in orthognathic surgery patients, using pre- and postoperative CT and photographs with at least six months of follow-up. The anterior oblique technique produced a significant increase in gonial distance and a significant effect on horizontal soft-tissue projection in coronal slices, while the mandibular angle and vertical height did not differ between techniques.",
-  "why": "For surgeons and clinicians planning orthognathic cases where mandibular angle definition matters, this suggests anterior oblique osteotomy may offer better lateral projection than the standard sagittal split, though the three-dimensional soft-tissue results showed no significant change."
- },
- {
-  "id": "50cfb8c24a7e",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42897057/",
-  "source": "Int J Oral Maxillofac Surg",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Endoscopic transcanal repair of TMJ herniation into the ear canal described in a case report",
-  "summary": "The authors describe an 81-year-old man with right-sided ear pain worsened by jaw movement, initially misdiagnosed as malignant otitis externa, whose imaging showed a temporomandibular joint herniation through an anterior canal wall defect. After inflammation settled, the defect was repaired entirely endoscopically through the ear canal using layered autologous conchal cartilage and perichondrium. At 6 months the patient was asymptomatic with no recurrence, and histopathology excluded malignancy.",
-  "why": ""
- },
- {
-  "id": "bd84ef775e13",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42892609/",
-  "source": "Int J Oral Maxillofac Surg",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Custom subperiosteal implants show 98.1% survival in severely atrophic jaws",
-  "summary": "A retrospective study of 124 patients who received 211 custom-made titanium subperiosteal implants at a single maxillofacial unit between 2018 and 2025 reviewed complications and their management. The median follow-up was 28 months, and overall implant survival was 98.1%. Most complications were mild, with limited framework exposure in 9.5% of implants (almost all grade 1), a delayed non-suppurative oedema seen mainly in maxillary cases, and rare mechanical problems.",
-  "why": "For dentists treating patients with severe jaw atrophy, this suggests a graftless subperiosteal option can achieve high survival with a mostly low-grade complication profile, though the study is single-centre and retrospective."
- },
- {
   "id": "8b0f37dad2e5",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42896615/",
   "source": "J Oral Maxillofac Surg",
@@ -6556,5 +6446,115 @@
   "headline": "Kristi M. Soileau Installed as American Academy of Periodontology President",
   "summary": "The American Academy of Periodontology installed periodontist Dr. Kristi M. Soileau as its president for 2026-2027 at its 112th Annual Meeting in Seattle, held Oct. 29-Nov. 1. Dr. Richard Nagy was named president-elect, Dr. Brad Crump vice president, and Dr. Thomas J. Kepic secretary/treasurer. The excerpt also outlines Dr. Soileau's background, including her full-time periodontics practice in Uptown New Orleans since 1988 and her long involvement in local, state, and national dental organizations.",
   "why": "Leadership changes at the AAP can shape the academy's direction on periodontal education and policy that affects how general practices refer and manage gum disease patients."
+ },
+ {
+  "id": "390492b15948",
+  "url": "https://www.dentistrytoday.com/alien-multi-layer-2-0-zirconia/",
+  "source": "Dentistry Today",
+  "published": "2026-11-18T20:57:30+00:00",
+  "added": "2026-11-18T21:10:39.760711+00:00",
+  "category": "products",
+  "headline": "Alien Milling Launches Multi-Layer 2.0 Multi-Yttria Zirconia",
+  "summary": "Alien Milling Technologies introduced Multi-Layer 2.0, an updated multi-colored zirconia that grades from 3Y zirconia at the cervical to 5Y zirconia at the incisal edge to mimic the dentin-to-enamel shade transition. The company lists a flexural strength of 1,025 MPa and translucency up to 46%, supplies it as a 98-mm disc for open milling systems, and also offers finished restorations through its milling service for practices without mills. The product was also named to Dentistry Today's 2026 Readers' Choice Top 50 Technology Products.",
+  "why": ""
+ },
+ {
+  "id": "51070ca6062e",
+  "url": "https://www.dentistrytoday.com/star-e900-electric-handpiece-system/",
+  "source": "Dentistry Today",
+  "published": "2026-11-18T20:57:29+00:00",
+  "added": "2026-11-18T21:10:39.760711+00:00",
+  "category": "products",
+  "headline": "DentalEZ Star E900 Electric Handpiece System Launches with Presets and Tracking",
+  "summary": "DentalEZ introduced the Star E900, an all-in-one electric handpiece platform for restorative and endodontic work, in early 2026 after FDA 510(k) clearance. The system offers tabletop or delivery-unit-integrated setups, three factory presets, a temperature sensor that stops the motor if the handpiece overheats, and RFID-based asset and usage tracking. The product was also named to Dentistry Today's 2026 Readers' Choice Top 50 Technology Products list.",
+  "why": "For practices, the lighter attachments, overheat shutoff, and usage tracking may ease clinician strain and help manage handpiece inventory and motor replacement timing."
+ },
+ {
+  "id": "f32b0e568665",
+  "url": "https://www.dentistrytoday.com/cleartooth-digital-x-ray-system/",
+  "source": "Dentistry Today",
+  "published": "2026-11-18T20:57:29+00:00",
+  "added": "2026-11-18T21:10:39.760711+00:00",
+  "category": "products",
+  "headline": "Cleartooth Launches Turnkey Digital Intraoral X-Ray System, Named a 2026 Top 50 Product",
+  "summary": "Cleartooth Electronics has introduced a 2D intraoral imaging package that combines its own direct digital sensors, offered in large and small sizes, with radiography software that automatically orients bitewing, full-mouth, and periapical images. Each exposure is balanced for light and dark, and the system keeps data available offline while syncing among users through a private cloud on the practice's computers. The company sells directly to US dentists and handles installation, configuration, and maintenance, and the product was named one of Dentistry Today's 2026 Readers' Choice Top 50 Technology Products.",
+  "why": "For a practice weighing an in-office digital radiography upgrade, this offers a single-vendor option with manufacturer-managed setup and maintenance, plus software designed to make image review and comparison across visits easier."
+ },
+ {
+  "id": "8d9c35e99fad",
+  "url": "https://www.dentistrytoday.com/brightflex-3d/",
+  "source": "Dentistry Today",
+  "published": "2026-11-18T20:57:29+00:00",
+  "added": "2026-11-18T21:10:39.760711+00:00",
+  "category": "products",
+  "headline": "Denbright's BrightFLEX 3D flexible partial named a 2026 Readers' Choice pick",
+  "summary": "Denbright Dental Labs' BrightFLEX 3D, a lab-fabricated 3D-printed flexible partial denture, was named to Dentistry Today's 2026 Readers' Choice Top 50 Technology Products. The partial is designed digitally, printed from Carbon's FP3D dual-cure resin, and cured with UV light and heat, with the lab citing flexural testing, dimensional accuracy, and a delivery time of as little as five days.",
+  "why": "Practices that refer removable prosthetic cases may have a digital, lab-made flexible option with faster turnaround, and digitally archived cases can simplify remakes and add-ons without a new impression or rescan."
+ },
+ {
+  "id": "05ed22f400ae",
+  "url": "https://www.dentistrytoday.com/itero-lumina/",
+  "source": "Dentistry Today",
+  "published": "2026-11-18T20:57:29+00:00",
+  "added": "2026-11-18T21:10:39.760711+00:00",
+  "category": "products",
+  "headline": "Align's iTero Lumina intraoral scanner adds wider, faster multi-angle capture",
+  "summary": "Align Technology's iTero Lumina intraoral scanner replaces confocal imaging with Multi-Direct Capture, which records data from several angles at once. Align reports a capture field three times wider than the iTero Element 5D's at 12 mm, scanning twice as fast, and a wand 50% smaller and 45% lighter than its predecessor's. The Lumina Pro configuration adds near-infrared caries detection and an integrated intraoral camera, and the product was named to Dentistry Today's 2026 Readers' Choice Top 50 Technology Products list.",
+  "why": ""
+ },
+ {
+  "id": "c3d420c27b1a",
+  "url": "https://www.dentistrytoday.com/lightscalpel-co2-laser/",
+  "source": "Dentistry Today",
+  "published": "2026-11-18T20:57:28+00:00",
+  "added": "2026-11-18T21:10:39.760711+00:00",
+  "category": "products",
+  "headline": "LightScalpel CO2 Laser Named to Dentistry Today's 2026 Readers' Choice Top 50",
+  "summary": "LightScalpel's CO2 dental laser line was recognized as one of Dentistry Today's 2026 Readers' Choice Top 50 Technology Products. The lineup includes three models (LS-1005, LS-2010, LS-4020) that deliver a 10,600 nm beam through a flexible hollow waveguide to autoclavable handpieces. Reported uses include frenectomies, gingivectomies, biopsies, and treatment of aphthous and herpetic lesions, with clinicians citing minimal bleeding and shorter procedures than diode lasers.",
+  "why": ""
+ },
+ {
+  "id": "b0d02d298dce",
+  "url": "https://www.dentistrytoday.com/medit-i700/",
+  "source": "Dentistry Today",
+  "published": "2026-11-18T20:57:28+00:00",
+  "added": "2026-11-18T21:10:39.760711+00:00",
+  "category": "products",
+  "headline": "Medit i700 intraoral scanner features compact body and full-color capture",
+  "summary": "Medit has introduced the i700 intraoral scanner, which weighs 245 g and captures full-color 3D data at up to 70 frames per second. It connects through a single USB Type-C cable, has a reversible 180-degree tip, and includes a built-in UV-C LED and remote-control button. The scanner was also named to Dentistry Today's 2026 Readers' Choice Top 50 Technology Products list.",
+  "why": "For practices weighing a new intraoral scanner, the i700's smaller size, simpler cabling, and compatibility with both Medit Link and third-party CAD/CAM software could affect chairside workflow and choice of lab or design system."
+ },
+ {
+  "id": "0be082fc6164",
+  "url": "https://www.dentistrytoday.com/trident-x-view-3d-cbct/",
+  "source": "Dentistry Today",
+  "published": "2026-11-18T20:57:28+00:00",
+  "added": "2026-11-18T21:10:39.760711+00:00",
+  "category": "products",
+  "headline": "Trident X-View 3D CBCT line offers three configurations and a five-year warranty",
+  "summary": "The Italian-built Trident X-View 3D CBCT, distributed in the US by Mid America Dental Sales, comes in 3D-only, 3D PAN, and 3D PAN CEPH versions. It uses an IGZO flat panel detector with eight selectable fields of view, scan times of 2.4 to 15.5 seconds, and pulsed emission that the company says can cut exposure by up to 57%. The system was also named to Dentistry Today's 2026 Readers' Choice Top 50 Technology Products list.",
+  "why": ""
+ },
+ {
+  "id": "435a3509e6fc",
+  "url": "https://www.dentistrytoday.com/ergoangle-loupes/",
+  "source": "Dentistry Today",
+  "published": "2026-11-18T20:57:27+00:00",
+  "added": "2026-11-18T21:10:39.760711+00:00",
+  "category": "products",
+  "headline": "ErgoAngle prism loupes from Q-Optics named a 2026 Readers' Choice Top 50 product",
+  "summary": "Q-Optics' ErgoAngle loupes were named to Dentistry Today's 2026 Readers' Choice Top 50 Technology Products list. The custom-built through-the-lens prism loupes use angled optics meant to keep the clinician's head and neck in a more neutral position, with magnification from 3.0x to 4.5x and a lifetime warranty.",
+  "why": ""
+ },
+ {
+  "id": "ad541523a550",
+  "url": "https://www.dentistrytoday.com/t2-cbct/",
+  "source": "Dentistry Today",
+  "published": "2026-11-18T20:57:27+00:00",
+  "added": "2026-11-18T21:10:39.760711+00:00",
+  "category": "products",
+  "headline": "Hiossen T2 CBCT combines 3D and panoramic imaging in one unit",
+  "summary": "Hiossen's T2 CBCT is a three-in-one imaging system that combines cone beam CT and panoramic imaging, with optional cephalometric imaging. It has FDA 510(k) clearance for 2D and 3D oral and maxillofacial imaging in adults and children, offers five standard fields of view plus a stitched 15 × 15 cm volume, and was named to Dentistry Today's 2026 Readers' Choice Top 50 technology products.",
+  "why": ""
  }
 ]
