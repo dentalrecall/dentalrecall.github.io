@@ -1,16 +1,5 @@
 [
  {
-  "id": "a3a055728c61",
-  "url": "https://www.dentistrytoday.com/oryx-dental-software-named-2026-inc-power-partner-winner/",
-  "source": "Dentistry Today",
-  "published": "2026-10-20T13:07:40+00:00",
-  "added": "2026-10-20T18:59:48.146307+00:00",
-  "category": "business",
-  "headline": "Oryx Dental Software Wins 2026 Inc. Power Partner Award",
-  "summary": "Oryx Dental Software, a cloud-based and AI-powered dental practice management platform, was named a 2026 winner of the Inc. Power Partner Awards. The annual honor recognizes B2B companies that help entrepreneurs and businesses grow through services such as technology, compliance, and marketing. The excerpt notes Oryx was founded by a dentist and combines clinical workflows, patient records, scheduling, billing, and AI tools in one platform.",
-  "why": "For a practicing dentist, this is a vendor recognition rather than a clinical finding, but it highlights practice management software that aims to reduce workflow complexity so teams can focus on patient care."
- },
- {
   "id": "ce4fd9f42ecf",
   "url": "https://www.dentistrytoday.com/dentsply-sirona-marks-five-years-of-sustainability-progress/",
   "source": "Dentistry Today",
@@ -6556,5 +6545,16 @@
   "headline": "Indexing component improves linear accuracy of reverse scan body implant scans",
   "summary": "An in vitro study compared seven intraoral scanners using a standard reverse scan body protocol and a modified version that added an indexing component, on a maxillary edentulous model with four implants. Adding the indexing component significantly improved linear trueness and precision, while the effect on angular deviation depended on which scanner was used.",
   "why": "Dentists using digital implant impressions may get more reliable linear accuracy with an indexing component, but scanner choice and workflow may need scanner-specific adjustment before relying on the same protocol across systems."
+ },
+ {
+  "id": "afedd71c8268",
+  "url": "https://www.dental-tribune.com/news/indirect-adhesive-restoration-in-the-posterior-region-the-power-of-universal-materials-in-a-digital-workflow/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-11-18T07:00:18+00:00",
+  "added": "2026-11-18T07:40:00.050173+00:00",
+  "category": "clinical",
+  "headline": "Indirect posterior restoration using universal materials in a digital workflow",
+  "summary": "A Dental Tribune article describes how CAD/CAM technology combined with universal materials can make restorative procedures simpler and more predictable. It presents a clinical case restoring an endodontically treated second molar using Kuraray Noritake products, including a flow composite, a universal bond, a CAD/CAM resin block, a cleaner and a self-adhesive universal cement.",
+  "why": ""
  }
 ]
