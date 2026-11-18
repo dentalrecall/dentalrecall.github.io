@@ -1,115 +1,5 @@
 [
  {
-  "id": "8b0f37dad2e5",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42896615/",
-  "source": "J Oral Maxillofac Surg",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Plate displacement common after sliding plate fixation in jaw surgery, but rarely harmful",
-  "summary": "A retrospective cohort study at Pusan National University Dental Hospital reviewed 1,156 patients with skeletal Class III malocclusion who had mandibular setback by bilateral sagittal split ramus osteotomy with semirigid sliding plate fixation. Plate displacement occurred in about 21.6% of patients, and plate fracture in 1.2%, with nearly all events detected within 3 months. Neither displacement nor fracture was linked to worse subject-level outcomes such as refixation need, occlusal relapse, condylar resorption, or orthodontic treatment duration.",
-  "why": ""
- },
- {
-  "id": "7f411041f4b3",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42897882/",
-  "source": "Clin Oral Implants Res",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Larger masseter muscle volume and cross-sectional area linked to late implant mechanical failure",
-  "summary": "A matched case-control study of 23 implants with late mechanical failure (fixture, screw, or abutment fracture) and 92 successful controls used 3D CBCT reconstructions to measure masseter muscle volume and cross-sectional area. Greater muscle bulk was significantly associated with mechanical failure, and both measures showed good discrimination in ROC analysis, with proposed preliminary cut-off values. The authors describe the findings as exploratory and call for prospective validation before clinical use.",
-  "why": "This raises the possibility that masseter muscle size measured on CBCT could eventually help flag patients at higher risk of implant fracture, though the cut-offs are not ready for routine clinical use."
- },
- {
-  "id": "036b449ffd96",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42896036/",
-  "source": "Int J Oral Maxillofac Implants",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Screw access hole size affects fit and fracture strength of zirconia implant crowns",
-  "summary": "Researchers tested 72 implant-supported monolithic zirconia crowns divided into six groups, varying whether a screw access hole was present, its diameter (1, 2 or 3 mm), and whether it was made before or after cementation. Crowns without an access hole had larger marginal and internal discrepancies than those with one, and fracture loads were higher without a hole or with a 1-mm hole than with 2- or 3-mm openings. Handpiece-prepared groups showed lower Weibull moduli, while for 3-mm holes the preparation method did not change mean fracture load.",
-  "why": ""
- },
- {
-  "id": "a32fada6bc67",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42896035/",
-  "source": "Int J Oral Maxillofac Implants",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Systematic review finds AI in pre-implant imaging strongest for anatomical analysis",
-  "summary": "This systematic review of 36 studies from 2021 to 2025 assessed AI applied to radiographic imaging before dental implant placement, with CBCT being the most common modality. AI performed well on segmentation and anatomical analysis tasks, while positional accuracy and planning outcomes varied more. Risk of bias was high in most of the studies that could be assessed, so the authors synthesized findings qualitatively.",
-  "why": "AI tools may help with anatomical assessment and save workflow time before implant surgery, but autonomous implant positioning and outcome prediction are not yet supported well enough, so clinician oversight remains essential."
- },
- {
-  "id": "6129c3f6f4d9",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42896034/",
-  "source": "Int J Oral Maxillofac Implants",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Risk factors for peri-implant disease change over 10 years with laser-microgrooved implants",
-  "summary": "A retrospective study reviewed records of 60 patients with 240 implants having laser micro-grooved collars, followed for 10 years in a private practice under preventive maintenance. Peri-implant health stayed the same in 42% of cases, worsened in 36%, and improved in 22%. Periodontitis history, plaque, cleaning difficulty, smoking, systemic disease, a 30° prosthetic emergence angle, and cemented crowns were linked to worsening, and the authors concluded that modifiable patient, prosthetic and maintenance factors drive disease progression.",
-  "why": "It suggests that clinicians can influence long-term implant health by managing modifiable risks such as plaque control, smoking, systemic conditions, and prosthetic design, supporting personalized maintenance plans."
- },
- {
-  "id": "50a525a5aa1f",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42894263/",
-  "source": "Clin Implant Dent Relat Res",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Flapless, immediately loaded mini-implants retain complete overdentures over 24 months",
-  "summary": "A single-center prospective study followed 25 fully edentulous patients whose complete dentures were converted chairside into implant-retained overdentures using flaplessly placed, one-piece mini-implants loaded immediately. Of 158 mini-implants placed (120 maxillary, 38 mandibular), 145 remained in function at 24 months, an implant-level survival of 91.8%. Bone loss and peri-implant attachment loss were limited, with greater attachment loss in the maxilla.",
-  "why": "This minimally invasive option may give dentists another way to improve denture retention in edentulous patients, including those with narrow ridges or who are reluctant to undergo augmentation, though the study is a single-center cohort."
- },
- {
-  "id": "a82c774fb54b",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42897978/",
-  "source": "Int Endod J",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "In silico survey maps ABC transporters in five endodontic pathogens",
-  "summary": "Researchers computationally characterised ATP-binding cassette transporter proteins across five endodontic pathogens using reference genome data from NCBI RefSeq. They identified 574 such proteins, with multidrug resistance pumps forming the largest functional group, and found significant differences between species in physicochemical properties. In E. faecalis, sequence analysis confirmed the efrAB efflux operon along with 13 homologue proteins.",
-  "why": "The study suggests multidrug efflux pumps in E. faecalis could provide a molecular basis for intrinsic resistance to intracanal medicaments in persistent endodontic infections, though this is a computational finding and not yet clinical evidence."
- },
- {
-  "id": "e1af00064bab",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42897020/",
-  "source": "J Prosthet Dent",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Genetic study links malocclusion, but not dental attrition, to temporomandibular disorders",
-  "summary": "Using a two-sample Mendelian randomization design with European genome-wide association data, researchers tested whether malocclusion and dental attrition independently cause temporomandibular disorders (TMDs). Genetic liability to malocclusion showed a strong association with TMD risk after accounting for shared genetic factors, while attrition did not show an independent direct effect.",
-  "why": "The findings suggest malocclusion may be an independent risk factor for TMDs, which could inform how clinicians assess patients with TMD symptoms, though the study is genetic-based and does not itself establish treatment outcomes."
- },
- {
-  "id": "6bcd5d6c9c2a",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42897019/",
-  "source": "J Prosthet Dent",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Surface texture and depth tuned for bonding and strength of 3D printed zirconia crowns",
-  "summary": "An in vitro study tested nanoparticle jetting (NPJ) 3D printed zirconia with four surface textures and four depths, comparing them with milled zirconia. Textured surfaces increased bond strength, with circular and undercut circular patterns performing best, and bond strength plateaued at 80 to 100 μm. Across the tested designs, a 60-μm circular texture gave the best balance of bond strength and fracture resistance for 0.5-mm ultrathin crowns.",
-  "why": "It suggests that specific intaglio surface designs could help ultrathin printed zirconia crowns bond well without losing fracture resistance, though these are lab results that still need clinical validation."
- },
- {
-  "id": "fe91dd26501c",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42896646/",
-  "source": "J Dent",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Zygomatic implants vs. other fixed options for the atrophic maxilla: systematic review",
-  "summary": "A systematic review compared zygomatic implant fixed rehabilitation with other fixed implant-supported approaches for the atrophic edentulous maxilla, based on five RCTs and one observational study. Zygomatic implants were associated with better oral health-related quality of life than All-on-4, and with fewer implant failures than bone augmentation, though biological complications were higher with zygomatic implants in that comparison. The certainty of evidence was rated low to very low across outcomes.",
-  "why": "For clinicians treating severely atrophic upper jaws, zygomatic implants may offer quality-of-life and implant-survival benefits, but the weak evidence means treatment choice should remain a shared, case-by-case decision with patients."
- },
- {
   "id": "c264a583db11",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42896645/",
   "source": "J Dent",
@@ -6556,5 +6446,79 @@
   "headline": "Hiossen T2 CBCT combines 3D and panoramic imaging in one unit",
   "summary": "Hiossen's T2 CBCT is a three-in-one imaging system that combines cone beam CT and panoramic imaging, with optional cephalometric imaging. It has FDA 510(k) clearance for 2D and 3D oral and maxillofacial imaging in adults and children, offers five standard fields of view plus a stitched 15 × 15 cm volume, and was named to Dentistry Today's 2026 Readers' Choice Top 50 technology products.",
   "why": ""
+ },
+ {
+  "id": "9b9b43f719d3",
+  "hidden": true,
+  "added": "2026-11-18T23:09:32.367169+00:00"
+ },
+ {
+  "id": "62adc9a8f961",
+  "hidden": true,
+  "added": "2026-11-18T23:09:32.367169+00:00"
+ },
+ {
+  "id": "7475788f01ac",
+  "hidden": true,
+  "added": "2026-11-18T23:09:32.367169+00:00"
+ },
+ {
+  "id": "3e0a8be488b4",
+  "url": "https://www.dentistrytoday.com/smartxide-ultraspeed2-co2-laser/",
+  "source": "Dentistry Today",
+  "published": "2026-11-18T20:57:27+00:00",
+  "added": "2026-11-18T23:09:32.367169+00:00",
+  "category": "products",
+  "headline": "DEKA SmartXide UltraSpeed2 CO2 laser named to 2026 Readers' Choice Top 50",
+  "summary": "DEKA Dental Lasers' SmartXide UltraSpeed2 CO2 laser was named one of Dentistry Today's 2026 Readers' Choice Top 50 Technology Products. The single platform is marketed for soft-tissue work across general dentistry, periodontics, endodontics, implantology, and oral surgery, with optional fractional handpieces for facial aesthetic treatments and QuietNite soft-palate therapy.",
+  "why": "A single laser platform covering several specialties, with optional add-ons, could let a practice widen its services without buying additional laser equipment, though the excerpt is promotional and gives no clinical outcome data."
+ },
+ {
+  "id": "c0cc8ad6b6eb",
+  "hidden": true,
+  "added": "2026-11-18T23:09:32.367169+00:00"
+ },
+ {
+  "id": "8cdbdc244e40",
+  "hidden": true,
+  "added": "2026-11-18T23:09:32.367169+00:00"
+ },
+ {
+  "id": "30cb03276e73",
+  "hidden": true,
+  "added": "2026-11-18T23:09:32.367169+00:00"
+ },
+ {
+  "id": "19a006334bd3",
+  "url": "https://www.dentistrytoday.com/exocad-dentalcad/",
+  "source": "Dentistry Today",
+  "published": "2026-11-18T20:57:23+00:00",
+  "added": "2026-11-18T23:09:32.367169+00:00",
+  "category": "products",
+  "headline": "exocad DentalCAD named a 2026 Readers' Choice Top 50 technology product",
+  "summary": "Dentistry Today's 2026 Readers' Choice awards listed exocad DentalCAD among its Top 50 technology products. The CAD software is marketed to dental labs and in-house labs for designing crowns, bridges, veneers, implant work, dentures and other restorations, and it now includes a reworked Implant Module, a split denture workflow and AI-enabled design tools.",
+  "why": ""
+ },
+ {
+  "id": "9b6ee3386fc4",
+  "url": "https://www.dentistrytoday.com/rodin-chroma-flash/",
+  "source": "Dentistry Today",
+  "published": "2026-11-18T20:57:22+00:00",
+  "added": "2026-11-18T23:09:32.367169+00:00",
+  "category": "products",
+  "headline": "Pac-Dent's Rodin Chroma Flash post-curing system named a 2026 Readers' Choice top product",
+  "summary": "Pac-Dent's Rodin Chroma Flash was selected for Dentistry Today's 2026 Readers' Choice Top 50 Technology Products list. The post-curing system uses xenon flash light across 280–950 nm with material-specific profiles for 3D-printed restorations and appliances, and it needs no external nitrogen supply for validated materials.",
+  "why": ""
+ },
+ {
+  "id": "3911362139d3",
+  "url": "https://www.dentistrytoday.com/i-max-3d-xpro/",
+  "source": "Dentistry Today",
+  "published": "2026-11-18T20:57:21+00:00",
+  "added": "2026-11-18T23:09:32.367169+00:00",
+  "category": "products",
+  "headline": "Owandy's I-Max 3D XPRO CBCT adds AI segmentation and named a 2026 Readers' Choice pick",
+  "summary": "Owandy Radiology's I-Max 3D XPRO was named to Dentistry Today's 2026 Readers' Choice Top 50 Technology Products. The compact CBCT system uses AI to automatically isolate jaws, individual teeth, the mandibular canal, roots, and fillings, and its imaging chain includes a sensor that raises MTF by 30% and deep-learning noise reduction. It offers 70-µm resolution, fields of view from 5 x 5 to 16 x 11 cm, and a footprint under 10 sq ft, and it will be shown at Booth 3614 at the Greater New York Dental Meeting.",
+  "why": "Automated segmentation and a smaller footprint could speed up 3D treatment planning and case explanations for practices that are considering a CBCT upgrade, though the excerpt is promotional and no independent performance data is given."
  }
 ]
