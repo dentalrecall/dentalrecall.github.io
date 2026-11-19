@@ -1,38 +1,5 @@
 [
  {
-  "id": "976f7c664a42",
-  "url": "https://decisionsindentistry.com/2026/10/announcing-dentalject-topical-anesthetic-spray-helps-reduce-injection-pain-and-fear-while-improving-workflows/",
-  "source": "Decisions in Dentistry",
-  "published": "2026-10-20T02:19:52+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "products",
-  "headline": "VCS Medical launches DentalJect drug-free topical spray to ease injection pain",
-  "summary": "VCS Medical announced the full US market launch of DentalJect, a drug-free topical anesthetic spray meant to reduce pain and anxiety during dental injections. The company says the spray numbs the injection site in seconds, so clinicians can inject right away without waiting. The release cites an estimated 25% of adults and up to 75% of children as having fear of injections.",
-  "why": "A topical that numbs in seconds could shorten chair time and make injection-anxious patients more willing to accept needed treatment, though the claims come from the manufacturer's release and have not been independently verified here."
- },
- {
-  "id": "c7227f17c5d4",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42886150/",
-  "source": "J Am Dent Assoc",
-  "published": "2026-10-20T21:11:31.157467+00:00",
-  "added": "2026-10-20T21:11:31.157467+00:00",
-  "category": "research",
-  "headline": "Triple-headed toothbrush beats conventional brush for plaque in children with autism",
-  "summary": "A multicenter, single-blind randomized trial in India compared a triple-headed toothbrush with a conventional toothbrush among 102 children and adolescents aged 7 to 18 with autism spectrum disorder. After 3 months of caregiver-supervised twice-daily brushing, the triple-headed brush led to significantly greater reductions in plaque and gingival scores, with the largest gains on the lingual surfaces. Acceptability of the triple-headed brush also rose over the study period.",
-  "why": "For dentists treating patients with autism, this suggests a triple-headed brush may be a practical option to recommend to caregivers, though the trial was single-blind and conducted in special schools in one country."
- },
- {
-  "id": "14a6a942b215",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42881567/",
-  "source": "J Dent Res",
-  "published": "2026-10-20T21:11:31.157467+00:00",
-  "added": "2026-10-20T21:11:31.157467+00:00",
-  "category": "research",
-  "headline": "Extracellular matrix disruption found in Fanconi anemia-associated oral lesions",
-  "summary": "Researchers compared oral potentially malignant lesions in people with Fanconi anemia against sporadic oral leukoplakia and normal mucosa, across 119 participants. Fanconi anemia leukoplakia showed less collagen and elastin signal, a higher collagen-to-elastin ratio, and weaker epithelial p53 staining, with similar collagen and elastin reductions seen in Fanca-deficient mice.",
-  "why": ""
- },
- {
   "id": "a967c881113c",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42876283/",
   "source": "J Dent Res",
@@ -6520,5 +6487,38 @@
   "headline": "AI models tested for predicting people at high risk of untreated caries",
   "summary": "A recent study examined whether artificial intelligence models could predict untreated caries and cumulative caries experience using only socio-economic, demographic and behavioural data. The authors suggest the approach may have potential for public health screening to direct preventive dental care toward those most in need, based on established social determinants of health.",
   "why": ""
+ },
+ {
+  "id": "56381a9a80b7",
+  "url": "https://www.dentistrytoday.com/oneholo-ai-showcases-ai-concierge-tala-at-aimed26/",
+  "source": "Dentistry Today",
+  "published": "2026-11-19T16:17:02+00:00",
+  "added": "2026-11-19T16:24:54.932609+00:00",
+  "category": "products",
+  "headline": "OneHolo.ai Shows Tala AI Concierge at AIMed26 and Offers Event Pilots",
+  "summary": "OneHolo.ai presented Tala, its multilingual AI concierge, at the AIMed26 healthcare conference in Orlando. The company, which first deployed Tala at founder Dr. Kianor Shah's Palm Desert practice, is now offering professional associations and conference organizers a pilot in which Tala guides attendees online and on compatible displays. Tala answers website visitors' routine questions about services, patient forms, and booking, while the clinical team handles individual care questions.",
+  "why": ""
+ },
+ {
+  "id": "f47448c96beb",
+  "url": "https://www.dentistrytoday.com/align-technology-appoints-paul-clancy-and-ian-bell-to-board/",
+  "source": "Dentistry Today",
+  "published": "2026-11-19T15:51:06+00:00",
+  "added": "2026-11-19T16:24:54.932609+00:00",
+  "category": "people",
+  "headline": "Align Technology adds Paul Clancy and Ian Bell to its Board of Directors",
+  "summary": "Align Technology, maker of the Invisalign clear aligner system, iTero intraoral scanners, and exocad software, has appointed Paul J. Clancy and Ian Bell as directors. Clancy, a former CFO of Alexion Pharmaceuticals and Biogen, joins effective immediately, while Bell, COO of Alcon, joins effective December 10, 2026.",
+  "why": ""
+ },
+ {
+  "id": "95c739fcfa57",
+  "url": "https://www.dentistrytoday.com/the-people-behind-the-prophy-spotlighting-dental-hygienists-episode-2/",
+  "source": "Dentistry Today",
+  "published": "2026-11-19T07:45:45+00:00",
+  "added": "2026-11-19T16:24:54.932609+00:00",
+  "category": "people",
+  "headline": "Henry Schein's video series spotlights dental hygienists, with pediatric hygienist Kimberly Kyd in Episode 2",
+  "summary": "Henry Schein's \"The People Behind the Prophy\" series profiles dental hygienists and their personal stories. Episode 2 features pediatric dental hygienist Kimberly Kyd, RDH, who discusses patience, prevention, and a whole-patient approach to helping children build positive dental experiences.",
+  "why": "The episode offers practical perspective on building trust with young patients, recognizing airway concerns early, and reducing dental fear, which may be useful for team training and pediatric patient care."
  }
 ]
