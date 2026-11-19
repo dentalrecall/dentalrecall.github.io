@@ -1,16 +1,5 @@
 [
  {
-  "id": "900fda26114b",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42892358/",
-  "source": "J Dent",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Dental wear studies need consistent methods to link lab results with clinical performance",
-  "summary": "A Short Communication in the Journal of Dentistry argues that dental wear research is methodologically inconsistent, which makes it hard to compare studies or relate lab findings to clinical outcomes. It reviews wear protocols, digital measurement workflows, and outcome measures such as vertical loss, volumetric loss, antagonist wear, and structural damage. The authors conclude that no single universal wear-testing protocol fits every question, and that experimental design should match the research question and be validated against clinical evidence.",
-  "why": "Dentists should be cautious about applying laboratory wear results to patients, since the choice of test protocol and measurement method can change what the findings mean."
- },
- {
   "id": "1f815272dc7a",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42895237/",
   "source": "J Dent Educ",
@@ -6520,5 +6509,16 @@
   "headline": "Upward-facing interproximal wedge reduces overlap in bitewing radiographs",
   "summary": "A clinical study of 100 patients compared two commercial image receptor-holding devices with two modified versions whose interproximal wedge faced either upward or downward. Two oral radiologists judged proximal surface overlap on digital images, and questionnaires captured operator perception and patient comfort. The modified device with the upward-facing wedge showed significantly less overlap than the other devices across regions and arches, and the modified devices scored higher for comfort.",
   "why": "For clinicians taking bitewings, wedge orientation on a receptor-holding device may reduce overlapping proximal surfaces and improve patient comfort, though this is a single study and its findings should be confirmed before changing routine technique."
+ },
+ {
+  "id": "f71654038fc0",
+  "url": "https://www.dental-tribune.com/news/laser-treatment-may-help-children-recover-faster-after-dental-anaesthesia/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-11-19T08:23:07+00:00",
+  "added": "2026-11-19T10:25:23.617451+00:00",
+  "category": "research",
+  "headline": "Low-level laser may shorten numbness in children after dental anaesthesia",
+  "summary": "Researchers in India ran a randomised split-mouth clinical trial testing low-level laser therapy on how quickly older children recover from oral numbness after local anaesthesia. The findings add to earlier work in younger children, suggesting photo-biomodulation can shorten the period when children are at risk of accidental soft-tissue injury such as lip or cheek biting.",
+  "why": ""
  }
 ]
