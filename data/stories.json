@@ -1,16 +1,5 @@
 [
  {
-  "id": "1f815272dc7a",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42895237/",
-  "source": "J Dent Educ",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Regular formative testing lifts short-term macroscopic anatomy scores in dental students",
-  "summary": "A study of second-year dental students at the University of Oslo compared two groups: one with standard teaching only, and one that also completed three mandatory formative assessments during a 6-week anatomy module. The testing group scored markedly higher on a 150-task test right after teaching, with the biggest gains in myology and neurology. By the final practical exam four weeks later, the testing group still generally scored higher, though the initial gap had narrowed.",
-  "why": ""
- },
- {
   "id": "0c85c6cf1481",
   "url": "https://www.dentaleconomics.com/home/podcast/55413186/your-practice-has-an-identity-does-your-marketing",
   "source": "Home | Dental Economics",
@@ -6520,5 +6509,16 @@
   "headline": "Low-level laser may shorten numbness in children after dental anaesthesia",
   "summary": "Researchers in India ran a randomised split-mouth clinical trial testing low-level laser therapy on how quickly older children recover from oral numbness after local anaesthesia. The findings add to earlier work in younger children, suggesting photo-biomodulation can shorten the period when children are at risk of accidental soft-tissue injury such as lip or cheek biting.",
   "why": ""
+ },
+ {
+  "id": "5c6b39c787f6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43053639/",
+  "source": "J Prosthodont",
+  "published": "2026-11-19T12:16:10.561637+00:00",
+  "added": "2026-11-19T12:16:10.561637+00:00",
+  "category": "research",
+  "headline": "Narrative review of rotational path removable partial denture design concepts",
+  "summary": "This narrative review and case report covers the rotational path removable partial denture (RPRPD), described as a viable option for restoring esthetics and function in Kennedy Class III and IV partially edentulous patients. It reviews the basic concept's indications, contraindications, advantages and disadvantages, moving from analog to digital workflow. Two clinical cases are described in detail.",
+  "why": "Dentists treating Kennedy Class III or IV partially edentulous patients may find this a reference for considering RPRPD as a treatment option, along with its limits and digital workflow steps."
  }
 ]
