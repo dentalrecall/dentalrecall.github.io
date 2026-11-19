@@ -1,71 +1,5 @@
 [
  {
-  "id": "c264a583db11",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42896645/",
-  "source": "J Dent",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Deep learning measures dental plaque in disclosed photos, agreeing with clinical scoring",
-  "summary": "Researchers tested a deep-learning system that measures buccal plaque coverage from disclosed intraoral photographs of 20 adults taken after 48 hours without oral hygiene. The automated coverage scores ranked teeth similarly to a calibrated dentist's Turesky-modified Quigley-Hein index scores, and after threshold calibration agreement matched that between two examiners. The authors suggest the tool could act as an auxiliary second opinion, pending external validation.",
-  "why": ""
- },
- {
-  "id": "4c70fa109cf0",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42893740/",
-  "source": "J Dent",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Unified Brazilian Child Perceptions Questionnaire validated for ages 5-14",
-  "summary": "Researchers developed and validated a single Brazilian Portuguese version of the Child Perceptions Questionnaire covering children aged 5 to 14, built from common and age-specific items of the existing 8-10 and 11-14 versions. In a sample of 200 children and their parents or caregivers, the instrument showed good internal consistency, high test-retest reliability, and convergent and discriminant validity, including differences between children with and without dental caries. Factor analyses supported a unidimensional structure that fit better than a four-factor model.",
-  "why": ""
- },
- {
-  "id": "2c191ba5a057",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42893739/",
-  "source": "J Dent",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Additive SLA workflow gave better internal fit for inlay-retained fixed partial dentures",
-  "summary": "An in vitro study compared the fit accuracy of inlay-retained fixed partial dentures made by two additive manufacturing workflows (SLA and DLP) and one subtractive milling workflow, using typodont mandibular premolar and molar abutments. Fit was measured in 3D by comparing scans, with internal and marginal deviations quantified. The additive SLA workflow showed superior internal trueness and less variability in internal fit, while marginal fit was comparable across groups.",
-  "why": "Suggests that the manufacturing workflow chosen for inlay-retained bridges may affect internal adaptation, though the findings come from a laboratory typodont study and do not yet establish clinical outcomes."
- },
- {
-  "id": "72d3f1477e5c",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42892361/",
-  "source": "J Dent",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Extraoral scanbody workflow beats intraoral scanbodies in complete-arch in vitro test",
-  "summary": "An in vitro study compared an extraoral GeoXact scanbody workflow with a conventional intraoral scanbody workflow for transferring positions of implants in a complete arch. Using a maxillary edentulous cast with six digital analogs scanned 15 times per workflow, the extraoral method showed smaller translational deviation, lower global surface deviation, and smaller angular deviation. The authors say these are metrological results that still need prosthetic-fit and clinical validation.",
-  "why": ""
- },
- {
-  "id": "6d48c20b73b1",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42892360/",
-  "source": "J Dent",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "AI score from panoramic X-rays linked to five major systemic diseases",
-  "summary": "A retrospective cross-sectional study analyzed 26,550 panoramic radiographs from two hospitals using AI that detected teeth and implants and measured alveolar bone loss. It produced a 0-100 score based on missing teeth and weighted bone-loss severity. Patients with diabetes, hypertension, osteoporosis, ischemic heart disease, or hyperlipidemia had lower scores than controls, and the score stayed independently associated with all five conditions after adjustment, though it added significant discrimination only for diabetes, hypertension, and hyperlipidemia.",
-  "why": "Routinely taken panoramic radiographs may eventually offer an automated, exploratory marker that signals systemic disease risk and supports coordination between dental and medical care, though the study is retrospective and not yet a clinical tool."
- },
- {
-  "id": "5c4bfe60bc2a",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42892359/",
-  "source": "J Dent",
-  "published": "2026-10-20T20:50:36.154269+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "research",
-  "headline": "Survey finds posterior resin composite teaching is established in Indonesian dental schools",
-  "summary": "A cross-sectional study emailed a 23-item questionnaire to faculty at all 38 Indonesian dental schools, with an 84% response rate, about how posterior composites are taught. All responding schools taught occlusal and two- and three-surface occluso-proximal composite restorations in premolars and molars. Most schools taught removal of residual caries before restoration, and many taught composites ahead of amalgam, though amalgam was still taught first at more schools than composites.",
-  "why": "It offers a snapshot of how future dentists are trained in direct posterior composites and suggests amalgam teaching is gradually declining, which may shape the restorative skills new graduates bring to practice."
- },
- {
   "id": "900fda26114b",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42892358/",
   "source": "J Dent",
@@ -6520,5 +6454,71 @@
   "headline": "Owandy's I-Max 3D XPRO CBCT adds AI segmentation and named a 2026 Readers' Choice pick",
   "summary": "Owandy Radiology's I-Max 3D XPRO was named to Dentistry Today's 2026 Readers' Choice Top 50 Technology Products. The compact CBCT system uses AI to automatically isolate jaws, individual teeth, the mandibular canal, roots, and fillings, and its imaging chain includes a sensor that raises MTF by 30% and deep-learning noise reduction. It offers 70-µm resolution, fields of view from 5 x 5 to 16 x 11 cm, and a footprint under 10 sq ft, and it will be shown at Booth 3614 at the Greater New York Dental Meeting.",
   "why": "Automated segmentation and a smaller footprint could speed up 3D treatment planning and case explanations for practices that are considering a CBCT upgrade, though the excerpt is promotional and no independent performance data is given."
+ },
+ {
+  "id": "7ddcbdf6a237",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43051268/",
+  "source": "J Oral Maxillofac Surg",
+  "published": "2026-11-19T06:19:44.506680+00:00",
+  "added": "2026-11-19T06:19:44.506680+00:00",
+  "category": "research",
+  "headline": "FIXED: CAD/CAM tooth-bonded device for intermaxillary fixation in clear aligner orthognathic patients",
+  "summary": "Researchers describe FIXED, a CAD/CAM-designed device that is planned from intraoral scans, 3D-printed in biocompatible resin, and cemented to buccal enamel before surgery to provide anchorage for wires and elastics. The device was used in 3 patients with Class II or Class III malocclusion undergoing orthognathic surgery during clear aligner therapy, one of them with a surgery-first protocol. Intraoperative fixation was achieved as planned in all cases, with no device-related complications during the perioperative period.",
+  "why": ""
+ },
+ {
+  "id": "64b8c9d60f4c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43052001/",
+  "source": "Clin Oral Implants Res",
+  "published": "2026-11-19T06:19:44.506680+00:00",
+  "added": "2026-11-19T06:19:44.506680+00:00",
+  "category": "research",
+  "headline": "Intraoral photogrammetry matches conventional impressions for complete-arch implant frameworks in pilot trial",
+  "summary": "A pilot randomized controlled trial compared intraoral photogrammetry (IPG) with conventional impressions for complete-arch implant-supported prostheses, enrolling 26 arches from 17 patients. IPG was non-inferior to conventional impressions for passive fit of the titanium framework, with accuracy values reported as clinically acceptable. Patients rated IPG as more comfortable, less anxiety-provoking and less nauseating, and operators reported fewer disruptions from patient reactions and greater fluency with IPG.",
+  "why": "For complete-arch implant cases, this small pilot suggests digital photogrammetry can be an alternative to conventional impressions without losing framework fit, while improving patient comfort and workflow, though the study is small and limited."
+ },
+ {
+  "id": "e6d71771e521",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43051137/",
+  "source": "J Clin Periodontol",
+  "published": "2026-11-19T06:19:44.506680+00:00",
+  "added": "2026-11-19T06:19:44.506680+00:00",
+  "category": "research",
+  "headline": "Non-surgical therapy improves narrow and wide intrabony defects in short-term study",
+  "summary": "A retrospective analysis looked at clinical results of non-surgical periodontal therapy in intrabony defects, grouped by narrow or wide radiographic angle. Both groups showed significant clinical improvement at 3 months, with no statistically significant difference in probing depth change or pocket closure between them. Baseline radiographic angle did not affect outcomes, though the short follow-up and lack of wide or deep defects limit generalisation.",
+  "why": "It suggests non-surgical therapy can help certain intrabony defects regardless of angle, but the short follow-up and limited defect types mean surgical decisions for deeper defects should not rely on these findings alone."
+ },
+ {
+  "id": "6e802b15af6b",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43052161/",
+  "source": "J Prosthet Dent",
+  "published": "2026-11-19T06:19:44.506680+00:00",
+  "added": "2026-11-19T06:19:44.506680+00:00",
+  "category": "research",
+  "headline": "Polishing after speed-sintering gives smoothest zirconia; biofilm levels similar across finishes",
+  "summary": "An in vitro study compared how different finishing protocols affected surface roughness and early Streptococcus mutans biofilm formation on enamel and dentin layers of two multilayer speed-sintered zirconia materials intended for in-office use. Polishing after sintering produced the smoothest surfaces, while glazing increased roughness. Biofilm accumulation was minimal across all groups, with no significant differences by material, layer, or finishing method.",
+  "why": "For in-office milled zirconia restorations, polishing after speed-sintering appears to give the smoothest surface, but the tested finishes did not change early bacterial adhesion, so finishing choice may rest on other factors."
+ },
+ {
+  "id": "e7f13114dff6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43051364/",
+  "source": "J Dent",
+  "published": "2026-11-19T06:19:44.506680+00:00",
+  "added": "2026-11-19T06:19:44.506680+00:00",
+  "category": "research",
+  "headline": "Keyless guided implant system showed smaller linear deviations than drill-key system in vitro",
+  "summary": "An in vitro study compared keyless and drill-key static computer-assisted implant systems using Straumann tissue-level implants of two macro-designs in healed ridges and simulated molar extraction sites. The keyless system produced smaller crestal and vertical deviations and higher precision, while both systems showed comparable trueness. Insertion torque was higher with the drill-key system, and healed ridges gave better accuracy and primary stability than extraction sites.",
+  "why": "In this bench model, keyless guidance placed implants closer to the planned position, but accuracy fell in extraction sites, and the stability values should not be assumed to apply clinically."
+ },
+ {
+  "id": "63c9a2495aa8",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43052116/",
+  "source": "Oral Surg Oral Med Oral Pathol Oral Radiol",
+  "published": "2026-11-19T06:19:44.506680+00:00",
+  "added": "2026-11-19T06:19:44.506680+00:00",
+  "category": "research",
+  "headline": "Upward-facing interproximal wedge reduces overlap in bitewing radiographs",
+  "summary": "A clinical study of 100 patients compared two commercial image receptor-holding devices with two modified versions whose interproximal wedge faced either upward or downward. Two oral radiologists judged proximal surface overlap on digital images, and questionnaires captured operator perception and patient comfort. The modified device with the upward-facing wedge showed significantly less overlap than the other devices across regions and arches, and the modified devices scored higher for comfort.",
+  "why": "For clinicians taking bitewings, wedge orientation on a receptor-holding device may reduce overlapping proximal surfaces and improve patient comfort, though this is a single study and its findings should be confirmed before changing routine technique."
  }
 ]
