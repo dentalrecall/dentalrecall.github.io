@@ -1,38 +1,5 @@
 [
  {
-  "id": "a967c881113c",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42876283/",
-  "source": "J Dent Res",
-  "published": "2026-10-20T21:11:31.157467+00:00",
-  "added": "2026-10-20T21:11:31.157467+00:00",
-  "category": "research",
-  "headline": "New Al- and V-free titanium alloy shows fibroblast-friendly behavior in vitro",
-  "summary": "An in vitro study tested a new beta-titanium alloy (Ti20Zr3Mo) that contains no aluminum or vanadium and has a lower elastic modulus than Ti6Al4V. Using primary human gingival fibroblasts, the alloy supported cell viability comparable to commercially pure titanium and showed greater fibroblast surface colonization. The authors suggest the alloy may improve peri-implant soft tissue sealing, though the findings come from laboratory testing.",
-  "why": "If validated clinically, alloys like this could eventually offer implant options with a stiffness closer to bone and less concern about metal ion release, but it remains early laboratory research with no direct change to current practice."
- },
- {
-  "id": "f97e90f34065",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42873199/",
-  "source": "J Dent Res",
-  "published": "2026-10-20T21:11:31.157467+00:00",
-  "added": "2026-10-20T21:11:31.157467+00:00",
-  "category": "research",
-  "headline": "GLP-1 drugs and dentistry: promising lab data, but little clinical evidence",
-  "summary": "A critical appraisal in the Journal of Dental Research reviews how GLP-1 receptor agonists may affect oral health. Animal and cell studies suggest bone-protective and anti-inflammatory effects on periodontal and peri-implant tissues, but clinical data are limited to a single retrospective cohort study. Reported oral side effects include dry mouth, taste changes and reduced smell, and nausea and vomiting may pose an unquantified erosion and caries risk.",
-  "why": ""
- },
- {
-  "id": "1f47af845a0d",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42865008/",
-  "source": "J Dent Res",
-  "published": "2026-10-20T21:11:31.157467+00:00",
-  "added": "2026-10-20T21:11:31.157467+00:00",
-  "category": "research",
-  "headline": "Periodontal nerves may steer inflammation, bone repair, and links to the brain",
-  "summary": "A review in J Dent Res describes periodontal nerves as active regulators of immune responses, bone remodeling, and tissue regeneration, not only sensory pathways. It reports that periodontitis is linked to an imbalance between pro-inflammatory nerve signals and protective ones, and that restoring this balance is needed for regeneration. The authors also describe a two-way connection between the periodontium and the central nervous system, and outline nerve-targeted strategies being explored.",
-  "why": "This is a mechanistic review rather than a clinical study, so it does not change current treatment, but it suggests that neural factors such as stress and sleep may affect why some periodontitis patients respond poorly to standard therapy."
- },
- {
   "id": "68fb54df9b0a",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42888122/",
   "source": "Int J Oral Maxillofac Surg",
@@ -6520,5 +6487,38 @@
   "headline": "Henry Schein's video series spotlights dental hygienists, with pediatric hygienist Kimberly Kyd in Episode 2",
   "summary": "Henry Schein's \"The People Behind the Prophy\" series profiles dental hygienists and their personal stories. Episode 2 features pediatric dental hygienist Kimberly Kyd, RDH, who discusses patience, prevention, and a whole-patient approach to helping children build positive dental experiences.",
   "why": "The episode offers practical perspective on building trust with young patients, recognizing airway concerns early, and reducing dental fear, which may be useful for team training and pediatric patient care."
+ },
+ {
+  "id": "90bf47910fab",
+  "url": "https://www.dentistrytoday.com/a-combined-regenerative-approach-for-managing-gingival-recession/",
+  "source": "Dentistry Today",
+  "published": "2026-11-19T17:33:45+00:00",
+  "added": "2026-11-19T18:09:04.808060+00:00",
+  "category": "research",
+  "headline": "Case series tests rhPDGF-BB with β-TCP and coronally advanced flap for gingival recession",
+  "summary": "This case series from Rutgers University School of Dental Medicine reports four patients treated for Miller Class I and II gingival recession in the maxilla and mandible. The treatment combined rhPDGF-BB with β-tricalcium phosphate under a porous wound dressing, along with a coronally advanced flap, and outcomes were judged by root coverage, gingival thickness gain, and keratinized tissue width. In one patient, a CT scan at ten months showed hard tissue gain on the previously exposed root surface.",
+  "why": "It offers a documented regenerative option for recession defects, though the evidence comes from only four patients, so it is an early signal rather than a proven standard."
+ },
+ {
+  "id": "0b46241df271",
+  "url": "https://www.dentistrytoday.com/registration-now-open-for-thrivelive-2027/",
+  "source": "Dentistry Today",
+  "published": "2026-11-19T07:20:07+00:00",
+  "added": "2026-11-19T18:09:04.808060+00:00",
+  "category": "events",
+  "headline": "THRIVELIVE 2027 Opens Registration for Las Vegas Event in April-May",
+  "summary": "Registration is open for THRIVELIVE 2027, co-hosted by Henry Schein and Henry Schein One, to be held at Resorts World Las Vegas from April 28 to May 1, 2027. The event offers more than 100 courses worth up to 15 CE credits, along with new partnerships with AADOM, BioHorizons, Dykema, Spear, and 3Shape. Ultra Early Bird registration runs through December 31, 2026.",
+  "why": ""
+ },
+ {
+  "id": "359102e67283",
+  "url": "https://www.dentistrytoday.com/aspen-dental-opens-three-new-practices-in-three-states/",
+  "source": "Dentistry Today",
+  "published": "2026-11-19T07:11:47+00:00",
+  "added": "2026-11-19T18:09:04.808060+00:00",
+  "category": "business",
+  "headline": "Aspen Dental Opens Three Independently Owned Practices in Three States",
+  "summary": "Aspen Dental announced the opening of three new offices in Pueblo, Colorado; Moncks Corner, South Carolina; and Hanover, Maryland, each run by an independently owned practice led by an established owner. The offices offer a full range of services, including preventive, emergency, implant, oral surgery, and clear aligner care, with walk-in availability and upfront cost estimates. The openings are tied to Aspen Dental's Practice Ownership Program, which the company says helps associate dentists progress to ownership; the number of practice owners rose from 85 to 277 between 2014 and 2024.",
+  "why": "It shows a dental support network expanding through doctor ownership pathways, which may matter to associates weighing ownership or to practices competing in these markets."
  }
 ]
