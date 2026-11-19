@@ -1,16 +1,5 @@
 [
  {
-  "id": "0c85c6cf1481",
-  "url": "https://www.dentaleconomics.com/home/podcast/55413186/your-practice-has-an-identity-does-your-marketing",
-  "source": "Home | Dental Economics",
-  "published": "2026-10-20T18:33:04+00:00",
-  "added": "2026-10-20T20:50:36.154269+00:00",
-  "category": "business",
-  "headline": "Dental marketing should start with practice identity, not websites or ads",
-  "summary": "An episode of the Dentistry Unmasked podcast features Grace Rizza, CEO of Identity Dental Marketing, discussing marketing. The conversation argues that effective marketing begins well before a website is built, social media is posted to, or an ad campaign is launched.",
-  "why": "It suggests practices should define their brand identity first, so that websites, social posts and ads are built on a clear foundation rather than used in isolation."
- },
- {
   "id": "976f7c664a42",
   "url": "https://decisionsindentistry.com/2026/10/announcing-dentalject-topical-anesthetic-spray-helps-reduce-injection-pain-and-fear-while-improving-workflows/",
   "source": "Decisions in Dentistry",
@@ -6520,5 +6509,16 @@
   "headline": "Narrative review of rotational path removable partial denture design concepts",
   "summary": "This narrative review and case report covers the rotational path removable partial denture (RPRPD), described as a viable option for restoring esthetics and function in Kennedy Class III and IV partially edentulous patients. It reviews the basic concept's indications, contraindications, advantages and disadvantages, moving from analog to digital workflow. Two clinical cases are described in detail.",
   "why": "Dentists treating Kennedy Class III or IV partially edentulous patients may find this a reference for considering RPRPD as a treatment option, along with its limits and digital workflow steps."
+ },
+ {
+  "id": "938d2f2cdf4d",
+  "url": "https://www.dental-tribune.com/news/researchers-test-ai-for-identifying-those-at-high-risk-of-caries/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-11-19T12:39:03+00:00",
+  "added": "2026-11-19T15:17:04.278049+00:00",
+  "category": "research",
+  "headline": "AI models tested for predicting people at high risk of untreated caries",
+  "summary": "A recent study examined whether artificial intelligence models could predict untreated caries and cumulative caries experience using only socio-economic, demographic and behavioural data. The authors suggest the approach may have potential for public health screening to direct preventive dental care toward those most in need, based on established social determinants of health.",
+  "why": ""
  }
 ]
