@@ -1,137 +1,5 @@
 [
  {
-  "id": "77191ee82dfe",
-  "url": "https://www.dental-tribune.com/news/primary-teeth-reveal-differences-in-chemical-exposure-in-children-with-autism/",
-  "source": "Articles – Dental Tribune",
-  "published": "2026-10-21T07:38:45+00:00",
-  "added": "2026-10-21T08:56:01.842362+00:00",
-  "category": "research",
-  "headline": "Shed primary teeth show higher chemical levels in children with autism",
-  "summary": "US scientists analysed naturally shed primary teeth from children with and without autism. The autism group had higher concentrations of many environmental chemicals, and the researchers called the results preliminary and in need of further study.",
-  "why": "This is early-stage research, so it does not change clinical practice, but it highlights that primary teeth can serve as a record of childhood chemical exposure."
- },
- {
-  "id": "107e0fa9bf9d",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42902506/",
-  "source": "Clin Oral Implants Res",
-  "published": "2026-10-21T09:53:22.057987+00:00",
-  "added": "2026-10-21T09:53:22.057987+00:00",
-  "category": "research",
-  "headline": "Combining biomarkers with clinical measures improves detection of peri-implant bone loss",
-  "summary": "A university-based cohort of dental implant patients was followed for a mean of 3.9 years, with peri-implant bone loss defined by radiographic change over that period. Host-derived and microbial biomarkers alone were poor detectors of bone loss (best AUC 0.68), and their links to bone loss disappeared after adjusting for clinical parameters. Combinations of biomarkers with clinical measures performed well, with IL-1β plus bleeding on probing or probing depth reaching an AUC of 0.97, though that combination did not beat clinical parameters alone.",
-  "why": "Individual salivary or fluid biomarkers are not reliable on their own for spotting implant bone loss, so routine monitoring should keep relying on clinical measures, with biomarkers possibly adding value as part of a combined screening approach."
- },
- {
-  "id": "c85293fc94c1",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42902500/",
-  "source": "Clin Oral Implants Res",
-  "published": "2026-10-21T09:53:22.057987+00:00",
-  "added": "2026-10-21T09:53:22.057987+00:00",
-  "category": "research",
-  "headline": "Occlusal Trauma Linked to MRONJ Around Implants in Mouse Study",
-  "summary": "In a mouse model, researchers placed implants after molar extraction, then gave zoledronic acid or saline before inducing premature occlusal contact on one implant per animal. Occlusal contact reduced bone-to-implant contact in both groups, and in zoledronic acid-treated mice it caused widespread circumferential bone necrosis with more macrophages. Peptidoglycan-positive bacterial signals did not differ among groups.",
-  "why": "This suggests occlusal trauma may act as a local contributor to MRONJ around osseointegrated implants in patients on antiresorptive drugs, so occlusal assessment may matter in these patients, though the findings come from an animal study."
- },
- {
-  "id": "2c8717b47f30",
-  "url": "https://www.dental-tribune.com/news/3ddx-launches-3ddx-ai-planning-ai-prepared-implant-plans-with-a-dentist-in-the-loop/",
-  "source": "Articles – Dental Tribune",
-  "published": "2026-10-21T10:52:04+00:00",
-  "added": "2026-10-21T13:06:36.350446+00:00",
-  "category": "products",
-  "headline": "3DDX launches AI Planning tool for dental implant cases",
-  "summary": "Digital dentistry company 3DDX has launched 3DDX AI Planning, which it describes as the first AI implant planning solution with a human in the loop. The system generates AI implant plans that are reviewed by the company's in-house dentists before they move into production. Approved plans are linked to surgical guide and restoration manufacturing in one workflow.",
-  "why": "Dentists who place implants or use surgical guides may see a new option for AI-generated planning, but each plan still gets clinical review by 3DDX dentists before production."
- },
- {
-  "id": "729d13ee1120",
-  "url": "https://www.dentistryiq.com/business-management-leadership/article/55412889/why-treatment-acceptance-starts-before-the-financial-conversation",
-  "source": "Home | Dentistry IQ",
-  "published": "2026-10-19T19:11:39+00:00",
-  "added": "2026-10-21T13:57:37.111961+00:00",
-  "category": "business",
-  "headline": "Treatment acceptance depends on addressing patient concerns before cost talks",
-  "summary": "The article argues that dental treatment acceptance improves when practices look beyond insurance and cost to address what patients are worried about. It points to strong team communication, empathetic conversations, and patient-centered care as ways to build trust so patients feel comfortable moving forward with recommended treatment.",
-  "why": "Practices may see better case acceptance by focusing on patient trust and team communication early in the conversation, not only on financial arrangements."
- },
- {
-  "id": "227d5a5f090f",
-  "url": "https://www.dentistrytoday.com/dr-sara-mahmood-on-digital-dentistry-suresmile-practice-growth/",
-  "source": "Dentistry Today",
-  "published": "2026-10-21T14:29:37+00:00",
-  "added": "2026-10-21T14:52:48.924240+00:00",
-  "category": "people",
-  "headline": "Dr. Sara Mahmood on digital dentistry, SureSmile, and growing a practice",
-  "summary": "In a video interview filmed at DS World 2026, Dentistry Today editor-in-chief Dr. Paul Feuerstein speaks with Dr. Sara Mahmood, founder and owner of brush365, a six-location practice group. The conversation covers her use of Dentsply Sirona technologies such as CEREC, CBCT, 3D printing, and DS Core, as well as her experience with SureSmile clear aligners, including IPR and attachments. It also touches on leadership, delegation, and mentorship.",
-  "why": "It offers a practicing dentist's perspective on how investing early in digital workflows and clear aligner planning can shape a multi-location practice's growth and clinical collaboration."
- },
- {
-  "id": "3ef1f62aef3d",
-  "url": "https://www.dentistrytoday.com/johannes-krug-wolf-dieter-perlitz-on-ds-core-ai-and-connected-dentistry/",
-  "source": "Dentistry Today",
-  "published": "2026-10-21T14:28:03+00:00",
-  "added": "2026-10-21T14:52:48.924240+00:00",
-  "category": "tech",
-  "headline": "Dentsply Sirona execs discuss DS Core cloud platform and AI in connected dentistry",
-  "summary": "At Dentsply Sirona World 2026, Dentistry Today's editor-in-chief interviewed Johannes Krug and Wolf-Dieter Perlitz about the company's move from standalone equipment toward integrated solutions. The discussion covered DS Core, its cloud-based platform that links scanners, milling systems, imaging and digital workflows, along with AI that flags potential findings in diagnostic images while leaving decisions to the dentist.",
-  "why": "Connected cloud workflows and AI-assisted imaging could affect how practices share patient information with specialists and streamline daily operations, though the excerpt is promotional and gives no specifics on results."
- },
- {
-  "id": "72d84967c62e",
-  "url": "https://www.dentistrytoday.com/heartland-dental-reaches-2000-supported-dental-offices/",
-  "source": "Dentistry Today",
-  "published": "2026-10-21T14:25:52+00:00",
-  "added": "2026-10-21T14:52:48.924240+00:00",
-  "category": "business",
-  "headline": "Heartland Dental Reaches 2,000 Supported Dental Offices",
-  "summary": "Heartland Dental, the nation's largest dental support organization, has reached 2,000 supported offices. The company says it grew from a single practice to more than 1,900 practices across 38 states and the District of Columbia by the end of 2025. Its model keeps clinical decisions with doctors while providing business, administrative, technology, and continuing education support, and it now supports more than 10,000 doctors and hygienists.",
-  "why": "For dentists weighing affiliation, this shows how large DSOs are expanding by offering non-clinical services such as billing, HR, and marketing while leaving clinical judgment with the doctor."
- },
- {
-  "id": "4d5535c9b350",
-  "url": "https://www.dentistrytoday.com/roe-dental-lab-introduces-archbridge-overdenture-system/",
-  "source": "Dentistry Today",
-  "published": "2026-10-21T14:13:50+00:00",
-  "added": "2026-10-21T14:52:48.924240+00:00",
-  "category": "products",
-  "headline": "ROE Dental Lab launches ArchBridge digital overdenture scanning system",
-  "summary": "ROE Dental Laboratory has introduced ArchBridge for Overdenture, a patent-pending digital scanning system and workflow for fixed and removable overdenture cases. Clinicians record attachment positions intraorally with six reusable titanium scan bodies, and the lab places and cures the overdenture housings without poured models, analogs, or chairside pickup.",
-  "why": "Moving housing placement to the lab could remove chairside blockout and acrylic pickup steps for overdenture cases, though the excerpt does not give clinical outcome data."
- },
- {
-  "id": "0a08b86b053f",
-  "url": "https://www.dentistrytoday.com/smartee-highlights-class-ii-treatment-at-sido-2026/",
-  "source": "Dentistry Today",
-  "published": "2026-10-21T14:08:12+00:00",
-  "added": "2026-10-21T14:52:48.924240+00:00",
-  "category": "events",
-  "headline": "Smartee Presents Class II Mandibular Repositioning Approach at SIDO 2026",
-  "summary": "Smartee Denti-Technology took part in the 57th SIDO International Congress in Turin, held October 8–10, discussing complex case management and digital tools in orthodontic decisions. Dr. Jingting Lu gave a clinical lecture on S8-SGTB, part of the Smartee GS system, which pairs Mandibular Repositioning Technology with clear aligners to treat severe skeletal Class II jaw discrepancies.",
-  "why": ""
- },
- {
-  "id": "40212e6b2b5f",
-  "url": "https://www.dentistrytoday.com/new-poll-shows-resounding-bipartisan-support-for-dental-coverage/",
-  "source": "Dentistry Today",
-  "published": "2026-10-21T17:07:16+00:00",
-  "added": "2026-10-21T17:49:57.750059+00:00",
-  "category": "research",
-  "headline": "National Poll Finds Bipartisan Backing for Dental Coverage in Medicare and Veterans Care",
-  "summary": "A national poll by CareQuest Institute for Oral Health, conducted with Marketing for Change, found broad support across party lines for dental coverage, including for older or disabled adults and veterans. Nine in 10 voters backed Medicare dental coverage, with 96% of Democrats, 86% of Republicans, and 92% of Independents in favor. Traditional Medicare currently does not include dental coverage.",
-  "why": "The findings suggest that expanded dental coverage in public programs has wide political support, which could shape future policy changes that affect patient access and how practices serve Medicare and veteran patients."
- },
- {
-  "id": "9f477addd21d",
-  "url": "https://www.dentaleconomics.com/home/podcast/55413485/the-price-of-saying-no",
-  "source": "Home | Dental Economics",
-  "published": "2026-10-21T16:58:04+00:00",
-  "added": "2026-10-21T17:49:57.750059+00:00",
-  "category": "people",
-  "headline": "Dentistry Unmasked episode explores when to walk away from public dental careers",
-  "summary": "The latest Dentistry Unmasked episode concludes a candid conversation between Pam and Irene Iancu. It focuses on the difficulty of deciding when to step back from opportunities while building a public career in dentistry.",
-  "why": "It offers a personal perspective for dentists weighing public-facing roles, though the excerpt gives no specific details or advice."
- },
- {
   "id": "42cc42b5d34c",
   "url": "https://www.dentistrytoday.com/betsy-shapiro-receives-2026-ada-distinguished-service-award/",
   "source": "Dentistry Today",
@@ -6058,5 +5926,120 @@
   "headline": "Scanning the palate improves maxillary complete-arch intraoral scan accuracy",
   "summary": "An in vitro study digitized a fully dentate maxillary typodont with a reference scanner and compared three intraoral scanners (Aoralscan Elite, TRIOS 4, Primescan) with and without palatal acquisition. Scanner choice was the main factor for trueness, and including the palate improved overall and posterior trueness, though only Aoralscan Elite showed a significant trueness gain. Palatal acquisition also reduced interscan deviation for TRIOS 4 and Primescan, and all scanners overestimated arch width, with larger errors toward the molars.",
   "why": "For long-span maxillary restorations, capturing the palate appears to be a brief, reasonable step to reduce arch-width errors, though the findings come from one typodont model and may vary by scanner."
+ },
+ {
+  "id": "0326cb172ef6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43061841/",
+  "source": "J Periodontol",
+  "published": "2026-11-20T17:52:41.216521+00:00",
+  "added": "2026-11-20T17:52:41.216521+00:00",
+  "category": "research",
+  "headline": "Local IL-17A blockade reduces peri-implant bone loss in diabetic rats",
+  "summary": "In a rat study, thirty diabetic animals were split into control, peri-implantitis, and anti-IL-17A treatment groups. Micro-CT, TRAP, and H&E staining showed that peri-implantitis caused more bone resorption and osteoclast activity, and that local IL-17A neutralization reduced both along with inflammatory markers. The authors describe the approach as promising but note that these are preclinical results needing further validation.",
+  "why": ""
+ },
+ {
+  "id": "c02d49896a1f",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43059581/",
+  "source": "J Clin Periodontol",
+  "published": "2026-11-20T17:52:41.216521+00:00",
+  "added": "2026-11-20T17:52:41.216521+00:00",
+  "category": "research",
+  "headline": "EFP issues first S2k-level guideline for non-dental biofilm gingival diseases and enlargement",
+  "summary": "The European Federation of Periodontology has published a clinical practice guideline covering non-dental biofilm-induced gingival diseases and conditions, plus gingival enlargement, which had no prior guidance. It was built from two commissioned systematic reviews, GRADE-based evidence grading, and a structured expert consensus process. The authors state these conditions are rare and complex, with few randomised trials, so evidence is limited in many areas.",
+  "why": "Dentists seeing these uncommon gingival conditions should consider referring suspected malignancies urgently and possibly referring complex cases to specialist centres, while treating biofilm-related inflammation is generally beneficial and enlargement management is usually medical first."
+ },
+ {
+  "id": "736b6a037af8",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43059493/",
+  "source": "Int Endod J",
+  "published": "2026-11-20T17:52:41.216521+00:00",
+  "added": "2026-11-20T17:52:41.216521+00:00",
+  "category": "research",
+  "headline": "Specialist root canal care in Germany retains teeth longer at modest extra cost",
+  "summary": "A Markov cost-effectiveness model followed a tooth needing root canal treatment in a 25-year-old patient over life, comparing care by general practitioners, care by endodontic specialists, and GP treatment with specialist referral for retreatment after failure. Costs used German public and private fee schedules in 2026 euros. Specialist-only care gave the longest average tooth retention (49.5 years, 1475.89 EUR), GP-only care gave 36.8 years (1376.81 EUR), and referral gave 44.2 years at the lowest cost (1326.17 EUR).",
+  "why": ""
+ },
+ {
+  "id": "8ce0b8423b6f",
+  "url": "https://www.dentistrytoday.com/beyond-the-title-dew-retreat-leadership-community-dentistry/",
+  "source": "Dentistry Today",
+  "published": "2026-11-20T14:55:28+00:00",
+  "added": "2026-11-20T17:52:41.216521+00:00",
+  "category": "events",
+  "headline": "DeW Life's 10th anniversary retreat focuses on connection over job titles",
+  "summary": "DeW Life, an organization for women in dentistry (short for Dental Entrepreneur Woman), marked its 10th anniversary with a three-day retreat at The Ballantyne in Charlotte, North Carolina, from November 12 to 14, 2026. The event centered on leadership, personal growth, entrepreneurship, and community, with a mix of celebration and emotional sharing. Attendees wore badges showing CliftonStrengths instead of company names or job titles, which shifted conversations toward personal goals and challenges.",
+  "why": ""
+ },
+ {
+  "id": "198bd2316af2",
+  "url": "https://www.dental-tribune.com/news/septodont-and-adin-announce-strategic-partnership-in-france/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-11-20T12:19:33+00:00",
+  "added": "2026-11-20T17:52:41.216521+00:00",
+  "category": "business",
+  "headline": "Septodont and Adin Implants form long-term partnership in France",
+  "summary": "Septodont, a dental pharmaceuticals and solutions provider, and Adin Implants, a global dental implant company, have announced a long-term strategic partnership. The aim is to expand implant dentistry in France.",
+  "why": ""
+ },
+ {
+  "id": "41f6af073bed",
+  "url": "https://www.dental-tribune.com/news/intra-oral-scans-show-promise-in-detecting-secondary-caries/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-11-20T08:47:44+00:00",
+  "added": "2026-11-20T17:52:41.216521+00:00",
+  "category": "research",
+  "headline": "Intra-oral scans may help detect secondary caries, depending on lesion severity",
+  "summary": "Researchers in Brazil ran what they believe is the first clinical validation study of its kind to test whether standard intra-oral scans, taken without caries-detection features, can spot secondary caries around restorations. Lesions were grouped by severity using categories adapted from the Caries Associated with Restorations or Sealants criteria. The findings suggest the diagnostic value of these scans may depend on how severe the lesion is.",
+  "why": ""
+ },
+ {
+  "id": "784057da4f37",
+  "url": "https://www.dentistrytoday.com/does-our-dentistry-stand-the-test-of-time/",
+  "source": "Dentistry Today",
+  "published": "2026-11-20T06:51:00+00:00",
+  "added": "2026-11-20T17:52:41.216521+00:00",
+  "category": "clinical",
+  "headline": "A 93-year-old patient's decades-long search for a lasting smile",
+  "summary": "Dr. Louis Kaufman recounts treating a 93-year-old patient who lost her front teeth as a young child and never had a prosthesis that fit well. After ten dentists declined a treatment that required extracting healthy teeth, another dentist agreed to provide it, and the patient's life changed. The dentist also paid for her to attend modeling school.",
+  "why": "It is a reflective piece on balancing tooth preservation against a patient's functional and emotional goals, and on how a dentist's willingness to listen can change outcomes."
+ },
+ {
+  "id": "fa97e1208784",
+  "url": "https://www.dentistrytoday.com/mark3-launches-blue-streak-diamond-burs-at-lower-prices/",
+  "source": "Dentistry Today",
+  "published": "2026-11-20T06:30:14+00:00",
+  "added": "2026-11-20T17:52:41.216521+00:00",
+  "category": "products",
+  "headline": "MARK3 Introduces Blue Streak Diamond Burs at Lower MSRP",
+  "summary": "MARK3 has launched Blue Streak Diamond Burs, which the company says offer cutting performance comparable to premium bur brands at a significantly lower manufacturer's suggested retail price. The burs are marketed for shaping, contouring, and finishing, and feature diamond exposure and high-security bonding technology. The publisher's comparison lists MARK3's 5-bur pack at as low as $21.95, versus about $43 to $75+ for other brands' 5-packs.",
+  "why": ""
+ },
+ {
+  "id": "0d28a043074e",
+  "url": "https://www.dentistrytoday.com/ada-promotes-david-waldschmidt-to-senior-vice-president/",
+  "source": "Dentistry Today",
+  "published": "2026-11-20T06:22:47+00:00",
+  "added": "2026-11-20T17:52:41.216521+00:00",
+  "category": "people",
+  "headline": "ADA Names David Waldschmidt Senior Vice President of Testing Services",
+  "summary": "The American Dental Association has promoted David Waldschmidt, Ph.D., to Senior Vice President for Testing Services and the Joint Commission on National Dental Examinations. He will provide strategic and operational leadership for the ADA's licensure and admissions examination programs, which he previously helped lead as Senior Director of Testing Services. ADA Executive Director Nader Nadershahi praised his role in expanding the association's examination offerings.",
+  "why": "The promotion signals continued focus on the licensure and admissions exams that determine dental practitioner qualifications, which can matter to dentists involved in licensing or dental education."
+ },
+ {
+  "id": "4c44e1ecff2d",
+  "hidden": true,
+  "added": "2026-11-20T17:52:41.216521+00:00"
+ },
+ {
+  "id": "a412b07646f2",
+  "url": "https://www.dentistryiq.com/dental-hygiene/article/55420122/building-stronger-foundations-actionable-strategies-for-lifelong-skeletal-health",
+  "source": "Home | Dentistry IQ",
+  "published": "2026-11-18T22:17:55+00:00",
+  "added": "2026-11-20T17:52:41.216521+00:00",
+  "category": "clinical",
+  "headline": "Strategies for lifelong skeletal health and what dentists can do",
+  "summary": "An article from Dentistry IQ looks at how hormones, nutrition, sleep, and physical activity shape bone health across a lifetime. It covers factors affecting bone density, fracture risk, and osteoporosis prevention. It also discusses how dental professionals can link skeletal health to overall systemic health.",
+  "why": "Dentists may be able to recognize bone-related health factors during patient visits and discuss how skeletal health connects to the broader health picture."
  }
 ]
