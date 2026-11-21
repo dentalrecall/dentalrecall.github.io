@@ -1,16 +1,5 @@
 [
  {
-  "id": "a3104e125454",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42901219/",
-  "source": "J Oral Maxillofac Surg",
-  "published": "2026-10-22T04:52:25.307281+00:00",
-  "added": "2026-10-22T04:52:25.307281+00:00",
-  "category": "research",
-  "headline": "Implant-anchored 3D-printed titanium mesh rebuilds severe maxilla in ectodermal dysplasia case",
-  "summary": "A case report describes a 24-year-old man with ectodermal dysplasia, oligodontia, and severe maxillary ridge hypoplasia who had only four permanent teeth left. Treatment combined orthodontics, restoration of remaining teeth, bilateral sinus floor elevation, and staged implant placement, with two posterior implants anchoring a custom 3D-printed titanium mesh for guided bone regeneration. Six implants were ultimately restored with fixed prostheses, and at about four years all implants were functioning with healthy peri-implant tissue and no complications.",
-  "why": "It shows that patient-specific printed titanium mesh, secured by implants, can be part of a digitally planned approach to rebuilding severely deficient jaws, though this is a single case with a relatively short follow-up."
- },
- {
   "id": "e0eb04ebe2ce",
   "url": "https://www.dental-tribune.com/news/us-appeals-court-revives-antitrust-claims-against-align-technology/",
   "source": "Articles – Dental Tribune",
@@ -6052,5 +6041,192 @@
   "headline": "Valian Extends Revenue Cycle Services to Orthodontic and General Dental Billing",
   "summary": "Valian, a dental and medical billing company, has expanded its revenue cycle management software to cover insurance billing for orthodontic and general dental practices, from the initial insurance check through final payment. Before visits, the service checks coverage in real time and files prior authorizations; afterward, it submits claims electronically, handles denials, and collects the patient's share. The billing service runs inside the practice's existing system, so front desk staff can track claim status and outstanding balances by carrier and age.",
   "why": ""
+ },
+ {
+  "id": "421a95e4dc72",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43064613/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-21T07:22:47.520558+00:00",
+  "added": "2026-11-21T07:22:47.520558+00:00",
+  "category": "research",
+  "headline": "Guided midface surgery accurate for maxilla and orbit, less so for zygoma",
+  "summary": "This study compared planned and achieved positions after guided midface surgery using patient-specific implants in 12 patients with complex craniofacial anomalies, based on pre- and postoperative CBCT scans. The average 3D deviation was 2.4 ± 1.1 mm, with maxilla and orbit movements staying within the 2 mm/° threshold. The zygomatic bones showed significant posterior displacement and yaw rotation errors.",
+  "why": "Virtual planning with patient-specific implants appears reliable for maxillary and orbital repositioning, but surgeons should expect zygomatic advancement to drift posteriorly and rotate inward, which may need extra attention during planning or execution."
+ },
+ {
+  "id": "a14e4ab166ba",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43064612/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-21T07:22:47.520558+00:00",
+  "added": "2026-11-21T07:22:47.520558+00:00",
+  "category": "research",
+  "headline": "Ultrasound-guided transvelopharyngeal excision of a retropharyngeal thyroid cancer metastasis",
+  "summary": "This technical note describes removing an isolated, non-iodine-avid retropharyngeal lymph node metastasis from oncocytic thyroid carcinoma in a 69-year-old woman with a previously operated and reconstructed neck. The surgeons used an endoscopic-assisted trans-velopharyngeal approach, with intraoral duplex ultrasound to locate the lesion and internal carotid artery before and during dissection. The lesion was fully excised en bloc without carotid skeletonization or neurological, swallowing, airway, or wound complications, and thyroglobulin fell from 58.6 to 1.0 ng/mL.",
+  "why": "It shows that, in carefully selected patients where reopening the neck would carry high morbidity, a trans-velopharyngeal route guided by intraoral ultrasound may be a feasible alternative for deep retropharyngeal nodal disease."
+ },
+ {
+  "id": "69713c6b82a3",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43063505/",
+  "source": "Int J Oral Maxillofac Implants",
+  "published": "2026-11-21T07:22:47.520558+00:00",
+  "added": "2026-11-21T07:22:47.520558+00:00",
+  "category": "research",
+  "headline": "Life-threatening floor-of-mouth hematoma after guided implant placement in a resorbed mandible",
+  "summary": "A case report describes a 59-year-old man who developed sudden bleeding and sublingual swelling after computer-guided implant placement in a severely resorbed edentulous mandible, with the swelling threatening the airway. Imaging showed lingual cortical perforation at the #31 implant site, and comparison with the original digital plan found that only that implant had shifted lingually, likely during freehand insertion after the guide was removed. Emergency intubation and conservative care led to gradual resolution of the hematoma.",
+  "why": "Even with guided surgery, mucosa-supported guides without extra fixation and freehand insertion after guide removal may allow positional drift, so dentists placing implants in severely resorbed mandibles should use thorough CBCT assessment and be prepared to manage the airway."
+ },
+ {
+  "id": "203a9b8ddf79",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43063504/",
+  "source": "Int J Oral Maxillofac Implants",
+  "published": "2026-11-21T07:22:47.520558+00:00",
+  "added": "2026-11-21T07:22:47.520558+00:00",
+  "category": "research",
+  "headline": "RNA-seq in rabbits compares early gene activity around turned, SLA-treated and copper titanium implants",
+  "summary": "This exploratory study used a rabbit tibia model to examine early molecular responses at the bone-implant interface 10 days after placement. Turned titanium, SLA-modified titanium, and turned copper implants were compared against a drilled sham control, with bone-to-implant contact and bone area measured by histomorphometry. Both titanium groups had significantly higher bone-to-implant contact and bone area than copper, and the SLA titanium showed an immune-related gene pattern, while copper showed altered mitochondrial and oxidative stress genes; SLA and turned titanium did not differ in gene expression.",
+  "why": "Copper-containing implants appeared to heal with weaker bone contact and a different early gene profile than titanium, though this small preliminary animal study does not yet support changes to clinical implant selection."
+ },
+ {
+  "id": "68588b7d924c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43063503/",
+  "source": "Int J Oral Maxillofac Implants",
+  "published": "2026-11-21T07:22:47.520558+00:00",
+  "added": "2026-11-21T07:22:47.520558+00:00",
+  "category": "research",
+  "headline": "Case report: migrated dental implants stable for 17 years after prosthetic rework",
+  "summary": "A case report followed a 58-year-old woman who received full-mouth extractions (except teeth 34 and 43) and twelve implants, supporting fixed prostheses in both jaws. After 12 years of stable function, implants at sites 33 and 42 were found to have migrated along with the adjacent teeth and their prosthesis. Following extraction of the neighboring natural teeth, a new mandibular cross-arch prosthesis was built over the existing implants, which remained stable for a further 5 years.",
+  "why": "It suggests that long-term implant migration may be managed by re-prosthetic work rather than surgical removal, though this rests on a single patient and should not be treated as a general protocol."
+ },
+ {
+  "id": "de54a0621c56",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43063502/",
+  "source": "Int J Oral Maxillofac Implants",
+  "published": "2026-11-21T07:22:47.520558+00:00",
+  "added": "2026-11-21T07:22:47.520558+00:00",
+  "category": "research",
+  "headline": "Bite holder substitution method yields clinically acceptable implant registration in vitro",
+  "summary": "An in vitro study compared a bite holder digital substitution workflow with direct scan body scanning for recording positions of four implant analogs in a mandibular model. Direct scanning was statistically more accurate, but the differences from the substitution method stayed within predefined clinical equivalence margins. The design allows implant positions and maxillomandibular relationships to be captured in a single visit, and the authors call for clinical validation.",
+  "why": "For complete-arch implant cases, this approach could potentially reduce appointments by recording implant positions and jaw relationship together, though it has only been tested in the lab and still needs clinical validation."
+ },
+ {
+  "id": "3cb19b641230",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43063501/",
+  "source": "Int J Oral Maxillofac Implants",
+  "published": "2026-11-21T07:22:47.520558+00:00",
+  "added": "2026-11-21T07:22:47.520558+00:00",
+  "category": "research",
+  "headline": "Bone and soft tissue remodeling after immediate anterior maxilla implants over one year",
+  "summary": "A retrospective study of 21 patients compared two immediate implant protocols in the anterior maxilla, the Standard Healing Site and the Bone-Chamber Healing Site, tracking soft tissue and bone volume over one year. Sites in the bone-chamber group, which had more severe baseline defects, showed greater soft tissue volume loss, with most change occurring in the first 3 to 4 months and little change from 4 to 12 months. The authors describe the differences as descriptive, since group allocation followed baseline defect severity rather than treatment effects.",
+  "why": ""
+ },
+ {
+  "id": "0ed1cd97604c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43063500/",
+  "source": "Int J Oral Maxillofac Implants",
+  "published": "2026-11-21T07:22:47.520558+00:00",
+  "added": "2026-11-21T07:22:47.520558+00:00",
+  "category": "research",
+  "headline": "UMAP clustering sorts immediately placed anterior maxillary implants by 5-year esthetic outcome",
+  "summary": "An exploratory proof-of-concept study applied UMAP, a nonlinear dimensionality reduction method, to 103 clinical, radiographic, and patient-reported parameters from 22 patients with immediately placed and loaded anterior maxillary implants. The analysis found four clusters that differed significantly in 5-year white esthetic score and several other esthetic and tissue measures, while PCA did not produce separable groups. Clusters built from preoperative parameters alone also showed divergent 5-year outcomes, with the authors noting that favorable initial bone conditions went with better long-term esthetics and that independent validation is still needed.",
+  "why": "Suggests preoperative bone and tissue characteristics may help identify which immediate implant cases are likely to achieve better esthetic results, though the small sample means this remains unvalidated and should not yet change treatment planning."
+ },
+ {
+  "id": "c417565e1f60",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43063499/",
+  "source": "Int J Oral Maxillofac Implants",
+  "published": "2026-11-21T07:22:47.520558+00:00",
+  "added": "2026-11-21T07:22:47.520558+00:00",
+  "category": "research",
+  "headline": "IRIS-Dx model scores peri-implant bone risk using CBCT data from 52 patients",
+  "summary": "A retrospective study reviewed 500 CBCT scans and analyzed 52 scans covering 125 implants from 52 patients, with a mean follow-up of about 56 months. Bone loss increased over time, narrow implants lost more buccal bone, longer implants lost more lingual bone, and socket preservation increased bone thickness. History of periodontitis and prior implant failure were the strongest predictors of peri-implantitis, and the authors built an 11-variable risk score (IRIS-Dx) with low, moderate, and high categories.",
+  "why": "The model suggests that patient history of periodontitis or earlier implant failure, along with implant width, length, and socket preservation, may help clinicians identify high-risk patients and tailor implant planning, though it is a single retrospective study that still needs validation."
+ },
+ {
+  "id": "b7867d673db2",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43063498/",
+  "source": "Int J Oral Maxillofac Implants",
+  "published": "2026-11-21T07:22:47.520558+00:00",
+  "added": "2026-11-21T07:22:47.520558+00:00",
+  "category": "research",
+  "headline": "Replacement implants at failed sites show a pooled 90.2% survival in review",
+  "summary": "A systematic review and meta-analysis pooled survival data for replacement dental implants placed where earlier implants had failed, covering 21 studies in total and 16 in the meta-analysis. Reported survival ranged from 73.1% to 99.0%, with a pooled estimate of 90.2% (95% CI 84.4-94.9%), though heterogeneity was very high and follow-up periods varied from 12 months to over 10 years. Smoking, poor bone quality, and previous peri-implantitis were the most often reported risk factors, while bone augmentation and advanced implant surface characteristics were linked to lower reported failure risk in observational data.",
+  "why": "Clinicians considering replacing a failed implant can expect roughly 90% survival on average, but the authors caution against treating that figure as a firm long-term estimate and point to smoking, poor bone, and prior peri-implantitis as risks to assess before retreatment."
+ },
+ {
+  "id": "d81936633648",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43064235/",
+  "source": "J Endod",
+  "published": "2026-11-21T07:22:47.520558+00:00",
+  "added": "2026-11-21T07:22:47.520558+00:00",
+  "category": "research",
+  "headline": "Biodentine and TheraCal LC best preserve pulp cells through caries-affected dentin",
+  "summary": "In an artificial pulp chamber model using caries-affected human dentin discs, researchers tested how several lining and pulp-capping materials affected odontoblast-like cells and dental pulp stem cells. Dycal markedly reduced cell viability, Ultra-Blend Plus caused a smaller reduction, while Biodentine and TheraCal LC did not differ from the water control. Biodentine and TheraCal LC also enhanced mineralized matrix formation after 14 days.",
+  "why": "This lab study suggests Biodentine and TheraCal LC may be gentler on the pulp beneath caries-affected dentin than Dycal, though it is an in vitro model and does not establish clinical outcomes."
+ },
+ {
+  "id": "ddaba1089b48",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43064234/",
+  "source": "J Endod",
+  "published": "2026-11-21T07:22:47.520558+00:00",
+  "added": "2026-11-21T07:22:47.520558+00:00",
+  "category": "research",
+  "headline": "Hydrogel all-in-one root filling OdneFill matches conventional obturation in ex vivo study",
+  "summary": "Researchers compared a light-curable, hydrogel-based all-in-one root filling material, OdneFill, with gutta-percha and AH Plus using warm vertical compaction, and gutta-percha with iRoot SP using a sealer-based single-cone technique. Thirty extracted mandibular premolars were filled and assessed by micro-computed tomography for void volume. All three groups showed low voids with no significant differences in void volume, though the apical third had more voids than the coronal third in two groups; no material achieved a completely void-free seal.",
+  "why": "OdneFill performed comparably to established filling systems in this lab setting, but the study was ex vivo with a small sample, so clinical outcomes remain unproven and apical voids persisted with every technique."
+ },
+ {
+  "id": "70db12c3bc99",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43064233/",
+  "source": "J Endod",
+  "published": "2026-11-21T07:22:47.520558+00:00",
+  "added": "2026-11-21T07:22:47.520558+00:00",
+  "category": "research",
+  "headline": "Persistent residual radicular cyst case shows focal bacteria and inflammation",
+  "summary": "A case report in the Journal of Endodontics describes a 55-year-old woman whose large mandibular left premolar lesion persisted after extraction while other jaw sites healed. Histopathology found bacteria confined to a small area of necrotic contents, along with neutrophil accumulation and inflammatory cell migration through the lining. The authors conclude that persistence alone does not prove a cyst was self-sustaining, since localized microbes and inflammation may keep it active and limited sampling can miss them.",
+  "why": "It suggests that residual cysts left after extraction may still harbor focal infection, so clinicians should not assume a persistent lesion is a self-sustaining true cyst and should consider that limited biopsy sampling may miss bacteria."
+ },
+ {
+  "id": "1adef95ec13a",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43064232/",
+  "source": "J Endod",
+  "published": "2026-11-21T07:22:47.520558+00:00",
+  "added": "2026-11-21T07:22:47.520558+00:00",
+  "category": "research",
+  "headline": "Tooth survival often reports higher than strict periapical healing after root canal treatment",
+  "summary": "A systematic review and paired meta-analysis of 31 cohorts (about 7,500 teeth) found that reported tooth survival exceeded strict periapical healing in 27 of them, with a pooled gap of 8.8 percentage points. The prediction interval crossed zero and heterogeneity was very high, and the authors rated certainty as very low. They attribute the gap mainly to differences in outcome definitions, denominators and follow-up rather than a fixed biological difference.",
+  "why": "Dentists reading endodontic outcome studies should not treat survival and healing rates as interchangeable when judging root canal prognosis, since the numbers often reflect how each study defined its endpoints."
+ },
+ {
+  "id": "8073ecdbdf4c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43064642/",
+  "source": "J Prosthet Dent",
+  "published": "2026-11-21T07:22:47.520558+00:00",
+  "added": "2026-11-21T07:22:47.520558+00:00",
+  "category": "research",
+  "headline": "Delayed gap closure cuts interfacial gaps in deep bulk-fill composite restorations",
+  "summary": "An in vitro study of 24 extracted human molars compared a semi-split delayed gap closure technique with conventional single-increment bulk filling for deep occlusal bulk-fill composite restorations. Using microcomputed tomography, the researchers found the delayed technique produced significantly smaller interfacial gap volumes than the conventional method (P=.041).",
+  "why": "For deep, high C-factor posterior restorations, a modified placement sequence that leaves a deliberate gap for a few minutes before filling may improve tooth-restoration adaptation, though this is a single lab study and clinical outcomes are not reported."
+ },
+ {
+  "id": "9e41b9eefe7b",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43064623/",
+  "source": "Oral Surg Oral Med Oral Pathol Oral Radiol",
+  "published": "2026-11-21T07:22:47.520558+00:00",
+  "added": "2026-11-21T07:22:47.520558+00:00",
+  "category": "research",
+  "headline": "Dental-dedicated 0.55T MRI shows promise for jaw, trauma and surgical planning",
+  "summary": "This case-based report describes a 0.55T MRI system fitted with a 7-channel dental coil and dedicated sequences for teeth and jaws, as a radiation-free alternative to cone-beam CT. The authors assessed its feasibility for diagnosing jawbone cysts, dental trauma and periapical inflammation, and for planning third molar removal and implant placement. They also report that AI-based acceleration algorithms can cut scan time by more than 50%, and they state that prospective studies are needed for validation.",
+  "why": "Dental-dedicated MRI could eventually offer a radiation-free option for imaging jaws and teeth, but the evidence here comes from a few clinical cases, so it remains experimental for routine practice."
+ },
+ {
+  "id": "8d5611fd514b",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43064622/",
+  "source": "Oral Surg Oral Med Oral Pathol Oral Radiol",
+  "published": "2026-11-21T07:22:47.520558+00:00",
+  "added": "2026-11-21T07:22:47.520558+00:00",
+  "category": "research",
+  "headline": "Panoramic radiograph features help separate jaw plasmablastic lymphoma from myeloma",
+  "summary": "A retrospective cross-sectional study compared 67 panoramic radiographs from Brazilian and South African institutions: 27 cases of plasmablastic lymphoma and 40 of multiple myeloma/plasmacytoma of the jaws. Three experts reviewed the images, and clinical data came from patient files. Plasmablastic lymphoma most often appeared radiolucent with poorly defined borders and frequently showed floating teeth, while myeloma/plasmacytoma more often appeared multilocular with a punched-out pattern and cortical thinning or loss of the mandibular canal.",
+  "why": "Recognizing these radiographic patterns can help dentists think about rare jaw lesions such as plasmablastic lymphoma or myeloma when they see floating teeth, punched-out areas, or mandibular canal changes, prompting timely referral for biopsy and medical evaluation."
  }
 ]
