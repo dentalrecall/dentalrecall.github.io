@@ -1,16 +1,5 @@
 [
  {
-  "id": "42cc42b5d34c",
-  "url": "https://www.dentistrytoday.com/betsy-shapiro-receives-2026-ada-distinguished-service-award/",
-  "source": "Dentistry Today",
-  "published": "2026-10-21T18:39:00+00:00",
-  "added": "2026-10-21T19:01:37.414627+00:00",
-  "category": "people",
-  "headline": "Betsy Shapiro Receives ADA Distinguished Service Award at 2026 Scientific Session",
-  "summary": "The American Dental Association recognized Dr. Elizabeth \"Betsy\" Shapiro with its Distinguished Service Award, the highest honor given by the ADA Board of Trustees, at the 2026 Scientific Session in Indianapolis. Shapiro has served the ADA for more than 15 years, currently as Chief of Governance and Strategy Management, and was interim Executive Director in 2025. Three other awards were also presented at the meeting, including the Norton M. Ross Award for Excellence in Clinical Research.",
-  "why": "The recognition highlights leadership changes within the ADA, the national association that shapes policy and programs affecting practicing dentists."
- },
- {
   "id": "a3104e125454",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42901219/",
   "source": "J Oral Maxillofac Surg",
@@ -6041,5 +6030,27 @@
   "headline": "Strategies for lifelong skeletal health and what dentists can do",
   "summary": "An article from Dentistry IQ looks at how hormones, nutrition, sleep, and physical activity shape bone health across a lifetime. It covers factors affecting bone density, fracture risk, and osteoporosis prevention. It also discusses how dental professionals can link skeletal health to overall systemic health.",
   "why": "Dentists may be able to recognize bone-related health factors during patient visits and discuss how skeletal health connects to the broader health picture."
+ },
+ {
+  "id": "f219cd286448",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43062851/",
+  "source": "J Periodontol",
+  "published": "2026-11-21T00:02:01.040294+00:00",
+  "added": "2026-11-21T00:02:01.040294+00:00",
+  "category": "research",
+  "headline": "Long-term bone loss around implants in periodontally healthy vs. compromised patients",
+  "summary": "A retrospective radiographic case series from Naples and Piacenza, Italy, tracked marginal bone loss around 57 implants in 32 patients over a mean of 19.5 years. Mean marginal bone loss was 0.04 ± 0.69 mm in periodontally healthy patients and 1.02 ± 1.96 mm in periodontally compromised patients, a difference that was not statistically significant. The frequency of implants with bone loss of 3 mm or more did differ significantly between the groups, though the small sample limits firm conclusions.",
+  "why": "For patients with a history of periodontitis, implants may keep stable bone over the long term, but the small sample and low statistical power mean clinicians should not treat this as conclusive evidence."
+ },
+ {
+  "id": "e57b521ba7c6",
+  "url": "https://orthodonticproductsonline.com/practice-products/software/practice-management-software/valian-expands-billing-services-for-orthodontic-dental-practices/",
+  "source": "Orthodontic Products",
+  "published": "2026-11-20T20:24:25+00:00",
+  "added": "2026-11-21T00:02:01.040294+00:00",
+  "category": "business",
+  "headline": "Valian Extends Revenue Cycle Services to Orthodontic and General Dental Billing",
+  "summary": "Valian, a dental and medical billing company, has expanded its revenue cycle management software to cover insurance billing for orthodontic and general dental practices, from the initial insurance check through final payment. Before visits, the service checks coverage in real time and files prior authorizations; afterward, it submits claims electronically, handles denials, and collects the patient's share. The billing service runs inside the practice's existing system, so front desk staff can track claim status and outstanding balances by carrier and age.",
+  "why": ""
  }
 ]
