@@ -1,82 +1,5 @@
 [
  {
-  "id": "8d1769d72bd4",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42906628/",
-  "source": "J Oral Maxillofac Surg",
-  "published": "2026-10-23T03:53:43.415696+00:00",
-  "added": "2026-10-23T03:53:43.415696+00:00",
-  "category": "research",
-  "headline": "Cone-beam CT study compares soft and hard tissue changes after sliding genioplasty for microgenia",
-  "summary": "A retrospective cohort study from a Zhejiang University hospital used cone-beam CT three-dimensional cephalometric analysis to examine patients with microgenia who underwent advancement sliding genioplasty between January 2024 and January 2025. Patients were grouped by facial convexity angle (≤25° or >25°), and the soft-to-hard tissue movement ratio was compared between groups. The authors report a sagittal difference only at the menton and describe stable movement ratios in both sagittal and vertical chin movements.",
-  "why": "The findings offer quantitative data that could help surgeons and orthodontic or surgical planners predict how the soft tissue profile will respond after chin advancement, though the excerpt does not give the full results or clinical recommendations."
- },
- {
-  "id": "2cb783ec5649",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42906943/",
-  "source": "Clin Implant Dent Relat Res",
-  "published": "2026-10-23T03:53:43.415696+00:00",
-  "added": "2026-10-23T03:53:43.415696+00:00",
-  "category": "research",
-  "headline": "Single implants placed 1982-1985 show high satisfaction after nearly 39 years",
-  "summary": "A cross-sectional study followed 13 patients with 18 single dental implants placed between 1982 and 1985, with a mean follow-up of 38.9 years. Patients reported high overall treatment and functional satisfaction, while esthetic ratings and professional soft-tissue scores were more variable. Incisal and cervical crown discrepancies were seen at all six assessable anterior sites, but without baseline esthetic data they cannot be attributed specifically to progressive infraposition.",
-  "why": "It offers rare very-long-term evidence that single implants can keep patients satisfied, though esthetic results and soft-tissue appearance varied and the small sample limits how far the findings apply to routine practice."
- },
- {
-  "id": "088db0b38419",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42906676/",
-  "source": "J Endod",
-  "published": "2026-10-23T03:53:43.415696+00:00",
-  "added": "2026-10-23T03:53:43.415696+00:00",
-  "category": "research",
-  "headline": "On-demand dosing matches scheduled analgesics for postop pain after endodontic treatment",
-  "summary": "A randomized trial at a graduate endodontic clinic compared scheduled and on-demand dosing of ibuprofen and acetaminophen in emergency patients with symptomatic apical periodontitis. Of 172 enrolled patients, 126 completed diaries and returned pill counts over 3 days after treatment. Scheduled dosing led to roughly double the medication use, yet pain relief did not differ significantly between groups.",
-  "why": "Dentists may consider advising patients to take ibuprofen and acetaminophen as needed rather than on a fixed schedule, which could reduce medication intake without sacrificing pain control."
- },
- {
-  "id": "b375fad2b23b",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42906837/",
-  "source": "J Dent",
-  "published": "2026-10-23T03:53:43.415696+00:00",
-  "added": "2026-10-23T03:53:43.415696+00:00",
-  "category": "research",
-  "headline": "In vitro study compares guide printing methods and implant design in static guided surgery",
-  "summary": "An in vitro study placed 80 implants in resin bone models using guides printed by either digital light processing or material extrusion. Positional deviations were smaller at healed premolar ridges than at molar extraction sites, and the two Straumann tissue-level implants differed in deviation and primary stability.",
-  "why": "For guided implant placement, printing technology did not change accuracy in this lab setting, but molar extraction sites showed larger deviations and the chosen implant design affected both accuracy and stability, so extra safety margins may be warranted there until in vivo results are available."
- },
- {
-  "id": "defdc26d722b",
-  "url": "https://www.dental-tribune.com/news/yemen-study-highlights-gaps-in-dental-tmd-care/",
-  "source": "Articles – Dental Tribune",
-  "published": "2026-10-23T07:38:39+00:00",
-  "added": "2026-10-23T08:54:17.595278+00:00",
-  "category": "research",
-  "headline": "Survey of Sana'a dentists reveals gaps in TMD care under conflict conditions",
-  "summary": "Researchers in Yemen surveyed dentists in Sana'a about physical therapies for temporomandibular disorder (TMD), an area where earlier studies found knowledge and use gaps. The work focused on conflict-affected healthcare settings, where little was previously known. Based on the findings, the team proposed targeted training and practical TMD management approaches suited to local constraints.",
-  "why": "It points to the value of focused continuing education on physical therapy options for TMD and of treatment approaches that work within limited resources."
- },
- {
-  "id": "2897d590de36",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42908344/",
-  "source": "J Periodontol",
-  "published": "2026-10-23T09:53:29.850026+00:00",
-  "added": "2026-10-23T09:53:29.850026+00:00",
-  "category": "research",
-  "headline": "Commentary urges explicit causal reasoning in oral health research",
-  "summary": "This Journal of Periodontology commentary argues that oral health studies often present adjusted associations as causal effects despite using advanced statistics. The author proposes a four-pillar framework: defining a precise estimand, aligning study design with it, using counterfactual reasoning and directed acyclic graphs to guide adjustment, and interpreting estimates with explicit attention to causal assumptions. The framework is illustrated with a worked example on periodontal treatment and cardiovascular disease.",
-  "why": "It suggests that dentists reading periodontal or systemic-health studies should look closely at whether causal claims rest on clearly stated assumptions, not just on statistical significance."
- },
- {
-  "id": "57a1cd6b6645",
-  "url": "https://www.dental-tribune.com/news/finnish-study-highlights-the-need-for-coordinated-dental-care-in-metastatic-breast-cancer/",
-  "source": "Articles – Dental Tribune",
-  "published": "2026-10-23T09:18:04+00:00",
-  "added": "2026-10-23T09:53:29.850026+00:00",
-  "category": "research",
-  "headline": "Finnish study examines jaw osteonecrosis risk in breast cancer patients with bone metastases",
-  "summary": "A nationwide Finnish study looked at how often medication-related osteonecrosis of the jaws (MRONJ) occurs in patients with breast cancer that has spread to bone. These patients take anti-resorptive drugs to limit bone damage, pain and fractures, and this group had not been studied before in Finland. The authors highlight the need for dental and oncology professionals to work together.",
-  "why": "Dentists treating patients on anti-resorptive drugs for metastatic breast cancer should coordinate closely with the patient's oncology team to manage MRONJ risk."
- },
- {
   "id": "8728cf0fe583",
   "url": "https://www.dentistryiq.com/revenue-cycle-management/article/55409030/higher-costs-tighter-margins-2-ways-dental-practices-can-respond",
   "source": "Home | Dentistry IQ",
@@ -6135,5 +6058,38 @@
   "headline": "Metabolic study links ferroptosis and lipid changes to periodontitis and peri-implantitis in type 2 diabetes",
   "summary": "This cross-sectional metabolomics study of 30 patients analyzed gingival and peri-implant crevicular fluid to compare metabolic profiles in type 2 diabetes with periodontitis versus with peri-implantitis. The authors report lipid metabolism dysregulation linked to type 2 diabetes and suggest ferroptosis, a form of cell death, as a possible common pathway in diabetes-related oral tissue destruction. The candidate metabolite findings were exploratory and did not remain statistically significant after FDR correction.",
   "why": "It is early, hypothesis-generating work with no proven clinical application, so it should not change diagnosis or treatment yet, though it adds to understanding of why diabetic patients may lose periodontal and implant support."
+ },
+ {
+  "id": "0822df1dcfd3",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43067542/",
+  "source": "J Dent",
+  "published": "2026-11-22T11:38:35.080432+00:00",
+  "added": "2026-11-22T11:38:35.080432+00:00",
+  "category": "research",
+  "headline": "Bibliometric study maps 25 years of headache research and its small dental interface",
+  "summary": "A bibliometric analysis of PubMed records from 2000 to 2025 mapped primary and secondary headache research, including its links to dentistry. Of 50,825 records, 40,441 formed the core set, with annual output rising from 747 to 2,522 articles, led by the United States, with China growing fastest. Migraine dominated the literature, research moved from triptans toward CGRP therapies, and dental topics such as temporomandibular disorders, bruxism and orofacial pain appeared in only 1.3% of articles.",
+  "why": "Dentists treating patients with temporomandibular disorders, bruxism or orofacial pain may find the study useful for locating core journals, but the authors note that few dental-focused studies address headache and dental aspects appear in the literature."
+ },
+ {
+  "id": "272e7b1d82ff",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43067541/",
+  "source": "J Dent",
+  "published": "2026-11-22T11:38:35.080432+00:00",
+  "added": "2026-11-22T11:38:35.080432+00:00",
+  "category": "research",
+  "headline": "Modelling study weighs fluoride drinking-water levels in China against caries and fluorosis",
+  "summary": "Researchers built an illustrative decision model linking fluoride intake, skeletal fluoride accumulation, dental outcomes and costs to test drinking-water concentrations in China. At 1.0 mg/L, the modelled bone burden at age 60 was 2,432 ppm, and the model's dental optimum was 1.61 mg/L, reduced to 1.44 mg/L under a 3,500-ppm skeletal limit. The optimum shifted widely depending on assumed fluorosis harm and caries benefit, and the authors stress the results are conditional simulations with illustrative cost inputs.",
+  "why": "It shows that fluoride water-level decisions depend heavily on assumptions about caries benefit versus fluorosis harm, so dentists should not treat modelled optima as clinical safety guarantees, though it may inform discussions on varnish and prevention policy."
+ },
+ {
+  "id": "3d8473ad9dc2",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43067565/",
+  "source": "Oral Surg Oral Med Oral Pathol Oral Radiol",
+  "published": "2026-11-22T11:38:35.080432+00:00",
+  "added": "2026-11-22T11:38:35.080432+00:00",
+  "category": "research",
+  "headline": "Preliminary nomogram estimates oral candidiasis risk in type 2 diabetes patients",
+  "summary": "A retrospective cross-sectional study of 314 adults with type 2 diabetes built a clinical nomogram to estimate the probability of oral candidiasis, confirmed by clinical and mycological evaluation. Of the patients, 55.4% had oral candidiasis. Denture wearing, oral hygiene status, fasting blood glucose, age and male sex were selected as predictors, and the model showed moderate discrimination (AUC 0.732) with net clinical benefit across mid-to-high threshold probabilities.",
+  "why": "The tool could help dentists flag diabetic patients at higher risk of oral candidiasis, particularly those who wear dentures or have poorer oral hygiene, but the authors describe it as preliminary and in need of prospective external validation before routine use."
  }
 ]
