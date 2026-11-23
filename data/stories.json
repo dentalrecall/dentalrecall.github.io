@@ -1,60 +1,5 @@
 [
  {
-  "id": "edc13f3d2bfe",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42919892/",
-  "source": "Br Dent J",
-  "published": "2026-10-24T09:49:26.487899+00:00",
-  "added": "2026-10-24T09:49:26.487899+00:00",
-  "category": "research",
-  "headline": "Historical profile of dentist J. E. H. Duckworth and his opposition to a dental NHS",
-  "summary": "This British Dental Journal historical paper profiles J. E. H. Duckworth, a London dental practitioner who served in the First World War and later set up practice in North London. During the Second World War he was active in the Group Movement, which grew out of local committees supporting dentists on military service and helped unite the profession's representative bodies. The paper draws on his monthly London Dental Circular to examine the arguments he and the Movement made against a national dental service.",
-  "why": "It offers historical context on how the profession's internal politics shaped debates over the NHS's introduction, which informs understanding of current dental policy debates."
- },
- {
-  "id": "44b36373cd9e",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42919887/",
-  "source": "Br Dent J",
-  "published": "2026-10-24T09:49:26.487899+00:00",
-  "added": "2026-10-24T09:49:26.487899+00:00",
-  "category": "research",
-  "headline": "Lip fillers can change orthodontic assessment and treatment planning, review finds",
-  "summary": "A literature review in the British Dental Journal looks at how lip filler augmentation, which alters lip contour and volume, affects orthodontic practice. It examines how different filler materials and injection techniques influence key assessment parameters. The authors also offer practical recommendations for spotting patients who have had lip augmentation, timing assessments relative to filler placement, and communicating across disciplines.",
-  "why": "Dentists doing orthodontic assessments may encounter patients with recent lip fillers that change smile aesthetics and facial profile, so recognizing them and coordinating timing and communication with other providers can shape treatment planning."
- },
- {
-  "id": "a36a9aa447d8",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42919886/",
-  "source": "Br Dent J",
-  "published": "2026-10-24T09:49:26.487899+00:00",
-  "added": "2026-10-24T09:49:26.487899+00:00",
-  "category": "research",
-  "headline": "Sublingual gland carcinoma initially mistaken for salivary stone underscores need for re-assessment",
-  "summary": "A case report describes a 31-year-old woman referred for a hard floor-of-mouth swelling thought to be a salivary calculus, where plain radiography showed no radiopacity and ultrasound appeared to support the calculus diagnosis. After three months, with loosening lower anterior teeth and growing swelling, imaging revealed a large defect in the anterior mandible, and the lesion was diagnosed as a poorly differentiated salivary carcinoma of the sublingual gland with lung, brain and spine metastases. The patient died ten months after diagnosis.",
-  "why": "Persistent or progressing swelling that does not match an apparently benign finding, such as a suspected sialolith, should prompt timely re-examination and imaging, since rare malignant salivary tumours can present in this way."
- },
- {
-  "id": "3cd432be87bb",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42919885/",
-  "source": "Br Dent J",
-  "published": "2026-10-24T09:49:26.487899+00:00",
-  "added": "2026-10-24T09:49:26.487899+00:00",
-  "category": "research",
-  "headline": "Review identifies communication phrases for trauma-informed care in oral health",
-  "summary": "A concise review in the British Dental Journal searched databases and grey literature for communication phrases that support trauma-informed care in oral health. Eight papers out of 27 full-text articles contained such phrases, which were grouped by clinical situation, such as before treatment, screening for trauma, and motivational interviewing. The authors conclude the phrases may be a practical tool but need further research to confirm they work.",
-  "why": "Dentists who want to care for patients with trauma histories may find a set of ready-to-use phrases helpful, though the evidence for their effectiveness is still limited."
- },
- {
-  "id": "9b09dbbcf7d3",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42919884/",
-  "source": "Br Dent J",
-  "published": "2026-10-24T09:49:26.487899+00:00",
-  "added": "2026-10-24T09:49:26.487899+00:00",
-  "category": "research",
-  "headline": "Oral health proposed as a lever for UK health system transformation",
-  "summary": "A Br Dent J paper argues that oral health is an underused tool for reforming the UK health system, since oral conditions are among the most common noncommunicable diseases yet are still dominated by costly intervention-based care. It calls for a shift toward prevention, integration into primary care, and equity, while noting Scotland's Childsmile Programme as evidence of cost-effective prevention. The authors also stress addressing social determinants such as education, housing, nutrition and income, along with workforce reform, technology, and political and civil society support.",
-  "why": "It suggests that dental teams may increasingly be expected to work within primary care and community prevention models, and that policy direction in the UK may shift toward prevention-focused funding and workforce changes."
- },
- {
   "id": "af2f0e984995",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42921737/",
   "source": "J Dent Res",
@@ -5805,5 +5750,214 @@
   "headline": "Orthodontist argues speed drives volume and profit in practice operations",
   "summary": "An opinion piece by orthodontist Roger P. Levin, DDS, argues that orthodontic practices are volume-based businesses where faster workflows boost revenue. He says practices reaching $3 million per orthodontist must get many operational areas right, from referral marketing to assistant speed. He compares orthodontic offices to manufacturing lines, where faster processes produce more output.",
   "why": "Dentists running orthodontic or multi-chair practices may find the case for workflow speed, chair alignment, and staff efficiency relevant to their own revenue and patient flow."
+ },
+ {
+  "id": "3fae6da86d2e",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43069543/",
+  "source": "J Dent Res",
+  "published": "2026-11-23T21:31:26.659596+00:00",
+  "added": "2026-11-23T21:31:26.659596+00:00",
+  "category": "research",
+  "headline": "Low-dose pregabalin linked to brain metabolic and connectivity changes in burning mouth syndrome",
+  "summary": "A single-arm prospective MRI study followed 38 patients with moderate-to-severe primary burning mouth syndrome and 31 healthy controls, treating patients with a standardized 4-week low-dose pregabalin course. Patients showed higher anterior cingulate cortex metabolite ratios and altered connectivity at baseline, and after treatment their metabolic marker fell and pain scores improved, though structural gray matter deficits did not change. The authors describe the findings as exploratory.",
+  "why": "It suggests low-dose pregabalin may help some patients with burning mouth syndrome, but the evidence is an exploratory, uncontrolled study with about 45% of patients reaching at least 50% pain relief, so it does not yet change standard care."
+ },
+ {
+  "id": "89a9a9766e6c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43069539/",
+  "source": "J Dent Res",
+  "published": "2026-11-23T21:31:26.659596+00:00",
+  "added": "2026-11-23T21:31:26.659596+00:00",
+  "category": "research",
+  "headline": "Periodontal bacteria vesicles linked to disrupted pregnancy in mouse study",
+  "summary": "In a murine study, pregnant mice with periodontitis received systemic outer membrane vesicles (OMVs) from Porphyromonas gingivalis or Fusobacterium nucleatum throughout gestation. P. gingivalis vesicles markedly reduced pregnancy success, while F. nucleatum vesicles worsened alveolar bone loss, affected maternal glucose tolerance, raised placental inflammatory markers, and were associated with reduced fetal weight and signs of fetal growth restriction.",
+  "why": "This animal study offers a possible mechanism linking periodontal pathogens to adverse pregnancy outcomes, reinforcing the case for periodontal care in pregnant patients, though findings come from mice and do not yet establish clinical effects in people."
+ },
+ {
+  "id": "e145e2517d8f",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43070834/",
+  "source": "J Periodontol",
+  "published": "2026-11-23T21:31:26.659596+00:00",
+  "added": "2026-11-23T21:31:26.659596+00:00",
+  "category": "research",
+  "headline": "Obesity linked to subgingival metabolome shifts in periodontally healthy adults",
+  "summary": "In a study of 40 periodontally healthy adults grouped by body mass index (normal weight, overweight, obese), researchers used targeted metabolomics on gingival crevicular fluid, saliva, and gingival tissue. Metabolite profiles differed by BMI group, most notably in subgingival fluid, with changes in amino acid, fatty acid, and central carbon metabolism. Integrated analysis linked these changes to inflammatory mediators and microbial taxa, pointing to a pro-inflammatory, microbiome-associated shift in obese individuals.",
+  "why": "This suggests obesity may alter the oral environment before any clinical periodontal disease is visible, which may matter when assessing periodontal risk in patients with higher BMI, though the study is small and observational."
+ },
+ {
+  "id": "5828935b90ae",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43070784/",
+  "source": "J Periodontol",
+  "published": "2026-11-23T21:31:26.659596+00:00",
+  "added": "2026-11-23T21:31:26.659596+00:00",
+  "category": "research",
+  "headline": "Obstructive sleep apnea may worsen periodontitis through oral microbial imbalance",
+  "summary": "A preliminary study combined a human clinical comparison with a rat experiment to test whether obstructive sleep apnea (OSA) worsens periodontitis. Stage II periodontitis patients with and without OSA showed different gingival crevicular fluid microbial communities, with more Porphyromonas gingivalis and Fusobacterium in the OSA group, and 21 differing metabolites mainly linked to glycerophospholipid metabolism. In rats with ligature-induced periodontitis, intermittent low-oxygen exposure increased alveolar bone loss, inflammatory marker expression, and microbial changes.",
+  "why": "Patients with periodontitis who also have sleep apnea may warrant closer periodontal monitoring, though these findings are preliminary and come from a small study."
+ },
+ {
+  "id": "986562ead043",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43070774/",
+  "source": "J Periodontol",
+  "published": "2026-11-23T21:31:26.659596+00:00",
+  "added": "2026-11-23T21:31:26.659596+00:00",
+  "category": "research",
+  "headline": "Systemic doxycycline and omega-3 add modest gains to non-surgical periodontal therapy in healthy patients",
+  "summary": "A systematic review and meta-analysis of 85 randomized trials, searched up to April 2025, assessed systemic host-modulation therapy added to non-surgical periodontal treatment. Sub-antimicrobial-dose doxycycline and omega-3 produced significant improvements in pocket depth and clinical attachment when given for at least 6 months to systemically healthy patients, but not to patients with diabetes. Omega-3 with low-dose aspirin, probiotics, bisphosphonates, and dietary interventions lacked supporting evidence.",
+  "why": "For otherwise healthy periodontitis patients, adding a 6-month course of sub-antimicrobial-dose doxycycline or omega-3 may offer small extra benefit after scaling and root planing, though evidence certainty varies and diabetic patients did not show the same gains."
+ },
+ {
+  "id": "2c761dce7ebe",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43070345/",
+  "source": "J Periodontol",
+  "published": "2026-11-23T21:31:26.659596+00:00",
+  "added": "2026-11-23T21:31:26.659596+00:00",
+  "category": "research",
+  "headline": "Solid PRF vs connective tissue graft for gum recession: updated meta-analysis",
+  "summary": "A systematic review and meta-analysis of 24 randomized trials (11 in the quantitative analysis) compared solid platelet-rich fibrin with palatal connective tissue grafts for covering Cairo RT1 gum recessions. The graft produced statistically greater recession height reduction, keratinized tissue width gain, and gingival thickness gain, though the differences were small. The PRF group showed less postoperative pain and morbidity, and A-PRF and L-PRF did not differ significantly.",
+  "why": "Palatal grafts remain the most predictable option for thickening tissue and gaining keratinized tissue, but solid PRF may be a viable alternative for patients with adequate baseline periodontal phenotype who want to avoid a second surgical site."
+ },
+ {
+  "id": "b494184291cb",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43070866/",
+  "source": "Am J Orthod Dentofacial Orthop",
+  "published": "2026-11-23T21:31:26.659596+00:00",
+  "added": "2026-11-23T21:31:26.659596+00:00",
+  "category": "research",
+  "headline": "Thicker, stiffer cortical bone raises resistance in miniscrew-assisted palatal expansion",
+  "summary": "A finite element analysis modeled miniscrew-assisted rapid palatal expansion across nine craniofacial models that varied cortical bone thickness and Young's modulus. Greater cortical thickness and stiffness were associated with higher expansion resistance and peak miniscrew stress, while peak bone strain decreased. The lowest-quality group had the lowest resistance and stress and the highest bone strain.",
+  "why": "Preoperative assessment of cortical bone may help clinicians anticipate how much force an expander will meet and reduce the risk of miniscrew overload or separation when planning palatal expansion."
+ },
+ {
+  "id": "380d2c2eac7f",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43070014/",
+  "source": "J Prosthodont",
+  "published": "2026-11-23T21:31:26.659596+00:00",
+  "added": "2026-11-23T21:31:26.659596+00:00",
+  "category": "research",
+  "headline": "Narrative review proposes three-tier classification for prosthodontic care of Class II malocclusion",
+  "summary": "This narrative review synthesized literature from 1980 to 2026 on full-mouth prosthodontic rehabilitation for Class II malocclusion, excluding orthodontic or surgical treatment. It found fixed prosthodontic rehabilitation may be an option, but the supporting evidence is limited to case reports and author opinion, with no strategies based on overjet severity data. The authors proposed a three-category system to guide restorative decisions according to horizontal overlap severity.",
+  "why": "Dentists treating Class II patients with restorations may find a severity-based framework useful for deciding whether to aim for a Class I relationship or maintain the existing one, though the evidence base remains thin and largely opinion-based."
+ },
+ {
+  "id": "9823aa7fe087",
+  "url": "https://www.dentistrytoday.com/viewpoint-the-patient-we-didnt-know-how-to-see/",
+  "source": "Dentistry Today",
+  "published": "2026-11-23T21:12:16+00:00",
+  "added": "2026-11-23T21:31:26.659596+00:00",
+  "category": "clinical",
+  "headline": "Dental hygienist urges clinicians to recognize signs of human trafficking in patients",
+  "summary": "In a first-person viewpoint, dental hygienist Loren King describes two patients whose experiences of sexual abuse and trafficking were not recognized by them as victims of a crime. She contrasts a survivor of childhood and adult sexual assault with a child trafficking case she was told about early in her career. King says the story changed her life's direction and led her to teach healthcare professionals to look more closely.",
+  "why": "Dental teams may encounter patients who have been sexually abused or trafficked without recognizing it themselves, so being alert to warning signs matters for patient care."
+ },
+ {
+  "id": "bcd59fff5016",
+  "url": "https://www.dentistrytoday.com/low-magnitude-high-frequency-vibration-in-orthodontics-effects-on-bone-remodeling-and-potential-clinical-benefits/",
+  "source": "Dentistry Today",
+  "published": "2026-11-23T16:31:41+00:00",
+  "added": "2026-11-23T21:31:26.659596+00:00",
+  "category": "research",
+  "headline": "Low-magnitude high-frequency vibration as an adjunct in orthodontic bone remodeling",
+  "summary": "This review, written by Dr. Gregori M. Kurtzman, examines whether low-magnitude high-frequency vibration (LMHFV) can improve the biological response that drives orthodontic tooth movement. It explains that tooth movement depends on bone resorption and formation around the moving tooth, and that vibration may stimulate these processes without requiring more orthodontic force. The article also notes that differing vibration frequencies, magnitudes, durations and application methods may account for conflicting results in the literature.",
+  "why": "For orthodontic practice, this suggests a possible noninvasive adjunct that could support tooth movement without increasing force, though the excerpt does not establish clinical efficacy or a standard protocol."
+ },
+ {
+  "id": "28b0ac854512",
+  "url": "https://www.dentistrytoday.com/glidewell-expands-guiding-leaders-program-to-east-coast/",
+  "source": "Dentistry Today",
+  "published": "2026-11-23T16:25:45+00:00",
+  "added": "2026-11-23T21:31:26.659596+00:00",
+  "category": "education",
+  "headline": "Glidewell's Guiding Leaders Program Adds Raleigh Site for 2027 Cohort",
+  "summary": "Glidewell is accepting applications for the 2027 Guiding Leaders program, a six-month, in-person business and leadership course for practicing dentists. For the first time, the program will be offered in Irvine, California, and in Raleigh, North Carolina, so East Coast dentists no longer need to travel to Irvine for every session. The curriculum is refreshed yearly and covers topics such as practice management, HR strategy, financial literacy, and public speaking.",
+  "why": "Dentists on the East Coast can now attend this leadership training closer to home, and the program's focus on business skills that clinical training does not cover may be useful for those planning practice growth or ownership."
+ },
+ {
+  "id": "e3c12a122dd7",
+  "url": "https://www.dentistrytoday.com/the-trust-recession-in-healthcare/",
+  "source": "Dentistry Today",
+  "published": "2026-11-23T15:42:15+00:00",
+  "added": "2026-11-23T21:31:26.659596+00:00",
+  "category": "business",
+  "headline": "Public Trust in Healthcare and Dentistry Is Slipping, Opinion Piece Warns",
+  "summary": "An opinion column by Dr. Alan Stern cites Gallup data showing confidence in physicians dropping from 77% in 2020 to 53% four years later, and notes a measurable decline in trust toward dentists over the past decade. It also reports a national survey finding that 30% of Americans are still looking for the right dentist, with patients prioritizing empathy and listening over technology, office appearance, or price.",
+  "why": "The piece argues that empathy and patient-centered conversations build trust, and that practice priorities, not ownership structure alone, shape how patients experience care, which matters for any dentist regardless of practice model."
+ },
+ {
+  "id": "834c3974946e",
+  "url": "https://www.dentistrytoday.com/shofu-article-program-little-smiles-big-adventures/",
+  "source": "Dentistry Today",
+  "published": "2026-11-23T15:14:56+00:00",
+  "added": "2026-11-23T21:31:26.659596+00:00",
+  "category": "education",
+  "headline": "Recent dental graduate reflects on school, TV filming, and pediatric residency",
+  "summary": "Carter Bedinghaus, DMD, writes in a Shofu article program piece about finishing his final weeks at LECOM School of Dental Medicine and receiving the Dean's Award at graduation. He describes filming an episode for a television show and starting pediatric dental residency, where he has bonded with co-residents and found that pediatric care is about building trust and positive experiences with children.",
+  "why": "The first-person account offers a view of the transition from dental school to pediatric residency and highlights the emphasis on building a child's positive early dental experiences."
+ },
+ {
+  "id": "8228c44a135b",
+  "url": "https://www.dentistrytoday.com/from-caterpillar-to-clinician-becoming-the-dentist-i-prepared-to-be/",
+  "source": "Dentistry Today",
+  "published": "2026-11-23T15:12:19+00:00",
+  "added": "2026-11-23T21:31:26.659596+00:00",
+  "category": "education",
+  "headline": "A new dentist reflects on the shift from dental student to practicing clinician",
+  "summary": "Branden Franzen, writing in a sponsored Dentistry Today article program piece, describes the transition from dental school to practicing dentist. He says that despite years of study, podcasts, and continuing education, graduation brought a new sense of responsibility for deciding how to use what he had learned. He notes that he no longer needs a preceptor's approval for choices such as materials and treatment plans.",
+  "why": "For practicing dentists and those mentoring new graduates, it offers a first-person view of how newly licensed dentists experience independent decision-making and the uncertainty that comes with it."
+ },
+ {
+  "id": "57f21745962d",
+  "url": "https://www.dentistrytoday.com/georgia-school-of-orthodontics-appoints-lindsey-streeter/",
+  "source": "Dentistry Today",
+  "published": "2026-11-23T15:03:50+00:00",
+  "added": "2026-11-23T21:31:26.659596+00:00",
+  "category": "education",
+  "headline": "Georgia School of Orthodontics Adds Retired Army Leader as Instructor",
+  "summary": "The Georgia School of Orthodontics has appointed Lindsey G. Streeter Sr., a retired U.S. Army Command Sergeant Major and corporate executive, as an instructor. He will teach a leadership course to residents and faculty at the school, which the article describes as the largest orthodontic residency program in the United States. Streeter currently serves as senior vice president of global military affairs at Bank of America.",
+  "why": "For dentists and specialists, this shows orthodontic residency training is expanding beyond clinical skills into leadership and team development, which matters for future practice management and staffing."
+ },
+ {
+  "id": "2b778427ea1a",
+  "url": "https://www.dental-tribune.com/news/planet-dds-enters-canada-through-landmark-canadian-dental-services-partnership/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-11-23T12:44:08+00:00",
+  "added": "2026-11-23T21:31:26.659596+00:00",
+  "category": "business",
+  "headline": "Planet DDS expands into Canada via Canadian Dental Services deal",
+  "summary": "Toronto-based dental support organisation Canadian Dental Services Corp. (CDS) has chosen Denticon, the practice management software from US company Planet DDS, for clinics in its general dentistry division. The agreement is Planet DDS's first move into the Canadian market and centers on its enterprise platform that links practice management and other operational data across multiple practices.",
+  "why": "It signals that large dental support organisations are standardising on enterprise practice management platforms, which may influence software options and operational consolidation for dentists working with DSOs in Canada."
+ },
+ {
+  "id": "ef5af0d1b8ab",
+  "url": "https://www.dentistrytoday.com/capline-reports-75-faster-dental-insurance-verification-with-ai/",
+  "source": "Dentistry Today",
+  "published": "2026-11-23T09:52:50+00:00",
+  "added": "2026-11-23T21:31:26.659596+00:00",
+  "category": "tech",
+  "headline": "Capline Reports 75% Faster Insurance Verification Using AI Checks",
+  "summary": "Houston-based dental revenue cycle company Capline Dental Services says AI-driven checks in its verification workflow cut the time needed for dental insurance eligibility verification by 75%. The company says faster verification gives front office teams accurate coverage information sooner, with specialist review still part of the process. The article also cites American Dental Association Health Policy Institute data on dentists' staffing pressures and their growing use of AI for insurance tasks.",
+  "why": "Faster, more accurate eligibility checks may reduce claim denials and billing surprises, but the 75% figure is company-reported and the article offers no independent validation."
+ },
+ {
+  "id": "938ee7ab6ff7",
+  "url": "https://www.dentistrytoday.com/oral-b-launches-floral-io-style-series-toothbrush-at-target/",
+  "source": "Dentistry Today",
+  "published": "2026-11-23T08:11:52+00:00",
+  "added": "2026-11-23T21:31:26.659596+00:00",
+  "category": "products",
+  "headline": "Oral-B Adds Floral-Design iO Style Electric Toothbrush, Sold Exclusively at Target",
+  "summary": "Oral-B has launched the iO Style Series electric toothbrush, which pairs its iO cleaning and whitening technology with the brand's first floral-inspired handle. The toothbrush is sold exclusively at Target. Listed features include a round brush head, a gum pressure sensor that slows the brush when users press too hard, three cleaning modes, a two-minute timer, and a battery rated for up to 28 days per charge.",
+  "why": "Patients who prefer a stylish brush may ask about this model, so it is useful to know its listed features, such as the pressure sensor and timer, when recommending home care tools."
+ },
+ {
+  "id": "7838d560e676",
+  "url": "https://www.dental-tribune.com/news/osstem-promotes-ks-3-dental-implant-ahead-of-european-launch/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-11-23T06:52:48+00:00",
+  "added": "2026-11-23T21:31:26.659596+00:00",
+  "category": "products",
+  "headline": "Osstem ramps up promotion of KS 3 implant before European launch",
+  "summary": "Osstem Implant is increasing promotion of its KS 3 dental implant ahead of a planned European launch in the first quarter of next year. The implant was first presented to clinicians at the European Association for Osseointegration congress in Lisbon in September. It is designed to deliver primary stability in difficult cases, including soft bone and immediate placement.",
+  "why": "Dentists who place implants may soon have another system option in Europe, and the stated focus on soft bone and immediate placement is relevant to how they plan those cases."
  }
 ]
