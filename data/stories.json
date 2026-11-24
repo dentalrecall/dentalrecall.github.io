@@ -5959,5 +5959,71 @@
   "headline": "Osstem ramps up promotion of KS 3 implant before European launch",
   "summary": "Osstem Implant is increasing promotion of its KS 3 dental implant ahead of a planned European launch in the first quarter of next year. The implant was first presented to clinicians at the European Association for Osseointegration congress in Lisbon in September. It is designed to deliver primary stability in difficult cases, including soft bone and immediate placement.",
   "why": "Dentists who place implants may soon have another system option in Europe, and the stated focus on soft bone and immediate placement is relevant to how they plan those cases."
+ },
+ {
+  "id": "b27a7e2aff67",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43073110/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-24T06:08:24.597765+00:00",
+  "added": "2026-11-24T06:08:24.597765+00:00",
+  "category": "research",
+  "headline": "Tooth-registered surgical guides proposed for minimally invasive Le Fort I osteotomy",
+  "summary": "A technical note in the International Journal of Oral and Maxillofacial Surgery describes a CAD/CAM surgical guide system for Le Fort I osteotomy. The guides register on the maxillary incisors and canine on one side and are inserted independently on each side, which reduces guide size and the surgical exposure needed. The design combines osteotomy trajectory, fixation-hole predrilling and three-dimensional plate positioning in one device, but its reproducibility and accuracy have not yet been evaluated.",
+  "why": "For dentists involved in orthognathic planning, this offers a possible route to guided maxillary surgery with less skeletal exposure, though the authors say clinical accuracy is still unproven."
+ },
+ {
+  "id": "51a8edc4a8ea",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43073109/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-24T06:08:24.597765+00:00",
+  "added": "2026-11-24T06:08:24.597765+00:00",
+  "category": "research",
+  "headline": "Rare branchial cleft cyst extending behind the sternum removed through neck incision",
+  "summary": "A case report describes a 60-year-old woman with a three-month history of a painless swelling in the midline front of the neck. Imaging showed a large well-defined cyst below the hyoid bone that extended down behind the sternum, and it was completely excised through a neck approach without chest surgery. The authors note that this rare condition should be considered in the differential diagnosis of neck masses, and that early, thorough removal helps prevent recurrence.",
+  "why": "Although uncommon, a midline neck swelling can be a branchial cleft cyst with deep extension, so clinicians evaluating neck masses should keep it in the differential."
+ },
+ {
+  "id": "bccf9468f8e3",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43072730/",
+  "source": "Clin Implant Dent Relat Res",
+  "published": "2026-11-24T06:08:24.597765+00:00",
+  "added": "2026-11-24T06:08:24.597765+00:00",
+  "category": "research",
+  "headline": "In vitro study compares navigation, haptic robotic, and optical robotic implant systems",
+  "summary": "Researchers compared three proprietary computer-assisted implant systems: a dynamic navigation system, a haptic-feedback robotic system, and an optical guided robotic system. They placed 480 implants across 120 jaw models, covering partially and fully edentulous cases, and measured angle, platform, and apex deviations along with surgical time. Both robotic systems were significantly more accurate than the navigation system, while the haptic system was the fastest overall, and all three were judged clinically acceptable within the study's in vitro limits.",
+  "why": "Robotic guidance may offer more precise implant placement than dynamic navigation, though these in vitro results apply only to the specific systems tested and do not establish clinical outcomes."
+ },
+ {
+  "id": "bb23f4a3c128",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43073219/",
+  "source": "J Prosthodont",
+  "published": "2026-11-24T06:08:24.597765+00:00",
+  "added": "2026-11-24T06:08:24.597765+00:00",
+  "category": "research",
+  "headline": "Virtual occlusal records differ from clinical records for single implant crowns",
+  "summary": "A clinical study compared occlusal schemes for 25 single implant-retained monolithic crowns and their adjacent teeth, using intraoral scanning-based virtual registration against conventional articulating-paper records. Implant crowns showed significantly different numbers and quality of contacts between the virtual and clinical methods, while adjacent teeth had similar contact counts with some quality differences.",
+  "why": ""
+ },
+ {
+  "id": "51d7c537335d",
+  "url": "https://www.dental-tribune.com/news/adf-2026-learning-innovating-and-caring-together/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-11-24T06:07:22+00:00",
+  "added": "2026-11-24T06:08:24.597765+00:00",
+  "category": "events",
+  "headline": "ADF congress 2026 set to bring together French dental community",
+  "summary": "The French Dental Association has issued a welcome message for its 2026 annual congress, which it describes as the flagship event for the French dental profession. The congress draws more than 25,000 participants and around 300 exhibitors each year, including practitioners, assistants, technicians, students and industry representatives.",
+  "why": "For dentists, this is a large annual gathering where clinicians, staff, students and suppliers meet, offering a venue for continuing learning and networking with industry."
+ },
+ {
+  "id": "b4727399c247",
+  "url": "https://www.dentistrytoday.com/quick-technique-deep-caries-treatment/",
+  "source": "Dentistry Today",
+  "published": "2026-11-23T22:30:02+00:00",
+  "added": "2026-11-24T06:08:24.597765+00:00",
+  "category": "clinical",
+  "headline": "Case-based guide to treating deep caries while preserving tooth vitality",
+  "summary": "Dr. Joseph Pelerin walks through a case of extensive deep caries on teeth Nos. 20 and 30, covering evaluation, isolation, dentin handling and the final bite. He describes using Hemaseal & Cide dentin treatment to improve bonding and reduce postoperative sensitivity, with tooth No. 30 restored first using a core and crown. The excerpt is cut off before the full procedure and outcome are described.",
+  "why": "It offers a practical clinical workflow for deciding whether a deep lesion can be restored without endodontic treatment, though the excerpt provides only part of the technique."
  }
 ]
