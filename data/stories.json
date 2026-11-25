@@ -5981,5 +5981,38 @@
   "headline": "OrthoFi and Greyfinch to Integrate Practice Management and Patient Payment Platforms",
   "summary": "OrthoFi, an orthodontic performance platform, and Greyfinch, a cloud-based all-in-one practice management system, are building a connection between their software. The integration responds to the feature OrthoFi customers asked for most and is designed to sync patient information, appointments, and financial records and show payment statuses on patient profiles. The integration has not launched yet; the announcement describes it as upcoming.",
   "why": "Orthodontic practices using either platform may eventually see less duplicate data entry and clearer visibility into overdue patient balances, though no release date is given in the announcement."
+ },
+ {
+  "id": "de79e8cfaa9f",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43077486/",
+  "source": "Clin Exp Dent Res",
+  "published": "2026-11-25T02:34:47.322599+00:00",
+  "added": "2026-11-25T02:34:47.322599+00:00",
+  "category": "research",
+  "headline": "Sedation need index and patient-desired awareness during dental care are related but distinct",
+  "summary": "A single-center cross-sectional study of 153 Chinese adult dental patients compared Indicator of Sedation Need (IOSN) categories with the level of consciousness patients said they wanted during treatment. Using multinomial logistic regression, higher dental treatment complexity and higher dental anxiety scores were linked to uncertainty and deeper sedation preferences, while prior treatment experience was linked to lower odds of wanting to be drowsy but unaware of the process. The authors caution that the \"Uncertain\" group was small and its estimates imprecise.",
+  "why": "The findings suggest the IOSN should not be treated as a substitute for asking patients what level of awareness they want, and it should be used alongside a formal pre-sedation safety assessment."
+ },
+ {
+  "id": "0ee89932e7d2",
+  "url": "https://www.dentistrytoday.com/which-alien-beanie-landed-in-your-dental-lab/",
+  "source": "Dentistry Today",
+  "published": "2026-11-24T21:24:47+00:00",
+  "added": "2026-11-25T02:34:47.322599+00:00",
+  "category": "products",
+  "headline": "Alien Milling Technologies launches online archive of its Alien Beanie editions",
+  "summary": "Alien Milling Technologies has opened an Official Editions archive cataloging every official Alien Beanie by year, so owners can match their hat to its edition. The site also offers a designer where users can customize a beanie's crown, cuff, logo, and tag, with more than 250 yarn colors available. The beanies, first made in 2021 for dental lab technicians attending LMT Lab Day Chicago, have mostly been handed out at lab trade shows.",
+  "why": ""
+ },
+ {
+  "id": "1a595b2b8d47",
+  "url": "https://orthodonticproductsonline.com/practice-products/software/practice-management-software/orthofi-greyfinch-integration-practice-management/",
+  "source": "Orthodontic Products",
+  "published": "2026-11-24T20:27:26+00:00",
+  "added": "2026-11-25T02:34:47.322599+00:00",
+  "category": "tech",
+  "headline": "OrthoFi and Greyfinch to Integrate Financial and Practice Management Platforms",
+  "summary": "OrthoFi has announced an upcoming integration between its financial platform and Greyfinch's cloud-based practice management system. The goal is a unified digital workflow for orthodontic practices, from the initial consultation through ongoing payment management. The companies say the integration will sync patient information, appointments, and financial records automatically and show live payment statuses on patient profiles.",
+  "why": "Orthodontic practices using either system could see less duplicate data entry and earlier visibility of overdue patient balances, though the excerpt does not give a release date or pricing."
  }
 ]
