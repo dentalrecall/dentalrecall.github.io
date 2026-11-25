@@ -1,159 +1,5 @@
 [
  {
-  "id": "d55cd3c184c1",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42929132/",
-  "source": "Clin Oral Implants Res",
-  "published": "2026-10-26T15:46:21.078608+00:00",
-  "added": "2026-10-26T15:46:21.078608+00:00",
-  "category": "research",
-  "headline": "Chairside fully guided implants improve accuracy; bone-level gains not significant after adjustment",
-  "summary": "A 1-year follow-up of a randomized trial compared chairside fully guided flapless implant placement with conventional partially guided open-flap placement in patients who also had transcrestal sinus augmentation. Of 56 randomized patients, 21 fully guided and 22 partially guided patients completed follow-up. The fully guided group had better placement accuracy, while between-group differences in marginal bone level change were not statistically significant after adjustment for multiple comparisons.",
-  "why": ""
- },
- {
-  "id": "1fb758052ca6",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42929543/",
-  "source": "Int Endod J",
-  "published": "2026-10-26T15:46:21.078608+00:00",
-  "added": "2026-10-26T15:46:21.078608+00:00",
-  "category": "research",
-  "headline": "Wnt agonist peptide L803-mts shows reparative dentinogenesis in vitro and in rats",
-  "summary": "Researchers tested L803-mts, a GSK-3β inhibitory peptide, on dental pulp stem cells and macrophages under inflammatory conditions, and in a rat pulp injury model. The peptide was studied for odontogenic differentiation, macrophage polarization, and dentine repair, with MTA as a comparison. The excerpt indicates the peptide acted through Wnt signalling activation and immunomodulation to promote reparative dentinogenesis.",
-  "why": "This is preclinical work suggesting a biologically active agent could support vital pulp therapy beyond simply forming a dentine barrier, but it remains animal and lab evidence without clinical use yet."
- },
- {
-  "id": "fd74c2e0bc4c",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42929371/",
-  "source": "J Dent Educ",
-  "published": "2026-10-26T15:46:21.078608+00:00",
-  "added": "2026-10-26T15:46:21.078608+00:00",
-  "category": "research",
-  "headline": "Proposed \"2+4+1\" dental education model aims to cut costs and boost rural workforce",
-  "summary": "A Journal of Dental Education narrative review proposes a post-high school \"2+4+1\" model to address dental workforce shortages, rising education costs, and the relevance of licensure exams. The model combines two years of integrated pre-professional undergraduate study, a traditional four-year DDS/DMD program, and a seventh year spent in supervised rural or underserved service or in a CODA-accredited residency. Graduates would receive a limited practice-under-supervision permit, with full licensure tied to completing the seventh year or residency.",
-  "why": "If adopted, the model could lower educational debt and expand access in underserved areas, but it is a proposal only and would change how new dentists enter practice."
- },
- {
-  "id": "8ea90af22b29",
-  "url": "https://www.dentistrytoday.com/predictable-graft-resorption-and-long-term-implant-success-why-the-mechanism-matters/",
-  "source": "Dentistry Today",
-  "published": "2026-10-26T15:10:50+00:00",
-  "added": "2026-10-26T15:46:21.078608+00:00",
-  "category": "clinical",
-  "headline": "Graft resorption behavior may shape long-term implant success after ridge preservation",
-  "summary": "The article argues that bone grafts placed after extraction should be gradually replaced by vital bone, since that resorption determines bone-to-implant contact later. It contrasts this with dense, heat-treated materials such as ceramic hydroxyapatite and heat-treated bovine xenografts, which the body struggles to resorb and which may become encapsulated by connective tissue. The piece also introduces OsteoGen, a non-sintered graft described as working through bioactive ion exchange with phosphate, calcium, and hydroxyl ions.",
-  "why": "When choosing a graft for ridge preservation, the material's resorption behavior may affect how well implants integrate and hold up under load later, so graft selection deserves attention beyond immediate socket filling."
- },
- {
-  "id": "75b3ff38e4e6",
-  "url": "https://www.dentistrytoday.com/jacob-r-dent-dds-on-special-needs-dentistry-desensitization-and-restorative-techniques/",
-  "source": "Dentistry Today",
-  "published": "2026-10-26T14:42:38+00:00",
-  "added": "2026-10-26T15:46:21.078608+00:00",
-  "category": "education",
-  "headline": "Dr. Jacob Dent discusses special needs dentistry and desensitization techniques",
-  "summary": "In an interview with Dentistry Today's editor-in-chief, special needs dentist Jacob R. Dent, DDS, discusses dental care for patients with intellectual and developmental disabilities and dental anxiety. He covers how sensory sensitivities affect visits, the Dental Desensitization Systems kit, and home oral hygiene strategies for caregivers. The conversation also touches on minimally invasive options such as silver diamine fluoride and the SMART restorative technique, and on the restorative cement Directa's Ceramir Crown & Bridge in his workflow. The interview is sponsored by Directa USA.",
-  "why": "It offers practical ideas for adapting the environment and treatment approach for anxious or sensory-sensitive patients, though the excerpt is a sponsored interview and gives few specific clinical details."
- },
- {
-  "id": "637bbeb7450c",
-  "url": "https://www.dentistrytoday.com/universal-composites-in-everyday-practice-a-placement-evolution-worth-knowing/",
-  "source": "Dentistry Today",
-  "published": "2026-10-26T14:30:34+00:00",
-  "added": "2026-10-26T15:46:21.078608+00:00",
-  "category": "clinical",
-  "headline": "Universal Composites Reshape Placement Habits for Anterior and Posterior Restorations",
-  "summary": "Two clinicians describe how universal nanohybrid composites have moved beyond the amalgam-centered posterior approach taught in earlier dental training. They focus on GrandioSO 4U (VOCO) as a single material for both anterior and posterior indications. The article also argues that clinicians should reassess the incremental layering standard, with implications for outcomes, workflow, and practice profitability.",
-  "why": "Dentists may need to reconsider long-standing placement habits, such as reliance on amalgam for larger posterior cases and strict incremental layering, as universal composites take on a broader role."
- },
- {
-  "id": "5e399c277542",
-  "url": "https://www.dentistrytoday.com/from-plaque-disclosure-to-real-time-at-home-feedback-how-ai-is-changing-patient-coaching-in-dentistry/",
-  "source": "Dentistry Today",
-  "published": "2026-10-26T14:12:35+00:00",
-  "added": "2026-10-26T15:46:21.078608+00:00",
-  "category": "clinical",
-  "headline": "AI Visual Overlays and Plaque Disclosure Aid Patient Coaching in Dentistry",
-  "summary": "A dentist writing in Dentistry Today argues that patients change behavior more readily when they can see findings such as plaque, bone loss, and demineralization. AI platforms like Overjet convert radiographic findings into color-coded overlays to help explain them, building on older tools like plaque disclosure that show retained biofilm. The piece notes that these in-office moments are important, but that daily oral health decisions happen at home.",
-  "why": "Visual tools such as AI-enhanced radiographs and plaque disclosure may help dentists explain findings and motivate patients to change home care habits, though the excerpt does not report outcome data."
- },
- {
-  "id": "65abd0da6004",
-  "url": "https://www.dentistrytoday.com/align-technology-pledges-1-million-to-aao-foundation/",
-  "source": "Dentistry Today",
-  "published": "2026-10-26T14:00:01+00:00",
-  "added": "2026-10-26T15:46:21.078608+00:00",
-  "category": "business",
-  "headline": "Align Technology Commits $1 Million to AAO Foundation Over Five Years",
-  "summary": "Align Technology has announced a new $1 million, five-year commitment to the American Association of Orthodontists Foundation, following a $1 million pledge it made in 2021. The funding supports the Foundation's Full-time Faculty Fellowship Campaign, which aims to endow orthodontic faculty fellowships at dental schools in the United States and Canada. Since 1994, the Foundation's Awards Program has provided $17.7 million in funding for 297 fellowships and 404 research grants.",
-  "why": "The pledge reflects continued corporate investment in orthodontic education and faculty development, which supports the training pipeline for future orthodontists."
- },
- {
-  "id": "481a4d1bdcce",
-  "url": "https://www.dental-tribune.com/news/sprintray-introduces-intra-oral-scanner-and-compact-chairside-3d-printing-system/",
-  "source": "Articles – Dental Tribune",
-  "published": "2026-10-26T13:50:32+00:00",
-  "added": "2026-10-26T15:46:21.078608+00:00",
-  "category": "products",
-  "headline": "SprintRay unveils wireless intra-oral scanner and compact chairside printing system",
-  "summary": "SprintRay, a German-based dental technology company, showed an expanded digital dentistry platform at 3DNext 2026 in Miami Beach. The lineup includes the Foundation wireless intra-oral scanner, its ScanOS scanning software, and the Nano Series compact chairside production system. The company also announced a new restorative resin developed with GC Corp.",
-  "why": ""
- },
- {
-  "id": "8d76d2a7eb3e",
-  "url": "https://www.dentistrytoday.com/usosm-surgeon-supports-colorado-mission-of-mercy-free-clinic/",
-  "source": "Dentistry Today",
-  "published": "2026-10-26T12:00:21+00:00",
-  "added": "2026-10-26T15:46:21.078608+00:00",
-  "category": "events",
-  "headline": "USOSM Surgeon Volunteers at Colorado Mission of Mercy Free Clinic in Cripple Creek",
-  "summary": "Oral and maxillofacial surgeon Michael Daetwyler, DDS, of Fort Collins Oral & Maxillofacial Surgery, volunteered at the 19th annual Colorado Mission of Mercy free clinic in Cripple Creek, Colorado. He spent the day mainly extracting severely decayed teeth, with the oral surgery department set up in a large tent outside the local high school. According to COMOM, more than 140 dentist volunteers treated more than 1,000 patients.",
-  "why": "It shows how volunteer dental clinics can deliver large amounts of care in a single day, and how oral surgeons and general dentists can contribute to community access-to-care efforts."
- },
- {
-  "id": "ab5b4e8245aa",
-  "url": "https://orthodonticproductsonline.com/practice-products/software/treatment-planning/softsmile-launches-vision-forecast-ai-treatment-planning/",
-  "source": "Orthodontic Products",
-  "published": "2026-10-26T18:33:48+00:00",
-  "added": "2026-10-26T19:07:41.699410+00:00",
-  "category": "products",
-  "headline": "SoftSmile Unveils Vision Forecast AI Module for Orthodontic Case Planning",
-  "summary": "SoftSmile has launched Vision Forecast, an AI-powered decision-support module within its VISION Portal that helps orthodontists assess case complexity, compare treatment options, and estimate treatment duration. It generates case summaries with approximate aligner requirements, clinical details, and common treatment strategies, such as comparing treatment with and without extractions. The company says the module will also show doctors similar past cases and how they were handled, and that it can be used to walk patients through the initial assessment.",
-  "why": "Orthodontists could use AI-generated case summaries and timeline comparisons during early consultations to explain likely treatment commitment to patients before they decide on a plan."
- },
- {
-  "id": "3bf9dfb3685c",
-  "url": "https://orthodonticproductsonline.com/industry-news/company-news/align-technology-pledges-1-million-to-aao-foundation-fellowships/",
-  "source": "Orthodontic Products",
-  "published": "2026-10-26T18:00:00+00:00",
-  "added": "2026-10-26T19:07:41.699410+00:00",
-  "category": "business",
-  "headline": "Align Technology Commits $1 Million to AAO Foundation Faculty Fellowships",
-  "summary": "Align Technology has pledged $1 million over five years to the AAO Foundation, adding to a $1 million pledge it made in 2021. The funding supports the foundation's three-year Full-time Faculty Fellowship Campaign, launched in 2024, which aims to endow three two-year fellowships for orthodontic faculty at US and Canadian dental schools.",
-  "why": "The campaign targets the supply of full-time orthodontic educators and researchers who train future orthodontists, which matters for dentists considering orthodontic training or referral pipelines."
- },
- {
-  "id": "a7db4654f6c6",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42931806/",
-  "source": "Clin Oral Implants Res",
-  "published": "2026-10-26T21:51:29.349956+00:00",
-  "added": "2026-10-26T21:51:29.349956+00:00",
-  "category": "research",
-  "headline": "Topical Teriparatide on Implant Surfaces Aids Bone Integration in Rats Under Osteoporosis-Like Conditions",
-  "summary": "Researchers coated titanium implants with teriparatide using a layer-by-layer topical delivery method and placed them in the maxillae of ovariectomized rats fed a cafeteria diet, some also given risedronate. After 28 days, the coated implants showed higher removal torque across all groups, with the largest gain in the rats receiving risedronate, and greater peri-implant bone volume in the two ovariectomized groups. Gene markers for bone formation and blood vessel growth were also upregulated.",
-  "why": ""
- },
- {
-  "id": "0cb93e3f1152",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42931724/",
-  "source": "Am J Orthod Dentofacial Orthop",
-  "published": "2026-10-26T21:51:29.349956+00:00",
-  "added": "2026-10-26T21:51:29.349956+00:00",
-  "category": "research",
-  "headline": "CBCT study links mandibular symphysis shape to vertical skeletal pattern and incisor tilt",
-  "summary": "A retrospective CBCT study of 108 adults examined how mandibular symphysis morphology relates to lower incisor inclination across sagittal and vertical skeletal patterns. Vertical patterns showed significant variation in symphyseal measurements, while sagittal groups did not. Patients with hyperdivergence had larger symphyseal ratios and narrower apical widths.",
-  "why": "For orthodontic planning, the study suggests that vertical facial pattern and incisor position should be assessed individually with CBCT, since symphysis shape appears to track vertical rather than sagittal skeletal differences."
- },
- {
   "id": "e9273eb7f11b",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42933590/",
   "source": "J Dent",
@@ -6168,5 +6014,115 @@
   "headline": "ADF Product of the Year award recognises dental industry innovation in France",
   "summary": "The French Dental Association (ADF) uses its annual congress in Paris to showcase innovations that respond to current challenges in dentistry. Through its ADF Product of the Year award, the association honours manufacturers and suppliers whose products aim to improve clinical practice, patient safety and the patient experience.",
   "why": "The award highlights products that dentists may encounter in French practices, signalling industry offerings aimed at clinical advancement, safety and patient experience."
+ },
+ {
+  "id": "b1e7f84bb184",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43083533/",
+  "source": "J Am Dent Assoc",
+  "published": "2026-11-25T22:36:34.904761+00:00",
+  "added": "2026-11-25T22:36:34.904761+00:00",
+  "category": "research",
+  "headline": "Review examines clinical decision support tools for precision dentistry",
+  "summary": "A narrative review in the Journal of the American Dental Association looked at clinical decision support (CDS) systems for precision dentistry, drawing on literature covering informatics, AI, biomarkers, and patient-generated data. The authors note that patient data are often scattered across dental records, imaging platforms, and diagnostic tests, and that CDS systems can organize these into evidence-informed recommendations at the point of care. Dental CDS applications range from rule-based reminders and quality measures to AI-assisted radiograph reading, risk prediction, and biomarker screening, with readiness varying widely.",
+  "why": "Dentists adopting digital CDS tools should weigh data quality, validation, workflow fit, and privacy, and remain responsible for final clinical decisions while involving patients."
+ },
+ {
+  "id": "fcbb3c534c3f",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43083511/",
+  "source": "Am J Orthod Dentofacial Orthop",
+  "published": "2026-11-25T22:36:34.904761+00:00",
+  "added": "2026-11-25T22:36:34.904761+00:00",
+  "category": "research",
+  "headline": "AI model segments impacted maxillary canines on CBCT faster than manual methods",
+  "summary": "Researchers developed and tested an artificial intelligence framework (a Mask RCNN model with multihead attention) to automatically segment and measure impacted maxillary canines on cone-beam CT scans from 214 patients. The AI segmentation took significantly less time than manual segmentation, and its results agreed well with human reference standards on overlap, sensitivity, specificity, and boundary-distance metrics. Linear measurements showed no significant difference between methods, while volumetric measurements showed good agreement (intraclass correlation coefficients above 0.90).",
+  "why": "For orthodontists and clinicians assessing impacted canines, this suggests an AI tool could provide faster, standardized 3D measurements that may support diagnosis and treatment planning, though it remains a study-stage method."
+ },
+ {
+  "id": "32538cc50b05",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43084317/",
+  "source": "J Prosthodont",
+  "published": "2026-11-25T22:36:34.904761+00:00",
+  "added": "2026-11-25T22:36:34.904761+00:00",
+  "category": "research",
+  "headline": "Impression techniques distort anterior maxillary ridge with excessively movable tissue",
+  "summary": "A prospective crossover study of 14 edentulous patients with excessively movable maxillary tissues compared three impression methods against an intraoral scan reference. Both a conventional closed tray and a tray with a window over the movable tissue produced significant apical displacement in the anterior region, more than in the palate and tuberosity. The window tray did not reduce anterior distortion relative to the conventional tray.",
+  "why": "Clinicians recording impressions of mobile anterior maxillary tissue should expect apical distortion that a window tray alone may not prevent, so verifying accuracy in that area matters before fabricating dentures."
+ },
+ {
+  "id": "d96f9d48a0c5",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43084251/",
+  "source": "J Prosthodont",
+  "published": "2026-11-25T22:36:34.904761+00:00",
+  "added": "2026-11-25T22:36:34.904761+00:00",
+  "category": "research",
+  "headline": "Customized implant-supported Gothic arch tracing device for full-arch implant bite records",
+  "summary": "A Journal of Prosthodontics article describes a digitally designed, 3D-printed Gothic arch that attaches to implant screw-retained abutments to record jaw relationships in edentulous patients. The device is paired with a mandibular movement tracking system that captures jaw movement trajectories and exports patient-specific kinematic data. The authors present it as a way to address limitations of conventional recording methods, such as material deformation, mucosal instability, and operator dependence.",
+  "why": "For clinicians making full-arch implant prostheses, this offers a digitally guided alternative for transferring maxillomandibular relationships that may reduce reliance on conventional material and operator technique."
+ },
+ {
+  "id": "809e8a12d92f",
+  "url": "https://www.dentistrytoday.com/owandy-radiology-to-debut-ai-segmentation-to-quickvision-3d-implant-planning-software-at-gnydm/",
+  "source": "Dentistry Today",
+  "published": "2026-11-25T20:17:44+00:00",
+  "added": "2026-11-25T22:36:34.904761+00:00",
+  "category": "products",
+  "headline": "Owandy Adds AI Segmentation to QuickVision 3D Implant Planning Software",
+  "summary": "Owandy Radiology will debut automatic AI segmentation in its QuickVision 3D implant planning software at booth #3614 during the Greater New York Dental Meeting, held November 29 to December 1 at the Jacob K. Javits Convention Center. The feature automatically separates the jaws, individual teeth and canals, including the mandibular canal, on CBCT scans so clinicians can review anatomy and move directly into surgical guide design within the same software. Clinicians must still review and validate the AI-generated segmentation.",
+  "why": "Dentists planning guided implant surgery could review bone volume and structures to preserve more efficiently within one workflow, but the AI output still needs clinical verification."
+ },
+ {
+  "id": "9e2dce888bc7",
+  "url": "https://www.dentistrytoday.com/tooth-whitening-and-aesthetic-treatment-planning-expectations-and-maintenance-recommendations-2/",
+  "source": "Dentistry Today",
+  "published": "2026-11-25T19:28:55+00:00",
+  "added": "2026-11-25T22:36:34.904761+00:00",
+  "category": "clinical",
+  "headline": "Planning Whitening and Aesthetic Treatment Around Patient Expectations and Maintenance",
+  "summary": "An opinion piece by Dr. Alex Rubinov argues that whitening success depends on more than shade change, including dental health, existing restorations, sensitivity and long-term maintenance. It recommends starting with patient goals and a full assessment of baseline shade, intrinsic versus extrinsic discoloration, restorations and enamel integrity. The author describes combining clear aligner therapy, whitening and selective restorations such as porcelain veneers, and notes that whitening should stabilize before final shade matching for veneers.",
+  "why": "It reinforces a structured pre-treatment assessment and sequencing of whitening, alignment and restorations, which can shape case planning and patient expectation-setting."
+ },
+ {
+  "id": "1dff8e833603",
+  "url": "https://www.dental-tribune.com/news/hassbio-launches-amber-drymill/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-11-25T15:02:52+00:00",
+  "added": "2026-11-25T22:36:34.904761+00:00",
+  "category": "products",
+  "headline": "HASSBIO adds disc version to Amber DryMill lithium disilicate range",
+  "summary": "HASSBIO has launched a disc version of its Amber DryMill lithium disilicate material in South Korea and Thailand. The material is designed for dry-milling workflows and was first shown at the Korea Dental Technology Expo & Scientific Conference in July. The company says an international launch is being prepared.",
+  "why": "Dental labs and clinics that mill restorations may soon have a new dry-milling lithium disilicate option, though availability outside South Korea and Thailand is not yet confirmed."
+ },
+ {
+  "id": "8b7a904be01c",
+  "url": "https://www.dentistrytoday.com/the-art-of-emergency-dentistry/",
+  "source": "Dentistry Today",
+  "published": "2026-11-25T14:05:39+00:00",
+  "added": "2026-11-25T22:36:34.904761+00:00",
+  "category": "clinical",
+  "headline": "Managing an Emergency Case of Two Fractured Maxillary Central Incisors",
+  "summary": "A general dentist describes treating a patient who fractured both maxillary central incisors after falling from an electric scooter. The plan was to restore the two central incisors with large Class IV composites, splint them non-rigidly for 2 to 3 weeks, and perform root canal therapy on the tooth that had lost vitality. The article also focuses on choosing composite material and shade to achieve an acceptable aesthetic result.",
+  "why": "It offers a practical example of planning emergency trauma care, including splinting duration, endodontic decisions, and shade matching with composite, which are routine concerns for general practices."
+ },
+ {
+  "id": "0908054bd44b",
+  "url": "https://www.dentistrytoday.com/the-wellness-dental-practice/",
+  "source": "Dentistry Today",
+  "published": "2026-11-25T06:02:50+00:00",
+  "added": "2026-11-25T22:36:34.904761+00:00",
+  "category": "business",
+  "headline": "Dental practices explore wellness model addressing pain and muscle function",
+  "summary": "An article in Dentistry Today argues that dental practices can expand into whole-patient wellness by addressing jaw discomfort, muscle tension, and chewing difficulty. It suggests some practices may add an affiliated wellness clinic, and it separates treating acute pain from managing persistent pain or neuromuscular dysfunction. The piece also profiles two laser-based devices, EMVITAL and EMFACE, with their listed uses.",
+  "why": "Dentists could use regular visits to spot pain and function concerns and refer patients or add related services, though the excerpt is promotional and the device claims come from manufacturer-stated intended uses."
+ },
+ {
+  "id": "2332902e4ca7",
+  "url": "https://www.dentistrytoday.com/3shape-unite-integrates-with-henry-schein-one-platforms/",
+  "source": "Dentistry Today",
+  "published": "2026-11-25T05:07:45+00:00",
+  "added": "2026-11-25T22:36:34.904761+00:00",
+  "category": "tech",
+  "headline": "3Shape Unite Now Links With Henry Schein One Practice Software",
+  "summary": "3Shape has announced a workflow integration between its Unite platform and Henry Schein One's Ascend by Dentrix, Dentrix and Dentally systems. The co-developed link lets clinicians open patient scans and treatment data within the patient record, and Dx Plus diagnostic visualizations can be shared back into the Henry Schein One platform.",
+  "why": "Dentists using Henry Schein One software and 3Shape TRIOS scanners may find less manual record-keeping and easier access to AI-assisted caries, plaque, wear and recession visuals for patient discussions."
  }
 ]
