@@ -1,60 +1,5 @@
 [
  {
-  "id": "a482ea32f943",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42927980/",
-  "source": "J Clin Periodontol",
-  "published": "2026-10-26T03:56:27.412780+00:00",
-  "added": "2026-10-26T03:56:27.412780+00:00",
-  "category": "research",
-  "headline": "Caries, periodontitis and tooth loss linked to higher primary liver cancer risk in Swedish cohort",
-  "summary": "A large Swedish registry study of about 5.9 million adults followed for a mean of 6.36 years found that caries, periodontitis and tooth loss were each associated with a higher risk of primary liver cancer. Risk rose as the number of remaining teeth fell, and periodontitis was linked mainly to hepatocellular carcinoma while caries was linked mainly to other liver cancer subtypes. Sibling-comparison and sensitivity analyses gave generally consistent results.",
-  "why": "These findings add to evidence that oral health may be connected to systemic cancer risk, which reinforces the value of caries and periodontal management and tooth retention, though the study shows association rather than cause."
- },
- {
-  "id": "15385c9c3bd8",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42927864/",
-  "source": "J Dent",
-  "published": "2026-10-26T03:56:27.412780+00:00",
-  "added": "2026-10-26T03:56:27.412780+00:00",
-  "category": "research",
-  "headline": "Polyurethane resin cement with antibacterial DMAHDM shows promise in lab tests",
-  "summary": "Researchers developed a polyurethane resin cement for bonding indirect restorations that includes DMAHDM, an antibacterial monomer, aimed at reducing secondary caries. At 3% DMAHDM, the cement kept mechanical properties close to a commercial comparator and showed strong antibacterial activity against several oral bacteria, with 4-5 log10 reductions in bacterial viability. Higher concentrations (4-5%) reduced flexural strength and increased polymerization shrinkage, and the authors say clinical studies are still needed.",
-  "why": "This is early laboratory and animal work, so it does not yet change how dentists bond restorations, but it signals a possible future cement option aimed at lowering secondary caries risk."
- },
- {
-  "id": "481a3b206e29",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42927863/",
-  "source": "J Dent",
-  "published": "2026-10-26T03:56:27.412780+00:00",
-  "added": "2026-10-26T03:56:27.412780+00:00",
-  "category": "research",
-  "headline": "Sleep and awake bruxism linked to mental health conditions in Brazilian cohort",
-  "summary": "A cross-sectional analysis of the 1982 Pelotas Birth Cohort in Southern Brazil examined self-reported sleep and awake bruxism at age 40 alongside common mental disorders and specific psychiatric diagnoses. Both forms of bruxism were more common among women and people with alcohol dependence, and depression was associated with higher prevalence of each. Participants with probable common mental disorders at both age 30 and age 40 had the strongest associations with bruxism.",
-  "why": "For dentists, this suggests patients reporting grinding or clenching may also have mental health concerns, so asking about mood and alcohol use could be a useful part of assessing bruxism."
- },
- {
-  "id": "89adc70e2fb4",
-  "url": "https://www.dental-tribune.com/news/from-chairside-to-cyberspace-ai-can-grow-your-practice-and-your-risk-too-part-6/",
-  "source": "Articles – Dental Tribune",
-  "published": "2026-10-26T07:02:22+00:00",
-  "added": "2026-10-26T07:13:50.959173+00:00",
-  "category": "tech",
-  "headline": "AI in dentistry brings practice gains and new risks, says Part 6 of series",
-  "summary": "This installment of a Dental Tribune series says artificial intelligence and augmented intelligence are quickly spreading into dental work, touching imaging, documentation, treatment planning, patient communication and office administration. It notes the technology can improve care and efficiency but needs careful leadership and cannot replace the dentist's clinical judgment. As software reaches more patient data and produces content or takes actions on its own, the article says practices must weigh privacy, oversight, accuracy and verification.",
-  "why": "Dentists adopting AI tools should plan for patient privacy, human oversight and verification of outputs, since the clinician remains responsible for diagnosis and treatment."
- },
- {
-  "id": "12fe072cedf9",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42928635/",
-  "source": "Clin Oral Implants Res",
-  "published": "2026-10-26T10:03:10.846860+00:00",
-  "added": "2026-10-26T10:03:10.846860+00:00",
-  "category": "research",
-  "headline": "Patient satisfaction with implants over 5 years tied to pre-treatment information and fewer complications",
-  "summary": "This cross-sectional study surveyed 260 patients whose dental implants had been placed more than five years earlier, asking about functional, aesthetic, psychosocial and economic satisfaction. Overall satisfaction was high, with 93.1% of respondents satisfied or very satisfied. The strongest independent factors linked to satisfaction were the amount of information patients received before treatment and the absence of self-reported peri-implant inflammation, while demographics, cost and extent of rehabilitation were not associated with satisfaction.",
-  "why": "Patients who felt well informed before treatment and who reported no peri-implant problems were more satisfied long term, suggesting that thorough pre-treatment counseling and ongoing maintenance may matter as much as demographics for outcomes; because the design is cross-sectional and self-reported, the link is associational rather than causal."
- },
- {
   "id": "d55cd3c184c1",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42929132/",
   "source": "Clin Oral Implants Res",
@@ -6014,5 +5959,214 @@
   "headline": "OrthoFi and Greyfinch to Integrate Financial and Practice Management Platforms",
   "summary": "OrthoFi has announced an upcoming integration between its financial platform and Greyfinch's cloud-based practice management system. The goal is a unified digital workflow for orthodontic practices, from the initial consultation through ongoing payment management. The companies say the integration will sync patient information, appointments, and financial records automatically and show live payment statuses on patient profiles.",
   "why": "Orthodontic practices using either system could see less duplicate data entry and earlier visibility of overdue patient balances, though the excerpt does not give a release date or pricing."
+ },
+ {
+  "id": "96704dcd6a6a",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43079929/",
+  "source": "J Dent Res",
+  "published": "2026-11-25T13:09:53.193782+00:00",
+  "added": "2026-11-25T13:09:53.193782+00:00",
+  "category": "research",
+  "headline": "Periodontitis worsens diabetic kidney tubular injury in mice via parvalbumin",
+  "summary": "In type 2 diabetic KK-Ay mice, ligature-induced periodontitis worsened kidney function, increased the tubular injury marker lipocalin 2, and caused more interstitial fibrosis, macrophage infiltration, and electrolyte imbalance. Gene profiling pointed to parvalbumin (PVALB), which rose in the distal convoluted tubule and in cell models triggered macrophage IL-1β release and inflammasome activation, partly through TLR2 and/or TLR4; blocking caspase-1 reduced IL-1β secretion.",
+  "why": ""
+ },
+ {
+  "id": "e8803bc87686",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43079770/",
+  "source": "J Dent Res",
+  "published": "2026-11-25T13:09:53.193782+00:00",
+  "added": "2026-11-25T13:09:53.193782+00:00",
+  "category": "research",
+  "headline": "Review proposes a continuum model of cementum biology over fixed subtypes",
+  "summary": "This J Dent Res paper argues that cementum's traditional subtype classifications, based on cellularity and collagen fiber orientation, are being challenged by new molecular, developmental, and disease data. The authors point to proteomic overlap between cementum and bone, cementoblast adaptation to mechanical loading, and animal-model evidence that infection, inflammation, and metabolic stress suppress cementogenesis. They propose a \"continuum framework\" in which cementum structure depends on environmental and regulatory context rather than predetermined subtypes.",
+  "why": "Because cementum formation is central to periodontal regeneration, a context-dependent view of cementum could eventually shape how clinicians think about repair after periodontitis, though the paper itself is a conceptual proposal rather than a clinical finding."
+ },
+ {
+  "id": "ddb452ddf78e",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43079765/",
+  "source": "J Dent Res",
+  "published": "2026-11-25T13:09:53.193782+00:00",
+  "added": "2026-11-25T13:09:53.193782+00:00",
+  "category": "research",
+  "headline": "Dominant AMBN mutations cause thin enamel via protein misfolding and ENAM binding",
+  "summary": "Researchers studied two unrelated Taiwanese families with autosomal dominant hypoplastic amelogenesis imperfecta and identified a rare heterozygous AMBN missense variant, p.Pro447Leu. Cell experiments showed this mutant and a previously reported one (p.Ala26Thr) were not secreted and were retained inside cells, triggering endoplasmic reticulum stress and apoptosis. The team also showed AMBN directly binds ENAM, and that the p.Pro447Leu mutant binds it much more weakly.",
+  "why": "It suggests that some inherited enamel defects arise from faulty enamel matrix protein handling inside ameloblasts rather than from simple loss of protein, which may help explain thin enamel in affected patients, though it has no direct clinical application yet."
+ },
+ {
+  "id": "c918f8f7111c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43079200/",
+  "source": "J Dent Res",
+  "published": "2026-11-25T13:09:53.193782+00:00",
+  "added": "2026-11-25T13:09:53.193782+00:00",
+  "category": "research",
+  "headline": "Repeat silver diamine fluoride applications linked to fewer caries-related failures in adults",
+  "summary": "A retrospective review of US Veterans Affairs dental records examined 66,199 teeth in 20,833 veterans treated with silver diamine fluoride (SDF) to arrest caries. Most teeth got one application, and about three-quarters survived with a mean follow-up of 3 years, while 7% failed by extraction or root canal and 18% by a direct or indirect restoration. Teeth receiving two or more applications had a substantially lower hazard of both failure types than teeth receiving one.",
+  "why": "This suggests that repeat SDF applications may keep lesions arrested longer in adult patients, which could inform how clinicians plan caries management and follow-up, though the study is retrospective and observational."
+ },
+ {
+  "id": "8e175570ce3e",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43079198/",
+  "source": "J Dent Res",
+  "published": "2026-11-25T13:09:53.193782+00:00",
+  "added": "2026-11-25T13:09:53.193782+00:00",
+  "category": "research",
+  "headline": "Genetic study of amelogenesis imperfecta in Sudanese families finds novel variants",
+  "summary": "Researchers sequenced genes in eight Sudanese families clinically diagnosed with amelogenesis imperfecta, while considering each family's risk of dental fluorosis. They identified pathogenic or candidate variants in ENAM, LAMB3, PEX6, ITGB6, WDR72 and AMELX, several with unusual inheritance patterns or phenotypes. The authors conclude the population yielded novel AI variants and that the same genes may also influence fluorosis.",
+  "why": "It shows that some enamel defects that look like fluorosis may have a genetic cause, which matters when diagnosing enamel anomalies in patients from populations with fluoride exposure."
+ },
+ {
+  "id": "1839b4b8e1c6",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43079194/",
+  "source": "J Dent Res",
+  "published": "2026-11-25T13:09:53.193782+00:00",
+  "added": "2026-11-25T13:09:53.193782+00:00",
+  "category": "research",
+  "headline": "Integrated Medical-Dental Care Linked to Better Pediatric Dental Follow-Up",
+  "summary": "A prospective cohort study of 1,626 patients aged 1 to 21 compared two University of Utah dental clinics, one with integrated primary medical care and one without. Over 24 months, patients at the integrated site had higher odds of returning for dental follow-up, with odds ratios ranging from 1.30 to 1.58 across three analytic methods, though the lowest estimate's confidence interval included 1.",
+  "why": "Embedding dental services within medical primary care may help pediatric patients keep up with dental visits, suggesting practices and health systems could consider collaborative models to improve access for underserved children."
+ },
+ {
+  "id": "c2868a842e8c",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43078723/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-25T13:09:53.193782+00:00",
+  "added": "2026-11-25T13:09:53.193782+00:00",
+  "category": "research",
+  "headline": "Color-coded distance mapping shows how jaw cysts remodel after decompression",
+  "summary": "A retrospective cohort of 42 patients with jaw cysts treated by decompression compared pre-treatment and follow-up cone-beam CT scans taken at least 6 months apart. Mean lesion volume fell from 3.99 to 1.39 cm3 (a 63.05% reduction) and surface area fell from 17.74 to 10.17 cm2 (41.3%). Color-coded distance mapping showed inward surface contraction in every case and revealed spatial remodeling patterns that volume measurements alone did not capture.",
+  "why": "Adding spatial surface mapping to standard volume measurements may give clinicians a more detailed radiographic picture of how a cyst is healing before definitive surgery."
+ },
+ {
+  "id": "495826b16db5",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43078722/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-25T13:09:53.193782+00:00",
+  "added": "2026-11-25T13:09:53.193782+00:00",
+  "category": "research",
+  "headline": "CT review links mandibular anatomy to unfavorable fractures in sagittal split osteotomy",
+  "summary": "A scoping review of 16 studies covering 2576 patients mapped CT and cone-beam CT anatomical factors tied to unfavorable fractures during sagittal split osteotomy. Reported incidence ranged from 1.28% to 29.2% per patient. Thin ramus at the lingula level and a narrow mandibular canal-to-buccal cortex distance were most often reported as associated, while age, sex, and third molars showed inconsistent relevance.",
+  "why": "Imaging the ramus and canal before sagittal split osteotomy may help flag patients at higher risk of unfavorable fractures, but the authors stress these are associations, not proven predictors, and that standardized definitions are lacking."
+ },
+ {
+  "id": "6bf363a8a71b",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43078721/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-25T13:09:53.193782+00:00",
+  "added": "2026-11-25T13:09:53.193782+00:00",
+  "category": "research",
+  "headline": "Lateral pterygoid muscle volume shows no diagnosis-based loss before TMJ replacement",
+  "summary": "A retrospective CT segmentation study of 96 patients undergoing total alloplastic TMJ replacement compared lateral pterygoid muscle volume across six diagnostic groups, including osteoarthritis, tumour, trauma, and ankylosis. Muscle volume did not differ significantly by diagnosis, while sex was the only significant independent predictor. The authors state that whether the muscle must be reattached in osteoarthritis cases still requires further investigation.",
+  "why": "For surgeons and specialists planning TMJ replacement, the study suggests diagnosis alone does not predict lateral pterygoid atrophy, so reattachment decisions should not be based on osteoarthritis status alone, though the authors say no clinical recommendation can yet be made."
+ },
+ {
+  "id": "083e09d3d35d",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43078720/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-25T13:09:53.193782+00:00",
+  "added": "2026-11-25T13:09:53.193782+00:00",
+  "category": "research",
+  "headline": "Arthroscopic coblation and sclerotherapy tested for recurrent TMJ dislocation",
+  "summary": "A technical note in the International Journal of Oral and Maxillofacial Surgery describes a minimally invasive arthroscopic technique for recurrent temporomandibular joint dislocation. The method combines coblation of inflamed synovial tissue and retrodiscal tissue and posterior capsule shrinkage with direct injection of a sclerosing agent under arthroscopic view. In four patients refractory to conservative care, there were no further dislocations over 12 months and no reported complications, though maximal mouth opening fell by about 20-22%.",
+  "why": "For dentists and oral surgeons, this is an early, uncontrolled report of a possible option for selected TMJ dislocation cases without major bone abnormality, but the authors state that the evidence is too limited to support routine use."
+ },
+ {
+  "id": "40126903cdd4",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43077728/",
+  "source": "J Clin Periodontol",
+  "published": "2026-11-25T13:09:53.193782+00:00",
+  "added": "2026-11-25T13:09:53.193782+00:00",
+  "category": "research",
+  "headline": "Single-cell and spatial atlas maps early human alveolar bone healing",
+  "summary": "Researchers built a combined single-cell and spatial transcriptomic atlas of granulation tissue from extraction sockets of healthy patients four weeks after extraction. They identified fifteen major cell populations and two fibroblast subsets, with WNT5A+ fibroblasts linked to inflammation and immune recruitment and OGN+ fibroblasts linked to matrix organisation and ossification. OGN+ fibroblasts showed extensive predicted interactions with immune and endothelial cells, including CXCL12-CXCR4 signalling, and immunofluorescence showed CXCL12-expressing fibroblasts located near CXCR4+ endothelial cells.",
+  "why": ""
+ },
+ {
+  "id": "1d241dec2efd",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43079893/",
+  "source": "Int Endod J",
+  "published": "2026-11-25T13:09:53.193782+00:00",
+  "added": "2026-11-25T13:09:53.193782+00:00",
+  "category": "research",
+  "headline": "European Endodontology Society issues position statement on endodontic tooth discolouration",
+  "summary": "The European Society of Endodontology has released a consensus position statement from an expert panel on preventing and managing tooth discolouration of endodontic origin. It draws on the panel's expertise and a state-of-the-art review of the evidence. The statement covers classification and diagnosis, preventive strategies, management in root-filled, revitalized and pulp canal-obliterated teeth, bleaching agent selection and regulation, colour stability, retreatment, restorative options, and risks and complications.",
+  "why": "This gives clinicians a consensus reference for diagnosing and managing discoloured root-treated teeth, including bleaching choices and restorative planning, and the panel plans to update it as new evidence emerges."
+ },
+ {
+  "id": "4181c09ba466",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43078387/",
+  "source": "J Endod",
+  "published": "2026-11-25T13:09:53.193782+00:00",
+  "added": "2026-11-25T13:09:53.193782+00:00",
+  "category": "research",
+  "headline": "Review compares continuous and sequential chelation in root canal irrigation",
+  "summary": "A Journal of Endodontics review examined continuous chelation, which pairs a weak chelator with sodium hypochlorite as one irrigant, against the standard approach of applying hypochlorite and then a strong chelator in sequence. It covered two commercial continuous chelation products: one using etidronate (HEDP) dissolved in hypochlorite, and an all-in-one solution containing a chelator blend and a surfactant. The authors concluded that the HEDP formulation largely keeps hypochlorite's disinfecting and tissue-dissolving effects while reducing debris and dentinal erosion, but the two products should not be treated as interchangeable and clinical evidence on healing or tooth survival is lacking.",
+  "why": "For endodontic irrigation, a fresh HEDP-hypochlorite mix may simplify protocols and reduce debris and dentin erosion, though the all-in-one product has less consistent evidence and clinical outcome data remain limited."
+ },
+ {
+  "id": "565876c9349d",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43078762/",
+  "source": "Dent Mater",
+  "published": "2026-11-25T13:09:53.193782+00:00",
+  "added": "2026-11-25T13:09:53.193782+00:00",
+  "category": "research",
+  "headline": "Proanthocyanidins may reduce resin monomer leaching from dental adhesives",
+  "summary": "Researchers tested whether the natural dentin biomodulator proanthocyanidins (PACs) lowers the release of residual Bis-GMA and TEGDMA from photo-cured methacrylate adhesives. Adhesives with 1 wt% A-type or B-type PAC trimers, or no PACs, were extracted with 75% ethanol and quantified using a quantitative NMR method. PACs significantly reduced extractable Bis-GMA and TEGDMA compared with control, while A-type PAC showed lower degree of conversion and elongation at break than control.",
+  "why": "If confirmed, adding PACs to adhesives could reduce monomer leaching and improve adhesive stability and biocompatibility, though this is laboratory work with no clinical outcomes reported."
+ },
+ {
+  "id": "275c00222d24",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43078692/",
+  "source": "Oral Surg Oral Med Oral Pathol Oral Radiol",
+  "published": "2026-11-25T13:09:53.193782+00:00",
+  "added": "2026-11-25T13:09:53.193782+00:00",
+  "category": "research",
+  "headline": "Penicillin allergy linked to more sinus lift failures and complications",
+  "summary": "A retrospective cohort study of 333 patients treated at Universitat Internacional de Catalunya between 2004 and 2022 compared lateral sinus lift procedures with delayed implant placement in patients with and without self-reported penicillin allergy. Patients with allergy had significantly higher rates of sinus lift failure (13.5% vs. 1.4%) and postoperative complications (29.7% vs. 6.1%), and all sinus lift failures occurred in patients given clindamycin. Implant failure was numerically higher in the allergy group but did not reach statistical significance.",
+  "why": "Dentists treating patients who report a penicillin allergy may face higher risk of sinus graft failure and postoperative problems, though the study cannot separate the effect of the allergy from that of the substitute antibiotic, clindamycin."
+ },
+ {
+  "id": "e0ace26c7efd",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43078691/",
+  "source": "Oral Surg Oral Med Oral Pathol Oral Radiol",
+  "published": "2026-11-25T13:09:53.193782+00:00",
+  "added": "2026-11-25T13:09:53.193782+00:00",
+  "category": "research",
+  "headline": "PRP with local anesthetic eases traumatic trigeminal neuropathic pain in retrospective study",
+  "summary": "A retrospective study evaluated platelet-rich plasma injections for patients with traumatic trigeminal nerve lesions and neuropathic pain who had few other treatment options. Thirty-seven patients received four injections two weeks apart, each preceded by local anesthetic infiltration, and their pain scores fell significantly from baseline at a three-month follow-up, though none became pain-free and no treatment-related complications occurred. The authors stress that the uncontrolled design cannot separate the effect of PRP from the lasting effect of the anesthetic, so controlled studies are needed.",
+  "why": ""
+ },
+ {
+  "id": "818048146d19",
+  "url": "https://orthodonticproductsonline.com/resource-center/podcasts/it-vs-cybersecurity-why-practices-need-both-not-just-one/",
+  "source": "Orthodontic Products",
+  "published": "2026-11-25T08:54:03+00:00",
+  "added": "2026-11-25T13:09:53.193782+00:00",
+  "category": "business",
+  "headline": "Practices Need Independent Cybersecurity Oversight Beyond Their IT Vendor",
+  "summary": "A podcast episode from Orthodontic Products features Black Talon Security CEO Gary Salman arguing that orthodontic practices should not assume their IT provider also handles cybersecurity. He says up to 60% of firewalls his firm tested failed initial assessments, and he discusses AI-driven threats, distinguishing vendor bugs from coordinated attacks, and backup strategies such as satellite internet and disconnected physical server backups.",
+  "why": "Dentists and orthodontists may be relying on IT vendors for security that requires different expertise, so reviewing firewall testing, backups, and key questions for their IT providers could protect patient data and keep the practice running."
+ },
+ {
+  "id": "60153d204b80",
+  "url": "https://www.dental-tribune.com/news/the-standard-is-not-proclaimed-it-is-sustained/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-11-25T08:47:36+00:00",
+  "added": "2026-11-25T13:09:53.193782+00:00",
+  "category": "products",
+  "headline": "Dental instrument reliability over time is framed as a clinical concern",
+  "summary": "A Dental Tribune piece argues that dental instruments must perform consistently from one day to the next, since failure during a procedure becomes a clinical issue rather than just a technical one. It says device quality should be judged by long-term reliability, not only by the best individual piece. The article presents ASA Dental, which it says has worked on this since 1961.",
+  "why": "Consistent instrument performance matters for patient care, so dentists may want to weigh long-term reliability alongside single-product quality when choosing and maintaining instruments."
+ },
+ {
+  "id": "963263214cb3",
+  "url": "https://www.dental-tribune.com/news/adf-product-of-the-year-2027-an-award-recognising-the-commitment-of-the-dental-industry/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-11-25T06:41:39+00:00",
+  "added": "2026-11-25T13:09:53.193782+00:00",
+  "category": "events",
+  "headline": "ADF Product of the Year award recognises dental industry innovation in France",
+  "summary": "The French Dental Association (ADF) uses its annual congress in Paris to showcase innovations that respond to current challenges in dentistry. Through its ADF Product of the Year award, the association honours manufacturers and suppliers whose products aim to improve clinical practice, patient safety and the patient experience.",
+  "why": "The award highlights products that dentists may encounter in French practices, signalling industry offerings aimed at clinical advancement, safety and patient experience."
  }
 ]
