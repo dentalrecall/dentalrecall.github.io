@@ -1,137 +1,5 @@
 [
  {
-  "id": "6403252bba51",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42934893/",
-  "source": "J Dent Res",
-  "published": "2026-10-27T09:57:53.199986+00:00",
-  "added": "2026-10-27T09:57:53.199986+00:00",
-  "category": "research",
-  "headline": "Single-cell atlas maps human periodontal ligament cells during orthodontic tooth movement",
-  "summary": "Researchers built the first single-cell transcriptomic atlas of human periodontal ligament during orthodontic tooth movement, profiling pressure- and tension-side tissues at days 3 and 7 after force application. They analyzed 65,032 cells and found 15 populations, including a CTHRC1+ fibroblast subset enriched on the pressure side at day 3 that expressed TRPA1. In a mouse model, blocking TRPA1 or knocking it down reduced tooth movement, and C3 was identified as a possible downstream mediator of osteoclast-driven bone remodeling.",
-  "why": "This basic-science work points to a possible molecular target, TRPA1 and C3 signaling, that could eventually influence how fast teeth move during orthodontic treatment, but it is preclinical and not yet a clinical guide."
- },
- {
-  "id": "99979df8f636",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42934883/",
-  "source": "J Dent Res",
-  "published": "2026-10-27T09:57:53.199986+00:00",
-  "added": "2026-10-27T09:57:53.199986+00:00",
-  "category": "research",
-  "headline": "Postoperative oral irrigation helps stabilize mouth microbes after oral cancer reconstruction",
-  "summary": "An exploratory randomized trial of 60 oral cancer patients who had free flap reconstruction compared postoperative rinsing with bipolar water against a hydrogen peroxide and sodium bicarbonate solution. Surgery reduced oral microbial diversity and shifted the community toward a more anaerobic, unstable state, while continued irrigation moved it toward a more stable structure. Wound infection rates and microbial composition did not differ between the two groups, but the bipolar water group reported better comfort, needed shorter irrigation times, and kept microbial diversity more stable.",
-  "why": "For clinicians caring for patients after oral cancer reconstruction, bipolar water may be a comfortable alternative to peroxide-based irrigation, though the trial is exploratory and showed no difference in infection rates."
- },
- {
-  "id": "943d24328bc3",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42935180/",
-  "source": "J Periodontol",
-  "published": "2026-10-27T09:57:53.199986+00:00",
-  "added": "2026-10-27T09:57:53.199986+00:00",
-  "category": "research",
-  "headline": "Scoping review tracks gum inflammation markers during experimental gingivitis recovery",
-  "summary": "A scoping review in the Journal of Periodontology examined immune and tissue-remodeling markers in gingival crevicular fluid as experimental gingivitis resolved. It covered 17 controlled trials from 1960 to 2024 involving 303 volunteers, and did not perform a meta-analysis because the studies were heterogeneous. The authors reported that IL-1β and ALP returned to baseline levels by the end of the resolution phase, which typically lasted 7 to 21 days.",
-  "why": ""
- },
- {
-  "id": "28202fb7ecdc",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42935113/",
-  "source": "J Clin Periodontol",
-  "published": "2026-10-27T09:57:53.199986+00:00",
-  "added": "2026-10-27T09:57:53.199986+00:00",
-  "category": "research",
-  "headline": "Mechanically crushed and hyaluronic acid-bound grafts shrink more in rabbit calvarial model",
-  "summary": "In a preclinical study of ten rabbits with four vertical calvarial defects each, particulate porcine bone mineral alone (Control) and intact collagenated blocks kept their augmented volume at 8 weeks. Crushed collagenated blocks and particulate graft mixed with hyaluronic acid showed significant volumetric shrinkage, and mechanically manipulated grafts had shorter particles. New bone formation rose in all groups but was highest in the Control group.",
-  "why": ""
- },
- {
-  "id": "2ba6b6226a5b",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42935004/",
-  "source": "J Periodontol",
-  "published": "2026-10-27T09:57:53.199986+00:00",
-  "added": "2026-10-27T09:57:53.199986+00:00",
-  "category": "research",
-  "headline": "Periodontal management cost-effectiveness for CKD in Chinese adults depends on disease stage",
-  "summary": "A Markov cohort model simulated Chinese adults aged 50 with periodontitis and chronic kidney disease, comparing usual care, scaling and root planing with maintenance, and comprehensive intensive management over 40 years. In early CKD, both periodontal strategies exceeded the willingness-to-pay threshold and were not cost-effective. In advanced CKD, both strategies were dominant, meaning they cost less and produced more QALYs than usual care, mainly because of avoided dialysis costs.",
-  "why": "Suggests periodontal treatment may be economically justified for patients with advanced kidney disease, though the excerpt is a model-based study and the evidence linking periodontal care to kidney outcomes is observational."
- },
- {
-  "id": "4b9c9630de06",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42934976/",
-  "source": "J Periodontol",
-  "published": "2026-10-27T09:57:53.199986+00:00",
-  "added": "2026-10-27T09:57:53.199986+00:00",
-  "category": "research",
-  "headline": "Epithelialized graft fragments vs. hemostatic sponge for palatal donor site healing",
-  "summary": "A randomized clinical trial of 44 patients with deep lower incisor gingival recessions compared two ways to protect the palatal donor site after subepithelial connective tissue grafting: epithelialized fragments of the free gingival graft or a hemostatic sponge. Wound area was measured from standardized photographs over 28 days by a blinded examiner. The fragment group healed better than the sponge group at day 14 only, while pain scores and analgesic use were similar in both groups.",
-  "why": ""
- },
- {
-  "id": "f817634986d5",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42935264/",
-  "source": "Int Endod J",
-  "published": "2026-10-27T09:57:53.199986+00:00",
-  "added": "2026-10-27T09:57:53.199986+00:00",
-  "category": "research",
-  "headline": "Survey finds gaps in endodontic antibiotic knowledge among dental students",
-  "summary": "An online survey of final-year undergraduate and postgraduate endodontic students across 10 dental schools in several countries assessed their knowledge of antibiotic use in endodontic care. Most respondents correctly identified when systemic antibiotics were not needed for localised infections and when they were indicated, such as acute apical abscess with systemic involvement or after replantation of an avulsed permanent tooth. Awareness of European (ESE) guidelines was much lower among undergraduates (49.1%) than postgraduates (82.6%), and prescribing knowledge varied by clinical scenario.",
-  "why": "It suggests that dentists may see variation in antibiotic prescribing decisions tied to training, and that familiarity with current endodontic guidelines, especially ESE, cannot be assumed among newer graduates."
- },
- {
-  "id": "b58333fef066",
-  "url": "https://www.dental-tribune.com/news/dentsply-sirona-reports-five-years-of-sustainability-progress-and-sets-2030-targets/",
-  "source": "Articles – Dental Tribune",
-  "published": "2026-10-27T07:55:16+00:00",
-  "added": "2026-10-27T09:57:53.199986+00:00",
-  "category": "business",
-  "headline": "Dentsply Sirona reports five years of sustainability progress, sets 2030 targets",
-  "summary": "Dentsply Sirona marked five years since launching its \"BEYOND\" sustainability strategy, which rests on three pillars: Healthy Planet, Healthy Smiles and Healthy Business. The company says it has reported progress on its environmental, social and governance goals since 2021 and has set new sustainability targets for 2030.",
-  "why": ""
- },
- {
-  "id": "995f73f33927",
-  "url": "https://orthodonticproductsonline.com/clinical-tips/digital-workflow/what-it-actually-takes-to-run-an-in-office-3d-printing-lab/",
-  "source": "Orthodontic Products",
-  "published": "2026-10-27T13:41:00+00:00",
-  "added": "2026-10-27T14:09:19.365950+00:00",
-  "category": "business",
-  "headline": "Orthodontists Say In-Office 3D Printing Hinges on Workflow, Staffing and Systems",
-  "summary": "An article from Orthodontic Products reports that orthodontic practices succeeding with in-office 3D printing focus less on the printer and more on the workflow, staffing, and systems around it. It draws on three orthodontists who built in-office labs at different scales, who describe printing as one step in a longer sequence from scanning through washing, curing, and finishing. The piece notes that retainers are often the easiest starting point.",
-  "why": "Dentists considering in-house production should plan the full workflow, staffing, and software processes before investing in equipment, since the hardware alone does not determine whether the lab pays off."
- },
- {
-  "id": "1f067abd9dd4",
-  "url": "https://www.dentistrytoday.com/tuesday-morning-reflections-with-dr-silverman-12/",
-  "source": "Dentistry Today",
-  "published": "2026-10-27T13:37:10+00:00",
-  "added": "2026-10-27T14:09:19.365950+00:00",
-  "category": "clinical",
-  "headline": "Dr. Silverman's reflection: starting patient conversations with a mirror and a question",
-  "summary": "This weekly column describes a hygienist who, noticing a patient's stated dissatisfaction with their smile on an updated dental history form, asks the patient to point out what they would like changed. The author argues that this open conversation, rather than a diagnosis or sales pitch, helps the patient feel heard and gives the team and doctor useful insight before treatment begins.",
-  "why": ""
- },
- {
-  "id": "2c9f8585c68e",
-  "url": "https://www.dental-tribune.com/news/scotland-announces-nhs-dental-pay-rise-amid-concerns-over-practice-costs/",
-  "source": "Articles – Dental Tribune",
-  "published": "2026-10-27T09:30:00+00:00",
-  "added": "2026-10-27T15:05:26.728411+00:00",
-  "category": "policy",
-  "headline": "Scotland confirms 3.75% NHS dental pay rise; BDA says practice funding is still short",
-  "summary": "The Scottish government has confirmed a 3.75% pay increase for NHS general dental practitioners for the 2026/2027 financial year. The award matches the recommendation of the independent Review Body on Doctors' and Dentists' Remuneration, but the British Dental Association says it does not adequately address wider financial pressures on practices.",
-  "why": ""
- },
- {
-  "id": "cee9df86e12c",
-  "url": "https://www.dentistrytoday.com/gargle-updates-dental-website-development-for-seo/",
-  "source": "Dentistry Today",
-  "published": "2026-10-27T07:40:26+00:00",
-  "added": "2026-10-27T15:05:26.728411+00:00",
-  "category": "products",
-  "headline": "Gargle Moves Dental Websites From WordPress to Custom Coded Builds",
-  "summary": "Gargle, a dental marketing company, is changing how it builds websites for dental practices across North America, shifting away from WordPress templates toward a custom, fully coded infrastructure. The company says the change is aimed at better security, faster performance, and stronger SEO capabilities. Gargle president Jeff Richins said practices need a secure, high-performing digital foundation that turns online searches into new-patient opportunities.",
-  "why": "Dental practices relying on their website for new patient inquiries may see changes in how their sites are built, secured, and optimized if they work with Gargle."
- },
- {
   "id": "4dbb364aed89",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42937034/",
   "source": "J Periodontol",
@@ -6256,5 +6124,104 @@
   "headline": "Multicenter Latin American study profiles 33 cases of oral amyloidosis",
   "summary": "A retrospective multicenter study reviewed 33 biopsy-confirmed oral amyloidosis cases diagnosed from 2015 to 2025 across 14 oral pathology and oral medicine centers in 8 Latin American countries. Most patients were women with a median age of 59, the tongue was the most often affected site, and macroglossia was the most common presentation. Multiple myeloma was the most frequently associated neoplasm.",
   "why": "Enlarged tongue or nodular, rubbery mucosal lesions should prompt a biopsy and referral for medical evaluation, since oral amyloidosis can be the first sign of systemic disease."
+ },
+ {
+  "id": "5ca053336a94",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43094320/",
+  "source": "J Dent Res",
+  "published": "2026-11-26T15:26:06.364618+00:00",
+  "added": "2026-11-26T15:26:06.364618+00:00",
+  "category": "research",
+  "headline": "Periodontal Links to Other Diseases May Reflect a Broader Pattern, Not Specific Ties",
+  "summary": "Using data from the US Population Assessment of Tobacco and Health cohort, researchers tested 24 baseline exposures, four periodontal and 20 nonperiodontal, against 23 self-reported incident diseases. Most of the 526 models showed positive associations, and periodontal exposures looked similar to nonperiodontal ones. The authors conclude that single-exposure, single-outcome periodontal-systemic associations should be interpreted cautiously.",
+  "why": ""
+ },
+ {
+  "id": "b87a80ea6502",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43086588/",
+  "source": "Clin Implant Dent Relat Res",
+  "published": "2026-11-26T15:26:06.364618+00:00",
+  "added": "2026-11-26T15:26:06.364618+00:00",
+  "category": "research",
+  "headline": "Zirconia crown on titanium base: marginal gap and bacteria at the cement margin",
+  "summary": "An in vitro study tested anterior monolithic zirconia crowns cemented with resin cement onto titanium base abutments and screwed to implants, before and after fatigue loading. Specimens were exposed to Streptococcus mutans and Aggregatibacter actinomycetemcomitans, with or without saliva, and examined by scanning electron microscopy. Fatigue loading did not produce a statistically significant change in marginal gap size, though gaps ranged from 13 to 240 μm, and bacteria accumulated at the cement margin in all groups.",
+  "why": "Bacteria gathering at the cement margin within the transmucosal zone, plus wide gap variation, suggests cementation technique and margin placement may matter for peri-implant health with implant-supported zirconia crowns."
+ },
+ {
+  "id": "d63c81bd9481",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43094432/",
+  "source": "Int J Paediatr Dent",
+  "published": "2026-11-26T15:26:06.364618+00:00",
+  "added": "2026-11-26T15:26:06.364618+00:00",
+  "category": "research",
+  "headline": "Dental general anaesthesia for children in Latvia quadrupled from 2005 to 2020",
+  "summary": "A retrospective study of records from Latvia's main national provider tracked paediatric dental treatment under general anaesthesia (DGA) over 2005 to 2020. Sessions rose fourfold, from 395 to 1,627, even though the child population fell, with children getting older, receiving fewer treated teeth per session after 2011, and returning more often. Private payment grew sharply before falling again by 2020, and most of the increase came from children without disability.",
+  "why": "It suggests that rising reliance on GA for child caries may reflect a lower threshold for care rather than worse disease, supporting a shift toward preventive and minimally invasive treatment in general practice."
+ },
+ {
+  "id": "26aa5fabd6eb",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43094184/",
+  "source": "Int J Risk Saf Med",
+  "published": "2026-11-26T15:26:06.364618+00:00",
+  "added": "2026-11-26T15:26:06.364618+00:00",
+  "category": "research",
+  "headline": "Oral midazolam at 0.5 mg/kg balances sedation and recovery in pediatric dental trial",
+  "summary": "A randomized controlled trial of 30 children aged 4 to 9 compared oral midazolam at 0.25, 0.5, and 0.75 mg/kg for dental procedures. Sedation depth rose with dose, while the 0.5 mg/kg group showed the best anxiolysis, cooperation, and recovery, and the 0.75 mg/kg group had deeper sedation and significantly longer recovery.",
+  "why": "The findings suggest a 0.5 mg/kg oral midazolam dose may offer the best trade-off between effective sedation and quick recovery for young pediatric dental patients, though the small sample of 30 limits how far this can be generalized."
+ },
+ {
+  "id": "e0b93c2d3826",
+  "url": "https://www.dental-tribune.com/news/upcoming-roots-symposium-to-explore-advances-in-contemporary-endodontics/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-11-26T12:25:49+00:00",
+  "added": "2026-11-26T15:26:06.364618+00:00",
+  "category": "events",
+  "headline": "roots Symposium 2026 to cover advances in contemporary endodontics",
+  "summary": "Dental Tribune International is hosting the roots Symposium 2026, a free online event on endodontics, on its DT Study Club platform. The symposium is scheduled for 4 December and will focus on endodontic materials, technologies and treatment strategies. Organizers say it will offer evidence-based insights and practical clinical guidance.",
+  "why": "Dentists who want to keep up with endodontic materials and techniques can attend this free online program to get current, practical guidance for root canal and tooth-preservation work."
+ },
+ {
+  "id": "2b3405403590",
+  "url": "https://www.dentistrytoday.com/curve-dental-to-launch-integrated-phone-system-curve-voice/",
+  "source": "Dentistry Today",
+  "published": "2026-11-26T11:11:00+00:00",
+  "added": "2026-11-26T15:26:06.364618+00:00",
+  "category": "products",
+  "headline": "Curve Dental to Launch Curve Voice, a Phone System Built Into Its Practice Software",
+  "summary": "Curve Dental has announced an upcoming launch of Curve Voice, a dental office phone system that works natively within its all-in-one practice management software. The system combines calls, voicemail, texting, and call analytics with patient records and office workflows, and it offers 24/7 coverage and an AI Receptionist.",
+  "why": "Practices using separate phone systems may find that a phone tied directly to patient records reduces duplicate data entry, missed follow-ups, and after-hours coverage gaps."
+ },
+ {
+  "id": "f11468472334",
+  "url": "https://www.dental-tribune.com/news/exocad-launches-exoplan-3-3-chemnitz-with-expanded-guide-design-options/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-11-26T08:54:22+00:00",
+  "added": "2026-11-26T15:26:06.364618+00:00",
+  "category": "products",
+  "headline": "Exocad releases exoplan 3.3 Chemnitz with expanded surgical guide options",
+  "summary": "Exocad, an Align Technology company, has released exoplan 3.3 Chemnitz, the newest version of its implant planning software. The update adds features for designing stackable and bone-supported surgical guides, along with workflow changes meant to speed up implant planning. A new guide composer and automation tools let users customize guides to each patient's anatomy and cut planning time.",
+  "why": ""
+ },
+ {
+  "id": "19f1b964acbd",
+  "url": "https://www.dental-tribune.com/news/addressing-oral-health-inequalities-why-a-life-course-approach-matters/",
+  "source": "Articles – Dental Tribune",
+  "published": "2026-11-26T08:30:47+00:00",
+  "added": "2026-11-26T15:26:06.364618+00:00",
+  "category": "research",
+  "headline": "Life-course approach could strengthen efforts to reduce oral health inequalities",
+  "summary": "A recent review examines how a life-course perspective can be combined with established public health strategies to prevent oral disease and inform policy. The authors use caries as an example to show how prevention can be coordinated across life stages and at individual, community and population levels. The article notes that interventions often focus on oral health education and individual behaviour change, even though socio-economic causes of inequalities are well known.",
+  "why": "It suggests that preventive care may work better when planned across a patient's lifetime and across community and policy levels, not only through individual education and behaviour advice."
+ },
+ {
+  "id": "671ee3506b11",
+  "url": "https://www.dentistrytoday.com/ktr-crowns-rebrands-and-launches-new-website/",
+  "source": "Dentistry Today",
+  "published": "2026-11-26T06:06:00+00:00",
+  "added": "2026-11-26T15:26:06.364618+00:00",
+  "category": "products",
+  "headline": "KTR Crowns Rebrands as Kids Tooth Restoration with New Ordering Website",
+  "summary": "KTR Crowns, a supplier of preformed pediatric crowns for primary teeth, has rebranded as Kids Tooth Restoration and moved its full catalog to ktrcrowns.com. The crowns themselves are unchanged, and practices that previously bought through Pediatric Dental Resource can now order directly, with account pricing, order history, and downloadable invoices. The site also offers sizing tools, preparation guides, sizing charts, and free samples.",
+  "why": "Offices that currently buy pediatric zirconia or stainless steel crowns can switch to ordering directly from the supplier, with no change to the product itself, and can use the new site's sizing resources and samples when evaluating crown systems."
  }
 ]
