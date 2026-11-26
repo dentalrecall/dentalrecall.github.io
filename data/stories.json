@@ -1,38 +1,5 @@
 [
  {
-  "id": "e9273eb7f11b",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42933590/",
-  "source": "J Dent",
-  "published": "2026-10-27T03:54:15.355768+00:00",
-  "added": "2026-10-27T03:54:15.355768+00:00",
-  "category": "research",
-  "headline": "New eating difficulty signals broader frailty, not an oral cause of cognitive decline",
-  "summary": "A study pooling four long-running ageing cohorts from China, England, the United States and Europe tested whether newly reported eating difficulty or dental problems came before sudden cognitive decline. Across 219,047 participants, eating difficulty was linked to higher dementia-indicator risk over six years, while tooth loss or poor dental health showed little adjusted association. Eating difficulty appeared to mark wider functional vulnerability, and there was no sign of an abrupt drop in cognition following its onset.",
-  "why": "Eating difficulty reported in a dental or primary-care visit may prompt a broader functional and cognitive check, but the authors caution it should not be used alone as an oral-specific dementia screening test."
- },
- {
-  "id": "6d78e7f0e193",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42933589/",
-  "source": "J Dent",
-  "published": "2026-10-27T03:54:15.355768+00:00",
-  "added": "2026-10-27T03:54:15.355768+00:00",
-  "category": "research",
-  "headline": "Fit of zirconia three-unit bridges depends on how it is measured",
-  "summary": "An in vitro study compared digital, semi-digital, and conventional silicone replica methods for assessing the fit of three-unit zirconia fixed dental prostheses made by additive or subtractive manufacturing. Gap values differed by material and by assessment method, and the 3D replica method gave the highest values within each material. Group mean gaps exceeded the designed cement space, and the alternative methods did not reliably substitute for the conventional one.",
-  "why": ""
- },
- {
-  "id": "58f30ecb20ba",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42933588/",
-  "source": "J Dent",
-  "published": "2026-10-27T03:54:15.355768+00:00",
-  "added": "2026-10-27T03:54:15.355768+00:00",
-  "category": "research",
-  "headline": "Coded healing abutment transfer accuracy varies by scanner and implant site",
-  "summary": "An in vitro study compared single-implant digital impressions from three intraoral scanners (Medit i900, 3Shape TRIOS 6, Dentsply Sirona Primescan 2) on a partially edentulous maxillary model using coded healing abutments at molar, incisor, and premolar sites. Transfer accuracy differed by site-specific abutment configuration, and scanner performance depended on the specific scanner, site, and component combination. The marginal scanner effect was not significant for translational or angular deviation.",
-  "why": "Scanner accuracy for implant impressions with coded healing abutments may not be uniform across sites, so clinicians should not assume one scanner performs best in every situation until clinical validation is available."
- },
- {
   "id": "6403252bba51",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42934893/",
   "source": "J Dent Res",
@@ -6124,5 +6091,170 @@
   "headline": "3Shape Unite Now Links With Henry Schein One Practice Software",
   "summary": "3Shape has announced a workflow integration between its Unite platform and Henry Schein One's Ascend by Dentrix, Dentrix and Dentally systems. The co-developed link lets clinicians open patient scans and treatment data within the patient record, and Dx Plus diagnostic visualizations can be shared back into the Henry Schein One platform.",
   "why": "Dentists using Henry Schein One software and 3Shape TRIOS scanners may find less manual record-keeping and easier access to AI-assisted caries, plaque, wear and recession visuals for patient discussions."
+ },
+ {
+  "id": "8ac0aaafa912",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43086128/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-26T05:09:43.860099+00:00",
+  "added": "2026-11-26T05:09:43.860099+00:00",
+  "category": "research",
+  "headline": "Mixed reality navigation guides TMJ prosthesis placement with accuracy similar to digital templates",
+  "summary": "Researchers built a mixed reality navigation system, using optical tracking and HoloLens headsets, to guide placement of standard alloplastic temporomandibular joint prostheses. In a preclinical test on 10 skull models, it was compared with digital templates, and distance and angle errors showed no statistically significant difference between the two methods. The authors say the system is valid for guiding in-vitro installation and lays groundwork for future clinical use.",
+  "why": "This is laboratory-only evidence, but it suggests augmented reality guidance could match digital template accuracy for TMJ prosthesis placement, though clinical use has not yet been tested."
+ },
+ {
+  "id": "7fc03c9883f7",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43086127/",
+  "source": "Int J Oral Maxillofac Surg",
+  "published": "2026-11-26T05:09:43.860099+00:00",
+  "added": "2026-11-26T05:09:43.860099+00:00",
+  "category": "research",
+  "headline": "Scoping review finds alloplastic TMJ replacement stable and effective for condylar resorption",
+  "summary": "A PRISMA-ScR scoping review of 37 studies, covering roughly 480 patients treated with alloplastic total temporomandibular joint replacement for progressive or idiopathic condylar resorption, was published. Across the included series, the replacements showed much better skeletal stability than orthognathic surgery, improved maximum mouth opening and reduced pain substantially, and generally had low complication rates. The authors describe the approach as acceptable and safe for end-stage cases in appropriately selected patients.",
+  "why": "For dentists referring or managing patients with end-stage condylar resorption, the review suggests total joint replacement may offer more predictable stability than orthognathic surgery, though it is a scoping review and selection and pain management remain key."
+ },
+ {
+  "id": "b936596ab6cd",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43085655/",
+  "source": "J Endod",
+  "published": "2026-11-26T05:09:43.860099+00:00",
+  "added": "2026-11-26T05:09:43.860099+00:00",
+  "category": "research",
+  "headline": "Octenidine vs. EDTA irrigation: no short-term pain difference in regenerative endodontics",
+  "summary": "A randomized clinical trial compared postoperative pain after regenerative endodontic treatment in immature permanent teeth with apical periodontitis, using either 0.1% octenidine dihydrochloride or 17% EDTA as the irrigant. Of 49 enrolled patients aged 9-16, 40 had postoperative data, and pain scores, analgesic use, and flare-ups were tracked over the first week. Pain fell significantly over time in both groups, but no significant between-group differences were found, and the study was not designed to prove the two protocols are equivalent.",
+  "why": "For clinicians considering octenidine as an alternative irrigant in regenerative endodontic cases, this trial found no detectable difference in short-term pain, but the small sample and superiority design mean it does not establish that octenidine can replace EDTA's biological role."
+ },
+ {
+  "id": "197b719c8d85",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43085652/",
+  "source": "J Dent",
+  "published": "2026-11-26T05:09:43.860099+00:00",
+  "added": "2026-11-26T05:09:43.860099+00:00",
+  "category": "research",
+  "headline": "Fluoride varnish with sodium trimetaphosphate better resists enamel erosive wear in situ",
+  "summary": "In a randomized, double-blind, crossover in situ study, 14 participants wore palatal devices holding bovine enamel blocks treated with four varnishes: placebo, 5% NaF, and 5% NaF plus micrometric or nano-sized sodium trimetaphosphate (TMP). Blocks were then subjected to daily citric acid erosive challenges, with some also brushed, and were assessed for wear, surface hardness, subsurface hardness and mineral loss. Adding TMP to NaF varnish reduced erosive wear, and the nano-sized form gave the greatest protection.",
+  "why": "This lab-and-in-situ evidence suggests that adding TMP, particularly nano-sized, to fluoride varnish may further strengthen enamel against erosion, though it has not yet been tested clinically in patients."
+ },
+ {
+  "id": "dd9d99bcd4d1",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43085651/",
+  "source": "J Dent",
+  "published": "2026-11-26T05:09:43.860099+00:00",
+  "added": "2026-11-26T05:09:43.860099+00:00",
+  "category": "research",
+  "headline": "Dental AI studies show agreement with reference standards, not causal benefit",
+  "summary": "A Journal of Dentistry review argues that dental AI studies mostly report sensitivity, specificity and AUC, which measure agreement with a reference standard, yet their findings are often described as causal. The authors use a causal hierarchy to separate description, prediction, intervention effects and individual counterfactuals, and note that confounding by indication can make an effective treatment look harmful. They conclude that claims about improved decisions or patient outcomes require comparative evaluation of AI-assisted care.",
+  "why": "A high-accuracy AI tool does not by itself show that it improves diagnosis, treatment decisions or patient outcomes, so dentists should look for comparative evidence before assuming a benefit."
+ },
+ {
+  "id": "9088cfd7d7bc",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43085650/",
+  "source": "J Dent",
+  "published": "2026-11-26T05:09:43.860099+00:00",
+  "added": "2026-11-26T05:09:43.860099+00:00",
+  "category": "research",
+  "headline": "Extraoral vs intraoral photogrammetry for complete-arch implant scans in vitro",
+  "summary": "An in vitro study compared extraoral photogrammetry (EPG) and the intraoral photogrammetry mode of an intraoral scanner (IPG) for capturing complete-arch implant positions across three mandibular models with different implant spacing regularity and inclination. Technical success was 100% in most configurations, with EPG falling to 8 of 10 on the most tilted and irregular model. Neither workflow's accuracy consistently led across all models; relative performance depended on the configuration and the metric used, and all analyzable deviations stayed below 100 µm.",
+  "why": ""
+ },
+ {
+  "id": "b2fdbcb303c1",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43085649/",
+  "source": "J Dent",
+  "published": "2026-11-26T05:09:43.860099+00:00",
+  "added": "2026-11-26T05:09:43.860099+00:00",
+  "category": "research",
+  "headline": "Zygomatic implants with immediate full-arch maxillary prostheses hold up over 9.5 to 20 years",
+  "summary": "A retrospective study followed 511 patients with severely atrophic maxillae who received full-arch prostheses placed in immediate function, supported by zygomatic and conventional implants, for 9.5 to 20 years. Implant cumulative survival was 92.6% overall and 95.9% for zygomatic implants, with a prosthetic survival rate of 95.8%. Mechanical complications were common, especially with provisional prostheses, and biological complications affected about a quarter of patients.",
+  "why": "This long-term evidence suggests zygomatic implants with immediate full-arch rehabilitation can be a viable option for atrophic maxillae that may avoid more complex bone grafting, but the authors stress that careful pre-treatment risk assessment and structured maintenance are essential, and more than 20% of patients were lost to follow-up."
+ },
+ {
+  "id": "984e1a965308",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43085648/",
+  "source": "J Dent",
+  "published": "2026-11-26T05:09:43.860099+00:00",
+  "added": "2026-11-26T05:09:43.860099+00:00",
+  "category": "research",
+  "headline": "Root canal-treated teeth in Helsinki public dental service show 77% survival at 15 years",
+  "summary": "A retrospective register study used electronic patient records from the City of Helsinki's public dental service to track 84,320 non-surgically root canal-treated teeth placed between 2002 and 2016. Cumulative survival was 91.1% at five years, 82.8% at 10 years and 77.2% at 15 years. Older patients and molars carried a higher risk of extraction, while teeth with indirect restorations had over 50% lower extraction hazard than those with direct restorations.",
+  "why": ""
+ },
+ {
+  "id": "cff2e456c259",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43085647/",
+  "source": "J Dent",
+  "published": "2026-11-26T05:09:43.860099+00:00",
+  "added": "2026-11-26T05:09:43.860099+00:00",
+  "category": "research",
+  "headline": "Review maps digital color-matching technologies for facial prostheses",
+  "summary": "A narrative review searched six databases and grey literature to identify technologies for color acquisition, pigment recipe prediction, and color 3D printing in facial prostheses. Of 50 included studies, most were preliminary; spectral devices performed well under controlled conditions, and printer color profiles improved color-matching results. The authors conclude these methods are at an early stage and need clinical validation, better printed material properties, and biocompatibility testing.",
+  "why": "For dentists involved in facial prosthetics, digital color matching may eventually allow more individualized prostheses, but the technology is not yet ready for routine clinical use."
+ },
+ {
+  "id": "6ac408ba1e5e",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43085646/",
+  "source": "J Dent",
+  "published": "2026-11-26T05:09:43.860099+00:00",
+  "added": "2026-11-26T05:09:43.860099+00:00",
+  "category": "research",
+  "headline": "AR-assisted toothbrushing improves plaque scores in children, with regional differences",
+  "summary": "A randomized trial in Korea tested whether augmented reality-guided toothbrushing improved oral hygiene in 6- to 9-year-olds, with Jeju Island children randomized to AR or control and Seoul children serving as a nonrandomized comparison group. All oral hygiene indices improved over time, and the Quigley-Hein plaque index showed a significant intervention interaction, though region-level interactions did not hold up after multiple-comparison correction. Microbiological outcomes showed no AR-specific effects, and toothbrushing duration rose in both groups without a clear change in frequency.",
+  "why": "The evidence suggests AR guidance may modestly support children's home oral hygiene, but the regional findings are exploratory, so it should be viewed as a possible adjunct to standard education rather than a proven replacement."
+ },
+ {
+  "id": "78d86bf28528",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43085645/",
+  "source": "J Dent",
+  "published": "2026-11-26T05:09:43.860099+00:00",
+  "added": "2026-11-26T05:09:43.860099+00:00",
+  "category": "research",
+  "headline": "Computer model suggests graphene oxide quantum dots pose low systemic risk in root canal therapy",
+  "summary": "Researchers built a whole-body pharmacokinetic model to estimate how graphene oxide quantum dots (GOQDs) would spread through the body after intracanal delivery, assuming complete absorption as a worst case. Predicted plasma and organ concentrations stayed far below an in vitro safety threshold of 100 μg/mL, with lungs, spleen and liver showing the most accumulation. Children were predicted to reach the highest peak plasma levels, about 1.49 times adult levels, but still remained far below the threshold; the authors say the results need experimental validation.",
+  "why": "This exploratory, animal-free modeling study suggests intracanal GOQDs carry negligible systemic toxicity risk, but it is a computational proof of concept and not yet clinical evidence for regenerative endodontic use."
+ },
+ {
+  "id": "bf5b2779cece",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43085644/",
+  "source": "J Dent",
+  "published": "2026-11-26T05:09:43.860099+00:00",
+  "added": "2026-11-26T05:09:43.860099+00:00",
+  "category": "research",
+  "headline": "Systematic review finds heavy oral disease and unmet dental needs in incarcerated populations",
+  "summary": "A systematic review and meta-analysis searched several databases through January 2026 for oral health studies in custodial settings. Of 4,833 records screened, 75 reports were included and 43 were pooled, with pooled DMFT-type estimates of about 9.8 decayed, missing, and filled teeth and about 3.6 decayed teeth. Care was often symptom-driven, with waiting lists, limited appointments, and few preventive or restorative services, though certainty of the pooled estimates was rated very low.",
+  "why": "Dentists treating or referring patients with a history of incarceration may encounter high caries and periodontal burden and limited access to routine care, but the very low certainty means the pooled numbers should be read as indicative rather than definitive."
+ },
+ {
+  "id": "5e22d7f3bc0a",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43085643/",
+  "source": "J Dent",
+  "published": "2026-11-26T05:09:43.860099+00:00",
+  "added": "2026-11-26T05:09:43.860099+00:00",
+  "category": "research",
+  "headline": "Self-perceived dental health and esthetic concerns linked to lower quality of life in older adults",
+  "summary": "A population-based cross-sectional study of non-institutionalized older adults in southern Brazil examined how oral health-related quality of life, measured with the OHIP-14, relates to how people judge their teeth's alignment, color and overall health. Poorer perceived dental health and greater worry about dental conditions were associated with higher OHIP-14 scores and wider impact on daily life. Perceived tooth health had the most consistent link, while severely crooked teeth and concern about tooth color remained associated with worse outcomes after adjustment.",
+  "why": "Asking older patients how they feel about their teeth's health and appearance, especially color, may reveal those whose quality of life is most affected and help guide a more patient-centered approach."
+ },
+ {
+  "id": "5d99b5f6c985",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43086112/",
+  "source": "Oral Surg Oral Med Oral Pathol Oral Radiol",
+  "published": "2026-11-26T05:09:43.860099+00:00",
+  "added": "2026-11-26T05:09:43.860099+00:00",
+  "category": "research",
+  "headline": "Radiographic marker method captures natural head position on CBCT in asymmetric patients",
+  "summary": "A retrospective cohort study of 67 patients with skeletal asymmetry of at least 4 mm who had orthognathic surgery between 2017 and 2025 compared a simple marker technique on cone beam CT with standardized plain film cephalograms for capturing natural head position. Angular measurements of S-N and O-H to true horizontal showed no significant differences between the two imaging methods, and Bland-Altman analysis indicated good agreement.",
+  "why": "The findings suggest a practical way to record patient-specific natural head position from CBCT scans for virtual orthognathic surgical planning, which may help clinicians in planning surgery for asymmetric patients."
+ },
+ {
+  "id": "4e87bbd6d943",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43086113/",
+  "source": "Oral Surg Oral Med Oral Pathol Oral Radiol",
+  "published": "2026-11-26T05:09:43.860099+00:00",
+  "added": "2026-11-26T05:09:43.860099+00:00",
+  "category": "research",
+  "headline": "Multicenter Latin American study profiles 33 cases of oral amyloidosis",
+  "summary": "A retrospective multicenter study reviewed 33 biopsy-confirmed oral amyloidosis cases diagnosed from 2015 to 2025 across 14 oral pathology and oral medicine centers in 8 Latin American countries. Most patients were women with a median age of 59, the tongue was the most often affected site, and macroglossia was the most common presentation. Multiple myeloma was the most frequently associated neoplasm.",
+  "why": "Enlarged tongue or nodular, rubbery mucosal lesions should prompt a biopsy and referral for medical evaluation, since oral amyloidosis can be the first sign of systemic disease."
  }
 ]
