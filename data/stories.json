@@ -1,60 +1,5 @@
 [
  {
-  "id": "42a9caefd0aa",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42946043/",
-  "source": "J Endod",
-  "published": "2026-10-28T04:02:14.688070+00:00",
-  "added": "2026-10-28T04:02:14.688070+00:00",
-  "category": "research",
-  "headline": "Global CBCT study links missed canals and short fillings to post-treatment periapical lesions",
-  "summary": "A multinational study pooled pre-existing CBCT scans from 54 countries to measure post-treatment periapical radiolucencies in root canal-treated teeth. About 69.5% of patients and 43.7% of treated teeth had at least one such radiolucency, with rates varying by region from 31.4% in Oceania to 62.3% in Africa. Missed canals, short fillings, and overfilling were associated with higher odds of these lesions, while unrestored or cavitated teeth showed a weaker association than crowned or overlaid teeth.",
-  "why": "The findings reinforce that thorough canal location and proper working length filling are the treatment factors most tied to persistent periapical radiolucencies, which matters for endodontic quality and retreatment decisions."
- },
- {
-  "id": "a2b9bddbba10",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42946042/",
-  "source": "J Endod",
-  "published": "2026-10-28T04:02:14.688070+00:00",
-  "added": "2026-10-28T04:02:14.688070+00:00",
-  "category": "research",
-  "headline": "Irrigation Methods Affect Sealer Penetration and Dentin Erosion in Extracted Premolars",
-  "summary": "An ex vivo study of 100 extracted human mandibular premolars compared ultrasonic activation, laser-activated irrigation, and the GentleWave system after minimally invasive or conventional instrumentation. Smear layer removal did not differ between the two instrumentation techniques for the same irrigation method. In minimally invasive canals, GentleWave and laser-activated irrigation produced greater apical sealer penetration than ultrasonic activation, and dentin erosion appeared in 12.5% of images, none of them from the GentleWave group.",
-  "why": "Irrigation protocol may influence how well sealer reaches the apical canal and whether dentin is eroded, though the authors note the protocols differed in irrigant volume, exposure time, and sequence, so the results cannot be attributed to the activation technology alone."
- },
- {
-  "id": "68c815f2f8cc",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42946041/",
-  "source": "J Endod",
-  "published": "2026-10-28T04:02:14.688070+00:00",
-  "added": "2026-10-28T04:02:14.688070+00:00",
-  "category": "research",
-  "headline": "Larger apical enlargement linked to better strict healing in molar root canal treatment",
-  "summary": "A systematic review with exploratory meta-analysis pooled five studies on apical enlargement and taper in primary root canal treatment of permanent mandibular molars. Two randomized trials found that +3 enlargement produced a higher strict periapical healing rate than +2 enlargement, while the effect of taper alone remained unclear. Single-arm data with final apical preparation sizes of #30 or smaller showed a descriptive pooled healing rate of about 72.9%.",
-  "why": "For mandibular molars, preparing the apical canal slightly larger may improve periapical healing, though the evidence base is limited and taper's independent role is still uncertain."
- },
- {
-  "id": "09c59d6eea39",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42946040/",
-  "source": "J Endod",
-  "published": "2026-10-28T04:02:14.688070+00:00",
-  "added": "2026-10-28T04:02:14.688070+00:00",
-  "category": "research",
-  "headline": "Machine learning models struggle to flag failed root canal healing in imbalanced data",
-  "summary": "Researchers retrospectively trained logistic regression, random forest and SVM models on 276 single-tooth endodontic treatments to classify periapical healing as favorable or unfavorable after 12-18 months. Unfavorable healing occurred in 18.8% of cases, and a majority-class baseline reached 80.4% accuracy with zero sensitivity for failures. Imbalance handling improved detection of unfavorable outcomes, with an adjusted threshold reaching 90.9% sensitivity at the cost of many false positives; the authors say the findings are preliminary and need external validation.",
-  "why": "Accuracy alone can hide failed endodontic cases, and these preliminary models are not ready for clinical use, though tooth type and baseline lesion size were the top predictors."
- },
- {
-  "id": "50956d0b2f46",
-  "url": "https://pubmed.ncbi.nlm.nih.gov/42946116/",
-  "source": "J Dent",
-  "published": "2026-10-28T04:02:14.688070+00:00",
-  "added": "2026-10-28T04:02:14.688070+00:00",
-  "category": "research",
-  "headline": "Stakeholders say oral health is under-prioritised for dependent older adults",
-  "summary": "Researchers ran semi-structured interviews with 36 stakeholders, including dependent older adults, carers, family members, health professionals and researchers, and analysed them thematically. Six themes emerged, covering experiences of oral health, current services, consequences of poor oral health, needed improvements, and outcomes that matter to patients. Participants agreed that oral health is not currently a priority for this group, and that care assistants are often reluctant to help with oral hygiene.",
-  "why": "It suggests that oral health outcomes for dependent older patients are judged more by comfort, function and social ability than by clinical measures, which may shape how dentists approach care for these patients and their carers."
- },
- {
   "id": "44bcccf7eeec",
   "url": "https://pubmed.ncbi.nlm.nih.gov/42946603/",
   "source": "Int J Oral Maxillofac Surg",
@@ -6190,5 +6135,93 @@
   "headline": "Image-based PBL workshop improves dental students' ICDAS caries detection",
   "summary": "A study of 43 third-year dental students tested a low-resource, active learning workshop using clinical images to teach ICDAS caries classification and treatment planning. Students' diagnostic accuracy rose from 51% to 76% across six cases coded ICDAS 0-6, and all ICDAS 6 lesions were identified correctly after training. Confidence dipped slightly, which the authors suggest may reflect a more reflective approach, while intermediate codes ICDAS 3 and 4 remained hardest to classify.",
   "why": "It offers a cheap, non-digital teaching model for caries diagnosis and minimally invasive treatment planning that dental educators and clinicians could adapt for training."
+ },
+ {
+  "id": "152a6cfa4029",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43098177/",
+  "source": "J Clin Periodontol",
+  "published": "2026-11-27T09:44:22.106549+00:00",
+  "added": "2026-11-27T09:44:22.106549+00:00",
+  "category": "research",
+  "headline": "6-mm dental implants fail more often than matched standard-length implants",
+  "summary": "A retrospective cohort study using electronic health records from a nationwide dental network compared 189 six-millimeter implants with 378 standard-length implants matched by tooth position and smoking status. Five-year survival was 90.0% for short implants versus 97.4% for standard-length implants, and most failures among short implants occurred in the first year. The higher failure risk was statistically significant in the posterior mandible without recorded augmentation but not in augmented mandibular cases, and the maxilla was too small to assess.",
+  "why": "For patients where a short implant is considered, this suggests a higher early failure risk than standard-length implants, particularly in the posterior lower jaw without augmentation, though the subgroup findings are exploratory."
+ },
+ {
+  "id": "5e5029f86a97",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43098863/",
+  "source": "J Prosthet Dent",
+  "published": "2026-11-27T09:44:22.106549+00:00",
+  "added": "2026-11-27T09:44:22.106549+00:00",
+  "category": "research",
+  "headline": "Implant-crown-supported removable partial dentures show high survival but low complication-free success",
+  "summary": "A retrospective study reviewed records of 26 patients (27 arches, 74 implants) treated with implant-crown-supported removable partial dentures between 2015 and 2021, with a mean follow-up of about 61 months. The 5-year survival rate of the complete system was 100%, but its success rate was 25.7%, while the denture component and implants had success rates of 81.5% and 67.5%. Implant survival was significantly lower in the maxilla than the mandible, and mechanical problems such as fractures were common, along with peri-implant mucositis, peri-implantitis and two implant losses.",
+  "why": "These prostheses stay in function well over the long term but need frequent maintenance and repairs, so practices should plan structured recall and follow-up for patients who receive them, especially in the maxilla."
+ },
+ {
+  "id": "4d8eff430dcb",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43098475/",
+  "source": "J Dent",
+  "published": "2026-11-27T09:44:22.106549+00:00",
+  "added": "2026-11-27T09:44:22.106549+00:00",
+  "category": "research",
+  "headline": "Portable reflectometer detects early enamel optical changes from erosive-abrasive challenges",
+  "summary": "A short-term randomized clinical trial of 72 participants tested whether the Optipen portable optical reflectometer could detect early enamel changes from combined erosion and abrasion, and how a standard treatment affected them. Participants were split into six groups by treatment (water or Elmex Erosion Protection) and challenge type, and enamel reflectance on maxillary central incisors was measured before and after treatment, after two hours of salivary exposure, and after a final challenge. The erosive-abrasive condition produced the lowest reflectance values after the final challenge regardless of treatment, and Elmex gave higher readings than water immediately after treatment and after the final challenge.",
+  "why": "It suggests a noninvasive optical device may help dentists monitor early enamel wear and assess preventive products in vivo, though it is a research tool and not yet routine clinical practice."
+ },
+ {
+  "id": "3e0ed9a4b187",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43098474/",
+  "source": "J Dent",
+  "published": "2026-11-27T09:44:22.106549+00:00",
+  "added": "2026-11-27T09:44:22.106549+00:00",
+  "category": "research",
+  "headline": "Study finds dental bioaerosols carry diverse microbes; UV-C helps, HEPA results inconsistent",
+  "summary": "A prospective single-center exploratory study sampled air in three dental operatories, both on clinicians and in the environment, under four conditions. Bacteria grew in most personal samples, mainly Micrococcus, Aeromicrobium, Kocuria and Staphylococcus species, Aspergillus was found in a third, and influenza A/B and SARS-CoV-2 RNA were detected. Continuous HEPA filtration gave no consistent reduction in PM10 or microbial load, while intermittent UV-C applied between patients reduced airborne culturable microbial counts.",
+  "why": "It supports the view that routine procedures create occupational bioaerosol exposure, and suggests UV-C between patients may help reduce airborne microbes, though the authors call for standardized studies before firm protocols are set."
+ },
+ {
+  "id": "4a61078f764e",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43098817/",
+  "source": "Oral Surg Oral Med Oral Pathol Oral Radiol",
+  "published": "2026-11-27T09:44:22.106549+00:00",
+  "added": "2026-11-27T09:44:22.106549+00:00",
+  "category": "research",
+  "headline": "Facial skeletal pattern shapes mandibular angle changes after two osteotomy techniques",
+  "summary": "This longitudinal cohort study compared conventional sagittal split osteotomy with anterior oblique osteotomy in orthognathic surgery patients with Class II or Class III skeletal patterns, using tomographic and photographic scans taken at least six months apart. Mandibular angle changes did not differ significantly between the two techniques within either pattern. However, mandibular height responses after sagittal split differed between Class II and Class III patients, and in Class III patients the anterior oblique approach produced greater gonial distance and lateral mandibular angle projection.",
+  "why": "The findings suggest that choice of osteotomy technique may be better tailored to a patient's facial pattern and the intended mandibular movement, which is relevant to surgical planning for orthognathic cases."
+ },
+ {
+  "id": "cb9cb2cd2863",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/43098818/",
+  "source": "Oral Surg Oral Med Oral Pathol Oral Radiol",
+  "published": "2026-11-27T09:44:22.106549+00:00",
+  "added": "2026-11-27T09:44:22.106549+00:00",
+  "category": "research",
+  "headline": "Facial infiltrating lipomatosis in a 56-year-old woman with longstanding craniofacial involvement",
+  "summary": "This case report describes a 56-year-old woman with a lower lip nodule and right-sided hemifacial asymmetry present since childhood, diagnosed with facial infiltrating lipomatosis (FIL), a rare craniofacial overgrowth condition. Imaging showed fatty infiltration of the masticatory muscles and osteohypertrophy of the temporomandibular joint, and histopathology showed nonencapsulated mature adipose tissue without atypia. The authors also reviewed the literature, identifying 12 previously reported cases in patients older than 30, and chose conservative management with ongoing follow-up.",
+  "why": "FIL can go unrecognized for decades, so dentists seeing long-standing unilateral facial asymmetry or overgrowth should consider it and rely on combined clinical, imaging and histologic assessment before deciding on treatment."
+ },
+ {
+  "id": "e16fd7f779cc",
+  "url": "https://www.dentistrytoday.com/pds-health-dentists-provide-4000-donated-dental-procedures/",
+  "source": "Dentistry Today",
+  "published": "2026-11-27T08:28:00+00:00",
+  "added": "2026-11-27T09:44:22.106549+00:00",
+  "category": "business",
+  "headline": "PDS Health-Supported Dentists Surpass 4,000 Donated Procedures With DLN",
+  "summary": "PDS Health and Dental Lifeline Network report that supported dentists have provided more than 4,000 donated procedures through their 21-year partnership, valued at $1.7 million. The care, ranging from exams and X-rays to periodontal and restorative treatment, goes to people with disabilities, older adults, and medically fragile patients who cannot otherwise afford it. As of the report, 89 dentists (76 general dentists and 13 specialists) volunteer across 15 states, mostly in Colorado, California, and Arizona.",
+  "why": "It shows a structured model for volunteer dentists to offer donated care through a nonprofit network, and it highlights how Medicare and state Medicaid limits leave some patients without coverage for needed treatment."
+ },
+ {
+  "id": "2680ca906348",
+  "url": "https://www.dentistrytoday.com/convergent-dental-ceo-to-present-on-laser-dentistry-innovation/",
+  "source": "Dentistry Today",
+  "published": "2026-11-27T07:51:56+00:00",
+  "added": "2026-11-27T09:44:22.106549+00:00",
+  "category": "events",
+  "headline": "Convergent Dental CEO to Present at Piper Sandler Healthcare Conference",
+  "summary": "Convergent Dental, maker of the Solea all-tissue dental laser, announced that CEO Robert L. Gershon will present at the Piper Sandler 38th Annual Healthcare Conference on December 1, 2026, in New York. The invitation-only event brings together hundreds of healthcare and life science companies and investors, and the company will also hold in-person one-on-one meetings with investors that day.",
+  "why": ""
  }
 ]
